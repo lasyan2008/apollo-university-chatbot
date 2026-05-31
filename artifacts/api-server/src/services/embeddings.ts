@@ -1,38 +1,22 @@
 import { logger } from "../lib/logger";
 
-const HF_API_URL =
-  "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2";
+// Disable image processor loading to avoid sharp native module issues
+process.env["TRANSFORMERS_SKIP_IMAGE_PROCESSOR"] = "1";
+
+let pipeline: ((text: string, options: Record<string, unknown>) => Promise<{ data: Float32Array }>) | null = null;
+
+async function getEmbeddingPipeline() {
+  if (!pipeline) {
+    logger.info("Loading embedding model Xenova/all-MiniLM-L6-v2...");
+    const { pipeline: createPipeline } = await import("@xenova/transformers");
+    pipeline = await createPipeline("feature-extraction", "Xenova/all-MiniLM-L6-v2") as typeof pipeline;
+    logger.info("Embedding model loaded");
+  }
+  return pipeline!;
+}
 
 export async function generateEmbedding(text: string): Promise<number[]> {
-  const apiKey = process.env.HUGGING_FACE_API_KEY;
-
-  const headers: Record<string, string> = {
-    "Content-Type": "application/json",
-  };
-
-  if (apiKey) {
-    headers["Authorization"] = `Bearer ${apiKey}`;
-  }
-
-  logger.info("Generating embedding via HuggingFace Inference API");
-
-  const response = await fetch(HF_API_URL, {
-    method: "POST",
-    headers,
-    body: JSON.stringify({ inputs: text, options: { wait_for_model: true } }),
-  });
-
-  if (!response.ok) {
-    const errorText = await response.text();
-    logger.error({ status: response.status, error: errorText }, "HuggingFace API error");
-    throw new Error(`HuggingFace API error ${response.status}: ${errorText}`);
-  }
-
-  const result = (await response.json()) as number[] | number[][];
-
-  // API may return [embedding] or embedding directly depending on input type
-  const embedding = Array.isArray(result[0]) ? (result[0] as number[]) : (result as number[]);
-
-  logger.info({ dims: embedding.length }, "Embedding generated");
-  return embedding;
+  const pipe = await getEmbeddingPipeline();
+  const output = await pipe(text, { pooling: "mean", normalize: true });
+  return Array.from(output.data);
 }
