@@ -1,0 +1,69 @@
+## 🎓 M.Tech – Electronic Embedded Systems
+### (Joint Programme: The Apollo University 🇮🇳 + ESIGELEC, France 🇫🇷)
+
+> **Structure:** Semester I at Apollo University (India) → Semesters II, III & IV at ESIGELEC (France)
+> **Language:** Fully in English | No IELTS or French required
+
+---
+
+### 📘 Semester I — The Apollo University, India
+
+| Course Group | Module | Hours | Credits (ECTS) |
+|---|---|---|---|
+| **Computer Science 1** | Intro to Object-Oriented Programming (Java) | 40 | 8 |
+| | Fundamentals of Data Communication & Networking | 24 | |
+| | Fundamentals of Web-Centric Development | 30 | |
+| **Digital Electronics** | Binary Logic & Digital Functions | 30 | 9 |
+| | LabView | 30 | |
+| | C Programming | 30 | |
+| **Communication & Language** | Cross-Cultural Awareness & Teamwork | 36 | 6 |
+| | French / English as a Foreign Language | 60 | |
+| **Specialised Courses (EES)** | Bibliographical Study | 12 | 7 |
+| | Digital Electronics Project | 32 | |
+| | Fundamentals of Electronics | 30 | |
+| **Total** | | | **30 ECTS** |
+
+---
+
+### 📘 Semester II — ESIGELEC, France
+
+| Course Group | Module | Hours | Credits (ECTS) |
+|---|---|---|---|
+| **Digital Systems** | Microprocessors | 60 | 8 |
+| | VHDL & Logic Synthesis | 30 | |
+| | Communication Busses | 30 | |
+| **Embedded Operating Systems** | Real-Time Operating Systems | 30 | 6 |
+| | Embedded Linux | 30 | |
+| **Embedded Software** | Embedded C Programming | 30 | 6 |
+| | Analysis & Design with UML | 32 | |
+| | Embedded Java | 30 | |
+| **Instrumentation** | Smart Sensors | 30 | 6 |
+| | Instrumentation | 30 | |
+| **Communication & Language 2** | French / English as a Foreign Language | 60 | 4 |
+| **Total** | | | **30 ECTS** |
+
+---
+
+### 📘 Semester III — ESIGELEC, France
+
+| Course Group | Module | Hours | Credits (ECTS) |
+|---|---|---|---|
+| **Embedded Communication** | MtoM (Machine-to-Machine) Communication | 30 | 10 |
+| | Python Programming & Image Treatments | 30 | |
+| | Android Programming | 30 | |
+| **Embedded Electronics** | System on Chip | 20 | 6 |
+| | DSP Processors | 20 | |
+| | Safety Systems | 20 | |
+| **Communication & Language 3** | Oral Communication & Presentation Skills | 14 | 5 |
+| | French / English as a Foreign Language | 60 | |
+| **Project Development & Management** | Project Management | 30 | 9 |
+| | R&D Project | 80 | |
+| **Total** | | | **30 ECTS** |
+
+---
+
+### 📘 Semester IV — ESIGELEC, France
+**Mandatory Paid Internship** in a European company — industry exposure, real-world project work.
+
+---
+

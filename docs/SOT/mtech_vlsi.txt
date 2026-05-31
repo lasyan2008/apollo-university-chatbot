@@ -1,0 +1,2402 @@
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+ 
+ 
+ 
+M. Tech in VLSI Design and Embedded Systems 
+                                   Course Structure 
+I- Semester 
+ 
+S.No 
+ 
+Course 
+code 
+ 
+Course Title 
+Contact 
+hours/week  
+Credits 
+Scheme of 
+Valuation 
+L T P  
+Total CIE SEE Total 
+1 MTVT6501  Digital System Design 3 - - 3 3 40 60 100 
+2 MTVT6502  Digital IC Design 3 - - 3 3 40 60 100 
+3 MTVT6503  Analog IC Design 3 - - 3 3 40 60 100 
+4 MTVT6504  Design with Microcontrollers  3 - - 3 3 40 60 100 
+5 MTVT6505  Real Time Operating Systems 3 - - 3 3 40 60 100 
+6 MTVT6506 Oops Through Java 3 - - 3 3 40 60 100 
+7 
+AC 
+MTVT6901 
+MTVT6902 
+MTVT6903 
+1. Developing Soft Skills and      
+Personality 
+2. Professional Communication 
+3. Entrepreneurship 
+3 - - 3 - 100 -- 100 
+8  MTVL6501  FPGA Design Laboratory - - 4 4 2 40 60 100 
+9 MTVL6502  Microcontrollers Laboratory - - 4 4 2 40 60 100 
+Total 21  - 8 29 22 420 480 900 
+ 
+II Semester 
+ 
+S.No 
+ 
+Course 
+code 
+ 
+Course Title 
+Contact 
+hours/week  
+Credits 
+Scheme of 
+Valuation 
+L T P  Total CIE SEE Total 
+1 MTVT6507  IC Fabrication Technology  
+3 - - 3 3 40 60 100 
+2 MTVT6508  ASIC Design 3 - - 3 3 40 60 100 
+3 MTVT6509  Embedded System Design 3 - - 3 3 40 60 100 
+4 
+PE  
+ Program Elective I 3 - - 3 3 40 60 100 
+5  Program Elective II 3 - - 3 3 40 60 100 
+6  Program Elective III 3 - - 3 3 40 60 100 
+7 MTVL6503  VLSI Circuit Design     
+Laboratory - - 4 4 2 40 60 100 
+8 MTVL6504  Embedded Systems  
+Laboratory  - - 4 4 2 40 60 100 
+9 MTVT6904 Universal Human Values and 
+Professional Ethics 3 -  3 3 40 60 100 
+                                                                  Total 18 - 11 - 25 320 580 900 
+ 
+          
+ 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+ 
+ 
+ 
+         
+              Program Elective 
+S. No. Course Code Course Name L T P Credits 
+1 MTVT6601  Data Converters 
+PE 
+I 
+& 
+II 
+3 - - 3 
+2 MTVT6602 Low Power VLSI Design 3 - - 3 
+3 MTVT6603  Advanced Logic Synthesis 3 - - 3 
+4 MTVT6604  VLSI Testing and Verification 3 - - 3 
+5 MTVT6605  Physical Design Automation 3 - - 3 
+6 MTVT6606 C-Based VLSI Design 3 - - 3 
+7 MTVT6607 Embedded Linux 3 - - 3 
+8 MTVT6608  Embedded Software Testing 3 - - 3 
+9 MTVT6609  Linux Programming and Scripting 3 - - 3 
+10 MTVT6610  AI Integration in Embedded 
+Systems 
+3 - - 
+3 
+1 MTVT6611  Machine Learning PE 
+III 
+3 - - 3 
+2 MTVT6612  Cyber security 3 - - 3 
+3 MTVT6613  Data Science for Engineers 3 - - 3 
+4 MTVT6614 Internet of Things 3 - - 3 
+            
+           III Semester 
+ 
+S.No 
+Course 
+code 
+ 
+Course Title 
+Contact 
+hours/week 
+ 
+Credits 
+Scheme of 
+Valuation 
+L T P Total CIE SEE Total 
+1 
+MTVI7501    Internship - - 30 30 15 - 100 100 
+                                    OR 
+MTVP7501   Project Work Phase- I  - - 30 30 15 - 100 100 
+Total - - 30 30 15 - 100 100 
+             
+           IV Semester  
+ 
+S.No 
+Course 
+code 
+ 
+Course Title 
+Contact 
+hours/week 
+ 
+Credits 
+Scheme of 
+Valuation 
+L T P Total CIE SEE Total 
+1 
+ 
+MTVI7501    Internship    30 30 15  100 100 
+                 OR 
+MTVP7502   Project Work Phase- II   30 30 15  100 100 
+Total   30 30 15  100 100 
+                            
+ 
+ 
+ 
+THE APOLLO UNIVERSITY::CHITTOOR 
+M.Tech (VLSI Design and Embedded Systems) 
+I Semester Detailed Syllabus 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+MTVT6501 
+DIGITAL SYSTEM DESIGN 
+Pre-Requisite: Switching Theory and Logic Design  
+Course Objectives  
+1. To provide extended knowledge of digital logic circuits.  
+L T P C 
+3 
+0 
+0 
+2. To provide an overview of system design approach using programmable logic devices.  
+3. To get exposed to the Programming digital designs.  
+4. To expose software tools used for design process with the help of case studies.  
+UNIT – I                 
+3 
+10 Hrs.  
+Review of Logic Design Fundamentals: Combinational Logic, Boolean Algebra and Algebraic 
+Simplification , Karnaugh Maps , Designing with NAND and NOR Gates, Hazards in Combinational 
+Circuits, Flip-Flops and Latches, Mealy Sequential Circuit Design, Design of a Moore Sequential 
+Circuit, Equivalent States and Reduction of State Tables, Sequential Circuit Timing, Tristate Logic 
+and Busses. 
+UNIT – II                 
+15 Hrs. 
+Introduction to Verilog: Computer-Aided Design, Hardware Description Languages, Verilog 
+Description of Combinational Circuits, Verilog Modules, Verilog Assignments, Procedural 
+Assignments, Modeling Flip-Flops Using Always Block, Always Blocks Using Event Control 
+Statements, Delays in Verilog, Compilation, Simulation, and Synthesis of Verilog Code, Verilog Data 
+Types and Operators, Simple Synthesis Examples, Verilog Models for Multiplexers, Modeling 
+Registers and Counters Using Verilog Always Statements, Behavioural and Structural Verilog, 
+Constants, Arrays, Loops in Verilog, Testing a Verilog Model. 
+UNIT - III                  
+05Hrs. 
+Introduction to Programmable Logic Devices: Brief Overview of Programmable Logic Devices, 
+Simple, Programmable Logic Devices (SPLDs), Complex Programmable Logic Devices (CPLDs), 
+Field-Programmable Gate Arrays (FPGAs) 
+UNIT – IV                 
+Design Examples  
+10 Hrs.  
+BCD to 7-Segment Display Decoder, A BCD Adder, 32-Bit Adders Traffic Light Controller, State 
+Graphs for Control Circuits, Scoreboard and Controller, Synchronization and Debouncing, A Shift
+and-Add Multiplier, Array Multiplier, A Signed Integer/Fraction Multiplier, Keypad Scanner, Binary 
+Dividers.. SM Charts and Microprogramming: State Machine Charts, Derivation of SM Charts, 
+Realization of SM Charts, Implementation of the Dice Game, Microprogramming, Linked State 
+Machines. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+5 Hrs. 
+UNIT - V                  
+Designing with Field Programmable Gate Arrays  
+Implementing Functions in FPGAs, Implementing Functions Using Shannon’s Decomposition, Carry 
+Chains in FPGAs, Cascade Chains in FPGAs, Examples of Logic Blocks in Commercial FPGAs, 
+Dedicated Memory in FPGAs, Dedicated Multipliers in FPGAs, Cost of Programmability, FPGAs and 
+One-Hot State Assignment, FPGA Capacity: Maximum Gates versus Usable Gates, Design 
+Translation (Synthesis), Mapping, Placement, and Routing. 
+Course Outcomes 
+After studying this course, students will be able to: 
+1. Understand the Logic Design Fundamentals   
+2. Understand the programming  through Verilog 
+3. Explain the concept of Programmable Logic Devices and SM Charts. 
+4. Design the combinational logic circuits. 
+5. To exposes the design approaches using FPGAs 
+Text Books  
+1. Digital Systems Design Using Verilog-Charles H.Roth, Jr. -1ST Ed., © 2016 Cengage Learning.  
+2. Verilog HDL: A Guide to Digital Design and Synthesis, 2nd Edn, Peaeson. 
+Reference Books  
+1. Digital System Design using programmable logic devices- Parag K. Lala, BS publications.  
+2. Switching and Finite Automata Theory - Zvi Kohavi & Niraj K. Jha, 3rd Edition, Cambridge, 
+2010. 
+3. Logic Design Theory-N.N. Biswas, PHI. 
+4. https://nptel.ac.in/courses/106105165 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+MTVT6502 
+DIGITAL IC DESIGN  
+L T P C 
+3 
+0 
+PRE-REQUISITES: A course on digital logic design is a must for doing this course. 
+Course Description 
+0 
+3 
+This is a most fundamental Digital Circuit Design course for pursing a major in VLSI. This course 
+deals with transistor level circuit design concepts in great detail.  
+Course Objectives  
+1. Characterize the key delay quantities of a standard cell 
+2. Evaluate power dissipated in a circuit (dynamic and leakage) 
+3. Design a circuit to perform a certain functionality with specified speed 
+4. Identify the critical path of a combinational circuit 
+5. Convert the combinational block to pipelined circuit 
+6. Calculate the maximum (worst case) operating frequency of the designed circuit 
+UNIT-I                   
+10Hrs.  
+The CMOS Inverter construction and Voltage Transfer Characteristics: CMOS Inverter 
+Construction, Voltage Transfer Characteristics, Load Line Analysis, Trip Point for Short Channel 
+Device Inverter, Trip Point for Long Channel Device Inverter, Noise Margin Analysis, Long Channel 
+Device Inverter, Pass Transistors.  
+Resistance and Capacitance and transient response: Drain Induced Barrier Lowering, Sub
+Threshold Leakage, Substrate and Gate Leakage, The PMOS Transistor, Transistor Capacitance. 
+UNIT-II                           
+8 Hrs. 
+Combinational Circuit Design and capacitance: Implementing Any Boolean Logic Function: 
+Examples. Gate sizing, Logic Gate Capacitance, Gate Delay, Parasitic Delay, Gate Delay with a Load 
+Capacitance, Path Delay Calculation and Optimization Formulation, Buffer Insertion, Input Ordering 
+and Asymmetric Gates, Skewed Gates  
+UNIT-III                   
+7 Hrs.  
+Dynamic Gates and Domino logic and Static Timing Analysis: Special Functions, Pseudo NMOS 
+Logic, Pseudo NMOS Inverter, Pseudo NMOS Logical Effort and CVSL, Dynamic Circuits and Input 
+Monotonicity, Domino Logic and Weak Keepers, Transmission Gate Logic. 
+UNIT-IV                  
+10 Hrs.  
+Adders – Mirror adder, Carry Skip adder, Carry Select adder, Square Root adder: Gate Sizing 
+for Large Circuits, Ripple Adder Introduction, Full Adder Circuit Implementation, Full Adder 
+Optimization, Carry Skip Adder, Linear and Square Root Carry Select Adder 
+Multipliers – Signed and Unsigned arithmetic, Carry Save Multiplier implementation: Two's 
+Complement Arithmetic, Two's Complement Sign Extension, Array Multiplier, Array Multiplier - 
+Timing Analysis, Carry Save Multiplier, Carry Save Multiplier - Signed Multiplication. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+10 Hrs.  
+UNIT-V                  
+Sequential circuits and feedback. Various D flip flop circuits – Static and Dynamic: Introduction 
+to Pipelining, Time Borrowing, Master Slave Flip Flop, Flop Timing Parameters, Alternate Circuit 
+Implementations, Clock Overlap. 
+Setup and Hold Time measurement. Timing analysis of latch/ flop based systems: C2MOS Flop, 
+Flop Characterization, Max and Min Delay of Flop Based Systems, Flop Min Delay Constraint, Latch - Max and Min Delay Constraints, Latch-Timing Analysis with Skew, Time Borrowing. 
+Course Outcomes  
+After completion of this unit the student will be able to  
+1. Analyze the relation between Ids verses Vds for long channel ideal I-V characteristics of 
+NMOS transistor  
+2. Design logic gates using CMOS transistor 
+3. Understand the calculation of delays in multi stage logic circuits  
+4. Design combinational CMOS circuits designs 
+5. Design sequential CMOS circuits designs 
+Text book 
+1. Weste, N. H. E., Harris, D. M (2005). CMOS VLSI design: a circuits and systems perspective. 
+Boston, Pearson/Addison-Wesley.  
+2. Ken Martin, Digital Integrated Circuit Design, Oxford Publications, 2011  
+References Books 
+1. S. M. Kang, Y. Leblebici, CMOS Digital Integrated Circuits, 3/e, McGraw Hill, 2012.  
+2. Jackson, Hodges, Analysis and Design of Digital Integrated circuits, 3/e, McGraw Hill, 2012. 
+3. NPTEL- Digital IC Design, Prof. Janakiraman, IIT Madras. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6503 
+Course Description  
+ANALOG IC DESIGN 
+3 
+0 
+0 
+3 
+This course introduces the student, to the fundamentals of MOS device physics and building 
+blocks of analog integrated circuit design. The first unit cover basics of MOS device physics. Units 2 
+and 3 covers different amplifiers used in analog IC design. Unit 4 covers the frequency response of 
+amplifiers and feedback mechanisms used in different amplifiers. The last unit covers operational 
+amplifier and its frequency compensation. 
+Course Objectives  
+1. To understand the construction, operation and mathematical models of MOSFETs.  
+2. To analyze and design single stage and multistage amplifiers at low frequencies.  
+3. To study and analyze different current mirrors used to bias IC amplifiers.  
+4. To understand the frequency response of amplifier designed in integrated circuits.  
+5. To understand the principles of operation of different feedback topologies.  
+6. To understand different specifications and topologies related to operational amplifiers.  
+UNIT-I                   
+9 Hrs.  
+Basic MOS Device Physics: General considerations, MOSFET as a switch, MOSFET structure, MOS 
+symbols, MOS I/V characteristics, threshold voltage, derivation of I/V characteristics, second-order 
+effects, MOS device models, MOS device layout, MOS device capacitances, MOS small-signal model, 
+MOS SPICE models, NMOS versus PMOS devices, long-channel versus short-channel devices.  
+UNIT-II                   
+9 Hrs.  
+Single-Stage Amplifiers: Basic concepts, common-source stage, common-source stage with resistive 
+load, CS stage with diode-connected load, CS stage with current-source load, CS stage with triode 
+load, CS stage with source degeneration, source follower, common-gate stage, cascade stage, folded 
+cascode, choice of device models.  
+UNIT-III                   
+9 Hrs.  
+Differential Amplifiers: Single-ended and differential operation, basic differential pair, qualitative 
+analysis, quantitative analysis, common-mode response, differential pair with MOS loads, gilbert cell. 
+Passive and Active Current Mirrors: Basic current mirrors, cascode current mirrors, active current 
+mirrors, large-signal analysis, small-signal analysis, common-mode properties.  
+UNIT-IV                  
+10 Hrs.  
+Frequency Response of Amplifiers: General considerations, Miller effect, association of poles with 
+nodes, common-source stage, source followers, common-gate stage, cascode stage, differential pair. 
+Feedback: General considerations, properties of feedback circuits, types of amplifiers, feedback 
+topologies, voltage-voltage feedback, current-voltage feedback, voltage-current feedback, current
+current feedback, effect of loading, two-port network models, loading in voltage-voltage feedback. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+8 Hrs.  
+UNIT-V                   
+Operational Amplifiers: General considerations, performance parameters, one-stage op amps, two
+stage op amps, gain boosting, comparison, common-mode feedback, input range limitations, slew rate, 
+power supply rejection. Stability and Frequency Compensation: General considerations, multipole 
+systems, phase margin, frequency compensation, compensation of two-stage op amps.  
+Course Outcomes:  
+After successful completion of the course, the student will be able to  
+1. 
+Acquire knowledge of device physics related to MOSFET  
+2. 
+3. 
+4. 
+5. 
+Acquire knowledge of amplifier design with the use of proper biasing techniques  
+Design single and multi-stage amplifiers for desired gain, bandwidth and terminal 
+impedance specifications  
+Design feedback circuits to meet the given gain error, bandwidth, input and output 
+impedance requirements  
+Acquire the knowledge of different op-amp topologies and to design op-amps for the given 
+specifications  
+Text Books  
+1. B. Razavi, Design of Analog CMOS Integrated Circuits, McGraw Hill, 2011.  
+2. Ken Martin, Analog Integrated Circuit Design, 2/e, Wiley Publications, 2012.  
+References  
+1. P. R. Gray & R. G. Meyer, Analysis and Design of Analog Integrated Circuits, 5/e, John Wiley, 
+2012.  
+2. Sedra and Smith, Microelectronic Circuits, 6/e, Oxford Publications, 2014.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6504 
+Course Description: 
+DESIGN WITH MICROCONTROLLERS 
+3 
+0 
+0 
+3 
+This course introduces the students, to 8-bit microcontroller and applications. The first unit covers the 
+architecture of 8051microcontrollers. The next two units cover various interfacing techniques and 
+communication buses. The last two units cover PIC microcontroller and design of applications  
+Course objectives  
+1. To learn about the 8051 microcontroller fundamentals.  
+2. To acquaint with the programming of 8051.  
+3. To familiar with the communication buses and protocols in microcontrollers.  
+4. To learn about the basics of STM32 microcontroller.  
+5. To interface sensors and actuators to develop applications using STM32 microcontrollers.  
+UNIT-I                 
+08 Hrs. 
+The 8051 Microcontrollers: Microcontrollers and embedded processors, Overview of the 8051 
+family. 8051 Assembly Language Programming: Inside the 8051, Introduction to 8051 Assembly 
+programming, Assembling and running an 8051 program, The program counter and ROM space in the 
+8051, 8051 data types and directives , 8051 flag bits and the PSW register, 8051 register banks and 
+stack. 
+UNIT –II                 
+10 Hrs. 
+8051 Programming In C: Data types and time delay in 805 I C, I/O programming in 8051 C, Logic 
+operations in 8051 C, Data conversion programs in 8051 C, Accessing code ROM space in 8051 C, 
+Data serialization using 8051 C, C Data types for Embedded Systems, Bit-wise Operations in C.   
+8051 Hardware Connection and Intel Hex File: Pin description of the 805 I, Design and test of 
+DS89C4xO trainer, explaining the Intel hex file 
+UNIT -III                  
+10 Hrs. 
+Interrupts Programming in C: 8051 interrupts, Programming timer interrupts, Programming 
+external hardware interrupts, Programming the serial communication interrupt, Interrupt priority in the 
+8051/52, Interrupt programming in C. 
+LCD and Keyboard Interfacing: LCD interfacing, Keyboard interfacing, ADC, DAC and Sensor 
+Interfacing, Parallel and serial ADC, DAC interfacing, Sensor interfacing and signal conditioning. 
+UNIT –IV                 
+09 Hrs.  
+STM Arm I/O Programming: STM32 Microcontroller, GPIO (General Purpose I/O), Programming 
+and Interfacing, Seven-segment LED interfacing and programming, I/O Port Programming with 
+Assembly Language.  
+LCD and Keyboard Interfacing: Interfacing to an LCD, Interfacing the Keyboard to the CPU.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+10 Hrs.  
+UNIT –V                 
+UART Serial Port Programming: Basics of Serial Communication, Section, Programming the 
+UART Ports, Using C Library Console I/O.  
+STM Arm Timer Programming: Introduction to counters and timers, System Tick Timer, Timer and 
+Delay Generation in STM32F4xx, Compare Registers and Waveform Output, Using Timer/Counter 
+for Input Capture, Pulse Counter programming. 
+Course Outcomes:  
+After completion of this Course the student will be able to  
+1. Explain the architecture of 8051 and pin diagram and demonstrate addressing modes used 
+in 8051 microcontroller and choose the various types of interrupts  
+2. Infer the data conversion program in 8051 and 8051 Hardware Connection and Intel Hex 
+File  
+3. Apply 8 bit microcontrollers to control AC and DC motors, build applications of traffic 
+light control  
+4. Explain the architecture of STM32 microcontroller and pin diagram and distinguish 
+addressing modes  
+5. Develop UART Serial Port Programming and STM Arm Timer Programming 
+Text Books  
+1. “The 8051 Micro Controller and Embedded Systems” Using Assembly and C SECOND 
+EDITION, Muhammad Ali Mazidi, Janice Gillispie Mazidi, Rolin D. McKinlay., Pearson 
+edition. 
+2.  “STM32 Arm Programming for Embedded Systems”, Mazidi, Muhammad Ali; Chen, Shujen; 
+Ghaemi, Eshragh, 1st edtion, Publisher: MicroDigitalEd 
+Reference Books 
+1. Jonathan W. Valvano, Brookes, Cole, Embedded Microcomputer Systems, Real Time 
+Interfacing, Thomas Learning,1999.  
+2. Raj Kamal, Embedded Systems - Architecture Programming and Design, 2/e, Tata Mcgraw 
+Hill, 2008.  
+3. Jan Axelson, Embedded Ethernet and Internet Complete, Penram Publications,2003.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6505 
+Course Description:  
+REAL TIME OPERATING SYSTEMS 
+3 
+0 
+0 
+3 
+This course introduces the student about the importance of RTO’s in an embedded system. The first 
+unit covers different types of operating systems. The next three units cover basic concepts of RTO’s 
+and IPC synchronization techniques. The last two units cover resource management in RT Linux.  
+Course Objectives:  
+1. To study about the difference between OS, RTOS and hardware organization.  
+2. To study about the Basic concepts of RTOS.  
+3. To know the Scheduling Algorithms and scheduling criteria in RTOS.  
+4. To know the inter process communication between tasks and processes.  
+5. To study about different types of RTOS like RT Linux and Vx Works.  
+UNIT-I                  
+8 Hrs.  
+Introduction: Introduction to operating system, different types of OS, OS services, computer 
+hardware organization: ALU, memory, pipelining, registers, serial ports, BIOS and BOOT process, 
+multi-threading concepts, processes, threads 
+UNIT-II                  
+10 Hrs.  
+Basics of real-time concepts: Introduction to real time systems, types of real time systems, differences 
+between OS and RTOs, task and task states, shared resources, critical section of code, task switching, 
+real-time design issues, examples, and hardware considerations: logic states, CPU, memory, I/O, 
+architectures, RTOs building blocks, real-time kernel. 
+UNIT-III                  
+9 Hrs.  
+Process Management: Concepts, scheduling, IPC, RPC, CPU Scheduling, scheduling criteria, 
+scheduling algorithms. Threads: Multi-threading models, threading issues, thread libraries, 
+synchronization Mutex: creating, deleting, prioritizing Mutex. 
+UNIT-IV                  
+9 Hrs.  
+Inter-process communication: Buffers, mailboxes, queues, semaphores, deadlock, priority inversion, 
+Pipes. Memory Management: process stack management, run-time buffer size, swapping, overlays, 
+block/page management, replacement algorithms 
+UNIT-V                  
+9 Hrs.  
+Case Study: RT Linux: Process management, scheduling, interrupt management, and 
+synchronization, Vx works: memory managements task state transition, diagram, pre-emptive priority, 
+scheduling, context switches, semaphore, binary mutex, counting. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Course Outcomes:  
+After completion of the course, the student will be able to  
+1. Understand about difference between OS and RTOS  
+2. Understand about key Real-Time Operating System terms and Concepts  
+3. Write programs of an embedded system with scheduling the tasks and execute 
+4. Understand about different types inter process communication mechanisms and 
+memory management  
+5. Understand different types of RTOS like RT Linux and Vx works  
+Text Books  
+1. J. J. Labrosse, Micro C/OS-II: The Real-Time Kernel, 2/e, CMP Books,2002.  
+2. Herman B, Real-Time and Embedded Guide,2001.  
+3. Philips A. Laplander, Real-Time System Design and Analysis, 4/e, Wiley,2011.  
+4. Doug Abbott, Linux for Embedded and Real-Time Applications, 3/e, Newness,2011.  
+References  
+1. Richard Stevens, Advanced UNIX Programming, 3/e, Wiley,2013.  
+2. Wind River Systems, VX Works Programmers Guide, Wind River Systems,1993.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6506 
+OOPs THROUGH JAVA 
+Prerequisite Courses: Programming for Problem Solving, Data Structures 
+Course Description and Objectives 
+3 
+0 
+0 
+3 
+This course is about the fundamentals of Object-Oriented Programming (OOP) Concept and OOP
+based software development methodology. Java as a class-based and pure OOP language is used to 
+demonstrate and implement appropriate concepts and techniques. The students are exposed to the 
+concepts, fundamental syntax, and the thought processes behind object-oriented programming. By end 
+of the course, students will acquire the basic knowledge and skills necessary to implement object
+oriented programming techniques in software development using Java. 
+UNIT-I                                                                                                                                             
+10Hrs 
+INTRODUCTION: History of Java, Byte code, JVM, Java buzzwords, OOP principles, Data types, 
+Variables, Scope and life time of variables, Operators, Control statements, Type conversion and 
+casting, Arrays.  
+CONCEPTS OF CLASSES AND OBJECTS:  Introducing methods, Method overloading, 
+Constructors, Constructor overloading, Usage of static with data and method, Access control, this key 
+word, Garbage collection, String class, StringTokenizer. 
+UNIT-II                                                                                                                                             
+8Hrs 
+INHERITANCE - Inheritance basics, Types of inheritance, Member access rules, Usage of super key 
+word, Method overriding, Usage of final, Abstract classes, Interfaces - differences between abstract 
+classes and interfaces, defining an interface, implementing interface, applying interfaces, variables in 
+interface and extending interfaces; Packages - defining, creating and accessing a package, importing 
+packages, access control in packages. 
+UNIT-III                                                                                                                                            
+10Hrs 
+EXCEPTION HANDLING: Concepts of exception handling, Types of exceptions, Usage of try, 
+catch, throw, throws and finally keywords, Built-in exceptions, Creating user defined exception; 
+MULTITHREADING: Concepts of multithreading, Differences between process and thread, Thread 
+life cycle, Creating multiple threads using Thread class and Runnable interface, Synchronization, 
+Thread priorities, Inter thread communication. 
+UNIT-IV                        
+8Hrs                                                                                                                         
+COLLECTION FRAMEWORK: Collections Overview, Collection Interfaces - List, Set, Map, 
+List - ArrayList, Linked List, Vector, Set - HashSet, TreeSet, Map - HashTable, HashMap, Accessing a 
+collection via an Iterator, comparator, comparable. 
+UNIT-V                       
+9Hrs                                                                                                                  
+GUI PROGRAMMING WITH SWING: Applets - Applet Class, Applet skeleton, Simple Applet; 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Delegation event model - Events, Event sources, Event Listeners, Event classes, handling mouse and 
+keyboard events. 
+EXPLORING SWING CONTROLS: JLabel and Image Icon, JText Field, JButton, JCheckBox, 
+JRadioButton, JTabbed Pane, JList, JCombo Box. 
+Course Outcomes 
+Upon completion of the course, the student will be able to achieve the following outcomes: 
+1. Define, understand, and differentiate the Object Oriented concepts and Java 
+Programming concepts.  
+2. Apply object oriented concepts on real time scenarios.  
+3. Use Exception handling and multithreading mechanisms to create efficient software 
+applications.  
+4. Utilize modern tools and collection framework to create Java applications to solve real 
+world problems.  
+5. Design and develop GUI based applications using applets and swings for internet and 
+system based applications.  
+Text Books 
+1. 
+2. 
+Herbert Schildt, “Java the complete reference”, 9th edition, McGraw Hill, Education, 2014. 
+T. Budd, “Understanding Object-Oriented Programming with Java”, updated edition, 
+Pearson Education, 2000. 
+Reference Books 
+1. 
+2. 
+3. 
+J. Nino and F.A. Hosch,“An Introduction to programming and OO design using Java”, 3rd 
+edition, John Wiley & sons, 2008 
+P. Radha Krishna,“Object Oriented Programming through Java”, 1st edition, Universities 
+Press, 2007. 
+R. A. Johnson,“Java Programming and Object oriented Application Development”, 1st 
+edition, Cengage Learning, 2006. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+MTVT6901 DEVELOPING SOFT SKILLS AND PERSONALITY L T P C 
+3 0 0 0 
+Course Description 
+Soft skills comprise pleasant and appealing personality traits as self-confidence, positive attitude, 
+emotional intelligence, social grace, flexibility, friendliness and effective communication skills. The 
+course aims to cause a basic awareness within the students about the significance of soft skills in 
+professional and inter-personal communications and facilitate an all-round development of 
+personality.  
+Course Objectives  
+1. To familiarize the student to the criteria for self-assessment and significance of self-discipline.  
+2. To expose the student to attitudes, mindsets, values and beliefs.  
+3. To acquaint the student to plan career and goals through constructive thinking.  
+4. To enable the student to overcome barriers for active listening and persuasive speaking.  
+5. To familiarize the skill of conducting meetings, writing minutes and involving in active group 
+discussions.  
+UNIT-I                                         
+6 Hrs.  
+Self-Assessment; Identifying Strength & Limitations; Habits, Will-Power and Drives; Developing 
+Self-Esteem and Building Self-Confidence, Significance of Self-Discipline  
+UNIT-II                                         
+6 Hrs.  
+Understanding Perceptions, Attitudes, and Personality Types: Mind-Set: Growth and Fixed; Values 
+and Beliefs  
+UNIT-III                                         
+6 Hrs.  
+Motivation and Achieving Excellence; Self-Actualisation Need; Goal Setting, Life and Career 
+Planning; Constructive Thinking  
+UNIT-IV                                        
+6 Hrs.  
+Communicating Clearly: Understanding and Overcoming barriers; Active Listening; Persuasive 
+Speaking and Presentation Skills. 
+UNIT-V                                        
+6 Hrs.  
+Conducting Meetings, Writing Minutes, Sending Memos and Notices; Netiquette: Effective Email 
+Communication; Telephone Etiquette; Body Language in Group Discussion and Interview.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Course Outcomes  
+After successful completion of the course, the student will be able to   
+1. carry out self-assessment and describe the significance of self-discipline  
+2. define, classify and compare attitudes, mindsets, values and beliefs  
+3. plan career and goals through constructive thinking and personal assessment  
+4. overcome barriers for active listening and persuasive speaking  
+5. conduct meetings, write minutes and involve in active group discussions  
+Text Books  
+1. Dorch, Patricia. What Are Soft Skills? New York: Execu Dress Publisher, 2013.  
+2. Kamin, Maxine. Soft Skills Revolution: A Guide for Connecting with Compassion for 
+Trainers, Teams, and Leaders. Washington, DC: Pfeiffer & Company, 2013.   
+Reference Books: 
+1. Klaus, Peggy, Jane Rohman& Molly Hamaker. The Hard Truth about Soft Skills. London: 
+HarperCollins E-books, 2007.  
+2. Petes S. J., Francis. Soft Skills and Professional Communication. New Delhi: Tata McGraw
+Hill Education, 2011.   
+3. Stein, Steven J. & Howard E. Book.  The EQ Edge: Emotional Intelligence and Your Success. 
+Canada: Wiley & Sons, 2006.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6902 
+Course Description 
+PROFESSIONAL COMMUNICATION 
+3 
+0 
+0 
+0 
+The Professional Communication degree program involves concepts and effective application of the 
+various means of communication in professional interactions and public relations. Employees in the 
+workplace should have the information that, they need to perform well, build a positive work 
+environment, connect with others, express empathy, resolve conflicts and eliminate inefficiencies. 
+Effective communication should accurately convey information while maintaining or improving 
+human relationships. Communicating honestly with transparency, one can foster a sense of trust and 
+positivity, which increases work satisfaction and improves morale. It enhances the oral, written, visual, 
+and digital forms of delivering information in the context of a workplace 
+Course Objectives 
+1. Helps students to understand the concept of Communication in link with Non-verbal 
+Communication. 
+2. To enable the Students to converse in their real life situations. 
+3. Develop a comprehensive understanding of some specific forms of writings used in Business 
+and Professional Communication. 
+4. Demonstrate sufficient skills in both Personal and Business Correspondence.  
+5. Enhance their email writing, report writing and Technical Research Paper writing Language 
+as the tool 
+UNIT-I                                         
+8 Hrs.  
+Understanding Communication: Concept & Process of Communication, Types: Formal- Informal, 
+Verbal-nonverbal Communication, Technical, Communication, Professional Oral Communicational 
+and Professional, Communicational Barriers. 
+. 
+UNIT-II                                         
+7 Hrs.  
+Develop Listening Skills, Concept & Types, barriers to effective listening, listen to Instructions and 
+Announcements, songs, short talks and dialogues and Do/Draw. Interview Strategies, Stimulus & 
+Response, Flow in Speaking.    
+UNIT-III                                        
+5 Hrs.  
+Constituents of Technical Written Communication, Leadership function in GD, starting discussions, 
+speaking for professional Purposes, Expert Technical Lecture 
+UNIT-IV                                         
+5 Hrs.  
+Professional Report Writing, Types of reports (Formal/Informal), Style of reports. Business Memos 
+and E – Communication. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+5 Hrs.  
+UNIT-V                                         
+Technical Research Paper writing, Language as a tool of Communication, Technical writing: 
+sentences & Paragraph    
+Course Outcomes  
+1. The students can enhance their business communications by becoming an active         
+listeners and begin interpreting nonverbal and body language messages 
+2. Help students in keeping their interactions professional and will guide them in navigating 
+difficult conversations while recognizing the signals of miscommunication.              
+. 
+3. Apply their knowledge professionally in a variety of careers and settings 
+4. Process their writing for publication and so must have the ability to edit and proofread 
+writing such that it is ready to get into a print. 
+5. Sharpens the ability to research and analyse problems, think and listen critically, express 
+thoughts clearly and fluently. 
+Reference Books 
+1. Condrill, Jo and Bough, B 2003 101 ways to Improve your Communication Skills, 
+Jaico  Publishing house Mumbai, A’bad, Delhi.  
+2. Raman and Sharma, Technical Communication (Principles and Practices), OUP, 2nd 
+Edition, 2017. 
+3. Pal and Korlahalli, Essentials of Business Communication, Sultan Chand and Sons. 
+Skillful Level 2 Reading & Writing Student's Book Pack (B1) Macmillan 
+Educational.  
+4. Hewings, Martin. “Cambridge Academic English” (B2). CUP, 2012. (Student Book, 
+Teacher Resource Book, CD & DVD). 
+5. Writing Research Papers with MLA Guide 10th Edition.   
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6903 
+ENTREPRENEURSHIP 
+Course Description and Objectives 
+3 
+0 
+0 
+0 
+1. Understand the concept of Entrepreneurship, its applications and scope. 
+2. Application of knowledge for generating a broad idea for a starting an enterprise/start 
+up and converting to opportunity. 
+3. Knowledge of managing the start-up's 
+4. Understand the small and medium enterprises 
+5. Knowledge of different financial institutions 
+UNIT-I                   
+6 Hrs.  
+Entrepreneurship: Definition and Concept of entrepreneurship - Entrepreneur Characteristics – 
+Classification of Entrepreneurs –Role of Entrepreneurship in Economic Development 
+UNIT-II                   
+6 Hrs.  
+Idea to Opportunity- Introduction, Sources of New Ideas, Techniques for Generating Ideas , Assessing 
+Business Potential of an Idea, Opportunity Recognition, Sources and process, Indian Economy—
+Opportunities, Steps Involved in Tapping Opportunity 
+UNIT-III                   
+6 Hrs.  
+Entrepreneurship Development - Entrepreneurship, Entrepreneurship as a Career Option, Female 
+Entrepreneurship and problems, Types of Start-ups, Start-ups and mistakes, Managing Start-ups 
+During Downturn 
+UNIT-IV                   
+6 Hrs.  
+Entrepreneurship Trends- Small and Medium Business Enterprises, International Entrepreneurship, 
+Entrepreneurship—Emerging Trends in the Global Knowledge Economy 
+UNIT-V                   
+Institutions Supporting and Taxation Benefits:  
+6 Hrs.  
+Central level Institutions: NABARD; SIDBI,– State Level Institutions –DICs – SFC - Government 
+Policy for MSMEs - Tax Incentives and Concessions. 
+Text Books 
+1. 
+2. 
+3. 
+Arya Kumar, Entrepreneurship, Pearson, Delhi  
+Poornima MCH, Entrepreneurship Development –Small Business Enterprises, Pearson, Delhi  
+Anil Kumar, S., ET.al., Entrepreneurship Development, New Age International Publishers, 
+New Delhi 
+References Books 
+1. 
+2. 
+3. 
+Khanka, SS, Entrepreneurship Development, S. Chand, New Delhi  
+Peter F. Drucker,Innovation and Entrepreneurship  
+A.Sahay, M. S. Chhikara, New Vistas of Entrepreneurship: Challenges &Opportunities 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVL6501 
+Course Description 
+FPGA DESIGN LABORATORY 
+0 
+0 
+4 
+This course introduces the student, to the fundamental design and description of digital systems 
+like combinational circuits, sequential circuits, memories and Finite Sate Machines (FSM)  
+Course Objectives 
+1. To understand the various modeling styles in Hardware Description Language.   
+2 
+2. To describe and analyze the various digital systems (like combinational, sequential, memories 
+and FSM).  
+3. To understand the FPGA architecture and implementation of described circuits into FPGA  
+Modeling and Functional Simulation and Implementation of the following digital circuits (with Xilinx 
+Vivado tools using VHDL/Verilog Hardware Description Languages and Xilinx/Altera FPGA boards)  
+Part – I Combinational Logic: Basic Gates, Multiplexer, Comparator, Adder/ Substractor, 
+Multipliers, Decoders, Address decoders, parity generator, ALU   
+Part – II Sequential Logic: D-Latch, D-Flip Flop, JK-Flip Flop, Registers, Ripple Counters, 
+Synchronous Counters, Shift Registers (serial-to-parallel, parallel-to-serial), Cyclic Encoder / 
+Decoder,  
+Part – III Memories and State Machines: Read Only Memory (ROM), Random Access 
+Memory (RAM), Mealy State Machine, Moore State Machine, Arithmetic Multipliers using 
+FSMs   
+Part-IV: FPGA System Design: Demonstration of FPGA and CPLD Boards, Demonstration of 
+Digital design using FPGAs and CPLDs, Implementation of UART/Mini Processors on 
+FPGA/CPLD  
+Course Outcomes 
+After completion of this Lab, the student will be able to   
+1. Familiar with various modeling styles in Hardware Description Language and Xilinx 
+Vivado.  
+2. Design, Describe and analyze the combinational circuits  
+3. Design, Describe and analyze the sequential circuits 
+4. Design, Describe and Analyze memories and Analyze FSM 
+5. Implement the described circuits into FPGA 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVL6502 
+Course Description 
+MICROCONTROLLERS LABORATORY 
+0 
+0 
+4 
+2 
+This lab aims to produce students with a strong foundation in microcontroller systems and its 
+programming. This course is the foundation for designing, analysing and implementing engineering 
+programming problems. 
+Objectives of Lab 
+1. To give hands on experience in 8086 assembly language programming. 
+2. To give hands on experience in peripheral interfacing with 8086. 
+3. To introduce arm microcontroller programming. 
+4. To enhance their knowledge on the latest trends and technologies. 
+List of Assignments  
+Experiments to be carried out on Cortex-M3 development boards and using GNU tool- chain  
+1. Blink an LED with software delay, delay generated using the SysTicktimer.  
+2. System clock real time alteration using the PLL modules.  
+3. Control intensity of an LED using PWM implemented in software and hardware.  
+4. Control an LED using switch by polling method, by interrupt method and flash the LED once every 
+five switch presses.  
+5. UART Echo Test.  
+6. Take analog readings on rotation of rotary potentiometer connected to an ADC channel.  
+7. Temperature indication on an RGB LED.  
+8. Mimic light intensity sensed by the light sensor by varying the blinking rate of an LED.  
+9. Evaluate the various sleep modes by putting core in sleep and deep sleep modes.  
+10. System reset using watchdog timer in case something goes wrong.  
+11. Sample sound using a microphone and display sound levels on LEDs. 
+Course Outcomes  
+At the end of the laboratory work, students will be able to:  
+1. Install, configure and utilize tool sets for developing applications based on ARM processor core 
+SoC and DSP processor.  
+2. Develop prototype codes using commonly available on and off chip peripherals on the Cortex M3 
+and DSP development boards.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+M.Tech (VLSI Design and Embedded Systems) 
+II Semester-Detailed Syllabus 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6507 
+Course Description 
+IC FABRICATION TECHNOLOGY 
+3 
+0 
+0 
+3 
+This course provides an overview of device and circuit design and the processing steps for 
+semiconductor device fabrication. It caters to students from diverse backgrounds such as Chemical, 
+Electrical, Mechanical, Metallurgy, Materials Science, Physics, and Chemistry. The course provides 
+an overview on the integrated circuit fabrication along with practices and challenges to continue to 
+satisfy Moore’s law. 
+Course Objective 
+This course intends to impart the following knowledge to the students  
+1. 
+2. 
+3. 
+4. 
+UNIT-I                  
+Process flow in VLSI chip fabrication technology.  
+Silicon crystal growth and wafer preparation techniques.  
+Silicon Oxidation, doping via diffusion and Ion implantation, photolithography and 
+etching.  
+Epitaxial, metallic and dielectric thin film deposition techniques.  
+10 Hrs.  
+VLSI circuit fabrication and surface micromachining technology - crystal growth; clean rooms; solid 
+state diffusion modeling and technology; ion implantation modeling, technology and damage 
+annealing, characterization of impurity profiles;  
+UNIT-II                   
+8 Hrs.  
+Oxidation: kinetics of silicon dioxide growth for thick, thin and ultrathin films; oxidation technologies 
+in VLSI and ULSI, characterization of oxide films, high k and low k dielectrics for ULSI; 
+UNIT-III                   
+8 Hrs.  
+Lithography: photolithography, E-beam lithography and newer lithography techniques for VLSI/ULSI 
+mask generation;  
+UNIT-IV                   
+9 Hrs.  
+Chemical vapour deposition techniques: CVD techniques for deposition of polysilicon, silicon 
+dioxide, silicon nitride and metal films, epitaxial growth of silicon, modeling and technology;  
+UNIT-V                  
+10 Hrs.  
+Metal film deposition: evaporation and sputtering techniques; failure mechanisms in metal 
+interconnects, multilevel metalization schemes;  
+Plasma and rapid thermal processing: PECVD, plasma etching and RIE techniques, RTP techniques 
+for annealing, growth and deposition of various films for use in ULSI. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Course Outcomes   
+Upon completion of the course the student will familiarize with the  
+1. Different major steps of varied complexity involved in the process flow of fabrication of   
+various components in the VLSI chip  
+2. Detailed theoretical understanding and analysis of the each of the fabrication step  
+3. Identify the design limit in the material used for fabrication.  
+4. Knowledge of the thin film deposition techniques for epitaxial crystal, metals and dielectric 
+films used in the VLSI fabrication process. 
+5. Students can also develop fabrication steps for novel semiconductor devices like SOI 
+MOSFETs, DG MOSFETs, FinFETs etc. 
+Text Books 
+1. 
+2. 
+3. 
+Sorab K. Ghandhi VLSI Fabrication Principles: Silicon and Gallium Arsenide, 2nd 
+Edition, 2008  
+Silicon Vlsi Technology: Fundamentals Practice and Modeling,  Plummer 
+S. M. Sze, VLSI Technology, McGraw Hill Education , 2nd Edition, 2017 
+References  
+1. 
+2. 
+3. 
+Fabrication of Silicon VLSI Circuits using the MOS Technology, Prof. A N Chandorkar, 
+S. Franssila, Introduction to Microfabrication, Wiley-Blackwell , 2nd Edition, 2010 
+Stephen A. Campbell, The Science and Engineering of Microelectronic Fabrication, 
+Oxford University Press , 2nd Edition, 2012 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6508 
+. 
+Course Description 
+ASIC DESIGN 
+3 
+0 
+0 
+3 
+This course covers the entire RTL to GDS VLSI design flow, going through various stages of logic 
+synthesis, verification, physical design, and testing. Besides covering the fundamentals of various 
+design tasks, this course will develop skills in modern chip design with the help of activities and 
+demonstrations on freely available CAD tools. This course will enhance the employability of the 
+students and will make them ready to undertake careers in the semiconductor industry. 
+Course Objectives 
+At the end of the course the student: 
+•  
+UNIT-I                  
+1. Clearly understands each design and verification step in the VLSI design flow, and 
+its purpose/significance 
+2. Is able to evaluate various trade-offs that need to be made at various steps in the 
+VLSI design flow 
+3. Is able to design and verify simple VLSI circuits using the state-of-the-art computer 
+aided design (CAD) tools at different levels of abstractions. 
+4. Understands a few representative algorithms that are used in implementing CAD 
+tools 
+10Hrs.  
+Basic Concepts of Integrated Circuit: Structure, Fabrication, Types, Design Styles, Designing vs. 
+Fabrication, Economics, Figures of Merit.  Overview of VLSI Design Flow: Design Flows and 
+Abstraction, Pre-RTL Methodology: Hardware/Software Partitioning, SoC Design, Intellectual 
+Property (IP) Assembly, Behavioral Synthesis, RTL to GDS Implementation: Logic Synthesis, RTL 
+to GDS Implementation: Physical Design, Verification and Testing, Post-GDS Processes. 
+UNIT-II                  
+8 Hrs.  
+Hardware Modeling: Introduction to Verilog.  Simulation: Test bench, Coverage, Events, Queues, 
+Mechanism of Simulation in Verilog. RTL Synthesis: Verilog Constructs to Hardware. Logic 
+Optimization: Definitions, Two-level logic optimization, Multi-level logic optimization, FSM 
+Optimization 
+UNIT-III                  
+10 Hrs.  
+Formal Verification: Introduction. Formal Engines: BDD, SAT Solver, Combinational Equivalence 
+Checking, Model Checking. Technology Library: Delay and Power Models of Combinational and 
+Sequential Cells.  
+Static Timing Analysis: Synchronous Behavior, Timing Requirements; Timing Graph, Mechanism; 
+Delay Calculation, Graph-based Analysis, Path-based Analysis, Accounting for Variations; 
+Constraints: Clock, I/O, Timing Exceptions 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+7 Hrs.  
+UNIT-IV                  
+Technology Mapping, Timing-driven Optimization, Power Analysis, Power-driven Optimization. 
+Design for Test: Basics and Fault Models, Scan Design Methodology, ATPG, BIST. 
+Basic Concepts for Physical Design I: IC Fabrication, FEOL, BEOL; Interconnects and Parasitics; 
+Signal Integrity; Antenna Effect; Process-induced Variations; LEF files. 
+UNIT-V                 
+10 Hrs.  
+Chip Planning: Partitioning; Floorplanning: Die Size, I/O Cells, Floorplanning: Macros, Orientation, 
+Pin Assignment, Power Planning; :  
+Placement: Global Placement, Wirelength Estimates, Legalization, Detailed Placement, Timing
+driven Placement, Optimizations, Scan Cell Reordering; Spare Cell Placement  
+Clock Tree Synthesis: Terminologies, Clock Distribution Networks, Clock Network Architectures, 
+Routing, Useful Skews Routing: Global and Detailed, Optimizations  
+Physical Verification: Extraction, LVS, ERC, DRC ECO and Sign-off. 
+Course Outcomes  
+Successful completion of the course, the student will be able to  
+1. Differentiate between the types of ASICs and FPGAs available in the market  
+2. Identify the basic design structures of ASICs using verilog HDL and simulation flow  
+3. Solve the RC delay of routing resources for each ASICs  
+4. Understand the situation of fault occurrence in fault simulation and will be able to devise 
+solutions accordingly  
+5. Design different partitioning algorithms and routing algorithms  
+Text Books 
+1. Michael John Sebastian Smith, Application-Specific Integrated Circuits, Pearson Education, 
+2012  
+2. Introduction To VLSI Design Flow by Sneh Saurabh, Cambridge India, May 2023. 
+References  
+1. SabihGerez, Algorithms for VLSI Design Automation, Wiley Publications, 2012.  
+2. Wayne Wolf, Modern VLSI Design 3/e, Pearson Education, 2014.  
+3. Samir Palnitakar, Verilog HDL 2/e, pearson Education, 2012.  
+4. https://nptel.ac.in/courses/108106191 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6509 
+Course Description 
+EMBEDDED SYSTEM DESIGN 
+3 
+0 
+0 
+3 
+This course on Embedded systems will first the students to the fundamental requirements of embedded 
+systems and the interaction between hardware and software in such systems. Next the course will 
+discuss some basic steps of hardware design, introduce the students to ASIPs, ASICs and FPGAs. 
+Course Objectives 
+1. To understand the design challenges in embedded systems.  
+2. To program the Application Specific Instruction Set Processors.  
+3. To understand the bus structures and protocols.  
+4. To model processes using a state – machine model.  
+5. To design a real time embedded system.  
+UNIT-I                  
+10 Hrs.  
+Embedded System Overview: Embedded System Overview, Design Challenges – 
+Optimizing Design Metrics, Design Methodology, RT-Level Combinational and 
+Sequential Components, Optimizing Custom Components, Optimizing Custom 
+Single-Purpose Processors.  
+UNIT-II                  
+10 Hrs.  
+General and Single Purpose Processor: Basic Architecture, Pipelining, Superscalar 
+and VLIW Architectures, Programmer’s View, Development Environment, 
+Application-Specific Instruction-Set Processors (ASIPS) Microcontrollers, Timers, 
+Counters and Watchdog Timer, UART, LCD Controllers and Analog-to- Digital 
+Converters, Memory Concepts.  
+UNIT-III                  
+10 Hrs.  
+Bus Structures: Basic Protocol Concepts, Microprocessor Interfacing – I/O 
+Addressing, Port and Bus - based I/O, Arbitration, Serial Protocols, I2C, CAN and 
+USB, Parallel Protocols – PCI and ARM bus, Wireless Protocols – IRDA, Bluetooth, 
+IEEE 802.11.  
+UNIT-IV                  
+10 Hrs.  
+State Machine and Concurrent Process Models: Basic State Machine Model, 
+Finite-State Machine with Data path Model, Capturing State Machine in Sequential 
+Programming Language, Program-State Machine Model, Concurrent Process Model, 
+Communication among Processes, Synchronization among processes, RTOS – 
+System design using RTOS.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+10 Hrs.  
+UNIT-V                  
+System Design: Burglar alarm system-Design goals -Development strategy-Software 
+development-Relevance to more complex designs- Need for emulation -Digital echo 
+unit-Creating echo and reverb-Design requirements-Designing the codecs -The 
+overall system design  
+Course Outcomes  
+At the end of the course the student will be able to  
+1. Knowledge of different protocols  
+2. Apply state machine techniques and design process models.  
+3. Apply knowledge of embedded software development tools and RTOS  
+4. Apply networking principles in embedded devices.  
+5. Design suitable embedded systems for real world applications.  
+References 
+1. Frank Vahid and Tony Gwargie, “Embedded System Design”, John Wiley & 
+Sons, 2009.  
+2. Steve Heath, “Embedded System Design”, Elsevier, Second Edition, 2004.  
+3. Bruce Powel Douglas, “Real Time UML, Second Edition: Developing Efficient 
+Objects for Embedded Systems”, 3rd Edition 2004, Pearson Education  
+4. Daniel W.Lewis, “Fundamentals of Embedded Software where C and 
+Assembly Meet”, Pearson Education, 2004  
+5. Bruce Powel Douglas, “Real Time UML; Second Edition: Developing Efficient 
+Objects for Embedded Systems”, 3rd Edition 1999, Pearson Education.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVL6503 
+Course Objectives 
+VLSI CIRCUIT DESIGN LABORATORY 
+1. To Understand the EDA tools 
+0 
+0 
+4 
+2 
+2. To describe and analyze the characteristics of various components (like diode, MOSFETs) with 
+different analysis (like DC, AC, TRANSISANT Analysis etc.) 
+3. To design and estimate various characteristics of digital integrated circuits  
+4. To design and analyze the various analog circuits. 
+5. To draw the layout of various schematics 
+Session – I: Digital IC Design Laboratory 
+Experiments shall be carried out using Tanner/Mentor Graphics/Cadence/SPICE Tools 
+1. Introduction to SPICE (Operating Point Analysis, DC Sweep, Transient Analysis, AC Sweep, 
+Parametric Sweep, Transfer Function Analysis) 
+2. Modeling of Diodes, MOS transistors, Bipolar Transistors etc using SPICE, 
+3. An Overview of Tanner EDA Tool/MicroWind/Electric/ Magic/LTSpice 
+4. I-V Curves of NMOS and PMOS Transistors 
+5. DC Characteristics of CMOS Inverters (VTC, Noise Margin) 
+6. Dynamic Characteristics of CMOS Inverters (Propagation Delay, Power Dissipation) 
+7. Schematic Entry/Simulation/ Layout of CMOS Combinational Circuits 
+8. Schematic Entry/Simulation/ Layout of CMOS Sequential Circuits 
+9. High Speed and Low Power Design of CMOS Circuits 
+Session-II: Analog IC Design Laboratory 
+Experiments shall be carried out using Tanner/Mentor Graphics/Cadence Tools 
+1. Study of MOS Characteristics and Characterization 
+2. Design and Simulation of Single Stage Amplifiers (Common Source, Source Follower, 
+Common Gate Amplifier) 
+3. Design and Simulation of Single Stage Amplifiers (Cascode Amplifier, Folded Cascode 
+Amplifier) 
+4. Design and Simulation of a Differential Amplifier (with Resistive Load, Current Source 
+Biasing) 
+5. Design and Simulation of Basic Current Mirror, Cascode Current Mirror 
+6. Analysis of Frequency response of various amplifiers (Common Source, Source Follower, 
+Cascode, Differential Amplifier 
+7. Design/Simulation/Layout of Telescopic Operational Amplifier/ Folded Cascode Operational 
+Amplifier 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Course Outcomes 
+After completion of this Lab, the student will be able to 
+1. Familiar with various EDA Tools. 
+2. Understand the characteristics of various electronic components. 
+3. Design and analyze the characteristics of digital integrated circuits. 
+4. Design and analyze the frequency response of analog integrated circuits. 
+5. Design current sources and current mirrors and Draw the layout of different schematics. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+MTVL6504 
+Course Objectives  
+EMBEDDED SYSTEMS  LABORATORY L T P C 
+0 
+1. To interface sensors and display devices with microcontroller.  
+2. To program timers and UART in a microcontroller.  
+3. To understand I2C and CAN protocols.  
+4. To understand concepts of scheduling, semaphores and deadlocks using RTOS.  
+5. To design a real – time data acquisition system.  
+List of Experiments:  
+1. Interfacing sensors and actuators with microcontroller.  
+2.  Configuration and programming timers and UART in microcontroller.  
+3.  Interfacing LCD and OLED display modules with microcontroller.  
+4.  Simulation of I2C and CAN protocols.  
+0 
+5. Simple task scheduling using freeware RTOS.  
+6. Exploration on semaphores, deadlocks using RTOS.  
+7. Exploration of any one SOC architecture using RTOS.  
+8. Study of Edge AI platform on any one of the embedded processors.  
+9. Design of a real – time data acquisition system and control using a microcontroller.  
+10. Design of an IoT based system.  
+Hardware/Software Requirements  
+1. Any microcontroller  
+2.   RTOS Freeware 
+Course Outcomes  
+1. Interface a microcontroller with input – output devices.  
+2. Understand I2C and CAN protocols.  
+3. Explore concepts in RTOS.  
+4. Design a real – time embedded system.  
+5. Analyse design requirements of an IoT based system.  
+References  
+1. Frank Vahid and Tony Gwargie, “Embedded System Design”, John Wiley & Sons, 2009.  
+2. Steve Heath, “Embedded System Design”, Elsevier, Second Edition, 2004.  
+4 2 
+3. Bruce Powel Douglas, “Real Time UML, Second Edition: Developing Efficient Objects for 
+Embedded Systems”, 3rd Edition 2004, Pearson Education  
+4. Daniel W.Lewis, “Fundamentals of Embedded Software where C and Assembly Meet”, Pearson 
+Education, 2004  
+5. Bruce Powel Douglas, “Real Time UML; Second Edition: Developing Efficient Objects for 
+Embedded Systems”, 3rd Edition 1999, Pearson Education.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6904 
+Course Description 
+UNIVERSAL HUMAN VALUES AND 
+PROFESSIONAL ETHICS 
+3 
+0 
+0 
+3 
+Every human being has two sets of questions to answer for his life: a) what to do? and, b) how to do?. 
+The first set pertains to the value domain, and the other to the skill domain. Both are complimentary, 
+but value domain has a higher priority. Today, education has become more and more skill biased, and 
+hence, the basic aspiration of a human being, that is to live with happiness and prosperity, gets defeated, 
+in spite of abundant technological progress. This course is aimed at giving inputs that will help to 
+ensure the right understanding and right feelings in the students in their life and profession, enabling 
+them to lead an ethical life. In this course, the students learn the process of selfexploration, the 
+difference between the Self and the Body, the naturally acceptable feelings in relationships in a family, 
+the comprehensive human goal in the society, the mutual fulfillment in the nature and the coexistence 
+in existence. As a natural outcome of such inputs, they are able to evaluate an ethical life and profession 
+ahead.  
+Course Objectives  
+1. To help students distinguish between values and skills, and understand the need, basic 
+guidelines, content and process of value education.  
+2. To help students initiate a process of dialog within themselves to know what they ‘really want 
+to be’ in their life and profession  
+3. To help students understand the meaning of happiness and prosperity for a human being.  
+4. To facilitate the students to understand harmony at all the levels of human living, and live 
+accordingly.  
+5. To facilitate the students in applying the understanding of harmony in existence in their 
+profession and lead an ethical life 
+UNIT-I                   
+6 Hrs.  
+Course Introduction - Need, Basic Guidelines, Content and Process for Value Education: 
+Understanding the need, basic guidelines, content and process for Value Education, Self-Exploration
+what is it? - its content and process; ‘Natural Acceptance’ and Experiential Validation- as the 
+mechanism for self-exploration, Continuous Happiness and Prosperity- A look at basic Human 
+Aspirations, Right understanding, Relationship and Physical Facilities- the basic requirements for 
+fulfilment of aspirations of every human being with their correct priority, Understanding Happiness 
+and Prosperity correctly- A critical appraisal of the current scenario, Method to fulfil the above human 
+aspirations: understanding and living in harmony at various levels. 
+UNIT-II                   
+6 Hrs.  
+Understanding Harmony in the Human Being - Harmony in Myself: Understanding human being 
+as a co-existence of the sentient ‘I’ and the material ‘Body’, Understanding the needs of Self (‘I’) and 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+‘Body’ - Sukh and Suvidha, Understanding the Body as an instrument of ‘I’ (I being the doer, seer and 
+enjoyer), Understanding the characteristics and activities of ‘I’ and harmony in ‘I’, Understanding the 
+harmony of I with the Body: Sanyam and Swasthya; correct appraisal of Physical needs, meaning of 
+Prosperity in detail, Programs to ensure Sanyam and Swasthya. 
+UNIT-III                   
+6 Hrs.  
+Understanding Harmony in the Family and Society- Harmony in Human-Human Relationship:  
+Understanding harmony in the Family- the basic unit of human interaction , Understanding values in 
+human-human relationship; meaning of Nyaya and program for its fulfillment to ensure Ubhay-tripti; 
+Trust (Vishwas) and Respect (Samman) as the foundational values of relationship, Understanding the 
+meaning of Vishwas; Difference between intention and competence, Understanding the meaning of 
+Samman, Difference between respect and differentiation; the other salient values in relationship, 
+Understanding the harmony in the society (society being an extension of family): Samadhan, Samridhi, 
+Abhay, Sah-astitva as comprehensive Human Goals, Visualizing a universal harmonious order in 
+societyUndivided Society (AkhandSamaj), Universal Order (SarvabhaumVyawastha )- from family to 
+world family! 
+UNIT-IV                   
+6 Hrs.  
+Understanding Harmony in the Nature and Existence - Whole existence as Co-existence:  
+Understanding the harmony in the Nature, Interconnectedness and mutual fulfillment among the four 
+orders of nature- recyclability and self-regulation in nature, Understanding Existence as Co-existence 
+(Sah-astitva) of mutually interacting units in all-pervasive space, Holistic perception of harmony at all 
+levels of existence. 
+UNIT-V                   
+6 Hrs.  
+Implications of the above Holistic Understanding of Harmony on Professional Ethics:  Natural 
+acceptance of human values, Definitiveness of Ethical Human Conduct, Basis for Humanistic 
+Education, Humanistic Constitution and Humanistic Universal Order, Competence in Professional 
+Ethics: a) Ability to utilize the professional competence for augmenting universal human order, b) 
+Ability to identify the scope and characteristics of people-friendly and eco-friendly production 
+systems, technologies and management models, Case studies of typical holistic technologies, 
+management models and production systems, Strategy for transition from the present state to Universal 
+Human Order: a) At the level of individual: as socially and ecologically responsible engineers, 
+technologists and managers, b) At the level of society: as mutually enriching institutions and 
+organizations. 
+Course Outcomes 
+On completion of this course, the students will be able to  
+1. Understand the significance of value inputs in a classroom, distinguish between values and 
+skills, understand the need, basic guidelines, content and process of value education, explore 
+the meaning of happiness and prosperity and do a correct appraisal of the current scenario in 
+the society  
+2. Distinguish between the Self and the Body, understand the meaning of Harmony in the Self the 
+Co-existence of Self and Body.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+3. Understand the value of harmonious relationship based on trust, respect and other naturally 
+acceptable feelings in human-human relationships and explore their role in ensuring a 
+harmonious society  
+4. Understand the harmony in nature and existence, and work out their mutually fulfilling 
+participation in the nature.  
+5. Distinguish between ethical and unethical practices, and start working out the strategy to 
+actualize a harmonious environment wherever they work.     
+Text Book 
+1. 
+R R Gaur, R Sangal, G P Bagaria, 2009, A Foundation Course in Human Values and 
+Professional Ethics. 
+Reference Books 
+1. Ivan Illich, 1974, Energy & Equity, The Trinity Press, Worcester, and Harper Collins, USA  
+2. E.F. Schumacher, 1973, Small is Beautiful: a study of economics as if people mattered, Blond 
+& Briggs, Britain.  
+3. Sussan George, 1976, How the Other Half Dies, Penguin Press. Reprinted 1986, 1991  
+4. Donella H. Meadows, Dennis L. Meadows, Jorgen Randers, William W. Behrens III, 1972, 
+Limits to Growth – Club of Rome’s report, Universe Books.  
+5. A Nagraj, 1998, Jeevan Vidya Ek Parichay, Divya Path Sansthan, Amarkantak.  
+6. P L Dhar, RR Gaur, 1990, Science and Humanism, Commonwealth Publishers.  
+7. A N Tripathy, 2003, Human Values, New Age International Publishers.  
+8. SubhasPalekar, 2000, How to practice Natural Farming, Pracheen (Vaidik) KrishiTantraShodh, 
+Amravati.  
+9. E G Seebauer & Robert L. Berry, 2000, Fundamentals of Ethics for Scientists & Engineers , 
+Oxford University Press  
+10. M Govindrajran, S Natrajan & V.S. Senthil Kumar, Engineering Ethics (including Human 
+Values), Eastern Economy Edition, Prentice Hall of India Ltd.  
+11. B P Banerjee, 2005, Foundations of Ethics and Management, Excel Books.  
+12. B L Bajpai, 2004, Indian Ethos and Modern Management, New Royal Book Co., Lucknow. 
+Reprinted 2008. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6601 
+Course Description 
+DATA CONVERTERS 
+3 
+0 
+0 
+3 
+This course introduces the student, working principles of Data converters and their architectures. The 
+first unit introduces high-speed comparators and front-end circuits of data converters such as sample 
+and hold circuits, and their circuit realizations. The second unit introduces ContinuousTime Filters 
+and discrete-time signals and systems. The third unit introduces Switched-Capacitor circuits and 
+fundamentals of data converters. The last two units introduce Nyquist-Rate Data converters and 
+Oversampled converters.  
+Course Objectives  
+1. To introduce Op-Amp comparators, and circuit realizations and to analyze their performance.  
+2. To familiarize Sample-And-Hold circuits, and their realizations, like CMOS, BiCMOS and 
+Bipolar realizations.  
+3. To explain Continuous-Time Filters and to introduce filter design based on OTA and using 
+fixed resistors.    
+4. To introduce Switched-Capacitor Circuits, and to analyze and derive transfer functions of 
+higher order filters, and to explore issues like charge injection.  
+5. To explain fundamentals of Data converters and to analyze their performance specifications.  
+6. To introduce Sampling theorem and illustrate its application in the design of sampled rate data 
+converters.  
+7. To explain about the importance of oversampling and to illustrate oversampling in the design 
+of data converters.  
+UNIT-I                                         
+10Hrs.  
+Comparators: Comparator specifications, using an op-amp for a comparator, charge-injection errors, 
+latched comparators, examples of CMOS and BiCMOS comparators. Sample-And-Hold and 
+Translinear Circuits: Performance of sample-and-hold circuits, MOS sample-and-hold basics, 
+examples of CMOS s/h circuits, bipolar and BICMOS sample and holds, translinear gain cell, 
+translinear multiplier.  
+UNIT-II                                         
+10Hrs.  
+Continuous-Time Filters: Introduction to continuous-time filters, introduction to gm-c filters, 
+transconductors using fixed resistors, CMOS transconductors using active transistors, BiCMOS 
+transconductors, active RC and MOSFET-C filters, Discrete-Time Signals: Overview of some signal 
+spectra, Laplace transforms of discrete-time signals, spectra of discrete-time signals, z-transform, 
+down sampling and up sampling, discrete-time filters, Sample-and-hold response.   
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+8 Hrs.  
+UNIT-III                                        
+Switched-Capacitor Circuits: Basic building blocks, basic operation and analysis, noise in switched
+capacitor circuits, first-order filters, Biquad filters, charge injection, switched-capacitor gain circuits, 
+Data Converter Fundamentals: Ideal D/A converter, ideal A/D converter, quantization noise, 
+deterministic approach, stochastic approach, signed codes, performance limitations, resolution, offset 
+and gain error, accuracy and linearity. 
+UNIT-IV                                       
+10 Hrs.  
+Nyquist-Rate D/A Converters: Decoder-based converters, binary-scaled converters, thermometer
+code converters, hybrid converters, Nyquist-rate A/D converters: integrating converters, successive
+approximation converters, pipelined A/D converters, flash converters, issues in designing flash A/D 
+converters, two-step A/D converters. 
+UNIT-V                                         
+7 Hrs.  
+Oversampling Converters: Oversampling without noise shaping, oversampling with noise shaping, 
+system architectures, digital decimation filters, higher-order modulators, bandpass oversampling 
+converters, practical considerations.  
+Course Outcomes  
+After successful completion of the course, the student will be able to    
+1. design and analyze Nyquist rate sampled and over sampled Data converters  
+2. design and analyze High speed comparators  
+3. design and analyze Switched capacitor circuits  
+4. design and analyze Continuous-time and Discrete-time filters  
+5. design and analyze Sample and hold systems  
+Text Books  
+1. Tony Chan Carusone, Kenneth W, Martin, David A, Johns, Analog Integrated Circuit Design, 
+2nd Edition, Wiley Publications 2011,  
+2. Allen Holberg, CMOS Analog Circuit Design, 2/e, Oxford Publications, 2012  
+References  
+1. CMOS Data Converters for Communication - M, Gustavsson, J, Wikner, and N, Tan, Kluwer 
+Academic Publishers, 2009.  
+2. Behzad Razavi, Principles of Data Conversion System Design, IEEE Press, 2010.  
+3. CMOS Mixed Signal Design, Baker Li, Boyce, Wiley Publications, 2011.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6602 
+Course Description 
+LOW POWER VLSI DESIGN 
+3 
+0 
+0 
+3 
+This course introduces the student, to Low Power in CMOS VLSI Circuit Design. The first unit covers 
+the physics of power dissipation in MOSFET devices and circuits. The second unit describes power 
+estimation and design & test of low-voltage CMOS circuits. The third unit explains low-energy 
+computing using energy recovery techniques. The fourth unit gives details for Minimizing Energy 
+Consumption and sub-threshold digital logic. The last unit describes the design of sub-threshold 
+memory design.  
+Course Objectives  
+1. To familiarize the physics and various types of Power Dissipation in CMOS.  
+2. To explain Power Estimation in CMOS.  
+3. To impart the knowledge of Design and Test of Low Voltage CMOS Circuits.  
+4. To introduce Low Energy Computing using Energy Recovery Techniques.  
+5. To describe Inverter and SRAM in subthreshold.   
+UNIT-I                  
+5 Hrs.  
+Physics of Power Dissipation in CMOS FET Devices: Physics of power dissipation in MOSFET 
+devices, power dissipation in CMOS, low power VLSI design limits.  
+UNIT-II                  
+12 Hrs.  
+Power Estimation: Modeling of signals, signal probability calculation, probabilistic techniques for 
+signal activity estimation, statistical techniques, estimation of glitching power, sensitivity analysis. 
+Design and Test of Low Voltage CMOS Circuits: Circuit design style, leakage current in deep sub 
+micrometer transistors, deep submicrometer device design issues, key to minimizing SCE, low voltage 
+circuit design techniques.  
+UNIT-III                  
+8 Hrs.  
+Low Energy Computing using Energy Recovery Techniques: Energy dissipation in transistor 
+channel using an RC model, energy recovery circuit design, designs with partially reversible logic  
+UNIT-IV                  
+10 Hrs.  
+Minimizing energy consumption: Modelling minimum energy consumption, minimum energy point 
+dependencies. Digital Logic: Inverter operation in Sub threshold, Sub threshold CMOS logic cell 
+library.   
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+10 Hrs.  
+UNIT-V                  
+Sub threshold Static RAM: SRAM over view, 6 Transistor SRAM bit cell in sub threshold, write 
+operation, read operation, Static noise margin in sub threshold, A sub threshold bit cell design, 
+reducing voltage swings on bit lines, reducing power in write driver circuits, reducing power in sense 
+amplifier circuits.   
+Course Outcomes:  
+After successful completion of the course, the student will be able to  
+1. Describe the physics of power dissipation in MOSFET   
+2. List and describe various leakage power in CMOS.  
+3. Identify low energy computing using energy recovery techniques   
+4. Analyze and design minimum energy consumption circuits 
+5. Explain the principles and operation of Inverter and SRAM in subthershold 
+Text Books   
+1. Kaushik Roy &Sharat C. Prasad, Low Power CMOS VLSI Circuit Design, John Wiley and 
+Sons, 2012. 2. Jan Rabaey, Low Power Design Essentials, Springer Publications, 2011.  
+2. Lice Wang,Benton Highsmith Calhoun, Anantha P Chandrakasan,  Sub Threshold Design for 
+Ultra- Low Power Systems, Springer Publications,2005  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6603 
+Course Description 
+ADVANCED LOGIC SYNTHESIS 
+3 
+0 
+0 
+3 
+This course introduces the student, to Synthesis flow, coding related to synthesis, setting the 
+environment & logical libraries, setting synthesis constraints, perform synthesis using EDA tools, 
+analyzing the synthesis reports Principles of RTL Design, optimization of design. Moreover, logic 
+synthesis makes it possible to re-target a given design to new and emerging semiconductor 
+technologies.  
+Course Objectives 
+1. To learn High-Level Design Methodology and overview of design flow 
+coding skills relevant to synthesis of logic circuits.  
+2. To understand importance of libraries in synthesis flow  
+3. To design logic to meet specifications and optimization   
+4. To understand the design constrains related to FSM  
+UNIT-I                  
+To learn the 
+10 Hrs.  
+High-Level Design Methodology Overview: ASIC Design Flow Using Synthesis, HDL Coding, 
+RTL Behavioral and Gate-Level Simulation, Logic Synthesis, Design for Testability, Design ReUse, 
+Behavioral Synthesis & Concepts. Design Analyzer and Design compiler, Target Library, Link 
+Library, and Symbol Library, Cell names, Instance names, and   VHDL Libraries in the Synthesis 
+Environment, Synthesis, Optimization and Compile, Classic Scenarios   
+UNIT-II                  
+10 Hrs.  
+VHDL/Verilog Coding for Synthesis: General HDL Coding Issues, VHDL vs. Verilog: The 
+Language Issue, Finite State Machines, HDL Coding Examples, Classic Scenarios.  
+UNIT-III                 
+10 Hrs.  
+Links to Layout, Motivation for Links to Layout Floor planning, Link to Layout Flow Using 
+Floorplan Manager, Creating Wire Load Models after Back-Annotation Re-Optimizing Designs after 
+P&R. Design for Testability: Introduction to Test Synthesis, Test Synthesis Using Test Compiler 
+UNIT-IV                  
+10 Hrs.  
+Constraining and Optimizing Designs: Synthesis Background, Clock Specification for Synthesis, 
+Design Compiler Timing Reports, Commonly Used Design, Compiler Commands, Strategies for 
+Compiling Designs, Typical Scenarios When Optimizing Designs, Guidelines for Logic Synthesis, 
+Classic Scenarios.  
+M.Tech. (VLSI Design and Embedded Systems) 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+ 
+ 
+ 
+UNIT-V                  10 Hrs.  
+Constraining and Optimizing Designs for FSM: Finite State Machine (FSM) Synthesis, Fixing  
+Min Delay Violations Technology Translation, Translating Designs with Black-Box Cells, Pad 
+Synthesis, Classic Scenarios  
+ 
+Course Outcomes  
+  
+After successful completion of the course, the student will be able to  
+  
+1. understand synthesis Flow and optimization  
+2. understand synthesizable coding concepts  
+3. analyze physical design concepts  
+4. understand efficient way of giving constrains  
+5. analyze constraining and Optimizing Designs for FSM  
+ 
+Text Book  
+1. Kurup Pran, Taher Abbasi, Logic Synthesis using Synopsys, 2/e, Pearson Education, 2007.   
+ 
+References  
+1. VHDL for Logic Synthesis, Third Edition. Andrew Rushton. © 2011 John Wiley & Sons, Ltd. 
+Published 2011 by John  Wiley & Sons, Ltd.  
+2. Weng Fook Lee, VHDL Coding and Logic Synthesis with Synopsys, Academic Press, 2000  
+3. Morris Mano, Michael D. Ciletti, Digital Design , 4/e, Prentice Hall of India, 2008  
+4. Himanshu Bhatnagar, Advanced ASIC Chip Synthesis, Springer Science, 2013  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6604 
+VLSI TESTING AND VERIFICATION 
+Course Description 
+3 
+0 
+0 
+3 
+This course discusses different aspects of VLSI testing and formal verification of 
+designs. Design and manufacturing defect models are introduced along with test 
+generation and fault simulation algorithms targeting the different fault models. Both 
+combinational and sequential logic testing are covered, and different synthesis for 
+testability schemes such as BIST (Built-In-Self-Test), scan path design, etc. are 
+introduced. Other new and emerging test and verification techniques are also 
+discussed. 
+Course objectives 
+In this course student will learn about testable design, test generation algorithms for 
+combinational and sequential circuits, design verification and verification tools, timing 
+and physical design verification. 
+UNIT-I                                        
+10 Hrs.  
+Introduction to Testing: Testing Philosophy, Role of Testing, Digital and Analog VLSI 
+Testing, VLSI Technology Trends Affecting Testing. Faults in Digital Circuits: Failures 
+and Faults, Modeling of Faults, Temporary Faults. 
+Test Generation for Combinational Logic Circuits: Fault Diagnosis of Digital 
+Circuits, Test Generation Techniques for Combinational Circuits, Detection of Multiple 
+Faults in Combinational Logic Circuits. 
+UNIT-II                                        
+10 Hrs.  
+Design of Testable Sequential Circuits: Controllability and Observability, Ad Hoc 
+Design Rules for Improving Testability, Design of Diagnosable Sequential Circuits, The 
+Scan-Path Technique for Testable Sequential Circuit Design, Level- Sensitive Scan 
+Design, Random Access. 
+Scan Technique, Partial Scan, Testable Sequential Circuit Design Using Nonscan 
+Techniques, Cross Check, Boundary Scan. Built-In Self- Test: Test Pattern 
+Generation for BIST, Output Response Analysis, Circular BIST, BIST Architectures. 
+UNIT-III                                        
+8 Hrs.  
+Testable Memory Design: RAM Fault Models, Test Algorithms for RAMs, Detection 
+of Pattern Sensitive Faults, BIST Techniques for Ram Chips, Test Generation and BIST 
+for Embedded RAMs. 
+Importance of Design Verification: What is verification?  What is attest bench? The 
+importance of verification, Reconvergence model, Formal verification, Equivalence 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+checking, Model checking, Functional verification. 
+UNIT-IV                                         
+9 Hrs.  
+Verification Tools: Linting tools: Limitations of linting tools, linting verilog source code, 
+linting VHDL source code, linting Open Vera and source code, code reviews. Simulators: 
+Stimulus and response, Event based simulation, cycle based simulation, Co-simulators, 
+verification intellectual property: hardware modelers, waveform viewers.                  
+The verification plan: The role of verification plan:  specifying the verification plan, 
+defining the first success.  
+Levels of verification:  unit level verification, reusable components verification, ASIC and 
+FPGA verification, system level verification, board level verification, verifying strategies, 
+verifying responses.  
+UNIT-V                                         
+8 Hrs.  
+Static Timing Verification: Concept of static timing analysis. Cross talk and noise. 
+Limitations of STA. slew of a wave form, Skew between the signals, Timing arcs and 
+unateness, Min and Max timing paths, clock domains, operating conditions, critical path 
+analysis, false paths, Timing 
+Models.  
+Physical Design Verification: Layout rule checks and electrical rule checks. Parasitic 
+extraction. Antenna, Crosstalk and Noise: Cross talk glitch analysis, crosstalk delay 
+analysis, timing verification. 
+Course outcomes 
+At the end of the course, student will be able to 
+1. Identify the significance of testable design 
+2. Implement combinational 
+and sequential circuit test generation 
+algorithms 
+3. Understand the importance of Design verification 
+4. Learn verification tools. 
+5. Analyze the static timing verification and physical design verification. 
+Text Books 
+1. P. K. Lala, “Digital Circuit Testing and Testability”, Academic Press 
+2. M.L. Bushnell and V.D. Agrawal, “Essentials of Electronic Testing for Digital, 
+Memory and Mixed-Signal VLSI Circuits”, Kluwar Academic Publishers. 
+Reference Books 
+1. M. Abramovici, M.A. Breuer and A.D. Friedman, "Digital Systems     
+Testable Design", Jaico Publishing House, 2002. 
+and 
+2. JanickBergeron, “Writing testbenches: functional verification of HDL models”, 
+2nd edition ,Kluwer Academic Publishers,2003 
+3. JayaramBhasker,RakeshChadha ,“Static Timing Analysis for Nanometer 
+Designs” A practical approach, Springer publications 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6605 
+PHYSICAL DESIGN AUTOMATION 
+Course Description  
+3 
+0 
+0 
+3 
+VLSI Physical Design Automation is essentially the research, development and 
+productization of algorithms and data structures related to the physical design process 
+Course objectives 
+1. Understand the concepts of Physical Design Process such as partitioning, Floorplanning, 
+Placement and Routing. 
+2. Discuss the concepts of design optimization algorithms and their application to physical design 
+automation. 
+3. Understand the concepts of simulation and synthesis in VLSI Design Automation 
+4. Formulate CAD design problems using algorithmic methods 
+UNIT-I                 
+6 Hrs.  
+Data Structures and Basic Algorithms: Basic terminology, complexity issues and np-hardness, basic 
+algorithms, basic data structures, graph algorithms for physical design.  
+UNIT-II                
+9 Hrs.  
+Partitioning: Problem formulation, classification of partitioning algorithms, group migration 
+algorithms, simulated annealing and evolution, other partitioning algorithms, performance driven 
+partitioning. 
+UNIT-III                 
+10 Hrs.  
+Floorplanning and Pin Assignment: Floor-planning, chip planning, pin assignment, Global routing: 
+problem formulation, classification of global routing, maze routing algorithms, line-probe algorithms, 
+shortest path based algorithms, steiner tree based algorithms integer programming based approach, 
+performance driven routing. 
+UNIT-IV                  
+10 Hrs.  
+Detailed Routing: Problem formulation, classification of routing algorithms, single-layer routing 
+algorithms, two-layer channel routing algorithms, three-layer channel routing algorithms, multi-layer 
+channel routing algorithms, switchbox routing algorithms. 
+UNIT-V                  
+10 Hrs.  
+Over-the-Cell Routing and Via Minimization: Over-the-cell routing, via minimization, clock and 
+power routing: clock routing, power and ground routing, Compaction: Problem formulation, 
+classification of compaction algorithms, one-dimensional compaction, two-dimensional compaction. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Course Outcomes 
+1. Students are able to know how to place the blocks and how to partition the blocks while for 
+designing the layout for IC. 
+2. Students are able to solve the performance issues in circuit layout. 
+3. Students  are  able  to  analyze  physical  design  problems  and  Employ  appropriate  automation 
+algorithms for partitioning, floor planning, placement and routing 
+4. Students are able to decompose large mapping problem into pieces, including logic 
+optimization with partitioning, placement and routing 
+5. Students are able to analyze circuits using both analytical and CAD tools 
+Text Books 
+1.   S.H.  Gerez, “Algorithms for VLSI Design Automation”,  John Wiley ,1998. 
+2.   N.A.Sherwani ,  “Algorithms for VLSI Physical Design Automation”, (3/e),  Kluwer,1999. 
+References 
+1. Sung Kyu Lim, Practical Problems for VLSI Physical Design Automation, Springer 
+Publications, 2011. 
+2. Majid Sarrafzadeh and C, K, Wong, An Introduction to VLSI Physical Design, McGraw Hill, 
+2012. 
+3. Hill & Peterson, Computer Aided Logical Design with Emphasis on VLSI, Wiley, 2011. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6606 
+Course Description 
+C-BASED VLSI DESIGN 
+3 
+0 
+0 
+3 
+The C-Based VLSI Design syllabus includes advanced topics like HLS for Security, 
+HLS for FPGA targets, HLS verification, and RTL optimizations difficulties will be 
+discussed. This course will prepare the candidate to do research in the field of HLS 
+UNIT-I                                        
+10 Hrs.  
+Introduction: Levels of abstraction – Synthesis – Languages, Design and Technologies – Essential 
+issues in synthesis – Status and future of high-level synthesis. Architectural Models in Synthesis: 
+Design styles and target architectures – Combinational logic – Fin 
+ite state machines – System architecture – Engineering considerations. Quality Measures: 
+Relationship between structural and physical designs – Area measures – Performance measures – Other 
+measures. 
+UNIT-II                                        
+10 Hrs.  
+Design Description Languages: Introduction to HDLs – Language models vs architectural styles – 
+Programming language features for HDLs – Hardware-specific HDL features – HDL formats – 
+Modeling guidelines for HDLs. Design Representation and Transformations: Design flow in high
+level synthesis: An example – HDL compilation – Representation of HDL behavior – Representation 
+of HLS outputs – Transformations. 
+UNIT-III                                
+7 Hrs.  
+Partitioning: Introduction – Basic partitioning methods – Partitioning in high-level synthesis. 
+Scheduling: Problem definition – Basic scheduling algorithms – Scheduling with relaxed assumptions – Other scheduling formulations. 
+UNIT-IV                              
+10 Hrs.  
+Allocation: Problem definition – Datapath architectures – Allocation tasks – Greedy constructive 
+approaches – Decomposition approaches – Iterative refinement approach. Design Methodology for 
+High-Level Synthesis: Basic concepts – Generic synthesis system – System synthesis – Chip synthesis – Logic and sequential synthesis – Physical-design methodology – System database – Component 
+database – Conceptualization environment. 
+UNIT-V                               
+8 Hrs.  
+System Implementation: Overview of Hercules and Hebe systems. Experimental Results: Design 
+experiences: Ethernet co-processor, Digital audio I/O chip, Raster line design, Error correcting codes, 
+Greatest common divisor – Synthesis of benchmark examples. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Course Outcomes 
+This course will help the student to 
+1. Understand the overall HLS flow,  
+2. How a C-code will be converted to its equivalent hardware, 
+3. How to write c-code for efficient hardware generation and  
+4. How the common software compiler optimization can help to improve the circuit 
+performance. 
+5. Understand  the System Implementation 
+Text Books 
+1. Daniel D Gajski, Nikil D Dutt, Allen C-H Wu and Steve Y-L Lin, “High-Level Synthesis: 
+Introduction to Chip and System Design”, Springer Science + Business Media New York, 
+1st Edition, 1992.  
+2. David C Ku and Giovanni De Micheli, “High Level Synthesis of ASICs under timing and 
+synchronization constraints”, Springer Science + Business Media New York, 1st Edition, 
+1992. 
+Reference Books 
+1. Giovanni De Micheli, “Synthesis and Optimization of Digital Circuits”, McGraw Hill, 
+India Edition, 2003.  
+2. Mike Fingeroff, “High Level Synthesis Blue Book”, Mentor Graphics Corporation, 2010. 
+3. Philippe Coussy and Adam Moraweic, “High-Level Synthesis: From Algorithm to Digital 
+Circuits”, Springer, 2008.  
+4. https://nptel.ac.in/courses/106103229 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6607 
+Course Description 
+EMBEDDED LINUX 
+3 
+0 
+0 
+3 
+This course introduces the students; to embedded systems develop applications using linux 
+programming. The first unit covers the basic concepts of linux and its architecture. The next two units 
+cover linux tools chain and linux kernel insights. The last two units cover file management in linux 
+and memory management.  
+Course objectives  
+1. To study about the generic architecture of an embedded linux system and basic concepts of 
+LINUX.  
+2. To study about the buses, I/O interfaces, Programming languages implementation in LINUX.  
+3. To study about the LINUX Kernel and basic terminology in embedded linux.  
+4. To study about the file systems, library, boot loader and universal boot loader in embedded 
+linux.  
+5. To study about the storage device manipulation in embedded linux.  
+UNIT-I                    
+8 Hrs.  
+Introduction: Definitions, real life and embedded linux systems, example multi component system, 
+design and implementation methodology. Basic Concepts: types of hosts, types of host/target 
+development setups, types of host/target debug setups, generic architecture of an embedded linux 
+system, system startup, types of boot configurations, system memorylayout. 
+UNIT-II                   
+9 Hrs.  
+Hardware Support: Processor architectures, buses and interfaces, I/O, storage, general purpose 
+networking, industrial grade networking, system monitoring. Development Tools: using a practical 
+project workspace, GNU cross-platform development tool chain, C library alternatives, Java, Perl, 
+Ada, other programming languages, integrated development environments, terminal emulators. 
+UNIT-III                  
+10 Hrs.  
+The Linux Kernel: Top-level source directory, compiling the kernel, the kernel proper: vm linux, 
+kernel image components, subdirectory layout, the dot-config, make file targets, custom configuration 
+options, kernel make files, obtaining accustomlinux kernel. Kernel Initialization, Composite kernel 
+image: piggy and friends, the image object, architecture objects, bootstrap loader, boot messages, 
+initialization flow of control, kernel entry point: head O, kernel startup: main.C, architecture setup, 
+kernel command- line processing, the setup macro, subsystem initialization, the initcall macros, the 
+init thread, initialization via initcalls, initcall debug, finalbootsteps 
+UNIT-IV                 
+10 Hrs.  
+Root File System Content: Basic root file system structure, libraries, kernel Units, kernel images, 
+device files, main system applications, custom applications, system initialization. boot loaders, role of 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+a boot loader, boot loader challenges, DRAM controller, flash versus RAM, image complexity, 
+execution context, a universal boot loader: Das U-Boot, obtaining U-Boot, configuring U- Boot, U
+Boot monitor commands, porting U-Boot, EP405 U-Boot port. 
+UNIT-V                    
+8 Hrs.  
+Storage device manipulation: MTD-supported devices, disk devices, to swap or not to swap, setting 
+up the boot loader: boot loaders galore, server setup for network boot, using LILO with disk and 
+compact flash devices, using grub with disk on chip devices, U-Boot. 
+Course Outcomes  
+Successful completion of the course, the student will be able to  
+1. the student will be able to understand the architecture of an embedded linux system  
+2. the student will be able to understand the Programming languages implementation in  
+Embedded linux  
+3. the student will understand the linux kernel and terminology in embedded linux  
+4. the student will be able to understand the creation of files and loading the universal boot 
+loader in the processor  
+5. the student will be able to understand the storage device manipulation in embedded linux  
+Text Books  
+1. Building Embedded Linux Systems by Karim Yaghmour, Jon Masters, Gilad Ben- Yossef, 
+Philippe Gerum, 2/e, O'ReillyMedia,2008.  
+2. Embedded Linux Primer:35A Practical Real-World Approach, Christopher Hallinan, 2/e, 
+Prentice Hall,2011.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6608 
+EMBEDDED SOFTWARE TESTING 
+Course Description and Objectives  
+3 
+0 
+0 
+1. This course covers basic fundamentals of embedded software testing and life cycle. 
+2. Covers about dynamic, model based and coverage testing. 
+3. To study about test management and testing from use cases. 
+UNIT-I                                        
+3 
+10 Hrs.  
+Fundamentals of embedded software testing:  Introduction, Concepts of Testing, TEmb method, 
+Test cases and test procedures, Principles of embedded software testing, creating a test harness, 
+Commercial test tools. Software testing life cycle: multiple V-model, nested multiple V-model, master 
+test planning, activities, testing by developers, testing by independent test team..  
+UNIT-II                                         
+Testing Methods:  
+9 Hrs.  
+Dynamic Testing: Structured basis testing, Equivalence Partitions, Boundary Value Analysis, 
+Problems with polymorphic code Model-Based Testing: Synthesis- versus Analysis models, 
+Generating tests from state diagrams  
+Coverage Testing: White-box, grey and black box tests, Coverage measures – Statement, Branch, 
+Condition, Path and others, Coverage testing tools 
+UNIT-III                                        
+Static analysis and code reviews:  
+8 Hrs.  
+Code Reviews: Benefits of reviews, Review process, Checklists Static Analysis:Static analysis 
+concepts, the use of the compiler for static analysis, Static analysis tools, coding standards  
+Metrics: need for metrics, Using metrics to manage and control testing, Metrics for test 
+UNIT-IV                                       
+Software Integration:  
+9 Hrs.  
+Software Integration: Importance of planning your integration, Top-down vs Bottom-up Integration, 
+Practical integration models  
+Testing from Use Cases: Introduction to use cases, calculating test cases, Structured Basis testing for 
+use cases, Generating test cases from use cases Regression Testing: Purpose of regression tests, the 
+build process 
+UNIT-V                                         
+Test management: 
+9 Hrs.  
+Configuration Management: Configuration items, Version control, Change Management, CM tools  
+Test Management: The test process, how the test process relates to the software V-model, “Design by 
+contract”, Test-driven development, agile development processes 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Course Outcomes  
+1. Learn about concept of embedded software testing, TEmb method and creating test harness 
+and Embedded software test life cycle, V-model 
+2. Learn about different types of testing methods 
+3. Learn static analysis and metrics 
+4. Learn about top-down, bottom-up integration and testing from use cases 
+5. Learn about test management and configuration management 
+Text Books 
+1. Testing Embedded Software by Bart Broekman, Edwin Notenboom 
+2. https://nptel.ac.in/courses/117106112 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6609 
+LINUX PROGRAMMING AND SCRIPTING 
+Course Description 
+3 
+0 
+0 
+3 
+EDA tools run prominently on Linux platforms due to their security features and modular architecture. 
+Information exchange between typical EDA tools typically involves transformation of data. This 
+course exposes students to different commands related to Linux administration and networking. 
+Further the usage of different scripting languages prominently used in conjunction with EDA tools 
+(Perl, TCL/Tk, Python) is introduced.  
+Course Objectives  
+1. To impart the knowledge of Linux operating system and different commands for file and 
+user administration 
+2. To expose the students to different networking commands used for file transfer, host 
+configuration, IP address look up and remote connection. 
+3. To acquaint the knowledge of Perl scripting and its utility in transformation of EDA output 
+data 
+4. To demonstrate the use of TCL commands as an interface to specify constraints and 
+directives to  EDA tools  
+5. To acquaint the knowledge of Python scripting and its utility in transformation of EDA 
+output data 
+UNIT-I                   
+7 Hrs.  
+Linux Basics: Introduction to linux, file system of the linux, general usage of linux kernel & basic 
+commands, Linux users and group, permissions for file, directory and users, searching a file & 
+directory, zipping and unzipping concepts. 
+UNIT-II                   
+8 Hrs.  
+Linux Networking: Introduction to networking in Linux, network basics & tools, file transfer protocol 
+in Linux, network file system, domain naming services, dynamic hosting configuration protocol & 
+network information services. 
+UNIT-III                  
+10 Hrs.  
+Perl Scripting: Introduction to Perl scripting, working with simple values, lists and hashes, loops and 
+decisions, regular expressions, files and data in Perl scripting, references &subroutines, running and 
+debugging Perl, modules, object-oriented Perl. 
+UNIT-IV                  
+10 Hrs.  
+Tcl/tk Scripting: Tcl fundamentals, string and pattern matching, tcl data structures, control 
+flow commands, procedures and scope, evel, working with Unix, reflection and debugging, script 
+libraries, tk fundamentals, tk by examples, the pack geometry manager, binding commands to x events, 
+buttons and menus, simple tk widgets, entry and listbox widgets focus, grabs and dialogs. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+10 Hrs.  
+UNIT-V                  
+Python Scripting: Introduction to python, using the python interpreter, more control flow tools, data 
+structures, modules, input and output, errors and exceptions, classes, brief tour of the standard library. 
+Course Outcomes 
+Upon successful completion of the course, the student will be able to 
+1. demonstrate the use of  Linux commands for managing files, directories and users 
+2. configure linux system for providing network connections,  DHCP, DNS, FTP services 
+3. write PERL scripts for transforming output data of EDA tools 
+4. write appropriate TCL commands for specifying constraints and driving EDA tools 
+5. write python code for processing output data of automation tools 
+Text Books 
+1. Guido van Rossum and Fred L. Drake Jr., Python Tutorial 
+2. Brent Welch, Practical Programming in Tcl and Tk, Updated for Tcl 7.4 and Tk 4.0 
+3. David Till, Teach Yourself Perl 5 in 21 days 
+4. Red Hat Enterprise Linux 4: System Administration Guide Copyright 2005 Red Hat, Inc 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+MTVT6610 AI INTEGRATION IN EMBEDDED SYSTEMS  L T P C 
+3 
+0 
+Course Description  
+0 
+3 
+This course provides a comprehensive understanding of the integration of artificial intelligence (AI) 
+techniques with embedded systems. It explores the fundamental concepts, methodologies, and practical 
+applications of AI algorithms and their implementation on resource-constrained embedded platforms. 
+The course covers topics such as embedded systems programming, sensor integration, optimisation 
+techniques, machine learning at the edge, real-time decision-making, and security considerations.  
+Course Objectives  
+1. Understand the basics of embedded systems and their relevance to AI integration. 
+2. Gain knowledge of AI algorithms suitable for deployment on embedded systems.  
+3. Develop skills in programming and sensor integration for embedded systems.  
+4. Learn optimisation techniques for AI algorithms on resource-constrained devices.  
+5. Explore machine learning at the edge and its practical implementation on embedded platforms.  
+6. Understand real-time decision-making and control using AI on embedded systems.  
+7. Consider security and privacy aspects in AI-enabled embedded systems.  
+UNIT-I                  
+10 Hrs.  
+Introduction to Embedded Systems and AI Integration - Overview of embedded systems and their 
+applications. - Introduction to AI and its integration with embedded systems. - Challenges and 
+considerations in AI integration for resource-constrained devices. 
+UNIT-II                    
+7 Hrs.  
+Embedded Systems Programming and Sensor Integration - Programming languages for embedded 
+systems (C/C++, Python). - Embedded system development tools and environments. - Sensor types, 
+interfaces, and integration techniques for embedded systems.  
+UNIT-III                    
+8 Hrs.  
+AI Algorithms for Embedded Systems and Optimisation Techniques - Introduction to AI algorithms 
+suitable for embedded systems. - Model compression, quantisation, and selection of appropriate AI 
+algorithms. - Optimisation techniques for AI algorithms on resource-constrained devices.  
+UNIT-IV                             
+10Hrs.  
+Machine learning at the Edge and Real-Time Decision-Making - Deployment of machine learning 
+models on embedded devices. - Neural network architectures for embedded systems. - Real-time 
+systems and scheduling algorithms. - Implementing real-time AI algorithms on embedded systems. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+10 Hrs.  
+UNIT-V                  
+Connectivity, Energy Efficiency, and Security - Edge-to-cloud connectivity and hybrid models. - 
+Energy efficiency and power management techniques for embedded systems. - Security considerations 
+in AI-enabled embedded systems. - Threats, vulnerabilities, and techniques for securing embedded 
+devices and data.  
+Course Outcomes  
+Upon successful completion of the course students,  
+1. 
+Should gain considerable understanding of foundations of artificial        
+(AI) and its applications in embedded systems.  
+2. 
+3. 
+4. 
+5. 
+Be able to design and implement AI-powered embedded systems.  
+intelligence 
+Be able to evaluate the performance of AI-powered embedded systems.  
+Be able to deploy AI-powered embedded systems in real-world applications. 
+Be able to collaborate with other engineers and scientists to develop AI-powered 
+embedded systems.  
+Text Books  
+1. 
+2. 
+3. 
+4. 
+Artificial Intelligence for Embedded Systems by Anant Agarwal and Radhika Nagpal  
+Artificial Intelligence for Embedded Systems: A Hands-on Approach by Davide Pesare  
+Introduction to TinyML by Rohit Sharma.  
+AI at the Edge: Solving Real-World Problems with Embedded Machine Learning by 
+Daniel Situnayake 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6611 
+Course Description 
+MACHINE LEARNING 
+3 
+0 
+0 
+3 
+Machine Learning is the study of how to build computer systems that learn from experience. It is a 
+subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, 
+optimization, and probability theory. 
+Course objectives 
+The objective of the course is 
+1. To understand the basic theory underlying machine learning. 
+2. To be able to formulate machine learning problems corresponding to different applications. 
+3. To understand a range of machine learning algorithms along with their strengths and 
+weaknesses. 
+4. To be able to apply machine learning algorithms to solve problems of moderate complexity. 
+5. To apply the algorithms to a real-world problem, optimize the models learned and report on the 
+expected accuracy that can be achieved by applying the models 
+UNIT-I                   
+8 Hrs.  
+Introduction : Learning Problems – Perspectives and Issues – Concept Learning – Version Spaces 
+and Candidate Eliminations – Inductive bias – Decision Tree learning – Representation – Algorithm – 
+Heuristic Space Search. 
+UNIT-II                 
+10 Hrs.  
+Neural Networks and Genetic Algorithms: Neural Network Representation – Problems – 
+Perceptrons – Multilayer Networks and Back Propagation Algorithms – Advanced Topics – Genetic 
+Algorithms – Hypothesis Space Search – Genetic Programming – Models of Evalution and Learning. 
+UNIT-III                 
+Bayesian and Computational Learning:  
+10 Hrs.  
+Bayes Theorem – Concept Learning – Maximum Likelihood – Minimum Description Length 
+Principle – Bayes Optimal Classifier – Gibbs Algorithm – Naïve Bayes Classifier – BayesianBelief 
+Network – EM Algorithm – Probability Learning – Sample Complexity – Finite and Infinite 
+Hypothesis Spaces – Mistake Bound Model. 
+UNIT-IV                  
+7 Hrs.  
+Instant Based Learning : K- Nearest Neighbour Learning – Locally weighted Regression – Radial 
+Bases Functions – Case Based Learning. 
+M.Tech. (VLSI Design and Embedded Systems) 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+ 
+ 
+ 
+UNIT-V                  10 Hrs.  
+Advanced Learning:   Learning Sets of Rules – Sequential Covering Algorithm – Learning Rule Set – First Order Rules – Sets of First Order Rules – Induction on Inverted Deduction – Inverting 
+Resolution – Analytical Learning – Perfect Domain Theories – Explanation Base Learning – FOCL 
+Algorithm – Reinforcement Learning – Task – Q-Learning – Temporal Difference Learning. “Current 
+Streams of Thought”. 
+ 
+Course Outcomes 
+After completing this course, the student will be able to 
+1. Appreciate the importance of visualization in the data analytics solution 
+2. Apply structured thinking to unstructured problems 
+3. Understand a very broad collection of machine learning algorithms and problems 
+4. Learn algorithmic topics of machine learning and mathematically deep enough to introduce the 
+required theory 
+5. Develop an appreciation for what is involved in learning from data.  
+ 
+ 
+Text Books 
+ 
+1. Marco Gori , Machine Learning: A Constraint-Based Approach, Morgan Kaufmann. 2017 
+2. Ethem Alpaydin, Machine Learning: The New AI, MIT Press-2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6612 
+Course Description 
+CYBER SECURITY               
+3 
+0 
+0 
+3 
+This course provides a comprehensive exploration of the dynamic field of cybersecurity, encompassing 
+essential concepts, threats, protective measures, and ethical considerations. We will acquire the 
+knowledge and skills needed to defend against cyber threats, ensure data integrity and availability, and 
+navigate the complex landscape of cybersecurity. The course aims to equip holistic understanding of 
+cybersecurity principles and practices, fostering the ability to safeguard digital assets in an ever
+evolving digital world. 
+Course Objectives 
+1. 
+2. 
+3. 
+4. 
+5. 
+UNIT- I                         
+Develop a foundational comprehension of cybersecurity concepts, encompassing threats, 
+vulnerabilities, and protective strategies. 
+Identify and categorize common cyber threats, understand their propagation, and 
+implement effective countermeasures. 
+Explore techniques for ensuring data integrity, authentication, and data availability, while 
+comprehending cryptographic controls. 
+Develop skills to respond to cybersecurity incidents, execute disaster recovery plans, and 
+enhance system availability. 
+Analyse the ethical dimensions of cybersecurity, understand professional responsibilities, 
+and uphold ethical standards in the field. 
+9 Hrs 
+Cyber security Essentials and Cube: The Cybersecurity World, Cyber Criminals versus 
+Cybersecurity Specialists, Common Threats, Spreading Cybersecurity Threats, The Three Dimensions 
+of the Cybersecurity Cube, CIA Triad, States of Data, Cybersecurity Countermeasures, IT Security 
+Management Framework.  
+UNIT - II                   
+9 Hrs 
+Cyber security Threats, Vulnerabilities, Attacks and Protecting Secrets: Introduction, 
+Governance, Managing Cloud Security Risk, Compliance, Legal Issues in Cloud, Audit, CSA Tools.  
+UNIT - III                                                   
+9 Hrs 
+Data Integrity: Types of Data Integrity Controls, Digital Signatures, Certificates, Database Integrity 
+Enforcement. 
+UNIT - IV                             
+9 Hrs 
+Data Availability and Recovery: High Availability, Measures to Improve Availability, Incident 
+Response, Disaster Recovery.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+9 Hrs 
+UNIT - V                                      
+Protecting a Cybersecurity Domain: Defending Systems and Devices, Server Hardening, Network 
+Hardening, Physical and Environmental Security, Cybersecurity Domains, Ethics of Working in 
+Cybersecurity. 
+Course Outcomes 
+1. Demonstrate various cyber threats and vulnerabilities, understanding their potential impact on 
+digital assets. 
+2. Implement proactive measures to mitigate cyber threats and protect against common attack 
+vectors. 
+3. Apply cryptographic techniques to ensure data integrity, authenticity, and confidentiality. 
+4. Develop incident response plans and disaster recovery strategies to minimize the impact of 
+cybersecurity incidents. 
+5. Understand to ethical principles and professional responsibilities while making informed 
+decisions in the realm of cybersecurity. 
+Text Books:  
+1. CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide, Mike 
+Chapple, James Michael Stewart and Darril Gibson, 9th Edition 
+2. Cybersecurity: The Beginner's Guide, Dr. Erdal Ozkaya, Packt Publishing Limited, 2019. 
+Reference Books: 
+1. Cybersecurity Essentials, Charles J. Brooks, Christopher Grow, Philip Craig and Donald Short, 
+1st edition, Sybex. 
+2. Network Security Essentials, William Stallings, 6th edition, Pearson Education, 2018. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+MTVT6613 
+Course Description 
+DATA SCIENCE FOR ENGINEERS L T P C 
+3 
+0 
+0 
+3 
+Data science is the domain of study that deals with vast volumes of data using modern tools and 
+techniques to find unseen patterns, derive meaningful information, and make business decisions. Data 
+science uses complex machine learning algorithms to build predictive models. How to collect and 
+manage data responsibly and ultimately use it to make informed decisions. 
+Learning Objectives  
+1. An understanding of the data operations  
+2. An overview of simple statistical models and the basics of machine learning techniques of 
+regression.  
+3. An understanding good practices of data science  
+4. Skills in the use of tools such as python, IDE  
+5. Understanding of the basics of the Supervised learning  
+UNIT I                     
+9 Hrs 
+Introduction, Toolboxes: Python, fundamental libraries for data Scientists. Integrated development 
+environment (IDE). Data operations: Reading, selecting, filtering, manipulating, sorting, grouping, 
+rearranging, ranking, and plotting.  
+UNIT II                     
+9 Hrs 
+Descriptive statistics, data preparation. Exploratory Data Analysis data summarization, data 
+distribution, measuring asymmetry. Sample and estimated mean, variance and standard score. 
+Statistical Inference frequency approach, variability of estimates, hypothesis testing using confidence 
+intervals, using ‘p’ values  
+UNIT III                     
+9 Hrs 
+Supervised Learning: First step, learning curves, training-validation and test. Learning models 
+generalities, support vector machines, random forest. Examples  
+UNIT IV                     
+9 Hrs 
+Regression analysis, Regression: linear regression simple linear regression, multiple & Polynomial 
+regression, Sparse model. Unsupervised learning, clustering, similarity and distances, quality measures 
+of clustering, case study.  
+UNIT V                     
+9 Hrs 
+Network Analysis, Graphs, Social Networks, centrality, drawing centrality of Graphs, PageRank, Ego
+Networks, community Detection  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Course Outcomes 
+By the end of this course the students will be able to, 
+1. Describe what Data Science is and the skill sets needed to be a data scientist.  
+2. Explain the significance of exploratory data analysis (EDA) in data science.  
+3. Ability to learn the supervised learning, SVM.  
+4. Apply basic machine learning algorithms (Linear Regression).  
+5. Explore the Networks, PageRank. 
+Text Books  
+1. Introduction to Data Science a Python approach to concepts, Techniques and Applications, 
+Igual, L;Seghi’, S. Springer, ISBN:978-3-319-50016-4 
+2. Cathy O’Neil and Rachel Schutt, “Doing Data Science”, O'Reilly, 2015.  
+Reference Books 
+1. Jojo Moolayil, “Smarter Decisions: The Intersection of IoT and Data Science”, PACKT, 2016.  
+2. David Dietrich, Barry Heller, Beibei Yang, “Data Science and Big data Analytics”, EMC 2013  
+3. Raj, Pethuru, “Handbook of Research on Cloud Infrastructures for Big Data Analytics”, IGI 
+Global. 
+4. Andrew Park, “Data Science for Beginners”, ISBN: 9798645845551, 2020. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+L T P C 
+MTVT6614 
+Course Description 
+INTERNET OF THINGS 
+3 
+0 
+0 
+3 
+Internet of Things is a course that deals with the study of how devices are connected and how it helps 
+to stay connected over the Internet. The course teaches the individuals on how the Internet of Things 
+is helpful in our daily lives and how to stay connected over the Internet. 
+Course Objectives  
+1. To understand the concepts of Internet of Things and the application of IoT.  
+2. To Determine the Market perspective of IoT.  
+3. To Understand the vision of IoT from a global context  
+UNIT-I                                        
+10 Hrs.  
+IoT & Web Technology, The Internet of Things Today, Time for Convergence, Towards the IoT  
+Universe, Internet of Things Vision, IoT Strategic Research and Innovation Directions, IoT 
+Applications,  Future Internet Technologies, Infrastructure, Networks and Communication, Processes, 
+Data Management, Security, Privacy & Trust, Device Level Energy Issues, IoT Related 
+Standardization, Recommendations on Research Topics.  
+UNIT-II                                         
+9 Hrs.  
+M2M to IoT – A Basic Perspective– Introduction, Some Definitions, M2M Value Chains, IoT Value  
+Chains, An emerging industrial structure for IoT, The international driven global value chain and 
+global information monopolies. M2M to IoT-An Architectural Overview– Building an architecture, 
+Main design principles and needed capabilities, An IoT architecture outline, standards considerations.  
+UNIT-III                                        
+8 Hrs.  
+IoT Architecture -State of the Art – Introduction, State of the art, Architecture. Reference Model 
+Introduction, Reference Model and architecture, IoT reference Model, IoT Reference Architecture 
+Introduction, Functional View, Information View, Deployment and Operational View, Other Relevant 
+architectural views.  
+UNIT-IV                                       
+9 Hrs.  
+IoT Applications for Value Creations Introduction, IoT applications for industry: Future Factory 
+Concepts, Brownfield IoT, Smart Objects, Smart Applications, Four Aspects in your Business to 
+Master IoT, Value Creation from Big Data and Serialization, IoT for Retailing Industry, IoT For Oil 
+and GasIndustry, Opinions on IoT Application and Value for Industry, Home Management, eHealth.  
+UNIT-V                                         
+9 Hrs.  
+Internet of Things Privacy, Security and Governance Introduction, Overview of Governance, Privacy 
+and Security Issues, Contribution from FP7 Projects, Security, Privacy and Trust in IoT-Data
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+Platforms for Smart Cities, First Steps Towards a Secure Platform, Smartie Approach. Data 
+Aggregation for the IoT in Smart Cities, Security  
+Course Outcomes  
+1. Learn basics of IoT and Web Technology and related Standardization  
+2. Use of M2M to IoT Concepts.  
+3. Use of Devices, Gateways and Data Management in IoT.  
+4. Design IoT applications in different domain and be able to analyze their performance  
+5. Implement basic IoT Internet of Things Privacy. 
+Text Book 
+1. Vijay Madisetti and ArshdeepBahga, “Internet of Things: (A Hands-on Approach)”, 
+Universities Press (INDIA) Private Limited 2014, 1st Edition.  
+Reference Books 
+1. Michael Miller, “The Internet of Things: How Smart TVs, Smart Cars, Smart Homes, and 
+Smart  
+2. Cities Are Changing the World”, Pearson Education 2015.  
+3. Francis da Costa, “Rethinking the Internet of Things: A Scalable Approach to Connecting  
+4. Everything”, Apress Publications 2013, 1st Edition.  
+5. Waltenegus Dargie, Christian Poellabauer, "Fundamentals of Wireless Sensor Networks: 
+Theory and  
+6. Practice”, Wiley 2014. 
+7. CunoPfister, “Getting Started with the Internet of Things”, O‟Reilly Media 2011.  
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+M.Tech (VLSI Design and Embedded Systems) 
+III & IV Semester- Detailed Syllabus 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+III Semester 
+MTVI7501 
+Description 
+INTERNSHIP  
+L T P C 
+0 
+0 
+30 15 
+An internship is a professional learning experience that offers meaningful, practical work related to a 
+student's field of study or career interest. An internship gives a student the opportunity for career 
+exploration and development, and to learn new skills. 
+Each student is required to submit a detailed Internship report about the learning work experience on 
+topic of internship as per the guidelines decided by the department. The Internship is to be evaluated 
+through Presentations and Viva- Voce during the semester and Final evaluation will be done at the end 
+of semester as per the guidelines decided by the department from time to time.  
+The candidate shall present/publish one paper in national/international conference/seminar/journal of 
+repute. However, candidate may visit research labs/institutions with the due permission of chairperson 
+on recommendation of supervisor concerned. 
+MTVP7501 
+Description 
+PROJECT WORK PHASE-I 
+L T P C 
+0 
+0 
+30 15 
+Each student is required to submit a detailed project report about the work on topic of project as per 
+the guidelines decided by the department. The project work is to be evaluated through Presentations 
+and Viva- Voce during the semester and Final evaluation will be done at the end of semester as per the 
+guidelines decided by the department from time to time.  
+The candidate shall present/publish one paper in national/international conference/seminar/journal of 
+repute. However, candidate may visit research labs/institutions with the due permission of chairperson 
+on recommendation of supervisor concerned. 
+M.Tech. (VLSI Design and Embedded Systems) 
+THE APOLLO UNIVERSITY::CHITTOOR 
+IV Semester 
+MTVI7501 
+Description 
+INTERNSHIP  
+L T P C 
+0 
+0 
+30 15 
+An internship is a professional learning experience that offers meaningful, practical work related to a 
+student's field of study or career interest. An internship gives a student the opportunity for career 
+exploration and development, and to learn new skills. 
+Each student is required to submit a detailed Internship report about the learning work experience on 
+topic of internship as per the guidelines decided by the department. The Internship is to be evaluated 
+through Presentations and Viva- Voce during the semester and Final evaluation will be done at the end 
+of semester as per the guidelines decided by the department from time to time.  
+The candidate shall present/publish one paper in national/international conference/seminar/journal of 
+repute. However, candidate may visit research labs/institutions with the due permission of chairperson 
+on recommendation of supervisor concerned. 
+MTVP7502 
+Description 
+PROJECT WORK PHASE-II 
+L T P C 
+0 
+0 
+30 15 
+Each student is required to submit a detailed project report about the work on topic of project as per 
+the guidelines decided by the department. The project work is to be evaluated through Presentations 
+and Viva- Voce during the semester and Final evaluation will be done at the end of semester as per the 
+guidelines decided by the department from time to time.  
+The candidate shall present/publish one paper in national/international conference/seminar/journal of 
+repute. However, candidate may visit research labs/institutions with the due permission of chairperson 
+on recommendation of supervisor concerned. 
+********** 
+M.Tech. (VLSI Design and Embedded Systems) 

@@ -1,0 +1,118 @@
+
+
+## 🎓 B.Tech CSE – AI & Healthcare Technology
+### Semester-wise Curriculum
+
+---
+
+### 📘 Semester I
+| Course | Name |
+|--------|------|
+| BTHT1701 | Engineering Physics |
+| BTHT1702 | Mathematics Foundation - 1 |
+| BTHT1801 | Programming Fundamentals |
+| BTHT1802 | Basic Electrical & Electronics Engineering |
+| TAUT1101 | Communicative English |
+| — | University Elective I |
+| Labs | Engineering Physics Lab, Programming Fundamentals Lab |
+| Activities | IT Workshop, Design Thinking, Soft Skills, Mentoring |
+
+---
+
+### 📘 Semester II
+| Course | Name |
+|--------|------|
+| BTHT1703 | Mathematics Foundation - 2 |
+| BTHT1803 | Digital Logic Design |
+| BTHT1301 | Data Structures through C++ |
+| BTHT1804 | Problem Solving & Programming using Python |
+| BTHT1302 | Software Requirements Engineering |
+| — | University Elective II |
+| Labs | Digital Logic Design Lab, Data Structures Lab, Python Lab |
+
+---
+
+### 📘 Semester III
+| Course | Name |
+|--------|------|
+| BTHT2501 | Computer Organization & Architecture |
+| BTHT2301 | Design and Analysis of Algorithms |
+| BTHT2302 | Object Oriented Programming through Java |
+| BTHT2801 | Automata and Compiler Design |
+| BTHT2303 | Operating Systems |
+| BTHT2304 | Software Engineering & System Design |
+| Labs | Java Programming Lab, Software Engineering Lab |
+
+---
+
+### 📘 Semester IV
+| Course | Name |
+|--------|------|
+| BTHT2305 | Human Computer Interaction |
+| BTHT2901 | Software Project Management |
+| BTHT2502 | Foundations of Data Science |
+| BTHT2306 | Database Management Systems |
+| BTHT2307 | Full Stack Web Development |
+| BTHT2503 | **Foundations of AI and Healthcare Technology** |
+| Labs | Full Stack Lab, DBMS Lab, Exploratory Data Analytics with R Lab |
+
+---
+
+### 📘 Semester V
+| Course | Name |
+|--------|------|
+| BTHT3501 | **Machine Learning and Healthcare Applications** |
+| BTHT3301 | Computer Networks |
+| BTHT3302 | Automata and Compiler Design |
+| — | Faculty Elective I |
+| — | Programme Elective I |
+| BTHM3501 | MOOC – I |
+| BTHT3303 | Entrepreneurship & Startup Management |
+| BTHI3501 | Internship – I Evaluation |
+
+**Faculty Elective I options include:** Object Oriented Analysis, Artificial Intelligence, Computer Vision, Machine Learning, Data Warehousing, Cryptography, Linux Programming, Industry 4.0, and more.
+
+**Programme Elective I options:** Software Testing, Distributed Computing, Advanced Java, Network Security, Database Security.
+
+---
+
+### 📘 Semester VI
+| Course | Name |
+|--------|------|
+| BTHT3502 | **Natural Language Processing** |
+| BTHT3503 | **Medical Image Processing** |
+| — | Programme Elective II |
+| — | Programme Elective III |
+| BTHM3502 | MOOC – II |
+| Labs | NLP Lab, Data Warehousing & Mining Lab |
+
+**Elective II options:** Image Processing, Deep Learning, Explainable AI, Cryptography, Distributed Databases.
+
+**Elective III options:** High Performance Computing, Generative AI, MERN Technologies, Network Programming.
+
+---
+
+### 📘 Semester VII
+| Course | Name |
+|--------|------|
+| BTHT4501 | **Big Data and Healthcare Analytics** |
+| BTHT4502 | **Neural Networks and Deep Learning** |
+| — | Programme Elective IV |
+| — | Programme Elective V |
+| BTHM4501 | MOOC – III |
+| BTHP4301 | Mini Project |
+| BTHI4501 | Internship – II Evaluation |
+
+**Elective IV options:** Social Network Analysis, AI in Blockchain, Financial Analytics, Social Media Analytics.
+
+**Elective V options:** Health Analytics, Business Intelligence, Image & Video Analytics, ML for Security.
+
+---
+
+### 📘 Semester VIII
+| Course | Name |
+|--------|------|
+| BTHP4502 | **Project Work** (24 hours/week, 12 credits) |
+
+---
+

@@ -1,0 +1,3 @@
+- [Pinecone v7 upsert API](pinecone-v7-upsert.md) — v7 SDK changed upsert signature; pass `{ records: batch }` not the array directly.
+- [Groq model deprecation](groq-model.md) — `llama3-8b-8192` is decommissioned; use `llama-3.3-70b-versatile` instead.
+- [Upload script checkpoint](upload-checkpoint.md) — upload script uses `.upload_checkpoint.json` to resume interrupted runs; delete it to re-upload all docs.

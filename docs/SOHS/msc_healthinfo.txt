@@ -1,0 +1,3471 @@
+  
+M.Sc.  Health Informatics and Analytics 
+Under Regulations- (R-2022) 
+(w.e.f. 2022-23 admitted batch) 
+ 
+ 
+ 
+ 
+Course Structure and Syllabus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE APOLLO UNIVERSITY 
+MURUKAMBATTU - CHITTOOR (Dt) 517127 
+ANDHRA PRADESH 
+ 
+ 
+ 
+ 
+ 
+  
+PROGRAM OUTCOMES (PO) 
+PO 1: Understanding of Health Systems and Policies: Demonstrate comprehensive knowledge 
+of health systems, healthcare policies, and the regulatory environment impacting health 
+informatics and analytics. 
+ 
+PO 2: Core Informatics Knowledge: Acquire foundational knowledge in health informatics 
+concepts, standards, and frameworks such as EHRs, HIEs, CDSS, HL7, ICD-10, and 
+SNOMED CT. 
+ 
+PO 3: Data Analytics and Statistical Methods: Master statistical techniques and data analytics 
+methodologies using tools like SQL, R, and Python to analyze and interpret complex healthcare 
+data. 
+ 
+PO 4: Technical Proficiency: Develop technical proficiency in health information 
+technologies, including database management, data warehousing, and cloud computing, with 
+hands-on experience in EHR systems like EPIC and Cerner. 
+ 
+PO 5: Data Management and Quality Assurance: Implement and manage healthcare data 
+governance and quality assurance practices to ensure data integrity, privacy, and reliability. 
+ 
+PO 6: Analytical and Problem-Solving Skills: Apply advanced data analytics techniques to 
+solve healthcare problems and optimize clinical decision-making. 
+ 
+PO 7: Project Management and Leadership: Cultivate project management and leadership 
+skills to effectively manage health informatics projects and lead multidisciplinary teams. 
+ 
+PO 8: Interdisciplinary Collaboration: Collaborate effectively with healthcare professionals, 
+IT specialists, and stakeholders to develop and implement health informatics solutions. 
+ 
+PO 9: Ethical and Professional Responsibility: Adhere to ethical standards and professional 
+responsibilities in the practice of health informatics and analytics. 
+ 
+PO 10: Innovation and Continuous Improvement: Foster a mindset of innovation and 
+continuous improvement in health informatics practices to enhance healthcare delivery and 
+outcomes. 
+ 
+ 
+ 
+  
+PROGRAM EDUCATIONAL OBJECTIVES (PEO): 
+PEO1: Leadership and Innovation: Graduates will excel as leaders, designing and managing 
+advanced health information systems to improve healthcare delivery and drive innovation in 
+the industry. 
+ 
+PEO 2: Data-Driven Decision Making: Graduates will apply advanced data analytics to 
+provide actionable insights, enhancing clinical decision-making and optimizing healthcare 
+outcomes and resource use. 
+ 
+PEO 3:  Ethical and Professional Standards: Graduates will uphold the highest ethical 
+standards, ensuring patient confidentiality, data security, and continuous professional 
+development in health informatics. 
+ 
+PROGRAM SPECIFIC OUTCOMES (PSO): 
+After successful completion of the program the graduates will be able to: 
+PSO 1: Proficiency in Health Data Management: Graduates will master the collection, 
+organization, and secure management of healthcare data, adhering to regulatory standards. 
+ 
+PSO 2: Expertise in Health Informatics Systems: Graduates will excel in designing, 
+implementing, and optimizing health informatics systems to support clinical decision-making 
+and healthcare administration. 
+ 
+PSO 3: Analytical Competence in Healthcare Data: Graduates will demonstrate advanced 
+analytical skills to interpret healthcare data using statistical and machine learning techniques 
+for improving patient outcomes. 
+ 
+PSO 4: Leadership in Health Informatics Strategy: Graduates will lead strategic initiatives to 
+enhance health informatics infrastructure and foster innovation in healthcare delivery and 
+patient care. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE APOLLO UNIVERSITY 
+ACADEMIC REGULATIONS 
+SCOPE: 
+This Academic regulation provide a framework for the regulatory guidelines of all programs 
+offered by The Apollo University. It includes procedures and practices that are to be 
+followed to ensure academic standards in the University. The regulations are approved by the 
+Academic Council. These regulations may be amended from time to time with the approval of 
+the Academic council for the benefit of students or some times to reflect the changes suggested 
+by the statutory bodies.  
+Information regarding amendments (if any) to the regulations will be communicated to the 
+students by publishing in the University website. Students must follow the amended regulations 
+as they might impact the process for the award of degree. The decision of the Vice Chancellor 
+shall be the final in case of any discrepancy. These regulations apply to all students, despite the 
+program of study. 
+ 
+1. ADMISSION INTO THE PROGRAM 
+The University admits the students in two modes. One through the convenor quota as per the 
+Andhra Pradesh Private Universities Act, for which the admissions will be carried out through 
+the convener quota by the Govt of Andhra Pradesh. The other is through University quota for 
+which the following procedure will be followed: 
+A. The applicant shall satisfy the entrance requirements specified by The Apollo University 
+and in accordance with guidelines of statutory councils for Under-graduation.  
+B. The Applicant shall be qualified in the qualifying examination for a particular program. 
+C. The Applicant secures a rank in national level entrance exam or suitable such test 
+conducted by The Apollo University / professional body.  
+D. The Applicant qualifies in the specified state or national level examinations prescribed 
+by The Apollo University. 
+ 
+The Apollo University will widely notify the counselling schedule for admissions into the 
+academic programs in the media. The provisional admission will be given to the eligible 
+students during the counseling scheduled by The Apollo University. The selected candidates 
+will be provisionally admitted into the program of his/her choice if the candidate meets 
+the program specific requirements in addition to academic performance qualifying 
+exam. Admission is purely based on merit and so merely meeting the requirements will not 
+ensure admission. The University does not discriminate based on gender, race, region, religion, 
+disability or nationality.   The University reserves the right to make admissions based on various 
+criteria which is specified in the admission brochure.   
+ 
+2. ELIGIBILITY CRITERIA 
+Postgraduate programs  
+The qualifying exam eligibility for each program is given Annexure 1. The student 
+should have passed the qualifying exam either in the year the student is seeking 
+admission or the previous year.  
+Convener Quota: The student seeking admission to any program under convener quota 
+shall qualify in the relevant entrance exam conducted by the Government of Andhra 
+Pradesh. 
+University Quota:  For getting admission under University quota, percentage of marks 
+obtained in the qualifying exam, the rank obtained in TAU entrance exam or any 
+recognized national level examination in the year of admission will be considered.  
+ 
+Counselling 
+All the eligible students need to apply for admission and have to attend counselling 
+conducted by TAU as per the schedule for the university quo 
+3. PROGRAMS 
+The Apollo University offers variety of programs which includes certificate, undergraduate, 
+postgraduate, and Research.  The list of programs on offer for the academic year 2022-23  are 
+annexed in Annexure 2 and those of 2023-24 are annexed in Annexure 3. 
+Minimum duration of the program 
+The minimum duration of each program depends on the type of program, viz., undergraduate, 
+postgraduate, integrated programs, etc., and the faculty which offers the program. The 
+maximum duration of the program is N+2 years, where N stands for the minimum duration of 
+the program as mentioned in Annexure 2 and 3. If the student has not obtained the minimum 
+number of credits within the stipulated time, the Vice-Chancellor may extend the maximum 
+duration in extenuating circumstances upon receiving a request along with reasons from the 
+student for not completing the program on time. 
+ 
+4. CHOICE BASED CREDIT SYSTEM 
+The choice-based credit system (CBCS) facilitates the education student-centric. It provides the 
+opportunity for the learner to choose the courses from a basket of core, elective, and skill 
+enhanced courses. All programs of study are designed to meet the specified number of credit 
+requirements. The courses taken by the student in each semester as part of program are allotted 
+some credit points based on the number of hours assigned. Upon successful completion of the 
+course, the student secures the number of credits allotted for that course. Once the minimum 
+number of credits of the program is achieved, the degree can be awarded, subject to fulfilment 
+of all other relevant conditions. 
+ 
+5. STRUCTURE OF THE PROGRAM 
+The Program structure Consists of 
+i) Faculty Courses 
+ A. Faculty Core 
+ B. Faculty Electives  
+ii) Program Courses 
+ A. Program Core 
+ B. Program electives  
+Each course* is assigned a certain number of credits depending upon the number of contact 
+hours (lectures/tutorials/practical) per week.  (*one course means one subject) 
+Core Courses = 3 Credits /4 Credits   Elective =3 Credits 
+In general, credits are assigned to the courses as detailed below: 
+• A classroom lecture/ tutorial of 60 min (1 hr) duration per week, spread over the 
+entire semester, shall be considered as one credit.  
+• A laboratory session of minimum of 120 min (2 hr) per week shall be considered as 
+one credit.  
+• A project work/ Internship session of 60 minutes (1 hr) carried out per week shall be 
+considered as one credit. 
+6. MEDIUM OF INSTRUCTION 
+The medium of instruction (including examinations and project reports) shall be English. 
+ 
+ 
+ 
+7. REGISTRATION 
+Any of the following student must register for the courses opted in a particular semester during 
+the scheduled registration period.  
+i. a new student who enrolls into any program  
+ii. an existing student who is continuing on rolls from the preceding regular semester  
+iii. a former student, i.e., who has not enrolled in the preceding regular semester or who has 
+availed academic break or detained and got readmission  
+ 
+Each newly admitted student shall attend an induction/ orientation program prior to 
+commencement of the first semester. During this program academic advisors assist the 
+students in choosing the courses. Existing student may register online by using their registration 
+number and mail ID through the Apollo ERP portal. Class schedules are 
+available approximately two weeks before the beginning of every semester for each program. 
+The concerned head of the department must approve class schedule.   
+ 
+8. ATTENDANCE REQUIREMENTS 
+• Students should earn a minimum of 80% attendance in the current semester to become 
+eligible to write the Semester End Examinations. 
+• The monthly statement of attendance will be displayed on the Department Notice Board/ 
+Apollo ERP by the respective departments within the first five working days of the 
+following month. 
+• Candidates who are falling short of 80% attendance will be detained on the 
+recommendation of the HoD and are not eligible to appear for the current semester 
+examinations. The students who are detained in the current semester will not be allowed 
+to register for the next semester and they have to repeat the same semester by paying 
+the tuition fee prescribed. However, they can write arrear subjects, if any.  
+ 
+9. EVALUATION 
+The assessment of the student’s performance in a Theory course shall be based on two 
+components: Continuous Evaluation (40 marks) and Semester-end examination (60 marks). A 
+student has to secure an aggregate of 40% in the course in the two components put together to 
+be declared to have passed the course, subject to the condition that the candidate must have 
+secured a minimum of 24 marks (i.e. 40%) in the theory component at the semester-end 
+examination. Practical/ Project Work/ Industrial Training/ Viva voce/ Seminar etc. are 
+completely assessed under Continuous Evaluation for a maximum of 100 marks, and a student 
+has to obtain a minimum of 50% to secure Pass Grade. For courses having both theory and 
+practical components, 60% of the weightage will be given for theory component and 40% 
+weightage for practical component. The student must secure 40% (Theory + Practical) with 24 
+marks minimum in theory to attain pass grade.  
+Details of Assessment Procedure are furnished below in Table 1. 
+ 
+Table 1: Assessment Procedure 
+S. No. Component of 
+Assessment 
+Marks 
+Allotted 
+Type of 
+Assessment 
+Scheme of Evaluation 
+1 Theory 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+Continuous 
+Evaluation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Semester-end 
+Examination 
+i) Twenty (20) marks for mid 
+examinations. Three mid examinations 
+shall be conducted for 20 marks each; 
+average of the best two performances shall 
+be taken into consideration. 
+ii) Ten (10) marks for Quizzes, 
+Assignments and Presentations.  
+iii) Ten (10) marks for   periodic 
+evaluation, case studies and projects  
+ 
+iv) Sixty (60) marks for Semester-end 
+examinations 
+ Total 100   
+2 Laboratory 100 Continuous 
+Evaluation 
+1)80 marks with equal weightage to all 
+experiments subject to conduct of 
+minimum of 10 experiments  
+2)20marks for the end exam (with one of 
+our university teachers as external other 
+than course teacher) 
+3 Internship 100 Continuous 
+Evaluation 
+i) (80) marks for periodic evaluation  
+of Internship report by the Project 
+Supervisor. 
+ii) Twenty (20) marks for final Report 
+presentation and Viva-voce, by a panel of 
+internal examiners. 
+iii) Students shall undergo TWO 
+internships during the course of time and 
+the evaluation shall be done during final 
+semester. 
+4 Project work  100 Continuous 
+Evaluation 
+iv) (80) marks for periodic evaluation 
+and technical report writing by the Project 
+Supervisor. 
+ii) Twenty (20) marks for final Report 
+presentation and Viva-voce, by a panel of 
+internal examiners 
+     
+ 
+GRADING SYSTEM 
+Based on the student performance during a given semester, a final letter grade will be awarded 
+at the end of the semester in each course. The letter grades and the corresponding grade points 
+are as given inTable2. 
+Table 2: Grades & Grade Points 
+Sl. No. Grade Grade Points Absolute Marks 
+1 O(Outstanding) 10 90 and above 
+2 A+(Excellent) 9 80 to 89 
+3 A (Very Good) 8 70 to 79 
+4 B+(Good) 7 60 to 69 
+5 B (Above Average) 6 50 to 59 
+6 C(Average) 5 45 to 49 
+7 P(Pass) 4 40 to 44 
+ 
+SEMESTER GRADEPOINTAVERAGE (SGPA) 
+A Semester Grade Point Average (SGPA) for the semester will be calculated according to the 
+formula: 
+ 
+ 𝐺𝑃𝐴∑ [ 𝐶 𝑋 𝐺 ]
+∑ 𝐶 
+Where 
+C=number of credits for the course, 
+G=grade points obtained by the student in the course. 
+A student who earns a minimum of 4 grade points (P grade) in a course is declared to have 
+successfully completed the course, and is deemed to have earned the credits assigned to that 
+course. 
+CUMULATIVE GRADE POINT AVEARGE (CGPA) 
+A similar formula is used to arrive at Cumulative Grade Point Average (CGPA), considering 
+the student’s performance in all the courses taken in all the semesters up to the particular point 
+of time. 
+Table 3 shows the CGPA required for the award of class after the successful completion of the 
+program. 
+Table3: CGPA required for award of Class 
+Class CGPA Required 
+First Class with Distinction >8.0* 
+First Class >6.5 
+Second Class >5.5 
+Pass Class >5.0 
+ 
+*In addition to the required CGPA of 8.0 or more, the student must have necessarily passed all 
+the courses of every semester in first attempt. 
+ 
+11. REAPPEARANCE 
+a. A student who has secured ‘F’ grade in a Theory course shall have to reappear at 
+the subsequent Semester end examination held for that course. 
+b. A student who has secured ‘F’ grade in a Practical course shall have to attend 
+8 F(Fail) 0 Less than 40 
+9 Ab. (Absent) 0 - 
+Special Instruction Classes scheduled by the Department for securing pass. 
+c. A student who has secured ‘F’ Grade in Internship /Project work / Industrial 
+Training etc shall have to reappear for Viva – voce scheduled by the department. 
+d. A student who is declared fail (F) in a course/s can apply for revaluation within 
+one week from the date of publication of results with a fee prescribed by the 
+university. The marks /grade awarded in the revaluation is final. 
+ 
+11.1 Procedure for revaluation 
+• The students who have not satisfied with the marks awarded by the examiner 
+            can apply for revaluation of his/her answer script/s  
+• The students have to apply through proper channel for revaluation and to pay the 
+revaluation fee per paper to the university towards revaluation fee. 
+• Students have to apply for revaluation within 7 days from the date  
+           publication of result. 
+• The scripts will get valued by second examiner and if the difference is more than  
+15 marks, they will get valued by the third examiner. The average of the nearest 
+two marks will be declared as the final marks. 
+ 
+11.2 ASSESSMENT MECHANISM  
+ The Apollo University offers a student the benefits of Choice Based Credit System. 
+Every paper is allotted a certain number of credits as per the UGC norms. A student is awarded 
+the specified credits on obtaining a pass in the respective paper. 
+ 
+ The Choice Based Credit System (CBCS) has been adopted for PG Course from the 
+year 2021-22 onwards as per the recommendations of the A.P. State Council for Higher 
+Education (APSCHE). The structure of undergraduate programmes provides a wide range of 
+choice for students to opt for courses based on their eligibility, aptitude and career goals. 
+11.3 Semester End Examination 
+The End semester examination will be a comprehensive examination of 3 hours duration. Two 
+End Semester examinations are conducted in a year- 
+Odd semester examinations in November/ December and  
+ Even semester examination in May/June  
+Practical examination / Project viva will be held 2 weeks prior to the theory semester  
+end examinations. 
+Under-Graduation Programs  
+ 
+Course 
+ 
+Continuous Assessment 
+ 
+End semester 
+Aggregate in 
+End semester 
+Examinations 
+All PG Courses No passing minimum 40% 40% 
+ 
+11.4 Post Evaluation Programme:  
+Under the Post Evaluation Programme there are three menus: 
+• Provision for improvement 
+• Re-totaling and Revaluation of answer scripts 
+• Restrictions to appear for the examinations 
+ 
+11.5 Provision for improvement 
+A student who passes a paper in the first attempt can reappear for the same paper in the 
+succeeding End-of-Semester examination only, for improving his/her marks. Re
+appearance for improvement is allowed for theory and practical subjects of all 
+semesters, except for the final semester subjects. Revised mark statement will be issued 
+after withdrawing the previous one, if the marks obtained in improvement are higher 
+than the marks awarded earlier. When there is no improvement, there shall not be any 
+change in the original marks already awarded. The improved marks shall be considered 
+for classification but not for ranking. 
+Provision for Re-totaling and Revaluation of valued answer scripts 
+• PG candidates may apply for re-totaling / revaluation of valued answer scripts, 
+to the Controller of Examinations through the Heads of Departments and 
+Principal / Dean, in the prescribed forms, remitting the prescribed fee within 7 
+days from the date of publication of results. Revaluation of answer scripts is 
+permissible only for the current semester papers and not for any arrear paper. 
+• Those wish to apply for revaluation of final semester papers can do so within 
+five days from the date of publication of results. In re-valuation, the answer 
+papers will be valued by an external examiner and if there is a difference of 15 
+marks between the two evaluations then the script will be sent for third valuation 
+which is final and the mark awarded by the third examiner   will be taken into 
+the account. 
+• Revised mark statement will be issued after withdrawing the previous one, if the 
+marks obtained in revaluation / retotalling are higher than the marks obtained 
+earlier. In other cases, the original marks obtained earlier will be retained and 
+the matter will be intimated to the student concerned as ‘No change’. 
+• A candidate who applies for revaluation should not apply for retotalling. 
+ 
+Restrictions to appear for the examinations 
+Candidates who fail in any of the papers in the PG End semester examinations shall complete 
+the paper concerned within N+2 years from the date of admission to the particular course. If 
+they fail to do so, they shall re-register their names and take the examination in the texts/revised 
+regulations/syllabus of the paper prescribed for the subsequent batch of candidates, in force at 
+the time of their reappearance.  In the event of removal of that paper consequent to change of 
+regulation and/or curriculum after N+2 years period, the candidate shall have to take up an 
+equivalent paper in the revised syllabus as suggested by the Chairman, Board of Studies 
+concerned. 
+ 
+12. BETTERMENT OF GRADES 
+A student who has secured only a Pass or Second class and desires to improve his/her Class can 
+appear for Betterment Examinations only in Theory courses of any Semester of his/her choice, 
+conducted in Summer Vacation along with the Special Examinations. Betterment of Grades is 
+permitted ‘only once’ immediately after completion of the program of study. 
+13. DETENTION AND RE-ADMISSION 
+If a student fails to meet the minimum attendance requirement or minimum standards for 
+academic progression, the concerned academic head will recommend for detention and it will 
+be notified by the concerned Dean of the School. The students who are detained in the current 
+semester will not be allowed to register for the next semester and they have to repeat the same 
+semester.   
+The candidates who are detained or availed academic break or suspended in the previous 
+semester/academic year and want to continue their study shall apply for re-admission to the 
+university. The candidates shall request for re-admission to the respective Head of the 
+Department, with details viz., Full Name, Registration Number, Department, School, Fee 
+payment particulars with proofs and reasons for discontinuations. The concerned academic 
+head will forward it to the Registrar with specific comments. The Registrar will notify the 
+decision of re-admission which shall include the prescribed fee particulars, semester/ year into 
+which readmission is granted and additional courses to be completed by the student (if any). 
+The candidates should apply for re-admission in advance, that is before the commencement of 
+the semester.   
+ 
+14. GROOMING AND ATTIRE FOR STUDENTS  
+Grooming and Etiquette is of great significance in the dynamic of shaping one’s Personality. 
+The Apollo University stands by a Code of Grooming, Attire and Etiquette that promotes a 
+professional standard: Academic Day; Campus Placements and Non-Academic Hours on 
+Campus. 
+The Dress Code to be in compliance on academic premises while attending: Formal Functions 
+of the Institution / Lectures / Practicals / Dining Area / Library / Labs / Office Areas. 
+Students shall follow appropriate attire during Academic and Non-Academic hours on  the 
+campus. Students shall wear clean, neat, pressed and presentable clothing, and command 
+respect by dressing in accordance with responsible personal norms. Students shall always wear 
+The Apollo University ID Card with the Lanyard. 
+ 
+ Grooming and Formal Wear - Boys: 
+Formal Shirts / T-Shirts with a Collar should preferably be tucked in with a Formal pair of Pants 
+Shoes and Socks to complete the Formal Attire. Personal Hygiene should be followed and Hair 
+should be well groomed. 
+Smart Casuals for Boys: 
+Long Kurtas / Formals / Semi-Formal Shirts with Jeans. 
+Grooming and Formal Wear - Girls:  
+Sarees / Salwar Suits / Leggings or Jeggings with Long Kurtis / Long Frocks / Long Skirts / 
+Palazzos. Complement the outfit with proper footwear. Personal Hygiene should be followed 
+and Hair should be well groomed. 
+Smart Casuals for Girls: 
+Jeans with long Kurtis / Long Skirts / Long Frocks. 
+ 
+Attire for Non-Academic Hours On Campus: 
+The students should be neatly attired during Non-Academic Hours on Campus. 
+Dress Code for Boys: 
+Jeans / Track Suits / T-Shirts / Trousers / Shirts. 
+Dress Code for Girls: 
+Jeans / T-Shirts or Blouses / Salwar Suits / Palazzos / Leggings or Jeggings with Long Tops / 
+Sarees / Long Skirts / Track Suits. 
+ 
+DO’S AND DO’NTS FOR BOYS AND GIRL STUDENTS OF THE UNIVERSITY: 
+• To wear modest clothing that reflects the essence of good personal grooming standards. 
+• To refrain from wearing Sleeveless Clothing; Shorts; Short Tops, etc., 
+ 
+PLEASE NOTE: The decision as to what constitutes Appropriate Attire vests with the 
+Authorities of The Apollo University. 
+ 
+15. ELIGIBILITY FOR AWARD OF THE DEGREE 
+The undergraduate degree will be of 4-years of duration. A student shall be declared as eligible 
+for the award of the degree if the candidate has successfully secured the minimum number of 
+required credits as specified in the curriculum corresponding to the branch          of his/her study 
+within the stipulated time. 
+After successful completion of the program, a provisional certificate cum memorandum of 
+grades (PCMG) will be issued to the students. The PCMG includes the secured grades and class 
+achieved in chosen program and specialization if any, along with grades and CGPA secured by 
+the student. The original degree will be presented in the subsequent convocation.  
+ 
+16. DISCRETION POWER  
+Not with-standing anything contained in the above sections, the Vice Chancellor may review 
+all exceptional cases, and give his decision, which will be final and binding. 
+ 
+  
+ANNEXURE 1 
+   ELIGIBILTY FOR QUALIFYING EXAM FOR POST GRADUATE PROGRAMS 
+Program 
+Type 
+Program Name Eligibility 
+Master’s M.Sc Health Informatics 
+and Analytics 
+Candidates must secure 50% in their Bachelor’s Degree 
+and should have completed or qualified the final year of 
+Bachelor courses and should attain 20-21 Years as on 31st 
+December of the preceding calendar year. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ANNEXURE 2 
+PROGRAMS OFFERED BY SCHOOL OF HEALTH SCIENCES 
+FROM ACADEMIC YEAR 2022-23 
+Sl. 
+No. Program Expanded Level Minimum Duration 
+in Years  (N) 
+1 M.Sc HIA Health Informatics and 
+Analytics Master’s 2 
+ 
+ANNEXURE 3 
+PROGRAMS OFFERED BY SCHOOL OF HEALTH SCIENCES 
+FROM ACADEMIC YEAR 2023-24 
+ 
+Sl. 
+No. 
+Program Expanded Level Minimum Duration 
+in Years (N) 
+1 M.Sc HIA Health Informatics and 
+Analytics 
+Master’s 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+I - Semester  
+ 
+3 Week Induction Programme 
+ 
+Course Code 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+ 
+Hours per 
+week L T P 
+HIAT6501 Fundamentals of Health Informatics  3 1 0 4 4 
+HIAT6502 Medical Terminology 3 1 0 4 4 
+HIAT6503 Foundations of Cloud Computing 3 1 0 4 4 
+HIAT6504 Healthcare Data Science 3 1 0 4 4 
+HIAT6505 Standards for Digital Health  3 1 0 4 4 
+HIAL6501 Health Data Science lab 0 0 4 2 4 
+HIAL6502 Cloud Computing Lab 0 0 4 2 4 -- Soft Skills 0 0 0 0 1 -- Mentoring 0 0 0 0 1 -- Technical Seminar 0 0 0 0 1 -- Library 0 0 0 0 1 -- Physical Activity 0 0 0 0 2 -- Co-curricular activity 0 0 0 0 1 -- Self-Learning 0 0 0 0 1 
+TOTAL 15 3 8 24 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+II - Semester  
+ 
+ 
+ 
+Course Code 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+ 
+Hours per 
+week L T P 
+HIAT6506 Clinical Informatics 3 1 0 4 4 
+HIAT6507 Clinical Decision Support Systems 3 1 0 4 4 
+HIAT6508 Artificial Intelligence and Cloud Computing 
+in Healthcare 3 1 0 4 4 
+HIAT6509 Healthcare Data Visualization and Analysis 3 1 0 4 4 
+HIAT6510 Legal and Ethical Aspects of Health 
+Informatics  3 1 0 4 4 
+HIAL6503 Artificial Intelligence and  
+Cloud ComputingLab 0 0 4 2 4 
+HIAL6504 Data Visualization Lab 0 0 4 2 4 -- Soft Skills 0 0 0 0 1 -- Mentoring 0 0 0 0 1 -- Technical Seminar 0 0 0 0 1 -- Library 0 0 0 0 1 -- Physical Activity 0 0 0 0 2 -- Co-curricular activity 0 0 0 0 1 -- Self-Learning 0 0 0 0 1 
+TOTAL 15 4 8 24 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III - Semester  
+ 
+Course Code 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+ 
+Hours per 
+week L T P 
+HIAT7601 TRACK-1 Elective – 1  3 1 0 4 4 
+HIAT7602 TRACK-2 Elective – 2  3 1 0 4 4 
+HIAT7603 TRACK-3 Elective – 3 3 1 0 4 4 
+HIAT7511 Research Methodology  3 1 0 4 4 
+HIAP7501 Mini Project  0 0 12 6 12 
+HIAL7505 Machine Learning Lab 0 0 4 2 4 -- Mentoring 0 0 0 0 1 -- Physical Activity 0 0 0 0 2 -- Self-Learning 0 0 0 0 1 
+TOTAL 12 4 16 12 36 
+ 
+ 
+ 
+For 2022-23 A.Y 
+Track -1 IPR AND SKILL ENHANCEMENT 
+✓ Intellectual Property Rights 
+✓ Advanced Statistical Methods  
+✓ Healthcare Management 
+Track -2 ADVANCED HEALTH ANALYTICS 
+✓ Machine Learning  
+✓ Data Base Management in Healthcare Sector 
+✓ Prescriptive, Predictive and Diagnostic Analytics in Healthcare 
+Track -3 ADVANCED DIGITAL HEALTH ECO-SYSTEM 
+✓ Internet of Medical Things 
+✓ Imaging Informatics 
+✓ Pharmacoinformatics 
+ 
+ 
+ 
+From 2023-24 A.Y onwards 
+HIAT7601: MEDICAL TECHNOLOGIES 
+✓ AI in organoids 
+✓ Telehealth strategies 
+✓ Internet of Medical things 
+HIAT7602: ADVANCED HEALTH ANALYTICS 
+✓ Machine Learning in health care 
+✓ Principles and practice of Health care Management 
+✓ Prescriptive, Predictive and Diagnostic Analytics in Healthcare 
+HIAT7603: ADVANCED DIGITAL HEALTH ECO-SYSTEM 
+✓ Precision Medicine  
+✓ Imaging Informatics 
+✓ Pharmacoinformatics 
+ 
+ 
+ 
+ 
+ 
+IV - Semester (From 2023-24 A.Y onwards) 
+ 
+Course Code 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+ 
+ 
+Hours 
+per 
+week 
+L T P 
+HIAT7604 MOOCS Course through (Microsoft) 4 1 0 4 4 
+HIAT7605 MOOCS Course through (Microsoft) 4 1 0 4 4 
+HIAP7502 Major Project 0 0 28 14 28 
+TOTAL 8 2 28 22 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I SEMESTER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIAT6501  INTRODUCTION TO HEALTH INFORMATICS    L   T   P   C 
+4   0   0    4 
+COURSE DESCRIPTION 
+This course provides introduction to health informatics, the field devoted to the optimal use of 
+data, information, and knowledge to advance individual health, health care, public health, and 
+health-related research. Students will learn the application of informatics skills and knowledge 
+to health-related problems. 
+ 
+Course Objectives 
+1. To provide an overview of health informatics, including its history, evolution, and 
+current trends. 
+2. To learn the principles and practices of health data management, including data 
+collection, storage, retrieval, and analysis. 
+3. To explore the various types of healthcare information systems (HIS) and their 
+applications in clinical and administrative settings. 
+4. To examine the ethical, legal, and regulatory issues related to health informatics, 
+including patient privacy, data security, and compliance. 
+5. To introduce emerging technologies in health informatics, such as telemedicine, 
+electronic health records (EHRs), and mobile health applications.. 
+ 
+UNIT – 1          (10 Hours) 
+Overview of Health Informatics, Healthcare Data, Information and Knowledge, Healthcare 
+Data Analytics, Electronic Health Records 
+ 
+UNIT – 2          (12 Hours) 
+Health Information Exchange, Data Standards and Medical Coding, Architectures Of 
+Information Systems, Health Information Privacy And Security, Health Informatics Ethics  
+ 
+UNIT – 3          (10 Hours) 
+Consumer Health Informatics, Mobile Technology, Online Medical Resources, Medical 
+Information Retrieval  
+ 
+UNIT- 4          (14 Hours) 
+Evidence Based Medicine & Clinical Practice Guidelines, Disease Management and Disease 
+Registries, Quality Improvement Strategies, Patient Safety and Health Information 
+ 
+UNI T- 5          (14 Hours) 
+Telemedicine, Medical Imaging Informatics, Bioinformatics, Public Health Informatics, E
+Research 
+ 
+  
+Course Outcomes –  
+Upon successful completion of the course student would be –  
+1. Able to learn, appreciate, adapt and manage applications of information and 
+communications technologies (ICT) applied to the healthcare sector and Digital Health. 
+2. Able to understand the roles of informatics and analytics for better health and healthcare 
+outcomes. 
+3. Able to examine health informatics concepts for the management of health information 
+4. Able to study compliance requirements throughout health-information life cycle 
+5. Able to explore and focus on possible areas of further studies and jobs. 
+ 
+Text Books 
+1. Health Informatics, Practical Guide for Healthcare and Information Technology 
+Professionals, Sixth Edition by Robert E. Hoyt and Ann K. Yoshihashi, 2014 
+2. Health Care Informatics: An Interdisciplinary Approach, S. P. Englebardt and R. Nelson, 
+Mosby, 2002.  
+ 
+Reference Text Books 
+1. Health Informatics: A Socio-Technical Perspective, S. Wheton, Oxford Univ. Press, 2005  
+2. Health informatics: a systems perspective by Gordon D. Brown, Kalyan S. Pasupathy, 
+Timothy B. Patrick, Second edition. Health Administration Press, 2019 
+3. Health Informatics: An Interprofessional Approach, by Ramona Nelson and Nancy Staggers, 
+ISBN13: 978-0323402316, 2nd Edition 
+ 
+ 
+ 
+  
+HIAT6502    MEDICAL TERMINOLOGY L   T   P   C 
+4   0   0    4 
+COURSE DESCRIPTION 
+The purpose of this course is to develop a student’s understanding and use of hospital and 
+medical terminology. There is a focus on understanding the terns commonly used to identify 
+the cause and effects of disease conditions. 
+ 
+COURSE OBJECTIVES 
+1. To provide a foundational understanding of medical terminology, including the origins 
+and structure of medical terms. 
+2. To learn the terminology related to the anatomy, physiology, and pathology of various 
+body systems. 
+3. To familiarize students with common medical abbreviations and symbols used in 
+healthcare settings. 
+4. To instruct on the proper use of medical terminology in medical records and 
+documentation. 
+5. To enhance students’ ability to communicate effectively using medical terminology in 
+both written and verbal forms. 
+ 
+UNIT – 1          (9 Hours) 
+Basics of medical terminology, Specialties in a Hospital, The Human body in health and 
+disease 
+ 
+UNIT – 2          (9 Hours) 
+The Skeletal System, The Muscular System, The lymphatic and immune systems 
+ 
+UNIT – 3          (9 Hours) 
+The Respiratory System, The Circulatory System, The Digestive System, The Urinary System  
+ 
+UNIT – 4          (9 Hours) 
+The Nervous system, Special senses - Eyes and Ears, Skin - The Integumentary system 
+ 
+UNIT – 5          (9 Hours) 
+The Endocrine system, The Reproductive System, Diagnostic procedures, Nuclear Medicine 
+and Pharmacology 
+ 
+Course Outcomes  
+Upon successful completion of the course student would be able to –   
+1. Demonstrate a strong understanding of the basic principles and components of medical 
+terminology, including prefixes, suffixes, and root words. 
+2. Accurately use medical terminology related to the anatomy, physiology, and diseases 
+of various body systems. 
+3. Correctly interpret and use common medical abbreviations and symbols in healthcare 
+communication. 
+4. Apply medical terminology appropriately in medical records, ensuring accurate and 
+effective documentation. 
+5. Communicate clearly and professionally using medical terminology in both oral and 
+written healthcare contexts. 
+ 
+Text Books 
+1.Medical Terminology for Health Professions, 7th Edition by Ann Ehrlich; Carol L Schroeder, 
+ISBN 13: 9781111543297, Published by Delmar Cengage Learning (2013) 
+2.Workbook for Ehrlich/Schroeder's Medical Terminology for Health Professions, 7th by Carol 
+Schroeder, Ann Ehrlich Published by Delmar Cengage Learning; 7th edition, 2012, ISBN-13  
+:  978-1111543280  
+ 
+Reference Text Books 
+1.Quick and Easy Medical Terminology - With Access by Peggy C. Leonard, ISBN13: 978
+0323595995, 9th Edition 
+2.Medical Terminology Systems: A Body Systems Approach - With Access by Barbara A. 
+Gylys, ISBN13: 978-0803658677, 8th Edition 
+Understanding Medical Terminology by Agnes C. Frenay, ISBN13: 978-0697140586, 9th 
+Edition 
+  
+HIAT6503  FOUNDATIONS OF CLOUD COMPUTING           L   T   P   C 
+4   0   0   4 
+COURSE DESCRIPTION 
+This course provides students with a solid foundation in cloud computing by covering key 
+concepts in computer hardware, software, operating systems, virtualization, networking, and 
+cloud computing technologies. Students will gain a comprehensive understanding of the core 
+components that underpin cloud computing and the skills needed to deploy and manage cloud
+based solutions. 
+ 
+Course Objectives 
+1. To provide an overview of cloud computing concepts, models, and architectures with a 
+focus on their applications in healthcare. 
+2. To learn the principles and practices of managing healthcare data in cloud 
+environments, including data storage, retrieval, and analytics. 
+3. To explore the security, privacy, and compliance requirements for healthcare data in 
+the cloud, including HIPAA and other regulatory standards. 
+4. To introduce various cloud services and applications relevant to healthcare, such as 
+electronic health records (EHRs), telemedicine, and health information exchanges 
+(HIEs). 
+5. To provide practical knowledge on implementing and integrating cloud solutions in 
+healthcare settings, including strategies for migration and interoperability. 
+ 
+Unit 1: Fundamental of Computers  
+Introduction to computer,  History and Evolution of Computers, Basic concepts of computer 
+model, Advantage and disadvantages of the computers, Hardware and its components, 
+Overview of computer software. 
+ 
+Unit 2: Operating System Concepts - Linux  
+Introduction to operating systems, Mode of operating system, Kernal and its components, 
+Functions of operating system, Types of Operating system, Linux as an open-source operating 
+system, Installation of Linux, Basic Linux commands and file system navigation, User 
+management and permissions in Linux. 
+ 
+Unit 3: Virtualization 
+Understanding virtualization concepts, Virtualization types: full virtualization, para
+virtualization, and containerization, Introduction to virtualization platforms like VMware and 
+VirtualBox. 
+ 
+Unit 4: Networking  
+Basic networking concepts, including IP addressing, subnets, and routing, Introduction to 
+network protocols (TCP/IP), Network services and security considerations. 
+ 
+Unit 5: Introduction to Cloud Computing 
+ Cloud computing fundamentals and its importance, Cloud service models: IaaS, PaaS, SaaS, 
+Cloud deployment models: public, private, hybrid, and multi-cloud, Major cloud providers 
+(e.g., AWS, Azure, Google Cloud), Overview of cloud services: compute, storage, databases, 
+networking, and more, Demo on cloud provider's platform. 
+ 
+Course Outcomes 
+Upon successful completion of the course, the studnet would be able to -  
+1. Demonstrate a comprehensive understanding of cloud computing principles, models, 
+and architectures, and their relevance to healthcare. 
+2. Apply cloud computing techniques to manage healthcare data effectively, ensuring 
+secure storage, retrieval, and analysis. 
+3. Identify and address security, privacy, and compliance challenges related to healthcare 
+data in the cloud, ensuring adherence to relevant regulations. 
+4. Effectively utilize cloud services and applications to enhance healthcare delivery, 
+including EHRs, telemedicine, and HIEs. 
+5. Plan and execute the implementation and integration of cloud computing solutions in 
+healthcare environments, ensuring smooth migration and interoperability. 
+ 
+Text books: 
+1. Rajkumar Buyya, Christian Vecchiola, and S. Thamarai Selvi, Mastering Cloud 
+Computing: Foundations and Applications Programming, 1st Edition, Morgan 
+Kaufmann, 2013, ISBN: 978-0124114548 
+ 
+2. Thomas Erl, Zaigham Mahmood, and Ricardo Puttini, Cloud Computing: Concepts, 
+Technology & Architecture, 1st Edition, Prentice Hall, 2013, ISBN: 978-0133387520 
+ 
+Reference Books 
+1. Kai Hwang, Geoffrey C. Fox, and Jack J. Dongarra, Distributed and Cloud Computing: 
+From Parallel Processing to the Internet of Things, 1st Edition, Morgan Kaufmann, 
+2011, ISBN: 978-0123858801 
+ 
+2. George Reese, Cloud Application Architectures: Building Applications and 
+Infrastructure in the Cloud, 1st Edition, O'Reilly Media, 2009, ISBN: 978-0596156367 
+ 
+3. Michael J. Kavis, Architecting the Cloud: Design Decisions for Cloud Computing 
+Service Models (SaaS, PaaS, and IaaS), 1st Edition, Wiley, 2014, ISBN: 978
+1118617618 
+ 
+ 
+  
+HIAT6504:     HEALTHCARE DATA SCIENCE   L   T   P   C 
+4    0   0    4 
+COURSE DESCRIPTION 
+In this course, the student will learn about some of the different types of data and computational 
+methods involved in stratified healthcare and precision medicine. 
+ 
+Course Objectives 
+1. To provide a comprehensive overview of health data science, including its principles, 
+scope, and importance in modern healthcare. 
+2. To learn the techniques and best practices for collecting, managing, and curating health 
+data from various sources. 
+3. To explore statistical methods and data analysis techniques specific to health data, 
+including descriptive and inferential statistics. 
+4. To introduce machine learning algorithms and predictive modeling techniques used in 
+health data science to identify patterns and make predictions. 
+5. To examine the ethical considerations and data privacy issues related to health data 
+science, ensuring students understand and adhere to legal and ethical standards. 
+ 
+UNIT – 1         (12 Hours) 
+Defining Data Science and Big data, Benefits and Uses, facets of Data, Data Science Process. 
+The Data Science Process: Overview of the Data Science Process-Setting the research goal, 
+Retrieving Data, Data Preparation, Exploration, Modeling, data Presentation and Automation. 
+ 
+UNIT – 2          (12 Hours) 
+Python: Introduction and Environment Why Learn Python, Installing Python, Installing 
+Anaconda Distribution, Running the Jupyter Notebook, The Building Blocks of Programs, 
+Errors in Python 
+ 
+UNIT – 3          (12 Hours) 
+Basic Python Programming, Datatypes and Operators, Variables, Strings, Lists and Tuples, 
+Dictionary in Python, Conditional Statements, Loops in Python, Functions Classes and Objects 
+File Handling in Python  
+ 
+UNIT – 4          (12 Hours) 
+Biopython, Introduction, Installing Biopython, Biopython Seq Class, Parsing Sequence Files, 
+Writing Files, Pairwise Sequence Alignment, BLAST with Biopython, Multiple Sequence 
+Alignment, Construction of a Phylogenetic Tree, Handling PDB Files  
+ 
+UNIT – 5          (12 Hours) 
+Python for Data Analysis, Introduction, NumPy, NumPy Arrays versus Lists, Two
+Dimensional Matrices, Matrix Operations, Comparing Matrices, Generating Data Using 
+NumPy, Speed Test, “Pandas” Data frame, Selecting Rows and Columns, Conditional Filtering 
+in Data frame, Writing CSV Files from Pandas Data frame, Apply() Function, Concatenating 
+and Merging 
+ 
+COURSE OUTCOMES  
+Upon successful completion of the course student would be able to  
+1. Recognize the various discipline that contribute to a successful data science effort 
+2. Understand the processes of data science identifying the problem to be solved, data 
+collection, preparation, modelling, evaluation and visualization.  
+3. Be aware of the challenges that arise in data sciences.  
+4. Be able to identify the application of the type of algorithm based on the type of the 
+problem.  
+5. Be comfortable using commercial and open source tools such as the R/python language 
+and its associated libraries for data analytics and visualization 
+ 
+Text Books 
+1. Python for Data Science, by Ethan Williams, ISBN13: 978-1687159106 
+2. Hands on data science for biologists using Python by Yasha Hasija and Rajkumar 
+Chakraborty, First edition. CRC Press, 2021, ISBN 13: 978-0367546786 
+ 
+Reference Text Books 
+1. Fundamentals of Python: Data Structures, by Kenneth Lambert ISBN13: 978-0357122754, 
+2nd Edition 
+2. Data Structures and Algorithms With Python, by Kent D. Lee, ISBN13: 978-3319130712 
+3. Python Scripting for Computational Science, by Hans Petter Langtangen, ISBN13: 978
+3540739159, 3rd Edition 
+ 
+ 
+ 
+  
+HIAT6505:    STANDARDS OF DIGITAL HEALTH L  T  P  C 
+4   0   0  4 
+COURSE DESCRIPTION 
+This course will help the student to know how to lead digital health projects in public health 
+and the healthcare sector 
+ 
+COURSE OBJECTIVES 
+✓ To list the common standards used for exchange of health information and digital health 
+(Cognitive Domain – Knowledge) 
+✓ To describe the HIT (Health Information Technology) standardization processes and 
+entities (Cognitive Domain – Knowledge) 
+✓ To perform Teamwork to capture the basic standard requirements when developing a 
+functional requirements specification document for the information system for a specific 
+public health and/or healthcare domain (Psychomotor Domain – Manipulation) 
+✓ To tabulate the efforts towards Integration and harmonization of some of the diverse 
+standards used for digital health (Affective Domain – Organization) 
+✓ To Provide a thorough understanding of the various standards and frameworks governing 
+digital health technologies, including interoperability, data exchange, and compliance with 
+regulatory requirements. 
+ 
+Unit 1 Principles of Health Interoperability 
+The Health Information Revolution, Why Interoperability is Hard, Role of Standards for 
+achieving interoperability; Health Information Exchange (HIE), Models, UML, BPMN, XML 
+and JSON, Information Governance, Standards Development Organizations 
+ 
+Unit 2 Terminologies and SNOMED CT 
+Clinical Terminology, Coding and Classification Schemes, SNOMED CT, SNOMED CT 
+Concept Model, Implementing Terminologies 
+ 
+Unit 3  HL7 and Interchange Formats 
+HL7 Version 2, The HL7 v3 RIM, Constrained Information Models, CDA – Clinical Document 
+Architecture, HL7 Dynamic Model, Sharing Documents and IHE XDS 
+ 
+Unit 4 Fast Healthcare Interoperability Resources (FHIR) 
+Principles of FHIR, The FHIR RESTful API, FHIR Resources, Conformance and 
+Terminology, Implementing FHIR 
+ 
+Unit 5 Integration and Harmonization 
+Need for integration, Data harmonization, integrated and Interoperable systems, and 
+Interoperable technologies in support of the health workforce, harmonization in primary 
+healthcare, IHE Profiles; Continua Design Guidelines (CDG), PCHA, Integration, and 
+harmonization of devices and services. 
+ 
+  
+Course Outcomes  
+After the completion of this subject, the students will be able to: 
+✓ Understand health information exchanges (HIEs) between clinical and public health data 
+systems.  
+✓ Understand the main categories of HIT standards – data, information content, 
+information exchange, identifier standards.  
+✓ Know in detail some of the Standards –ICD-10 & 11, SNOMED CT, LOINC, HL7 v2, 
+v3 and FHIR, CDA and CCDA, DICOM, and the EHR standards in India.  
+✓ Understand the HIT standardization process.  
+✓ Understand Integration and Harmonization of the various Standards for Digital Health. 
+ 
+Textbooks: 
+1. Benson Tand Grieve G (2016).Principles of Health Interoperability: SNOMED CT, HL7 and 
+FHIR,Springer-Verlag, London, UK, ISBN: 978-3-319-30368-0 
+2. Antonio Francesco Maturo Veronica Moretti, Digital Health and The Gamification Of Life: 
+How Apps Can Promote A Positive Medicalization, Emerald Publishing Limited Howard 
+House, Wagon Lane, Bingley BD16 1WA, UK First edition 2018 
+ 
+ 
+ 
+ 
+  
+HIAL6501:    CLOUD COMPUTING LAB  L   T   P  C 
+0    0   4   2 
+List of experiments 
+Linux Essentials  
+1.Gain hands-on experience with Linux commands and file operations. 
+2.Create and manage users, groups, and permissions in a Linux environment. 
+3.Disk management and file system concepts. 
+4.Managing services and processes. 
+ 
+Virtualization and Networking 
+1.Set up and configure a virtualized environment using VirtualBox or VMware. 
+2.Practice basic networking concepts in a virtual environment. 
+3.Configuring network interfaces and IP addressing. 
+4.Introduction to firewall and security settings. 
+ 
+Introduction to Cloud Platforms  
+1.Sign up for a cloud provider account (e.g., AWS, Azure, Google Cloud). 
+2.Explore the cloud provider's console and services. 
+3.Launch a virtual machine (VM) in the cloud. 
+ 
+Data Storage and Management 
+1.Set up cloud-based storage solutions (e.g., Amazon S3, Azure Blob Storage). 
+2.Perform data backup and restoration tasks. 
+ 
+  
+STHIA1- L2:   BASIC PROGRAMMING FOR HEALTH DATA ANALYTICS LAB 
+L T  P C 
+0  0  4  2 
+1. Study of data analysis using MS-Excel  
+2. Study of basic Syntaxes in PYTHON 
+3. Implementation of vector data objects operations 
+4. Implementation of matrix, array and factors and perform in PYTHON 
+5. Implementation and use of data frames in PYTHON 
+6. Create Sample (Dummy) Data in PYTHON and perform data manipulation with PYTHON 
+7. Study and implementation of various control structures in PYTHON 
+8. Data Manipulation with PYTHON 
+9. Study and implementation of Data Visualization with PYTHON 
+10. Study and implementation data transpose operations in PYTHON 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II SEMESTER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+HIAT6506:     CLINICAL INFORMATICS L   T   P   C 
+ 4    0   0    4 
+COURSE DESCRIPTION 
+The course provides an overview of the theory, processes and applications of information 
+systems and how they relate to health policy and management. It also provides a basic 
+understanding of data standards and requirements, and the critical concepts and practice in 
+mapping and interpreting health information. 
+ 
+COURSE OBJECTIVES 
+✓ To understand the role of IT in clinical management  
+✓ To familiarize with the latest developments in technology with relevance to hospitals 
+✓ To develop the mobile based applications to improve patient care 
+✓ To provide an in-depth understanding of clinical informatics principles, including the role 
+and impact of informatics on clinical practice and healthcare delivery. 
+✓ To examine the ethical and legal considerations in clinical informatics, including patient 
+privacy, data security, and compliance with healthcare regulations. 
+ 
+UNIT - 1          (12 Hours) 
+Clinical Informatics: Emergence of a New Profession, The Indian Health System, Clinical 
+Informatics Policy and Regulations 
+ 
+UNIT – 2          (12 Hours) 
+Clinical Decision Making/Care Process Improvement – Clinical Decision-Making, Evidence 
+Based Health Care, Clinical Decision Support, Clinical Workflow Analysis, Process Redesign 
+and Quality Improvement 
+ 
+UNIT - 3          (12 Hours) 
+Health Information Systems - Information Technology Systems, Health Information Systems 
+and Applications, Healthcare Data Standards and Exchange, Information System Lifecycles in 
+Health Care, Human Factors Engineering and Human–Computer Interaction: Supporting User 
+Performance and Experience 
+ 
+UNIT – 4          (12 Hours) 
+Leading and Managing Change - Leadership Models, Processes, and Practices, Effective 
+Interdisciplinary Teams, Project Management, Strategic and Financial Planning for Clinical 
+Information Systems, Change Management for the Successful Adoption of Clinical 
+Information Systems 
+ 
+UNIT – 5          (12 Hours) 
+Beyond Clinical Informatics - Consumer Health Informatics: Engaging and Empowering 
+Patients and Families, Public Health Informatics 
+  
+COURSE OUTCOMES –  
+Upon successful completion of the course student would be –  
+✓ Able to Know about Clinical Informatics and mobile Apps related to healthcare 
+✓ Able to Understand the Fundamentals of Clinical Informatics 
+✓ Able to solve problems as teams for implementing change in a clinical environment 
+✓ Able to Understand and solve problems in the implementation of Hospital Information 
+Systems (HIS) 
+✓ Able to Explore the different types of clinical decision support methodologies and 
+applications. 
+ 
+Text Books 
+1. Clinical Informatics Study Guide Text and Review, by John T. Finnell and Brian E. Dixon, 
+Springer International Publishing AG Switzerland, ISBN 978-3-319-22753-5 
+2. Managing Health Care Information Systems, Karen Wager, Frances Lee and John Glaser, 
+Jossy-bass, 2005 
+ 
+Reference Text Books 
+1. Analysis, Design and Implementation of Information System, Locus, McGraw-Hill, 1985 
+2. Clinical Decision Support Systems - Theory and Practice, Second Edition, Eta S. Berner, 
+Springer International Publishing AG Switzerland, ISBN-13: 978-0387-33914-6 
+3. Ramona Nelson and Nancy Staggers. “Health Informatics: An Interprofessional 
+Approach.”2nd Edition. 
+ 
+  
+HIAT6507:   CLINICAL DECISION SUPPORT SYSTEMS       L  T  P   C 
+4   0   0   4 
+COURSE DESCRIPTION 
+This course is designed to provide knowledge in clinical decision support systems for students 
+and it is a comprehensive course which applies computers in medicine. 
+ 
+COURSE OBJECTIVES 
+➢ To verbalize a clear definition and purpose of Clinical Decision Support Systems  
+➢ (CDSS) tools  
+➢ To explore various CDSS tools and recognize application in nursing examples  
+➢ To describe how CDSS tools impact quality care and patient safety  
+➢ To demonstrate CDSS use through simulation/role play scenario 
+ 
+UNIT - 1          (12 Hours) 
+Overview of Clinical Decision Support Systems, Mathematical Foundations of Decision 
+Support Systems 
+ 
+UNIT - 2          (12 Hours) 
+Data Mining and Clinical Decision Support Systems, Design and Implementation Issues, 
+Diagnostic Decision Support Systems, Ethical and Legal Issues in Decision Support  
+ 
+UNIT - 3          (12 Hours) 
+Clinical Trials of Information Interventions, Clinical Decision Support at Intermountain 
+Healthcare, Case Study - Clinical Decision Support Within the Regenstrief Medical Record 
+System  
+ 
+UNIT - 4          (12 Hours) 
+Decision Support During Inpatient Care Provider Order, Entry: The Vanderbilt Experience, 
+Decision Support for Patients  
+ 
+UNIT – 5          (12 Hours) 
+Clinical Decision Support Systems Mobile Apps, Optimizing Care Processes with Operational 
+Excellence & Process Mining, Value-Based Health Care Supported by Data Science   
+ 
+COURSE OUTCOMES –  
+Upon successful completion of the course student would be –  
+✓ Able to develop a detailed understanding of the history of Knowledge-based systems and 
+clinical decision support and how it’s currently implemented at Apollo Hospitals and at 
+other institutions.  
+✓ Able to Become familiar with evidence-based medicine and the use of clinical guidelines 
+and quality of care metrics to support provider decision-making  
+✓ Able to Understand the use and importance of controlled vocabularies in building clinical 
+decision support tools  
+✓ Able to Demonstrate design and usability principles as it relates to the use of clinical 
+decision support tools  
+✓ Able to Employ classical and machine learning models in clinical decision support systems 
+ 
+Text Books 
+1. Clinical Decision Support Systems: Theory and Practice, Eta S Berner, Springer, 1998 
+2. Clinical Decision Support System: An Effective Pathway to Reduce Medical Errors and 
+Improve Patient Safety, Chiang S. Jao and Daniel B. Hier, InTech, 2010  
+ 
+Reference Text Books 
+1. Decision Support System, by Herasymowych, ISBN13: 978-0980881523, 2nd Edition 
+2. Decision Support Systems for Business Intelligence, by Vicki Lynn Sauter, ISBN13: 978
+0470433744, 2nd Edition 
+3. Foundations of Clinical Research: Applications to Evidence-Based Practice, by Leslie G. 
+Portney, ISBN13: 978-0803661134, 4th Edition 
+ 
+ 
+  
+HIAT6508: ARTIFICIAL INTELLIGENCE AND CLOUD COMPUTING FOR 
+HEALTH INFORMATICS         
+           L T  P  C 
+4  0   0   4 
+Course Description: 
+✓ This course will introduce students to the concepts of Artificial Intelligence (AI) and Cloud 
+Computing in the field of Health Informatics. The course will cover the basics of machine 
+learning, natural language processing, and computer vision as applied to healthcare. 
+✓ Students will also learn about cloud computing, including cloud architecture, deployment 
+models, and services such as Infrastructure as a Service (IaaS), Platform as a Service 
+(PaaS), and Software as a Service (SaaS). The course will focus on the applications of AI 
+and Cloud Computing in healthcare, such as predictive modelling, clinical decision 
+support, population health management, and data analytics. 
+ 
+Course Objectives: 
+➢ Understand the fundamental concepts of Artificial Intelligence and Cloud Computing in 
+healthcare 
+➢ Apply AI and Cloud Computing techniques to healthcare data to solve real-world problems 
+➢ Evaluate the benefits and risks of using AI and Cloud Computing in healthcare 
+➢ Develop skills in data analysis, machine learning, and cloud deployment 
+➢ Analyse the ethical and legal implications of AI and Cloud Computing in healthcare 
+ 
+Course Outline: 
+Unit 1: Introduction to AI and Cloud Computing in Healthcare   07 Hours 
+Overview of Health Informatics, Introduction to Artificial Intelligence and Cloud Computing, 
+Healthcare data and challenges, Introduction to language models 
+ 
+Unit 2: Cloud Computing for Health Informatics and Big Data Analytics. 15 Hours 
+Cloud architecture and deployment models, Cloud services: IaaS, PaaS, and SaaS, Cloud 
+security and compliance, Data warehousing and data mining, Predictive modelling and decision 
+support, Population health management 
+ 
+Unit 3: Machine Learning and Natural Language Processing for Health Informatics 
+15 Hours 
+Supervised and unsupervised learning, Data pre-processing and feature extraction, Model 
+evaluation and selection, Natural language processing (NLP) for machine learning in 
+healthcare, Text classification and sentiment analysis, Named Entity Recognition (NER), 
+Applications of language models in healthcare 
+ 
+Unit 4: Computer Vision for Health Informatics     15 Hours 
+Image processing and feature extraction, Object detection and recognition, Medical imaging 
+analysis 
+ 
+Unit 5: AI and Cloud Computing Applications in Healthcare and Ethical and Legal Issues
+           8 Hours 
+Clinical decision support systems, Electronic Health Records (EHR) and telemedicine, 
+Precision medicine and genomics, Privacy, security, and confidentiality, Bias and fairness, 
+Regulatory and compliance issues 
+ 
+COURSE OUTCOMES –  
+Upon successful completion of the course student would be able to –  
+• Demonstrate the ability to apply artificial intelligence (AI) techniques and tools in 
+health informatics to improve diagnostic accuracy, patient outcomes, and operational 
+efficiency. 
+• Utilize cloud computing services and architectures to manage, store, and analyze large 
+volumes of healthcare data, ensuring scalability and accessibility. 
+• Implement robust data security and privacy measures within AI and cloud computing 
+frameworks to comply with healthcare regulations and protect patient information. 
+• Develop and deploy machine learning models to analyze healthcare data, identify 
+patterns, and predict health outcomes, enhancing decision-making in clinical practice. 
+• Understand and address the ethical and legal implications of using AI and cloud 
+computing in health informatics, ensuring responsible and compliant use of these 
+technologies. 
+ 
+Text book: 
+1.Adam Cheyer and Emily A. Cooper, "AI for Healthcare: A Navigational Guide for 
+Beginners," O'Reilly Media, 2019. 
+2. Eric Topol, "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human 
+Again," Basic Books, 2019. 
+ 
+Reference Text Books: 
+➢ Joseph Kvedar, "The Internet of Healthy Things," The MIT Press, 2015. 
+➢ Ozlem Uzuner and Rebecca S. Crowley, "Natural Language Processing for Clinical Data: 
+A Guide to Systems and Applications," Springer, 2019. 
+ 
+ 
+ 
+  
+HIAT6509:  HEALTHCARE DATA VISUALIZATION AND ANALYSIS  L T  P  C 
+4  0  0   4 
+COURSE DESCRIPTION 
+This course will provide a rigorous, yet easy to follow, introduction to the main concepts 
+underlying machine learning in healthcare and quantification of the resources needed to learn 
+a given concept. 
+ 
+COURSE OBJECTIVES 
+➢ How to tell a story from data 
+➢ How to marshal the data for storyline 
+➢ The ability to develop visualization to tell the story 
+➢ The focus is on analysis of data using visualization as a tool 
+➢ To demonstrate the data visualization models 
+ 
+UNIT – 1          (12 Hours) 
+Introduction to Data Sciences: Concepts of business intelligence and business analytics, Simple 
+data retrieval vs data processing, Role of data scientists vs data analysts, Hidden facts in data, 
+unearthing the facts, Evolution of data science, popular techniques & algorithms, Concepts of 
+predictive and prescriptive analytics, Concepts of data clusters, data distribution, time series 
+data, text processing  
+ 
+UNIT – 2          (12 Hours) 
+Python for Data Visualization Introduction, Matplotlib, Matplotlib Functional Method, 
+Matplotlib Object-Oriented Method, Resolution and Saving Figures, Legend, Customization 
+of the Plot Appearance, Scatterplot, Histogram Boxplot, Seaborn, Distribution Plots, Joint 
+Plots, Pairplot, Barplot, Boxplot, Violin Plot, Heatmaps, Cluster Maps, Regression Plot, Plotly – Interactive Data Visualization Geographical Plotting 
+ 
+UNIT – 3          (12 Hours) 
+Principal Component Analysis, Introduction, Variance as Information, Data Transformation, 
+Case Study, PCA: Step-by-Step, Standardization of the Features, Obtain the Eigenvectors and 
+Eigenvalues, Choosing Axes with Maximum Variance, Programing Drive, Hands-On 
+Exercises on Differential Gene Expression Analysis, Quality Control, Normalization, 
+Differential Expression Analysis, Cluster Map, Gene Enrichment Analysis, SNP Analysis,  
+ 
+UNIT – 4          (12 Hours) 
+Machine Learning and Linear Regression, Introduction to Machine Learning and Its 
+Applications in Biology, Types of Machine Learning Systems Optimization of Models,  
+Challenges in Machine Learning Projects, Linear Regression, General Workflow of a Machine 
+Learning Project, Implementation of Linear Regression Using Scikit-Learn Loading Dataset, 
+Train-Test Split, Training Model, Model Evaluation, Predicting Child Height Based on Parents 
+Height, Predicting the Height of Sons, Predicting the Height of Daughters 
+ 
+UNIT – 5          (12 Hours) 
+Logistic Regression, Introduction Implementation of Logistic Regression Using Sklearn, 
+Train-Test Split, Training the Logistic Regression Model, Evaluation of Model, Retrieving 
+Intercept and Coefficient, Data Scaling, Predicting a New Result, Breast Cancer Prediction 
+Using Logistic Regression, Model Evaluation 
+ 
+COURSE OUTCOMES –  
+Upon successful completion of the course student would be –  
+✓ Able to Discuss the difference between descriptive, predictive and prescriptive analytics 
+✓ Able to Outline the characteristics of “Big Data” 
+✓ Able to Enumerate the necessary skills for a worker in the data analytics field 
+✓ Able to List several limitations of healthcare data analytics 
+✓ Able to learn about the application of visualization tools for health data 
+ 
+Text Books 
+1. Data Analytics in Healthcare Research - With Access, by David Marc, ISBN13: 978
+1584264439 
+2. Healthcare Data Analytics, edited by Chandan K. Reddy, Charu C. Aggarwal, CRC Press, 
+first edition  
+ 
+Reference Text Books 
+1. Healthcare Data Analytics and Management, edited by Nilanjan Dey, Amira S. Ashour, 
+Simon James Fong, Chintan Bhatt, Academic Press, Vol. 2 
+2. Python for data science for dummies by John Paul Mueller, Luca Massaron, Wiley 
+Publishers  
+3. Programming through Python by M. T. Savaliya, R. K. Maurya, G. M. Magar, STAREDU 
+Solutions 
+ 
+ 
+  
+HIAT1510:  LEGAL AND ETHICAL ASPECTS OF HEALTH INFORMATICS 
+L  T  P   C 
+3   1   0   4 
+COURSE DESCRIPTION 
+This course introduces students to the workings of the Global legal system and concepts and 
+theories of ethics, examines the legal, ethical, and regulatory issues that impact the protection 
+of confidentiality and integrity of patient information, and, on the other hand, the improvement 
+of accessibility of patient information to enable healthcare providers to make informed decision 
+based on complete patient data. 
+ 
+COURSE OBJECTIVES 
+➢ To Identify a complete health record according to organizational policies, external 
+regulations and standards. 
+➢ To Apply system security policies according to departmental and organizational 
+data/information standards.  
+➢ To Apply policies and procedures surrounding issues of access and disclosure of protected 
+health information.  
+➢ To examine the processes for ensuring compliance with legal and ethical standards in 
+health informatics, including risk assessment and management strategies. 
+➢ To utilize case studies and real-world scenarios to illustrate the legal and ethical challenges 
+in health informatics and develop practical solutions 
+ 
+UNIT – 1  ETHICS IN BIOMEDICAL AND HEALTH INFORMATICS: USERS, 
+STANDARDS, AND OUTCOMES 
+        (12 Hours) 
+Ethical Issues in Biomedical and Health Informatics, Health-Informatics Applications: 
+Appropriate Use, Users, and Contexts, Privacy, Confidentiality, and Data Sharing, Social 
+Challenges and Ethical Obligations, Legal and Regulatory Matters 
+ 
+UNIT – 2  AN OVERVIEW OF ETHICS     (12 Hours) 
+Ethical Standards, Ethical Decisions and Challenges, Bioethics Issues 
+ 
+UNIT - 3  LEGAL AND ETHICAL ISSUES CENTRAL TO HEALTH 
+INFORMATION MANAGEMENT  
+        (12 Hours) 
+Patient Record Requirements, Confidentiality and Informed Consent, Access to Health 
+Information, Specialized Patient Records  
+ 
+UNIT – 4  SPECIALIZED AREAS OF CONCERN IN HEALTH INFORMATION 
+MANAGEMENT  
+        (12 Hours) 
+Risk Management, Quality Management, and Utilization Management, Information Systems, 
+Health Care Fraud and Abuse, Law and Ethics in the Workplace 
+ 
+UNIT – 5          (12 Hours) 
+Professional ethics for Public health practitioners: Developing empathy, resolving conflicts and 
+building consensus, conflict of interest, issues of integrity, transparency and accountability, 
+communication skills, etc 
+ 
+COURSE OUTCOMES –  
+Upon successful completion of the course student would be able to –  
+• Demonstrate a comprehensive understanding of the key legal frameworks and 
+regulations that impact health informatics and how they apply to various scenarios. 
+• Apply ethical principles and theories to make informed and responsible decisions in 
+health informatics, balancing patient rights and public health needs. 
+• Implement effective data security and privacy measures to protect patient information 
+and comply with legal requirements. 
+• Identify and manage compliance issues in health informatics, conducting risk 
+assessments and developing mitigation strategies to address potential violations. 
+• Analyze case studies and practical examples to understand the legal and ethical 
+challenges in health informatics, and propose viable solutions to address these 
+challenges. 
+ 
+Text Books 
+1. Legal and Ethical Aspects of Health Information, by Dana C. Mcway, ISBN13: 978
+1285867380, 4th Edition 
+2. Ethical Health Informatics, by Laurinda Beebe Harman, ISBN13: 978-1284053708, 3rd 
+Edition  
+ 
+Reference Text Books 
+1. Legal and Ethical Aspects of Health Information Management, by Dana C. McWay, 
+ISBN13: 978-0357361542, 5th Edition 
+2. Fundamentals of Law for Health Informatics and Information Management, Brodnik, 
+McCain, Rinehart-Thompson, and Reynolds, American Health Information Management 
+Association, 2009.  
+3. Health Information Management Technology: An Applied Approach, ed. by Merida L. 
+Johns, PhD, RHIA, American Health Information Management Association, current edition. 
+ 
+  
+HIAL1503:   DATA VISUALIZATION AND ANALYTICS LAB  L T  P  C 
+0  0   4   2 
+List of experiments 
+1.Write a Python code to calculate the statistical values, such as mean, median, standard 
+deviation, skewness, and kurtosis of a Health care Data Set. 
+2.Write a Python code to extract the ECG signal features utilizing continuous wavelet 
+transform (CWT). 
+3.Write a Python code to extract the EEG signal features utilizing discrete wavelet transform 
+(DWT) with 6-level decomposition 
+4.Write a Python code to extract the ECG signal features utilizing stationary wavelet transform 
+(SWT) with 5-level decomposition 
+5.Write a program to implement the naïve Bayesian classifier for a sample patient data set 
+stored as a .CSV file.  
+6.Write a program to construct a Bayesian network considering medical data. Use this model 
+to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set. Use 
+Java/Python ML library classes/API. 
+7.Write a program to construct a Bayesian network considering medical data. Use this model 
+to demonstrate the diagnosis of CKD patients using standard Renal Disease Data Set. Use 
+Java/Python ML library classes/API. 
+8.Write a program to construct a Bayesian network considering medical data. Use this model 
+to demonstrate the diagnosis of Malignant Cancer patients using standard Breast Cancer Data 
+Set. Use Java/Python ML library classes/API. 
+9.Write a program to construct a Bayesian network considering medical data. Use this model 
+to demonstrate the diagnosis of Diabetes patients using standard Medical Data Set. Use 
+Java/Python ML library classes/API. 
+10.Write a program to plot a dendrogram of amino acid sequence of human genes. Use divisive 
+clustering in Java/Python ML library classes/API  
+ 
+ 
+  
+HIAL1504:   MACHINE LEARNING AND CLOUD COMPUTING LAB  L  T  P   C 
+0   0   4   2 
+List of experiments 
+1. Implement and demonstrate the FIND-S algorithm for finding the most specific hypothesis 
+based on a given set of training data samples. Read the training data from a 
+.CSV file. 
+ 
+2. For a given set of training data examples stored in a .CSV file, implement and demonstrate 
+the Candidate-Elimination algorithm to output a description of the set of all hypotheses 
+consistent with the training examples. 
+ 
+3. Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use 
+an appropriate data set for building the decision tree and apply this knowledge to classify a new 
+sample. 
+ 
+4. Build an Artificial Neural Network by implementing the Back propagation algorithm 
+and test the same using appropriate data sets. 
+ 
+5. Write a program to implement the naïve Bayesian classifier for a sample training data 
+set stored as a .CSV file. Compute the accuracy of the classifier, considering few test data sets 
+ 
+6. Assuming a set of documents that need to be classified, use the naïve Bayesian Classifier 
+model to perform this task. Built-in Java classes/API can be used to write the program. 
+Calculate the accuracy, precision, and recall for your data set. 
+ 
+7. Write a program to construct a Bayesian network considering medical data. Use this 
+model to demonstrate the diagnosis of heart patients using standard Heart Disease Data 
+Set. You can use Java/Python ML library classes/API. 
+ 
+8. Apply EM algorithm to cluster a set of data stored in a .CSV file. Use the same data set 
+for clustering using k-Means algorithm. Compare the results of these two algorithms and 
+comment on the quality of clustering. You can add Java/Python ML library classes/API in the 
+program. 
+ 
+9. Write a program to implement k-Nearest Neighbour algorithm to classify the iris data 
+set. Print both correct and wrong predictions. Java/Python ML library classes can be used for 
+this problem. 
+10. Implement the non-parametric Locally Weighted Regression algorithm in order to fit data 
+points. Select appropriate data set for your experiment and draw graphs. 
+11. Find procedure to run the virtual machine of different configuration. Check how many 
+virtual machines can be utilized at particular time.  
+12. Find procedure to attach virtual block to the virtual machine and check whether it holds the 
+data even after the release of the virtual machine.  
+13. Install a C compiler in the virtual machine and execute a sample program. 
+14. Show the virtual machine migration based on the certain condition from one node to the 
+other. 
+15. Find procedure to install storage controller and interact with it. 
+16. Find procedure to set up the one node Hadoop cluster. 
+17. Mount the one node Hadoop cluster using FUSE. 
+18. Write a program to use the API's of Hadoop to interact with it. 
+ 
+  
+Mini Project 
+Guidelines 
+1. Mini Project may be a theoretical analysis, modelling & simulation, experimentation & 
+analysis, prototype design, fabrication of new equipment, correlation and analysis of data, 
+software development, applied research and any other related activities.  
+2. Project can be for one or two semesters based on the completion of required number of 
+credits as per the academic regulations.  
+3. Can be individual work or a group project, with a maximum of 3 students.  
+4. In case of group projects, the individual project report of each student should specify the 
+individual’s contribution to the group project.  
+5. Carried out inside or outside the university, in any relevant industry or research institution.  
+6. Publications in the peer reviewed journals / International Conferences will be an added 
+advantage                         
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III SEMESTER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+HIAT7511  RESEARCH METHODOLOGY    L T P C 
+4  0  0 4 
+Course Description  
+Research Methodology is a course designed to provide students with a comprehensive 
+understanding of the methods and techniques used in scientific research, including qualitative 
+and quantitative approaches. The course covers the entire research process, from formulating 
+research questions and hypotheses to data collection, analysis, and reporting of findings. 
+ 
+COURSE OBJECTIVES 
+1. To understand different definitions in research and research ethics. 
+2. To Learn how to apply basic research skills in selecting research topic, identifying 
+“keywords”, and designing project aim, objectives, and hypothesis. 
+3. To understand and plan the proper search and referencing tools that includes scientific 
+databases, open access and other source (papers/proceedings journals, published 
+data/secondary data, thesis/dissertation, poster, abstract, reviewed/refereed articles.  
+4. To Understand how to Interpret the understanding of scientific research key components by 
+applying it into a small project. 
+5. To demonstrate various research designs used in health information management  
+ 
+Unit I Introduction to research  
+What is research, Types of research, why do we conduct research, How to turn a project into a 
+business, Ethics in science including plagiarism and animal/ human testing and anonymity. 
+ 
+Unit II Formulating research problem 
+The importance of research problem formulation, your title: What does it reflect, How to define 
+the objectives of your research, Constructing hypothesis, collecting data using primary sources, 
+collecting data using secondary sources 
+ 
+Unit III Writing a scientific report.  
+Structure and components of a scientific report, Introduction, and literature review, what is a 
+research introduction, Developing an outline , Reviewing the literature,  How to invest the 
+different resources available for students including textbooks, Google scholar and library, 
+Selecting Methods for data collection, Differences in the methods of data collection in 
+quantitative and qualitative research. Major approaches to information gathering 
+ 
+Unit IV Sample selection  
+The differences between sampling in quantitative and qualitative research, Sampling in 
+quantitative research, Sampling in qualitative research, Processing and displaying data 
+Processing data in quantitative and qualitative studies (editing and coding), The role of 
+statistics in Research, Displaying analysed data (text, tables, and graphs)  
+ 
+Unit V Discussion 
+Summation of the results, Comparison of data with the existing data, combining of data with 
+the existing data Finding Empirical rules, linking results to the results of others, Conclusion 
+and abstract, Summary of the study, summarizing findings in relation to the literature Surprises: 
+Limitations and unexpected results, Implications of the study, Recommendations for further 
+work, Concluding remarks, Abstract  
+ 
+COURSE OUTCOMES –  
+Upon successful completion of the course student would be able to –  
+• Demonstrate the ability to design a research study, including the formulation of research 
+questions, hypotheses, and selection of appropriate methodologies. 
+• Apply various data collection techniques, both qualitative and quantitative, ensuring 
+the reliability and validity of the gathered data. 
+• Analyze and interpret data using suitable statistical and analytical tools, drawing 
+meaningful conclusions from the results. 
+• Critically evaluate existing research literature, identifying strengths, weaknesses, and 
+gaps in the current knowledge base. 
+• Effectively communicate research findings through well-structured reports and 
+presentations, adhering to academic and professional standards. 
+ 
+Textbooks/Reference material  
+1. Kumar, R., 2011. Research methodology: A step-by-step guide for beginners. Sage. 
+2. Bryman, A., 2012. Social research methods. Oxford university press. 
+3. Katz, M., 2009. From research to manuscript. New York: Springer. 
+4. Roberts, C. and Hyatt, L., n.d. The dissertation journey. 
+ 
+ 
+HIAT7601 Machine Learning for Health Data Science   L T P C 
+4  0  0 4 
+Course Description 
+Machine Learning for Health Data Science is a course designed to equip students with the skills 
+and knowledge necessary to apply machine learning techniques to health data for improved 
+healthcare outcomes. The course covers data preprocessing, model development, evaluation, 
+and practical applications, focusing on real-world health data challenges and ethical 
+considerations. 
+ 
+COURSE OBJECTIVES 
+✓ Ability to Work with Healthcare Data: Students should be able to collect, preprocess, and 
+manage healthcare data effectively, addressing issues like missing data and data quality. 
+✓ Machine Learning Skills: Students should be proficient in applying a range of machine 
+learning algorithms to healthcare datasets, with the ability to select appropriate models 
+based on the problem. 
+✓ Ethical and Legal Awareness: Understand the ethical and legal considerations in healthcare 
+data science, and be capable of designing systems that respect patient privacy and comply 
+with regulations. 
+✓ Provide a foundational understanding of machine learning concepts, algorithms, and their 
+applications in health data science. 
+✓ Teach techniques for preprocessing health data and engineering relevant features to 
+improve the performance of machine learning models. 
+ 
+UNIT I - Fundamentals of Machine Learning      (10 Hours)  
+Basics of supervised, unsupervised, and semi-supervised learning. Data preprocessing and 
+feature engineering for health data. Model evaluation metrics for health-related tasks. 
+ 
+UNIT II - Classical Machine Learning for Health Data    (16 Hours) 
+Regression and Classification - Linear regression, logistic regression, and their applications in 
+health data analysis, Model regularisation and feature selection, Modal outcome prediction 
+using regression and classification models, Clustering and Dimensionality Reduction, K
+means, hierarchical clustering, and their applications in patient grouping, Principal Component 
+Analysis (PCA) for dimensionality reduction, Exploratory analysis of high-dimensional omics 
+data, Time Series Analysis and Anomaly Detection, Time series forecasting for disease 
+progression and patient monitoring, Anomaly detection in health data, e.g., detecting irregular 
+patterns in EHR, Case studies on real health data applications. 
+  
+UNIT III: Deep Learning for Health Data      (16 Hours) 
+Introduction to Deep Learning, Basics of neural networks, activation functions, and 
+architecture types, Training neural networks using gradient descent and back-propagation, 
+Neural network libraries (TensorFlow, PyTorch) for health data applications, Convolutional 
+Neural Networks (CNNs) for Medical Imaging, CNN architecture and its applications in 
+medical image analysis, Image segmentation and classification in radiology and pathology, 
+Transfer learning using pre-trained CNN models, Recurrent Neural Networks (RNNs) for Time 
+Series Data Sequence modelling using RNNs and LSTM networks, Applications in 
+physiological signal analysis and time series forecasting, Challenges in handling irregular and 
+missing time series data. 
+ 
+UNIT IV -  Generative AI for Health Data     (10 Hours) 
+Generative Adversarial Networks (GANs) and Variational Auto-encoders (VAEs) GANs for 
+synthetic health data generation and augmentation, VAEs for unsupervised representation 
+learning from health data, Ethical considerations in using generated data for healthcare 
+applications. 
+ 
+UNIT V -  Capstone project (8 Hours) 
+ 
+COURSE OUTCOMES  
+1.Predictive Modeling: Develop models for healthcare tasks and be able to assess their 
+performance using appropriate metrics. 
+2.Deep Learning Proficiency: Gain skills in applying deep learning techniques, particularly in 
+the context of medical imaging, natural language processing, and genomics. 
+3.Interpretability and Explainability: Learn methods to make machine learning models 
+interpretable and explainable, which is essential for gaining trust in clinical settings. 
+4.Application Development: Create applications and tools that can assist healthcare 
+professionals in decision-making, diagnosis, and treatment planning. 
+5.Research and Innovation: Be prepared to engage in research in the field of healthcare data 
+science and contribute to advancements in healthcare technology. 
+ 
+Text books 
+1.Machine Learning in Healthcare by Daniel Mietchen and Martin Hofmann-Apitius 
+2.Healthcare Analytics for Quality and Performance Improvement by Trevor L. Strome 
+3.Machine Learning for Healthcare: Handling and Managing Medical Data by Antonio Beneti 
+and Adam Wojtuniak 
+ 
+Reference Books 
+1.Pattern Recognition and Machine Learning by Christopher M. Bishop 
+2.Deep Learning in Medical Image Analysis by Gustavo Carneiro, Bogdan Georgescu, and 
+João Manuel R. S. Tavares  
+HIAT7602 Advanced Statistics for Health Data Science   L T P C 
+4  0  0 4 
+Course Description 
+Advanced Statistics for Health Data Science is a course focused on equipping students with 
+advanced statistical methods and techniques to analyze and interpret complex health data. The 
+course covers topics such as multivariate analysis, longitudinal data analysis, and statistical 
+modeling, emphasizing their applications in health research and data-driven decision-making. 
+ 
+COURSE OBJECTIVES 
+1.To Master the Advanced Statistical Techniques used in healthcare setups 
+2.To demonstrate a comprehensive understanding of advanced statistical techniques such as 
+hierarchical models, survival analysis, multilevel modeling, structural equation modeling, and 
+Bayesian statistics. 
+3.To Apply advanced statistical methods to various types of healthcare data, including 
+electronic health records, clinical trials, epidemiological data, and health surveys. 
+4. To Introduce advanced statistical methods for analyzing relationships among multiple 
+variables simultaneously, crucial for understanding complex interactions in health data. 
+5. To Teach techniques to analyze data collected over time, enabling students to explore 
+temporal trends and dynamics in health-related phenomena. 
+ 
+UNIT I - Introduction to Statistics       (12 Hours) 
+What is statistics and its importance in data science, Types of data: categorical, numerical, 
+continuous, discrete, Descriptive vs. inferential statistics, Measures of central tendency: mean, 
+median, mode, Measures of dispersion: range, variance, standard deviation, Exploratory Data, 
+Analysis (EDA) and data visualisation using Python libraries 
+ 
+UNIT II - Probability and Distributions      (12 Hours) 
+Basics of probability theory: events, outcomes, sample space, Probability rules: addition, 
+multiplication, conditional probability, Probability distributions: discrete (binomial, Poisson) 
+and continuous (normal, exponential), Exploring data distributions, relationships, and outlier, 
+Central Limit Theorem and its implications, Using Python libraries for probability calculations 
+ 
+UNIT III - Statistical Inference       (16 Hours) 
+Sampling methods: random sampling, stratified sampling, sampling distribution, Point 
+estimates and interval estimates, Hypothesis testing: null and alternative hypotheses, p-values, 
+significance level, One-sample and two-sample t-tests, Chi-squared tests for categorical data, 
+ANOVA (Analysis of Variance) and its applications 
+ 
+UNIT IV - Regression and Correlation      (10 Hours) 
+Simple linear regression: model, assumptions, interpretation, Multiple linear regression: model 
+building, multicollinearity, interaction terms, Logistic regression for binary classification, 
+Non-linear regression models, Correlation and causation: Pearson correlation, Spearman rank 
+correlation 
+ 
+UNIT V - Advanced Topics in Statistics      (10 Hours) 
+Time series analysis: components, forecasting, decomposition, Bayesian statistics: Bayes' 
+theorem, posterior distribution, Bayesian inference, Non-parametric methods: Wilcoxon rank
+sum test, Kruskal-Wallis test, Introduction to machine learning: supervised vs. unsupervised 
+learning, bias-variance trade-off 
+ 
+COURSE OUTCOMES  
+1. Able to develop expertise in research design, including experimental design, observational 
+studies, and clinical trials. Understand the advantages and limitations of different study designs 
+in healthcare research. 
+2. Able to handle complex and messy healthcare data, including missing data, longitudinal data, 
+and multi-source data integration. 
+3. Able to Apply multivariate statistical techniques for modeling and analyzing complex 
+healthcare data, including regression analysis, multilevel models, and mixed-effects models. 
+4. Able to use SEM to model complex relationships in healthcare data, such as causal pathways 
+and latent variables. 
+5. Able to Apply Bayesian statistical methods to healthcare data, including Bayesian 
+regression, hierarchical Bayesian modeling, and Bayesian network analysis. 
+ 
+Text Books 
+1. Applied Longitudinal Data Analysis for Epidemiology: A Practical Guide by Jos W. R. 
+Twisk 
+2. Bayesian Data Analysis by Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, 
+Aki Vehtari, and Donald B. Rubin 
+3. Survival Analysis: Techniques for Censored and Truncated Data by John P. Klein and 
+Melvin L. Moeschberger 
+ 
+Reference Books 
+1. Multilevel and Longitudinal Modeling Using Stata by Sophia Rabe-Hesketh and Anders 
+Skrondal 
+2. Structural Equation Modeling: A Second Course by Gregory R. Hancock and Ralph O. 
+Mueller 
+ 
+ 
+ 
+ 
+ 
+ 
+HIAT7603   PHARMACOINFORMATICS   L T P C 
+4 0 0 4 
+Course Description  
+Pharmacoinformatics explores the intersection of pharmacology and informatics, focusing on 
+the computational methods used to study drug design, development, and optimization. This 
+course delves into the application of bioinformatics, cheminformatics, and computational 
+modeling techniques to understand drug interactions, mechanisms of action, and 
+pharmacokinetics, aiming to enhance drug discovery processes and therapeutic outcomes. 
+ 
+ 
+COURSE OBJECTIVES 
+1. To Gain an understanding of the drug discovery and development process, including target 
+identification, lead compound discovery, preclinical testing, and clinical trials. 
+2. To Learn the basics of computational chemistry, including molecular modeling, quantum 
+mechanics, molecular dynamics simulations, and chemoinformatics techniques. 
+3. To Provide an overview of the principles and processes involved in drug discovery and 
+development using computational methods. 
+4. To Teach the use of cheminformatics tools and molecular modeling techniques to predict 
+and analyze drug-receptor interactions. 
+5. To Explore how pharmacogenomics and personalized medicine can be integrated with 
+informatics to optimize drug therapies based on individual genetic profiles. 
+ 
+Unit I  
+DNA and Protein Sequence databases, Sequence alignment using dynamic programming – 
+Needleman-Wunsch algorithm for global alignment, Smith-Waterman algorithm for local 
+alignment, Substitution score matrices (PAM, BLOSUM), Multiple sequence alignment – 
+methods of multiple sequence alignment, multidimensional dynamic programming 
+ 
+Unit II  
+Molecular phylogenetics: introduction to binary trees. Phylogenetic tree construction using 
+weighted parsimony and Neighbor-joining, Probabilistic models of evolution – Jukes cantor 
+model and Kimura model. Prediction of RNA secondary structure: Nussinov folding algorithm, 
+energy minimization and Zuker folding algorithm, covariance models. 
+ 
+Unit III  
+Prediction of secondary structure from protein sequence – Chou-Fasman rules, Prediction of 
+transmembrane helices. Prediction of protein conformation from protein sequence. Information 
+theoretical methods: Homology and threading. Basic Concepts of prediction using Force fields - Energy minimization, molecular dynamics and simulated annealing  
+ 
+Unit IV  
+Chemoinformatics: Pharmacology databases, structure databases, Molecular descriptors. 
+Molecular similarity. 2D substructure searching. 3D database searching. Pharmacophore keys. 
+Introduction to database filters, Lipinski Rule of Five, In silico ADMET; QSAR approach, 
+Knowledge - based approach.  
+ 
+Unit V  
+Principles of ligand-based drug design: SAR, QSAR and 3D-QSAR. Receptor based drug 
+design: Principles of receptor based de novo ligand design. Rigid body molecular Docking. 
+Case study: Structure based design of non-peptide inhibitors specific for HIV1 protease. 
+  
+COURSE OUTCOMES  
+1.Able to Develop skills in chemical information retrieval, including the use of chemical 
+databases, literature searches, and data mining for chemical and biological data. 
+2.Able to use computational tools to design new drugs, perform virtual screening, and predict 
+the binding affinity of molecules to biological targets. 
+3.Able to apply skills in data analysis and statistical methods as applied to pharmaceutical and 
+biological data, including high-throughput screening data and clinical trial results. 
+4.Able to Understand the role of genetics and genomics in drug response and the concept of 
+personalized medicine. 
+5. Able to explain the role of computational techniques in Drug Designing 
+ 
+Text Book 
+1. Durbin, Eddy, Krogh and Mitchison Biological sequence analysis. Cambridge University 
+Press, 2003. 
+2. AR Leach and VJ Gillet. An introduction to chemoinformatics. Springer. 2007.  
+ 
+Reference text books 
+1. M.Rowland and T.N. Tozer Clinical Pharmacokinetics: Concepts and Applications, 3/e, Lea 
+and Febiger publications, 1995.  
+2. Andrew R. Leach, Molecular modeling, Principles and applications, 2/e, Prentice Hall 2007. 
+  
+HIAP7501  Mini Project 
+Guidelines 
+1. Mini Project may be a theoretical analysis, modelling & simulation, experimentation & 
+analysis, prototype design, fabrication of new equipment, correlation and analysis of data, 
+software development, applied research and any other related activities.  
+2. Project can be for one or two semesters based on the completion of required number of 
+credits as per the academic regulations.  
+3. Can be individual work or a group project, with a maximum of 3 students.  
+4. In case of group projects, the individual project report of each student should specify the 
+individual’s contribution to the group project.  
+5. Carried out inside or outside the university, in any relevant industry or research institution.  
+6. Publications in the peer reviewed journals / International Conferences will be an added 
+advantage 
+ 
+  
+For 2022-23 Batch 
+    
+Elective: INTERNET OF MEDICAL THINGS    L T P C 
+3 0 0 3 
+ 
+ 
+Course Description 
+The course on Internet of Medical Things (IoMT) explores the integration of connected medical 
+devices and technologies within healthcare systems, focusing on their applications in patient 
+monitoring, diagnostics, and treatment. It covers the design, implementation, and management 
+of IoMT systems, emphasizing their impact on healthcare delivery, patient outcomes, and data 
+security. Students will learn about the interoperability of IoMT devices, regulatory 
+requirements, and ethical considerations in deploying these technologies to enhance medical 
+care and efficiency. 
+ 
+COURSE OBJECTIVES 
+1. To Execute formal training in areas of technology applied to healthcare including computer 
+sciences and IoT technologies to facilitate the deployment of telemedicine.  
+2. To Understand the basic requirements for the delivery of IoMT services.  
+3. To Provide an overview of Internet of Medical Things, including its components, 
+technologies, and applications in healthcare. 
+4. To Explore the design principles and architectures of IoMT systems, focusing on 
+connectivity, data collection, and device interoperability. 
+5. To Address the challenges and strategies for ensuring data security, patient privacy, and 
+regulatory compliance in IoMT deployments. 
+ 
+Unit - 1 
+Introduction  - .Why IoT? , Benefits and impact of IoMT , Classification of IoT Protocols Used 
+in Medical Devices, Security in IoMT Communication Protocols, Secure IoMT 
+Communications: Threat Landscape and Protocol Comparison, Challenges and Open Issues 
+ 
+Unit -  2  
+ Iot Based Healthcare Delivery Services to Promote Transparency and Patient Satisfaction in a 
+Corporate Hospital, IoMT Applications,  Chronic disease management, Remote assisted living 
+(Tele health), Wellness and preventive care (Lifestyle assessment),. Remote intervention . 
+Improved drug management  
+ 
+Unit – 3  
+Technologies Enduing IoMT Implementation,. Local systems and control layer, Device 
+connectivity and data layer. Analytic solutions layer, Cancer Prediction and Diagnosis Hinged 
+on HCML in IOMT Environment 
+ 
+Unit – 4  
+Market Landscape, Market overview, Key players and current trends in value chain, Local 
+patient systems and control, Device connectivity and data layer, Analytic and solutions layer  
+ 
+Unit – 5  
+Intellectual Property Perspective. Intellectual Property overview Key players. Milestone 
+innovations 
+ 
+Course Outcomes  
+Upon successful completion of the course student would be –  
+✓ Able to Understand the technology and standards relating to IoMTs  
+✓ Able to Understand the concepts of the Internet of Medical Things  
+✓ Able to Design IoMT applications in Healthcare domain 
+✓ Able to Analyze basic protocols in wireless sensor network 
+✓ Able to Understand the basic requirements for the delivery of IoMT services.  
+ 
+ 
+Text Books 
+1. Internet of Medical Things: Remote Healthcare Systems and Applications, Hemanth, D. 
+Jude, Anitha, J., Tsihrintzis, George A. (Eds.), Springer 2021 
+2. Machine Learning and the Internet of Medical Things in Healthcare 1st Edition, Krishna 
+Singh Mohamed Elhoseny Akansha Singh Ahmed Elnga, Elsevier 2021 
+ 
+  
+Elective: IMAGING INFORMATICS     L T P C 
+3 0 0 3 
+ 
+Course Description 
+Imaging Informatics is a course that focuses on the application of information technology in 
+medical imaging, aiming to enhance the acquisition, management, analysis, and interpretation 
+of medical images. This course covers the principles of imaging modalities, such as X-ray, 
+MRI, CT, and ultrasound, and explores how digital imaging technologies and informatics 
+systems are integrated to improve diagnostic accuracy, treatment planning, and patient care. 
+Students will learn about image processing techniques, picture archiving and communication 
+systems (PACS), and the role of standards and interoperability in imaging informatics, 
+preparing them to navigate the complex landscape of medical imaging technology within 
+healthcare settings. 
+ 
+COURSE OBJECTIVES 
+1. To identify recent advancements in the field of imaging informatics  
+2. To discuss the Machine Intelligence progress made in medical imaging  
+3. To describe the interoperability standards in medical imaging  
+4. To outline specific advancements to measure value in imaging 
+5. To explain the specific models for imaging analytics  
+ 
+Unit - 1  
+Introduction, Feature Selection and Extraction, Subband Coding and Wavelet Transform The 
+Wavelet Transform in Medical Imaging 
+ 
+Unit - 2  
+Genetic Algorithms, Statistical and Syntactic Pattern Recognition, Foundations of Neural 
+Networks, Transformation and Signal-Separation Neural Networks, Neuro-Fuzzy 
+Classification, Specialized Neural Networks Relevant to Bioimaging, Spatio-Temporal Models 
+in Functional and Perfusion Imaging 
+ 
+Unit - 3  
+Analysis of Dynamic Susceptibility Contrast MRI Time-Series Based on Unsupervised 
+Clustering Methods, Computer-Aided Diagnosis for Diagnostically Challenging Breast 
+Lesions in DCE-MRI 
+ 
+Unit - 4 
+Introduction to Machine Learning for Pattern recognition, Probability Distributions, Linear 
+Models for Regression, Linear Models for Classification 
+ 
+Unit - 5 
+Neural Networks, Kernel methods, Sparse Kernel Machines, Graphical methods, Mixture 
+models, Sequential Data, Sampling methods and Combining models 
+ 
+ 
+Learning Outcomes 
+Upon successful completion of the course student would be –  
+✓ Able to study how information about medical images is exchanged within radiology and 
+throughout the medical enterprise. 
+✓ Able to use picture archiving and communication systems (PACS) effectively. 
+✓ Able to serve the physician better with software knowledge that is designed to meet 
+specific workflow needs. 
+✓ Able to explain the picture archiving and communication systems 
+✓ Able to analyse the picture archiving and communication systems 
+ 
+Text Books 
+1. Pattern Recognition and Machine Learning, Christopher M. Bishop, Springer 2011 
+2. Pattern Recognition in Medical Imaging, Anke Meyer-Bäse, Elsevier, 2004 
+ 
+ 
+  
+Elective: DATA MANAGEMENT IN HEALTHCARE ANALYTICS  L T P C 
+3 0 0 3 
+ 
+Course Description 
+Data Management in Healthcare Analytics focuses on the principles and practices of managing 
+healthcare data to support effective analytics and decision-making processes. This course 
+explores the lifecycle of healthcare data, from collection and storage to integration, cleansing, 
+and analysis. Emphasis is placed on data governance, quality assurance, and ensuring data 
+integrity to derive actionable insights that improve patient outcomes, operational efficiency, 
+and healthcare delivery. Students will gain hands-on experience with healthcare data 
+management tools and techniques, preparing them to address the complexities and challenges 
+of data management in healthcare analytics. 
+ 
+COURSE OBJECTIVES 
+1. To Identify challenges in using population health data sources, including issues related to 
+big data, interoperability, and population segmentation.  
+2. To Describe the conceptual and practical challenges of developing valid and reliable 
+population health analytic methods. 
+3. To Teach techniques for collecting, integrating, and aggregating healthcare data from 
+disparate sources, ensuring completeness and accuracy. 
+4. To Focus on strategies for ensuring data quality, governance, and compliance with regulatory 
+standards such as HIPAA and GDPR. 
+5. To Introduce database management systems (DBMS) and data warehousing concepts 
+tailored to healthcare settings, emphasizing scalability and performance. 
+ 
+Unit - 1  
+Databases and Their Objectives, Terminology in the Area of Data Bases, Components of 
+databases, File management systems versus database management systems, Related Systems  
+ 
+Unit - 2  
+Scientific Basis for Database Technology, The schema, The data model, Types of database 
+models, Database Operation, Entering data into the database, Data storage, Data organization 
+for retrieval, Data presentation, Database administration  
+ 
+Unit - 3  
+Use of Databases in Health Care, Health Care Settings and the Relevancy of Database 
+Technology, Private solo practice, Group practice, Specialty practice, Hospitals, Clinical 
+research, Non-patient databases 
+ 
+Unit - 4  
+Current Health Care Applications of Databases, Reimbursement databases, Disease-specific 
+shared databases, Databases used in HMO's, Surveillance databases Specialty clinical 
+databases General clinical databases, Databases in research  
+ 
+Unit - 5  
+The Future Use of Databases in Health Care, Cost-effectiveness issues, Initiatives and 
+innovation due to technology push, The human element, Sharing of information, Privacy in 
+Databases, The Effect of Databases on Health Care Costs, Quality, and Access  
+ 
+ 
+LEARNING OUTCOMES 
+Upon successful completion of the course student would be –  
+1. Able to Oversee analytical operations and communicate insights to health informaticians 
+2. Able to Leverage data analysis and modeling techniques to solve problems in the healthcare 
+industry 
+3. Able to Utilize data and analytical models to inform specific functions and business decisions 
+4. Able to provide an overview of healthcare data sources, types, and challenges specific to 
+data management in healthcare analytics 
+5. Able to prepare data for analytics by cleansing, transforming, and structuring it for use in 
+statistical analysis, machine learning, and predictive modeling in healthcare contexts. 
+ 
+Text Books 
+1. Databases for Health Care, Gio Wiederhold, Springer-Verlag Berlin Heidelberg 1981 
+2. Data Science for Healthcare Methodologies and Applications, Sergio Consoli, Springer 
+Nature Switzerland AG 2019 
+ 
+  
+Elective: PRESCRIPTIVE, PREDICTIVE AND DIAGNOSTIC ANALYTICS IN 
+HEALTHCARE        L T P C 
+3  0  0  3 
+ 
+ 
+Course Description 
+ Prescriptive, Predictive, and Diagnostic Analytics in Healthcare is a course that delves into 
+advanced analytics techniques aimed at improving healthcare outcomes and operational 
+efficiency. It covers the principles and applications of prescriptive analytics for decision
+making, predictive analytics for forecasting patient outcomes, and diagnostic analytics for 
+identifying patterns and trends in healthcare data. Students will explore case studies and 
+practical applications to understand how these analytics methods can be leveraged to optimize 
+clinical workflows, enhance patient care, and drive evidence-based decision-making in 
+healthcare settings. 
+ 
+COURSE OBJECTIVES 
+1. To Identify and discuss the developing frontiers in the predictive modeling field 
+2. To Describe the commonly used case identification/predictive measurement/modeling tools 
+3. To Discuss the inner workings of commonly used risk adjustment and predictive modeling 
+tools 
+4. To Explore predictive modeling techniques to forecast patient outcomes, disease trends, and 
+resource needs in healthcare settings. 
+5. To Provide an overview of prescriptive, predictive, and diagnostic analytics methods and 
+their applications in healthcare. 
+ 
+Unit - 1  
+Linear Methods for Regression and Classification: Overview of supervised learning, Linear 
+regression models and least squares, Multiple regression, Multiple outputs, Subset selection , 
+Ridge regression, Lasso regression , Linear Discriminant Analysis , Logistic regression , 
+Perception learning algorithm. 
+ 
+Unit - 2  
+Model Assessment and Selection : Bias, Variance, and model complexity, Bias-variance trade 
+off, Optimism of the training error rate ,Estimate of In-sample prediction error, Effective 
+number of parameters, Bayesian approach and BIC, Cross- validation ,Boot strap methods, 
+conditional or expected test error. 
+ 
+Unit - 3  
+Additive Models, Trees,and Boosting: Generalized additive models, Regression and 
+classification trees , Boosting methods-exponential loss and AdaBoost, Numerical 
+Optimization via gradient boosting, Examples (Spam data, California housing , NewZealand 
+fish, Demographic data) 
+ 
+Unit - 4  
+Neural Networks(NN) , Support Vector Machines(SVM),and K-nearest Neighbor: Fitting 
+neural networks, Back propagation, Issues in training NN, SVM for classification, 
+Reproducing Kernels, SVM for regression, K-nearest –Neighbour classifiers 
+ 
+Unit - 5  
+Unsupervised Learning and Random forests: Association rules, Cluster analysis, Principal 
+Components, Random forests and analysis. Inferential Statistics and Prescriptive analytics, 
+Assessing Performance of a classification Algorithm (t-test,McNemar’s test,Paired ttest,paired 
+F-test),Analysis of Variance, Creating data for analytics through designed experiments. 
+ 
+LEARNING OUTCOMES 
+Upon successful completion of the course student would be  
+✓ To equip students to critically evaluate business situations and analyze healthcare data for 
+decision making 
+✓ To enable students to synthesize concepts of health data mining and business intelligence 
+✓ To apply specific statistical and regression analysis methods applicable to predictive 
+analytics in the Healthcare industry 
+✓ To Apply prescriptive, predictive, and diagnostic analytics concepts to real-world 
+healthcare scenarios, emphasizing practical implementation and integration into clinical 
+practice and healthcare management. 
+✓ To Explore predictive modeling techniques to forecast patient outcomes, disease trends, 
+and resource needs in healthcare settings 
+ 
+Text Books 
+1. Healthcare analytics, From Data to Knowledge to Healthcare Improvement, Hui Yang and 
+Eva K. Lee, John Wiley & Sons, Inc. 2016 
+2. Healthcare Data Analytics, Edited by Chandan K. Reddy and Charu C. Aggarwal, CRC Press 
+2011 
+ 
+ 
+  
+Elective: PROJECT MANAGEMENT IN HEALTH INFORMATICS  L T P C 
+3  0 0 3 
+ 
+Course Description  
+Project Management in Health Informatics typically covers the principles, tools, and techniques 
+used to effectively manage projects in the context of healthcare information technology. 
+ 
+COURSE OBJECTIVES 
+1. To Take part in system selection processes. 
+2. To Recommend clinical, administrative, and specialty service applications. 
+3. To Apply project management techniques to ensure efficient workflow and appropriate 
+outcomes. 
+4. To Facilitate project management by integrating work efforts 
+5. To describe project management methodologies specifically within the healthcare sector 
+ 
+Unit - 1  
+Project Management Process, Initiation Phase, Planning Phase, Execution Phase, Control 
+Phase, Closing Phase 
+ 
+Unit - 2  
+Applying the Project Management Process in Healthcare Informatics, Applying the Project 
+Management Process in Healthcare Management  
+ 
+Unit - 3  
+Change Management, Understanding Change Management, Why Do We Resist Change?, Why 
+Do We Resist Change Management, Realization Management, Sponsorship Management, 
+Transformation Management, Training Management, Optimization Management 
+ 
+Unit - 4  
+Managing Project Costs, Estimating Cost, Cost Categories, Direct Costs, Variable Costs, 
+Indirect Costs, Special Case Costs, Capital Costs, Assessing Costs, Allocating Budgeted Costs 
+ 
+Unit - 5  
+Project Quality Management, Project Quality Control, Project Quality Assurance, Basic 
+Statistical Concepts Used in Quality Assessment, The Cost of Quality 
+ 
+COURSE OUTCOMES  
+Upon successful completion of the course student would be –  
+✓ Able to develop project charters, plans, budgets, and schedules with sponsors and 
+stakeholders 
+✓ Able to facilitate team meetings to review progress and teamwork at milestone reviews 
+✓ Able to understand how enterprise resource planning software packages are used within 
+the healthcare field 
+✓ Able to examine the emergence of the empowered patient consumer, changing demands, 
+personal health records, privacy concerns 
+✓ Able to implementation of the successful project management  
+Text Books 
+1. Project Management for Healthcare, David Shirley, CRC Press, 2011 
+2. Project Management for Healthcare Information Technology, Scott Coplan and David 
+Masuda, The McGraw-Hill Companies, Inc. 2011 
+  
+Elective: FINANCIAL MANAGEMENT IN HEALTHCARE   L T P C 
+3 0 0 3 
+ 
+ 
+COURSE OBJECTIVES 
+1. To Evaluate capital, operating and/or project budgets using basic accounting principles. 
+2. To Perform cost-benefit analysis for resource planning and allocation. 
+3. To Evaluate the stages of the procurement process. 
+ 
+Unit – 1  
+Financial Management – an overview, Nature, scope, functions, goals, sources of finance-an 
+overview  
+Unit – 2   
+Fundamentals of valuation concepts.  Time value of money, Risk & Return-trade off 
+(Elementary idea)  
+Unit – 3  
+Working Capital Management including Cash Management, Receivables Management, 
+Inventory Management 
+Unit – 4  
+Investment decisions Capital Budgeting- NPV, IRR, PI, ARR, Cost of Capital-overall vs. 
+specific cost of capital 
+Unit – 5  
+Dividend decisions-dividend theory, dividend policy, Long term financing-issue of shares, 
+debentures, other modes of financing 
+ 
+COURSE OUTCOMES  
+Upon successful completion of the course student would be –  
+✓ Able to Consolidate knowledge of and apply the technical language and practices of 
+financial management 
+✓ Able to Undertake sophisticated financial analysis with regard to Corporate valuation, 
+interest rate, and currency risk management and present the information in an appropriate 
+format 
+✓ Able to Evaluate, synthesize and apply the contemporary theories and empirical evidence 
+concerning Financial Management to a range of problems and situations 
+ 
+Text Books 
+1. Khan and Jain, Financial management, fourth edition, Tata Mc Graw Hill, New Delhi, 2004.  
+2. Pandey I.M., Cases in Financial management, Tata Mc Graw Hill, second edition, New 
+Delhi, 20 2003.  
+3. William N. Zelman, Michael J. McCue, Alan R. Millikan, Alan R. Milikan, Financial 
+Management of Health Care Organizations: An Introduction to Fundamental Tools, Concepts, 
+and Applications, Blackwell Publishers; January 1998. 
+ 
+ 
+ 
+ 
+From 2023-24 Batch 
+ HIAT 7601: MEDICAL TECHNOLOGIES:      L T P C 
+3 0 0 3 
+ 
+AI in Organoids    
+COURSE DESCRIPTION:  
+This course explores the intersection of artificial intelligence (AI) and organoids, focusing on 
+how AI techniques can enhance research, modeling, and experimentation in the field of 
+organoid biology. Topics include machine learning algorithms for organoid analysis, AI-driven 
+drug discovery, and the ethical implications of AI in organoid research. 
+COURSE OBJECTIVES: 
+Understand the fundamentals of organoid biology and its significance in biomedical research. 
+1. Explore various applications of artificial intelligence in organoid research. 
+2. Gain proficiency in applying machine learning algorithms to analyze organoid data. 
+3. Critically evaluate the ethical considerations surrounding the use of AI in organoid 
+experimentation. 
+4. Develop skills in designing AI-driven experiments for organoid research. 
+5. Explore the concepts of AI in Organ modeling  
+ 
+UNIT – 1 Introduction to Organoid Biology 
+Overview of organoid culture techniques, Importance of organoids in disease modeling and 
+regenerative medicine, Fundamentals of Artificial Intelligence, Introduction to machine 
+learning and deep learning, Supervised, unsupervised, and reinforcement learning algorithms 
+UNIT – 2 AI Applications in Organoid Research 
+AI-driven analysis of organoid morphology and structure, Predictive modeling for drug 
+response using AI techniques 
+UNIT – 3 Ethical Considerations in AI-driven Organoid Research 
+Discussion on privacy, consent, and data security, Ethical implications of AI-generated 
+research outcomes 
+UNIT – 4 Advanced Topics in AI and Organoids 
+Integration of multi-omics data for comprehensive analysis, AI-based optimization of organoid 
+culture conditions 
+UNIT – 5 Project Work and Presentations 
+Students work on individual or group projects applying AI techniques to organoid research, 
+Presentation of project findings and discussions 
+ 
+COURSE OUTCOMES  
+By the end of this course, students should be able to: 
+• Describe the principles of organoid biology and its applications. 
+• Apply machine learning algorithms to analyze organoid data effectively. 
+• Evaluate the ethical implications of using AI in organoid research. 
+• Design and execute experiments using AI techniques in organoid biology. 
+• Explore the AI mediated organoid synthesis. 
+ 
+Textbooks: 
+1."Organoids: A Paradigm Shift in Developmental Biology and Medicine" by Joaquim M. 
+Vieira and published by Springer. 
+2."Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville, available freely 
+online. 
+3."Machine Learning Yearning" by Andrew Ng, available freely online. 
+4."Ethics of Biomedical Artificial Intelligence" edited by John P. Sadowsky and published by 
+Springer. 
+ 
+ 
+  
+Telehealth Strategies 
+Course Description: This course provides an in-depth exploration of telehealth, including its 
+history, technologies, applications, and ethical considerations. Students will examine various 
+telehealth modalities, their implementation, and the impact on healthcare delivery. 
+Course Objectives: 
+1.Understand the concept of telehealth and its evolution in healthcare. 
+2.Explore different telehealth technologies and their applications. 
+3.Analyze the benefits and challenges of implementing telehealth services. 
+4.Examine regulatory and ethical issues related to telehealth. 
+5.Develop skills in designing and implementing telehealth solutions. 
+UNIT 1 Introduction to Telehealth 
+Definition and history of telehealth, Overview of telehealth modalities: synchronous vs. 
+asynchronous, real-time vs. store-and-forward 
+UNIT – 2 Telehealth Technologies 
+Video conferencing platforms and remote monitoring devices, Wearable technology and 
+mobile health applications 
+UNIT – 3 Applications of Telehealth 
+Teleconsultation and remote diagnosis, Telemedicine in specialty care and rural health settings, 
+Benefits and Challenges of Telehealth, Improved access to healthcare services, Privacy, 
+security, and regulatory compliance issues 
+UNIT – 4 Ethics and Legal Considerations in Telehealth 
+Patient confidentiality and informed consent, Telehealth reimbursement and licensure 
+requirements 
+UNIT – 5 Future Directions of Telehealth 
+Emerging trends and innovations in telehealth, Impact of telehealth on healthcare delivery 
+models 
+ 
+ 
+Learning Outcomes:  
+By the end of this course, students should be able to: 
+• Define telehealth and discuss its historical development. 
+• Identify different telehealth technologies and their applications. 
+• Evaluate the benefits and challenges of implementing telehealth services. 
+• Analyze ethical and legal considerations in telehealth practice. 
+• Design and propose telehealth solutions to address specific healthcare needs. 
+Textbooks: 
+1."Telemedicine and Telehealth: Principles, Policies, Performance, and Pitfalls" by S. Yunkap 
+Kwankam, published by Springer. 
+2."Introduction to Telemedicine" by C. William Hanson III, published by CRC Press. 
+3."Telehealth Nursing: Tools and Strategies for Optimal Patient Care" by Karen S. Kott and 
+Julia A. Eggert, published by Springer Publishing Company. 
+4."Telehealth and Mobile Health" edited by Scott M. Strayer and published by CRC Press. 
+ 
+ 
+  
+Internet of Medical Things (IoMT) 
+Course Description: This course provides an in-depth examination of the Internet of Medical 
+Things (IoMT), including its applications, challenges, and implications for healthcare delivery. 
+Students will explore the integration of connected medical devices, data analytics, and security 
+considerations in the context of patient care. 
+Course Objectives: 
+1.Understand the concept of the Internet of Medical Things and its significance in healthcare. 
+2.Explore different types of medical devices and sensors used in IoMT. 
+3.Analyze the role of data analytics in leveraging IoMT for improving patient outcomes. 
+4.Evaluate the challenges and security considerations associated with IoMT implementation. 
+5.Develop skills in designing and implementing IoMT solutions for healthcare settings. 
+Unit 1: Introduction to IoMT 
+Definition and scope of the Internet of Medical Things, Historical development and evolution 
+of IoMT technologies 
+Unit 2: Medical Devices and Sensors 
+Overview of connected medical devices and wearables, Types of sensors used in healthcare 
+monitoring and diagnosis 
+Unit 3: Data Analytics in IoMT 
+Importance of data analytics for extracting insights from IoMT data, Machine learning 
+algorithms for predictive analytics in healthcare 
+Unit 4: Challenges and Security Considerations 
+Regulatory compliance and standards in IoMT, Security risks and privacy concerns associated 
+with IoMT devices and data 
+Unit 5: Implementation and Future Trends 
+Case studies of IoMT applications in healthcare delivery, Emerging trends and innovations in 
+IoMT technology 
+LEARNING OUTCOMESS:  
+By the end of this course, students should be able to: 
+• Define the Internet of Medical Things and its applications in healthcare. 
+• Identify different types of medical devices and sensors used in IoMT. 
+• Apply data analytics techniques to analyze IoMT data for healthcare insights. 
+• Assess the challenges and security considerations in IoMT implementation. 
+• Design and propose IoMT solutions to address specific healthcare needs. 
+Textbooks: 
+1."The Internet of Medical Things" by Arvind Sathi, published by CRC Press. 
+2."Connected Health: Improving Care, Safety, and Efficiency with Wearables and IoT 
+Solution" by Himanshu Bhatt, published by Apress. 
+3."Healthcare Sensor Networks: Challenges Toward Practical Implementation" edited by 
+Thomas Falck, published by CRC Press. 
+4."IoT Applications in Healthcare" edited by Yen-Wei Chen, published by Springer. 
+ 
+ 
+  
+HIAT7602: ADVANCED HEALTH ANALYTICS    L T P C 
+3 0 0 3 
+MACHINE LEARNING IN HEALTHCARE 
+COURSE DESCRIPTION:  
+This course explores the application of machine learning techniques in healthcare, focusing on 
+how algorithms can analyze medical data to improve diagnosis, treatment, and patient 
+outcomes. Students will learn about various ML models, their implementation, and ethical 
+considerations in healthcare AI. 
+Course Objectives: 
+1.Understand the fundamentals of machine learning and its applications in healthcare. 
+2.Explore different types of medical data and their suitability for ML analysis. 
+3.Analyze the role of ML algorithms in disease diagnosis and prognosis. 
+4.Evaluate the impact of ML-driven decision support systems on clinical practice. 
+5.Develop skills in designing and implementing ML models for healthcare applications. 
+Unit 1: Introduction to Machine Learning in Healthcare 
+Overview of machine learning and its relevance in healthcare, Historical context and evolution 
+of ML applications in medicine 
+Unit 2: Medical Data and Feature Engineering 
+Types of medical data: structured vs. unstructured, imaging data, electronic health records 
+(EHR), Preprocessing techniques and feature extraction for medical datasets 
+Unit 3: ML Models for Healthcare 
+Supervised learning algorithms for disease diagnosis and classification, Unsupervised learning 
+techniques for clustering and anomaly detection in healthcare data 
+Unit 4: Clinical Decision Support Systems 
+Integration of ML models into clinical practice, Ethical considerations and challenges in 
+deploying ML-driven decision support systems 
+Unit 5: Applications and Case Studies 
+Case studies of ML applications in healthcare, such as image analysis, predictive modeling, 
+and personalized medicine, Emerging trends and future directions in ML-driven healthcare 
+innovation 
+LEARNING OUTCOMESS:  
+By the end of this course, students should be able to: 
+• Describe the principles of machine learning and its applications in healthcare. 
+• Identify different types of medical data and preprocess them for ML analysis. 
+• Implement supervised and unsupervised ML models for healthcare tasks. 
+• Assess the impact of ML-driven decision support systems on clinical practice. 
+• Design and propose ML solutions to address specific healthcare challenges. 
+Textbooks: 
+1."Machine Learning for Healthcare: A Practical Guide for Healthcare Professionals" by Parag 
+K. Mital, published by O'Reilly Media. 
+2."Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again" by Eric 
+Topol, published by Basic Books. 
+3."Machine Learning in Medicine: A Complete Overview" by Ton J. Cleophas and Aeilko H. 
+Zwinderman, published by Springer. 
+4."Healthcare Data Analytics and Management" by Nilanjan Dey et al., published by CRC 
+Press 
+ 
+ 
+  
+PRINCIPLES AND PRACTICE OF HEALTH CARE MANAGEMENT 
+COURSE DESCRIPTION:  
+This course provides an in-depth understanding of the fundamental principles and practices 
+essential for effective management in the healthcare sector. It covers the core concepts of 
+healthcare administration, including organizational behavior, strategic planning, financial 
+management, and human resources management. The course aims to equip students with the 
+skills and knowledge needed to navigate the complexities of healthcare systems and lead 
+organizations in delivering quality care. 
+COURSE OBJECTIVES: 
+⚫ Understand the structure and dynamics of healthcare systems: Analyze the organization, 
+financing, and delivery of health services. 
+⚫ Develop strategic management skills: Apply strategic planning processes to enhance 
+organizational performance in healthcare settings. 
+⚫ Master financial management principles: Understand budgeting, financial reporting, and 
+financial decision-making in healthcare organizations. 
+⚫ Enhance leadership and human resource management: Learn effective leadership styles 
+and human resource practices specific to healthcare. 
+⚫ Evaluate quality and performance improvement initiatives: Implement and assess quality 
+improvement and performance measurement in healthcare services. 
+⚫ Navigate legal and ethical issues: Understand the legal, regulatory, and ethical 
+considerations in healthcare management. 
+Unit 1: Introduction to Healthcare Systems and Organizations 
+Overview of Healthcare Systems: Types of healthcare systems: public, private, and mixed, 
+Comparative analysis of international healthcare systems, Key stakeholders in healthcare: 
+patients, providers, payers, and regulators. 
+Healthcare Delivery Models: Primary, secondary, and tertiary care, Ambulatory and acute care 
+services, Integrated delivery systems and accountable care organizations. 
+Healthcare Policy and Regulation: Role of government in healthcare, Key healthcare policies 
+and regulations, Impact of policy on healthcare organizations. 
+Unit 2: Strategic Management in Healthcare 
+Strategic Planning and Analysis: Vision, mission, and values in healthcare organizations, 
+SWOT analysis and environmental scanning, The strategic planning process. 
+Healthcare Marketing and Competitive Strategy: Market analysis and segmentation, 
+Developing competitive strategies, Branding and marketing in healthcare. 
+Change Management and Organizational Development: Principles of change management in 
+healthcare, Strategies for managing organizational change, Leadership in organizational 
+development. 
+Unit 3: Financial Management in Healthcare 
+Financial Accounting and Reporting: Basics of financial accounting in healthcare, Reading and 
+interpreting financial statements, Key financial performance indicators. 
+Budgeting and Financial Planning: Types of budgets: operational, capital, and cash flow, 
+Budgeting process and techniques, Financial forecasting and planning. 
+Healthcare Reimbursement and Funding: Payment models: fee-for-service, capitation, and 
+value-based payments, Revenue cycle management, Financing sources for healthcare 
+organizations. 
+Unit 4: Human Resource Management and Leadership in Healthcare 
+Human Resource Management Practices: Recruitment, selection, and retention strategies, 
+Performance management and employee development, Compensation and benefits in 
+healthcare. 
+Leadership in Healthcare: Leadership theories and styles, Developing leadership skills in 
+healthcare, Ethical leadership and decision-making. 
+Team Dynamics and Communication: Building and leading effective teams, Communication 
+strategies in healthcare organizations,Conflict resolution and negotiation. 
+Unit 5: Quality, Performance Improvement, and Legal Issues in Healthcare 
+Quality Improvement in Healthcare: Concepts of quality in healthcare,Tools and techniques 
+for quality improvement (Six Sigma, Lean), Patient safety and risk management. 
+Performance Measurement and Management: Key performance indicators in healthcare, 
+Benchmarking and performance analysis, Use of health information systems in performance 
+management. 
+Legal and Ethical Issues in Healthcare Management: Legal framework and compliance in 
+healthcare, Ethical issues and dilemmas in healthcare management, Privacy, confidentiality, 
+and informed consent. 
+Learning Outcomes:  
+By the end of this course, students should be able to: 
+⚫ Analyze healthcare systems and their impact on organizational management and patient care. 
+⚫ Apply strategic and financial management principles to solve problems and improve 
+organizational performance in healthcare. 
+⚫ Demonstrate effective leadership and management skills tailored to the unique challenges of 
+healthcare settings. 
+⚫ Implement quality and performance improvement strategies to enhance healthcare delivery. 
+⚫ Assess and respond to legal and ethical issues in the management of healthcare organizations. 
+Textbooks: 
+1. “Essentials of Healthcare Management: Cases, Concepts, and Skills, Second Edition” by 
+Leigh Cellucci 
+2. “Shortell & Kaluzny's Health Care Management: Organization Design and Behavior 7th 
+Edition” : by Lawton Burns, Elizabeth Bradley, Bryan Weiner  
+3. "Quality Management in Health Care: Principles and Methodsystems: Cases, Strategies, and 
+Solutions" by Marion J. Ball et al., published by Springer. 
+ 
+ 
+  
+PRESCRIPTIVE, PREDICTIVE AND DIAGNOSTIC ANALYTICS IN 
+HEALTHCARE 
+ 
+Course Description 
+ Prescriptive, Predictive, and Diagnostic Analytics in Healthcare is a course that delves into 
+advanced analytics techniques aimed at improving healthcare outcomes and operational 
+efficiency. It covers the principles and applications of prescriptive analytics for decision
+making, predictive analytics for forecasting patient outcomes, and diagnostic analytics for 
+identifying patterns and trends in healthcare data. Students will explore case studies and 
+practical applications to understand how these analytics methods can be leveraged to optimize 
+clinical workflows, enhance patient care, and drive evidence-based decision-making in 
+healthcare settings. 
+ 
+COURSE OBJECTIVES 
+1. To Identify and discuss the developing frontiers in the predictive modeling field 
+2. To Describe the commonly used case identification/predictive measurement/modeling tools 
+3. To Discuss the inner workings of commonly used risk adjustment and predictive modeling 
+tools 
+4. To Explore predictive modeling techniques to forecast patient outcomes, disease trends, and 
+resource needs in healthcare settings. 
+5. To Provide an overview of prescriptive, predictive, and diagnostic analytics methods and 
+their applications in healthcare. 
+ 
+Unit - 1  
+Linear Methods for Regression and Classification: Overview of supervised learning, Linear 
+regression models and least squares, Multiple regression, Multiple outputs, Subset selection , 
+Ridge regression, Lasso regression , Linear Discriminant Analysis , Logistic regression , 
+Perception learning algorithm. 
+ 
+Unit - 2  
+Model Assessment and Selection : Bias, Variance, and model complexity, Bias-variance trade 
+off, Optimism of the training error rate ,Estimate of In-sample prediction error, Effective 
+number of parameters, Bayesian approach and BIC, Cross- validation ,Boot strap methods, 
+conditional or expected test error. 
+ 
+Unit - 3  
+Additive Models, Trees,and Boosting: Generalized additive models, Regression and 
+classification trees , Boosting methods-exponential loss and AdaBoost, Numerical 
+Optimization via gradient boosting, Examples (Spam data, California housing , NewZealand 
+fish, Demographic data) 
+ 
+Unit - 4  
+Neural Networks(NN) , Support Vector Machines(SVM),and K-nearest Neighbor: Fitting 
+neural networks, Back propagation, Issues in training NN, SVM for classification, 
+Reproducing Kernels, SVM for regression, K-nearest –Neighbour classifiers 
+ 
+Unit - 5  
+Unsupervised Learning and Random forests: Association rules, Cluster analysis, Principal 
+Components, Random forests and analysis. Inferential Statistics and Prescriptive analytics, 
+Assessing Performance of a classification Algorithm (t-test,McNemar’s test,Paired ttest,paired 
+F-test),Analysis of Variance, Creating data for analytics through designed experiments. 
+ 
+LEARNING OUTCOMES 
+Upon successful completion of the course student would be  
+✓ To equip students to critically evaluate business situations and analyze healthcare data for 
+decision making 
+✓ To enable students to synthesize concepts of health data mining and business intelligence 
+✓ To apply specific statistical and regression analysis methods applicable to predictive 
+analytics in the Healthcare industry 
+✓ To Apply prescriptive, predictive, and diagnostic analytics concepts to real-world 
+healthcare scenarios, emphasizing practical implementation and integration into clinical 
+practice and healthcare management. 
+✓ To Explore predictive modeling techniques to forecast patient outcomes, disease trends, 
+and resource needs in healthcare settings 
+ 
+Text Books 
+1. Healthcare analytics, From Data to Knowledge to Healthcare Improvement, Hui Yang and 
+Eva K. Lee, John Wiley & Sons, Inc. 2016 
+2. Healthcare Data Analytics, Edited by Chandan K. Reddy and Charu C. Aggarwal, CRC Press 
+2011 
+  
+HIAT7603: ADVANCED DIGITAL HEALTH ECO-SYSTEM   L T P C 
+3 0 0 3 
+PRECISION MEDICINE 
+Course Description 
+This course provides an in-depth exploration of precision medicine, an innovative approach to 
+tailoring medical treatment to the individual characteristics of each patient. Emphasizing the 
+role of genomics, big data, and personalized care, this course aims to equip students with the 
+knowledge and skills necessary to understand and implement precision medicine in clinical 
+and research settings. 
+ 
+COURSE OBJECTIVES: 
+1.To understand the fundamental principles and concepts of precision medicine. 
+2.To explore the technological advancements enabling precision medicine. 
+3.To analyze case studies and real-world applications of precision medicine. 
+4.To evaluate ethical, legal, and social implications associated with precision medicine. 
+5.To develop critical thinking and problem-solving skills in the context of precision medicine. 
+Unit 1   
+Introduction to Precision Medicine:  
+Definition and historical background, Basic concepts and principles 
+UNIT – 2 
+Technological Foundations of Precision Medicine 
+Genomics, transcriptomics, and proteomics, High-throughput sequencing technologies, Data 
+analytics and bioinformatics tools 
+UNIT – 3  
+Applications of Precision Medicine 
+Cancer genomics and targeted therapies, Pharmacogenomics and personalized medicine 
+Infectious disease management 
+UNIT – 4  
+Ethical, Legal, and Social Implications 
+Privacy and data security concerns, Access and equity in healthcare delivery, Regulatory 
+frameworks and policy considerations 
+UNIT – 5  
+Future Directions and Challenges 
+Emerging trends in precision medicine, Overcoming barriers to implementation, Global 
+perspectives and collaborative efforts 
+Learning Outcomes: 
+By the end of the course, students should be able to: 
+1.Define precision medicine and explain its significance in healthcare. 
+2.Identify key technologies driving precision medicine and their applications. 
+3.Analyze case studies to understand the practical implementation of precision medicine. 
+4.Evaluate ethical, legal, and social issues associated with precision medicine. 
+5.Propose solutions to challenges hindering the adoption of precision medicine. 
+Recommended Textbooks: 
+1."Precision Medicine: A Guide to Genomics in Clinical Practice" by Jeanette J. McCarthy and 
+Bryce A. Mendelsohn 
+2."Precision Medicine: A Primer" by Eric M. Green 
+3."Principles of Precision Medicine" edited by Mukesh Verma 
+4."Ethical, Legal, and Social Issues in Precision Medicine" edited by Holly Fernandez Lynch 
+et al. 
+5."Genomic and Precision Medicine: Foundations, Translation, and Implementation" edited by 
+Geoffrey S. Ginsburg and Huntington F. Willard 
+ 
+ 
+ 
+  
+Imaging Informatics 
+Course Description: 
+This course provides an overview of imaging informatics, focusing on the acquisition, 
+management, and analysis of medical images. Students will learn about image processing 
+techniques, data integration, and the application of informatics in enhancing diagnostic 
+accuracy and treatment planning. Emphasis will be placed on current technologies and future 
+trends in the field. 
+Course Objectives: 
+1.To understand the fundamental concepts and principles of imaging informatics. 
+2.To explore various imaging modalities and their applications in healthcare. 
+3.To analyze the role of informatics in image acquisition, storage, retrieval, and analysis. 
+4.To evaluate emerging technologies and trends in imaging informatics. 
+5.To develop practical skills for managing and analyzing medical imaging data. 
+UNIT – 1 Introduction to Imaging Informatics 
+Definition and scope of imaging informatics, Historical background and evolution, Role in 
+modern healthcare delivery 
+UNIT – 2 Imaging Modalities and Techniques 
+Overview of imaging modalities (e.g., X-ray, MRI, CT, PET), Principles of image acquisition 
+and interpretation, Clinical applications and limitations of each modality 
+UNIT – 3 Informatics Infrastructure for Imaging 
+Picture Archiving and Communication Systems (PACS), Radiology Information Systems 
+(RIS), Electronic Health Records (EHR) integration, Data standards and interoperability 
+UNIT – 4 Image Analysis and Processing 
+Digital image processing techniques, Computer-aided diagnosis (CAD) systems, Quantitative 
+imaging biomarkers, Machine learning and AI in image analysis 
+UNIT – 5 Advanced Topics in Imaging Informatics  
+3D imaging and visualization, Imaging genomics and radiomics. Telemedicine and 
+teleradiology, Regulatory and ethical considerations 
+LEARNING OUTCOMESS: 
+By the end of the course, students should be able to: 
+1.Define imaging informatics and its role in healthcare. 
+2.Identify different imaging modalities and their clinical applications. 
+3.Analyze informatics infrastructure for managing medical imaging data. 
+4.Apply image analysis techniques to extract meaningful information from medical images. 
+5.Evaluate emerging trends and challenges in imaging informatics. 
+Recommended Textbooks: 
+1."Introduction to Imaging" by Wilfried W. de Jong 
+2."Fundamentals of Medical Imaging" by Paul Suetens 
+3."Informatics in Medical Imaging" by Nilanjan Dey and Amira S. Ashour 
+4."Handbook of Medical Imaging: Processing and Analysis" edited by Isaac N. Bankman 
+5."Radiology Informatics: Fundamentals of Image Informatics in Radiology" by H. K. Huang 
+and Robert A. C. M. Jacobs 
+ 
+ 
+  
+Pharmacoinformatics 
+Course Description: 
+This course explores the intersection of pharmacology and informatics, focusing on the use of 
+computational tools to analyze drug data, design new therapeutics, and optimize 
+pharmacotherapy. Students will learn about drug discovery, molecular modeling, and data 
+management techniques to enhance the efficiency and effectiveness of pharmaceutical research 
+and development. 
+COURSE OBJECTIVES: 
+1.To understand the fundamental principles and concepts of pharmacoinformatics. 
+2.To explore the role of informatics in drug discovery, design, and development. 
+3.To analyze computational methods and tools used in pharmacoinformatics. 
+4.To evaluate the application of pharmacoinformatics in personalized medicine and drug 
+repurposing. 
+5.To develop practical skills for utilizing pharmacoinformatics techniques in pharmaceutical 
+research. 
+UNIT – 1  
+Introduction to Pharmacoinformatics, Definition and scope of pharmacoinformatics, Historical 
+development and evolution, Importance in modern drug discovery and development 
+UNIT - 2 
+Chemoinformatics: Molecular Modeling and Drug Design, Structure-activity relationship 
+(SAR) studies, Molecular docking and virtual screening, QSAR/QSPR modeling techniques, 
+Ligand-based and structure-based drug design approaches 
+UNIT – 3  
+Bioinformatics in Drug Discovery, Sequence analysis and genome mining for drug targets, 
+Protein structure prediction and modeling, Molecular dynamics simulations, Systems biology 
+approaches in drug discovery 
+UNIT – 4  
+Pharmacogenomics and Personalized Medicine, Genomic variation and drug response, 
+Pharmacogenomic databases and resources, Predictive modeling for drug efficacy and toxicity, 
+Implementation of pharmacogenomic data in clinical practice 
+UNIT – 5  
+Applications and Future Perspectives, Drug repurposing and virtual screening for drug 
+discovery, Network pharmacology and polypharmacology, Big data analytics and machine 
+learning in pharmacoinformatics, Regulatory and ethical considerations in 
+pharmacoinformatics research 
+LEARNING OUTCOMESS: 
+By the end of the course, students should be able to: 
+1.Define pharmacoinformatics and its significance in pharmaceutical research. 
+2.Identify computational methods and tools used in drug discovery and development. 
+3.Apply molecular modeling techniques to design and optimize drug candidates. 
+4.Analyze genomic data to predict drug response and personalize treatment regimens. 
+5.Evaluate emerging trends and challenges in pharmacoinformatics research. 
+Recommended Textbooks: 
+1."Pharmacoinformatics" by Sandhya Bawa and Gurpreet Singh 
+2."Chemoinformatics and Computational Chemical Biology" by Jürgen Bajorath 
+3."Bioinformatics for Beginners: Genes, Genomes, Molecular Evolution, Databases and 
+Analytical Tools" by Supratim Choudhuri 
+4."Pharmacogenomics: Challenges and Opportunities in Therapeutic Implementation" edited 
+by Urs A. Meyer and Hartmut H. Schmidt 
+5."Machine Learning in Drug Discovery: Methods and Principles in Medicinal Chemistry" 
+edited by George Karypis 
+ 
+  
+ 
+Guidelines for Mini-Project 
+Designing a mini-project for health informatics can be an engaging and practical way for 
+students to apply their knowledge to real-world scenarios. Here are some guidelines to create 
+such a project: 
+Objective: The objective of this mini-project is to allow students to apply concepts and 
+techniques learned in health informatics to analyze healthcare data and derive actionable 
+insights. 
+Project Overview: Students will work individually or in small groups to complete the following 
+tasks: 
+1.Select a Healthcare Dataset: Students will choose a dataset relevant to healthcare from 
+publicly available sources such as government health agencies, research repositories, or online 
+healthcare platforms. Datasets may include electronic health records (EHR), medical claims 
+data, patient surveys, or public health datasets. 
+2.Data Preprocessing: Students will clean and preprocess the selected dataset to handle missing 
+values, outliers, and inconsistencies. This may involve data cleaning, data transformation, and 
+normalization techniques. 
+3.Exploratory Data Analysis (EDA): Students will conduct exploratory data analysis to gain 
+insights into the dataset. This includes summary statistics, data visualization, and identifying 
+patterns and trends in the data. 
+4.Hypothesis Testing (Optional): Students may formulate hypotheses based on their EDA 
+findings and perform statistical tests to validate or refute these hypotheses. This step is optional 
+but encourages critical thinking and hypothesis-driven analysis. 
+5.Predictive Modeling (Optional): For more advanced projects, students may choose to build 
+predictive models using machine learning algorithms. This could involve tasks such as 
+classification (e.g., predicting disease diagnosis) or regression (e.g., predicting patient length 
+of stay). 
+6.Results Interpretation: Students will interpret their findings and present actionable insights 
+derived from the data analysis. This may include recommendations for healthcare providers, 
+policymakers, or future research directions. 
+7.Project Report and Presentation: Students will write a project report documenting their 
+methodology, findings, and conclusions. They will also deliver a presentation summarizing 
+their project to the class. 
+ 
+Evaluation Criteria: Projects will be evaluated based on the following criteria: 
+1.Data Selection and Preprocessing: Appropriateness of dataset selection and effectiveness of 
+data preprocessing techniques. 
+2.Exploratory Data Analysis: Depth and thoroughness of EDA, including insightful 
+visualizations and interpretation of findings. 
+3.Hypothesis Testing (if applicable): Clarity of hypotheses, appropriateness of statistical tests, 
+and interpretation of results. 
+4.Predictive Modeling (if applicable): Model performance, feature selection, and interpretation 
+of model results. 
+5.Results Interpretation: Clarity and significance of insights derived from the data analysis. 
+6.Project Report and Presentation: Quality of written report, clarity of presentation, and 
+effectiveness of communication. 
+ 
+Resources: Provide students with access to relevant resources, including healthcare datasets, 
+software tools (e.g., Python/R for data analysis), tutorials on data preprocessing and analysis, 
+and examples of previous projects or case studies in health informatics. 
+ 
+Timeline: Outline a timeline for the project, including deadlines for dataset selection, data 
+preprocessing, EDA, modeling (if applicable), report writing, and presentation. 
+ 
+ 
+ 
+  
+Mini-Project Evaluation parameters : Health Informatics 
+Criteria Excellent (5) Good (4) Fair (3) Needs 
+Improvement (2) Inadequate (1) 
+Problem 
+Identification 
+Clearly identifies a 
+significant 
+problem in health 
+informatics and 
+provides thorough 
+context. 
+Identifies a 
+relevant problem 
+in health 
+informatics with 
+adequate context. 
+Identifies a 
+problem in 
+health 
+informatics but 
+lacks depth in 
+context. 
+Identifies a vague 
+or unrelated 
+problem in 
+health 
+informatics. 
+Does not identify a 
+problem in health 
+informatics. 
+Data Selection 
+and Acquisition 
+Selects 
+appropriate and 
+relevant data 
+sources with clear 
+justification. 
+Acquires data 
+effectively. 
+Selects relevant 
+data sources with 
+justification. 
+Acquires data 
+adequately. 
+Selects 
+somewhat 
+relevant data 
+sources with 
+limited 
+justification. 
+Acquires data 
+with some 
+issues. 
+Selects irrelevant 
+data sources or 
+lacks justification. 
+Acquires data 
+poorly. 
+Does not select or 
+acquire relevant 
+data. 
+Data 
+Preprocessing 
+Executes 
+comprehensive 
+data 
+preprocessing 
+including cleaning, 
+transformation, 
+and integration 
+effectively. 
+Performs data 
+preprocessing 
+effectively with 
+minor issues. 
+Performs data 
+preprocessing 
+but with some 
+errors or 
+omissions. 
+Data 
+preprocessing is 
+incomplete or 
+ineffective. 
+No evidence of data 
+preprocessing. 
+Exploratory Data 
+Analysis (EDA) 
+Conducts 
+thorough EDA 
+revealing 
+meaningful 
+insights with 
+insightful 
+visualizations. 
+Conducts EDA 
+effectively with 
+clear 
+visualizations. 
+Conducts EDA 
+but lacks depth 
+or clarity in 
+insights. 
+EDA is superficial 
+or unclear. No evidence of EDA. 
+Analysis 
+Techniques 
+Applies 
+appropriate 
+analysis 
+techniques 
+effectively, 
+demonstrating 
+understanding and 
+creativity. 
+Applies analysis 
+techniques 
+appropriately with 
+minor issues. 
+Applies analysis 
+techniques but 
+with some errors 
+or limitations. 
+Misapplies 
+analysis 
+techniques or 
+lacks 
+understanding. 
+Does not apply 
+appropriate analysis 
+techniques. 
+Results 
+Interpretation 
+Interprets results 
+clearly and 
+insightfully, linking 
+findings to the 
+problem 
+statement 
+effectively. 
+Interprets results 
+clearly, linking 
+findings to the 
+problem 
+statement. 
+Interprets 
+results but with 
+some lack of 
+clarity or insight. 
+Results 
+interpretation is 
+unclear or 
+unrelated to the 
+problem 
+statement. 
+No evidence of 
+results 
+interpretation. 
+Criteria Excellent (5) Good (4) Fair (3) Needs 
+Improvement (2) Inadequate (1) 
+Project 
+Documentation 
+Produces a well
+organized and 
+comprehensive 
+project report 
+with clear 
+structure and 
+appropriate detail. 
+Produces a well
+organized project 
+report with 
+appropriate detail. 
+Produces a 
+project report 
+with some 
+organization and 
+detail. 
+Project report 
+lacks 
+organization or 
+detail. 
+No project 
+documentation 
+provided. 
+Presentation 
+Quality 
+Delivers a clear, 
+engaging, and 
+well-structured 
+presentation 
+effectively 
+communicating 
+key points. 
+Delivers a clear 
+presentation 
+communicating 
+key points 
+effectively. 
+Delivers a 
+presentation but 
+with some lack 
+of clarity or 
+engagement. 
+Presentation 
+lacks clarity or 
+structure. 
+No presentation 
+provided. 
+Overall Execution 
+Demonstrates 
+exceptional 
+execution across 
+all aspects of the 
+mini-project. 
+Demonstrates 
+good execution 
+across most 
+aspects of the 
+mini-project. 
+Demonstrates 
+fair execution 
+with some areas 
+needing 
+improvement. 
+Demonstrates 
+inadequate 
+execution with 
+several areas 
+needing 
+improvement. 
+Demonstrates poor 
+execution across all 
+aspects of the mini
+project. 
+ 
+Overall Score: 
+Score Description 
+40 - 45 Exceptional 
+32 - 39 Good 
+24 - 31 Fair 
+16 - 23 Needs Improvement 
+0 - 15 Inadequate 
+ 
+  
+ 
+ 
+  
+  
+Guidelines for Major Project 
+A capstone project in health informatics and data science is a culminating experience that 
+allows students to apply their knowledge and skills to solve real-world problems in healthcare. 
+Here are some guidelines to create such a project: 
+ 
+Objective: The objective of the capstone project is to enable students to demonstrate their 
+proficiency in health informatics and data science by solving a healthcare-related problem 
+using data-driven approaches. 
+ 
+Project Overview: Students will work individually or in small teams to complete the following 
+tasks: 
+1.Identify a Healthcare Problem: Students will select a specific healthcare problem or challenge 
+that can be addressed using data science techniques. This could include improving patient 
+outcomes, optimizing healthcare delivery, enhancing population health management, or 
+addressing healthcare disparities. 
+2.Data Acquisition: Students will identify and acquire relevant datasets for their chosen 
+healthcare problem. Datasets may include electronic health records (EHR), medical claims 
+data, patient surveys, genomic data, or public health datasets. 
+3.Data Preprocessing: Students will clean, preprocess, and integrate the acquired datasets to 
+prepare them for analysis. This may involve data cleaning, transformation, normalization, and 
+handling missing values. 
+4.Exploratory Data Analysis (EDA): Students will conduct exploratory data analysis to gain 
+insights into the datasets. This includes summary statistics, data visualization, and identifying 
+patterns and trends in the data. 
+5.Feature Engineering: Students will engineer relevant features from the datasets to capture 
+important information for their analysis. This may involve creating new variables, aggregating 
+data, or extracting meaningful features from raw data. 
+6.Predictive Modeling: Students will develop predictive models using machine learning 
+algorithms to address the healthcare problem. This could include tasks such as classification 
+(e.g., predicting disease diagnosis), regression (e.g., predicting patient outcomes), or clustering 
+(e.g., segmenting patient populations). 
+7.Model Evaluation: Students will evaluate the performance of their predictive models using 
+appropriate evaluation metrics. This may include accuracy, precision, recall, F1-score, ROC
+AUC, or other relevant metrics depending on the nature of the problem. 
+8.Results Interpretation: Students will interpret the results of their analysis and draw actionable 
+insights from the predictive models. This may include identifying risk factors, predicting 
+patient outcomes, optimizing treatment strategies, or informing healthcare policy decisions. 
+9.Project Report and Presentation: Students will write a comprehensive project report 
+documenting their methodology, findings, and conclusions. They will also deliver a final 
+presentation summarizing their project to the class or a panel of judges. 
+Evaluation Criteria: Projects will be evaluated based on the following criteria: 
+1.Problem Definition: Clarity and significance of the healthcare problem addressed. 
+2.Data Acquisition and Preprocessing: Appropriateness of data sources and effectiveness of 
+data preprocessing techniques. 
+3.Exploratory Data Analysis: Depth and thoroughness of EDA, including insightful 
+visualizations and interpretation of findings. 
+4.Feature Engineering: Relevance and effectiveness of engineered features for the analysis. 
+5.Predictive Modeling: Performance of predictive models and appropriateness of modeling 
+techniques. 
+6.Model Evaluation: Rigor and validity of model evaluation metrics. 
+7.Results Interpretation: Clarity and significance of insights derived from the analysis. 
+8.Project Report and Presentation: Quality of written report, clarity of presentation, and 
+effectiveness of communication. 
+ 
+Resources: Provide students with access to relevant resources, including healthcare datasets, 
+software tools (e.g., Python/R for data analysis), tutorials on data preprocessing and analysis, 
+and examples of previous capstone projects or case studies in health informatics. 
+ 
+Timeline: Outline a timeline for the capstone project, including deadlines for problem 
+selection, data acquisition, preprocessing, analysis, report writing, and presentation. 
+ 
+  
+Major Project Evaluation parameters: Health Informatics 
+Criteria Excellent (5) Good (4) Fair (3) 
+Needs Improvement 
+(2) 
+Inadequate 
+(1) 
+Problem Definition      - Clarity and 
+significance of 
+problem 
+Clearly defined 
+and highly 
+significant to 
+healthcare. 
+Well-defined and 
+significant to 
+healthcare. 
+Adequately defined 
+but could be more 
+significant to 
+healthcare. 
+Somewhat unclear or 
+lacks significance to 
+healthcare. 
+Unclear or 
+irrelevant to 
+healthcare. 
+Data Acquisition 
+and Preprocessing      - Appropriateness of 
+data sources 
+Data sources are 
+highly relevant 
+and 
+comprehensive. 
+Data sources are 
+relevant and 
+sufficient. 
+Data sources are 
+somewhat relevant 
+but may be lacking. 
+Data sources are 
+inadequate or 
+irrelevant. 
+Data sources 
+are missing or 
+not relevant. - Effectiveness of 
+data preprocessing 
+Thoroughly 
+cleansed, 
+transformed, and 
+integrated data. 
+Data 
+preprocessing is 
+effective, with 
+minor issues. 
+Data preprocessing is 
+somewhat effective 
+but lacks 
+completeness. 
+Data preprocessing is 
+ineffective or 
+incomplete. 
+Data 
+preprocessing 
+is missing or 
+poorly done. 
+Exploratory Data 
+Analysis (EDA)      - Depth and 
+thoroughness of 
+EDA 
+Comprehensive 
+EDA with insightful 
+visualizations. 
+Good EDA with 
+useful 
+visualizations. 
+Adequate EDA but 
+lacks depth or insight. 
+Superficial EDA with 
+limited insight. 
+Minimal or no 
+EDA 
+performed. 
+Feature Engineering      - Relevance and 
+effectiveness of 
+features 
+Features are 
+highly relevant 
+and enhance 
+analysis. 
+Features are 
+relevant and 
+contribute to 
+analysis. 
+Features are 
+somewhat relevant 
+but may not fully 
+enhance analysis. 
+Features are 
+irrelevant or poorly 
+engineered. 
+Features are 
+missing or 
+poorly 
+engineered. 
+Predictive Modeling      - Model 
+Performance 
+Models perform 
+exceptionally well 
+with high accuracy 
+and robustness. 
+Models perform 
+well with good 
+accuracy and 
+reliability. 
+Models perform 
+adequately but may 
+have some limitations. 
+Models perform 
+poorly with low 
+accuracy or 
+reliability. 
+Models 
+perform 
+inadequately 
+or not 
+implemented. 
+Model Evaluation      - Rigor and validity 
+of evaluation 
+metrics 
+Evaluation metrics 
+are rigorous and 
+appropriate. 
+Evaluation 
+metrics are 
+appropriate but 
+may have minor 
+issues. 
+Evaluation metrics are 
+somewhat appropriate 
+but lack rigor. 
+Evaluation metrics 
+are inappropriate or 
+not used effectively. 
+Evaluation 
+metrics are 
+missing or not 
+used. 
+Results 
+Interpretation      - Clarity and 
+significance of 
+insights 
+Insights are clear, 
+significant, and 
+actionable. 
+Insights are clear 
+and significant. 
+Insights are somewhat 
+clear and significant. 
+Insights are unclear 
+or lack significance. 
+Insights are 
+missing or 
+irrelevant. 
+Project Report and 
+Presentation      
+Criteria Excellent (5) Good (4) Fair (3) 
+Needs Improvement 
+(2) 
+Inadequate 
+(1) - Quality of written 
+report 
+Report is well
+written, organized, 
+and 
+comprehensive. 
+Report is well
+written and 
+organized. 
+Report is adequately 
+written but may lack 
+organization. 
+Report is poorly 
+written or lacks 
+detail. 
+Report is 
+missing or 
+inadequate. - Clarity of 
+presentation 
+Presentation is 
+clear, engaging, 
+and effectively 
+communicates key 
+points. 
+Presentation is 
+clear and 
+effectively 
+communicates 
+key points. 
+Presentation is 
+somewhat clear but 
+may lack engagement. 
+Presentation is 
+unclear or lacks 
+coherence. 
+Presentation is 
+missing or 
+ineffective. 
+ 
+Overall Score: 
+Score Description 
+23 - 25 Exceptional 
+19 - 22 Good 
+15 - 18 Fair 
+11 - 14 Needs Improvement 
+0 - 10 Inadequate 
+ 
+This rubric provides a structured framework for evaluating various aspects of a capstone project 
+in health informatics, including problem definition, data acquisition and preprocessing, 
+analysis techniques, and presentation of results. Adjustments can be made based on specific 
+project requirements and COURSE OBJECTIVES. 
+ 

@@ -16,7 +16,7 @@ A full-stack RAG chatbot that lets students ask questions about their academic p
 - Frontend: React + Vite (artifacts/apollo-chatbot)
 - Backend: Express 5 (artifacts/api-server)
 - Vector DB: Pinecone (index: `apollo-university`, 384 dims, cosine)
-- LLM: Groq API (`llama3-8b-8192`)
+- LLM: Groq API (`llama-3.3-70b-versatile`)
 - Embeddings: `@xenova/transformers` — `Xenova/all-MiniLM-L6-v2` running locally (no API call needed)
 - Styling: Tailwind CSS with Apollo navy (#1a237e) + gold (#ffd700) theme
 - API codegen: Orval (from OpenAPI spec)

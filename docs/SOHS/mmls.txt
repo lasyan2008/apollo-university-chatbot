@@ -1,0 +1,93 @@
+## 🔬 Master of Medical Laboratory Science (MMLS)
+### The Apollo University | NCAHP-Aligned | 2-Year Programme (4 Semesters)
+
+> **Specialisations Available:** Medical Microbiology **|** Haematology & Transfusion Medicine
+
+---
+
+### 📘 Semester I — Common for All Specialisations
+
+| Course Name | L | T | P | Credits | Hours |
+|---|---|---|---|---|---|
+| Medical Laboratory Management | 4 | 0 | 0 | 4 | 60 |
+| Cell and Molecular Biology | 4 | 0 | 0 | 4 | 60 |
+| Research Methodology & Biostatistics | 2 | 0 | 0 | 2 | 30 |
+| Advanced Molecular Diagnostic Techniques | 4 | 0 | 0 | 4 | 60 |
+| Digital Health Technologies | 2 | 0 | 0 | 2 | 30 |
+| Elective Course* | 0 | 0 | 2 | 2 | 60 |
+| Research Methodology & Biostatistics Practical | 0 | 0 | 2 | 2 | 60 |
+| Advanced Molecular Diagnostic Techniques Practical | 0 | 0 | 4 | 4 | 60 |
+| **Total** | **16** | **0** | **6** | **22** | **420** |
+
+---
+
+### 📘 Semester II — Specialisation Tracks
+
+#### 🧫 Track A: Medical Microbiology
+
+| Course Name | L | T | P | Credits | Hours |
+|---|---|---|---|---|---|
+| Essential and Applied Microbiology | 3 | 1 | 0 | 4 | 60 |
+| Systematic Bacteriology | 3 | 1 | 0 | 4 | 60 |
+| Systematic Bacteriology Practical | 0 | 0 | 4 | 2 | 60 |
+| Medical Entomology and Parasitology | 3 | 1 | 0 | 4 | 60 |
+| Medical Entomology and Parasitology Practical | 0 | 0 | 4 | 2 | 60 |
+| Immunology and Immunodiagnostics | 3 | 1 | 0 | 4 | 60 |
+| Immunology and Immunodiagnostics Practical | 0 | 0 | 4 | 2 | 60 |
+| **Total** | **16** | **4** | **12** | **22** | **420** |
+
+#### 🩸 Track B: Haematology & Transfusion Medicine
+
+| Course Name | L | T | P | Credits | Hours |
+|---|---|---|---|---|---|
+| Haematology and Haematological Disorders | 4 | 0 | 0 | 4 | 60 |
+| Haemostatic Disorders | 4 | 0 | 0 | 4 | 60 |
+| Applied Immunopathology in Haematology | 4 | 0 | 0 | 4 | 60 |
+| Clinical Pathology | 2 | 0 | 0 | 2 | 30 |
+| Haematology & Haematological Disorders Practical | 0 | 0 | 2 | 2 | 60 |
+| Haemostatic Disorders Practical | 0 | 0 | 2 | 2 | 60 |
+| Applied Immunopathology Practical | 0 | 0 | 2 | 2 | 60 |
+| Clinical Pathology Practical | 0 | 0 | 2 | 2 | 60 |
+| **Total** | **14** | **0** | **8** | **22** | **450** |
+
+---
+
+### 📘 Semester III — Specialisation Tracks
+
+#### 🧫 Track A: Medical Microbiology
+
+| Course Name | L | T | P | Credits | Hours |
+|---|---|---|---|---|---|
+| Medical Virology | 3 | 1 | 0 | 4 | 60 |
+| Medical Mycology | 3 | 1 | 0 | 4 | 60 |
+| Medical Mycology & Virology Practical | 0 | 0 | 4 | 2 | 60 |
+| Public Health Microbiology | 3 | 1 | 0 | 4 | 60 |
+| Public Health Microbiology Practical | 0 | 0 | 4 | 2 | 60 |
+| Advances in Microbial Informatics | 3 | 1 | 0 | 4 | 60 |
+| Clinical Posting | 0 | 0 | 4 | 2 | 90 |
+| **Total** | **12** | **4** | **12** | **22** | **450** |
+
+#### 🩸 Track B: Haematology & Transfusion Medicine
+
+| Course Name | L | T | P | Credits | Hours |
+|---|---|---|---|---|---|
+| Blood Banking and Immunohematology | 4 | 0 | 0 | 4 | 60 |
+| Transfusion Medicine | 4 | 0 | 0 | 4 | 60 |
+| Molecular Hematology | 4 | 0 | 0 | 4 | 60 |
+| Advanced Hematological Techniques | 2 | 0 | 0 | 2 | 30 |
+| Blood Banking and Immunohematology Practical | 0 | 0 | 2 | 2 | 60 |
+| Transfusion Medicine Practical | 0 | 0 | 2 | 2 | 60 |
+| Molecular Hematology Practical | 0 | 0 | 2 | 2 | 60 |
+| Advanced Hematological Techniques Practical | 0 | 0 | 2 | 2 | 60 |
+| **Total** | **14** | **0** | **8** | **22** | **450** |
+
+---
+
+### 📘 Semester IV — Common for All Specialisations
+
+| Course Component | Credits | Contact Hours |
+|---|---|---|
+| **Dissertation** | **22** | **990** |
+
+---
+

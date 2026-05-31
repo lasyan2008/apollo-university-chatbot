@@ -9,8 +9,10 @@ config();
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DOCS_DIR = path.resolve(__dirname, "../../docs");
+const CHECKPOINT_FILE = path.resolve(__dirname, "../../.upload_checkpoint.json");
 const CHUNK_SIZE = 500;
 const CHUNK_OVERLAP = 50;
+const BATCH_SIZE = 100;
 
 let embeddingPipeline: FeatureExtractionPipeline | null = null;
 
@@ -34,7 +36,10 @@ function chunkText(text: string): string[] {
   let start = 0;
   while (start < text.length) {
     const end = Math.min(start + CHUNK_SIZE, text.length);
-    chunks.push(text.slice(start, end));
+    const chunk = text.slice(start, end).trim();
+    if (chunk.length > 0) {
+      chunks.push(chunk);
+    }
     start += CHUNK_SIZE - CHUNK_OVERLAP;
   }
   return chunks;
@@ -47,14 +52,24 @@ interface DocFile {
   source_file: string;
 }
 
+function loadCheckpoint(): Set<string> {
+  if (fs.existsSync(CHECKPOINT_FILE)) {
+    const data = JSON.parse(fs.readFileSync(CHECKPOINT_FILE, "utf-8")) as string[];
+    return new Set(data);
+  }
+  return new Set();
+}
+
+function saveCheckpoint(done: Set<string>): void {
+  fs.writeFileSync(CHECKPOINT_FILE, JSON.stringify([...done], null, 2));
+}
+
 function collectDocFiles(dir: string, baseDir: string = dir): DocFile[] {
   const results: DocFile[] = [];
-
   if (!fs.existsSync(dir)) {
     console.warn(`Docs directory not found: ${dir}`);
     return results;
   }
-
   const entries = fs.readdirSync(dir, { withFileTypes: true });
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
@@ -65,25 +80,16 @@ function collectDocFiles(dir: string, baseDir: string = dir): DocFile[] {
       const parts = relativePath.split(path.sep);
       let branch_id: string;
       let school_id: string;
-
       if (parts.length === 1) {
-        // Root level file like academic_calendar.txt
         branch_id = path.basename(entry.name, ".txt");
         school_id = "general";
       } else {
         school_id = parts[0];
         branch_id = path.basename(entry.name, ".txt");
       }
-
-      results.push({
-        filePath: fullPath,
-        branch_id,
-        school_id,
-        source_file: relativePath,
-      });
+      results.push({ filePath: fullPath, branch_id, school_id, source_file: relativePath });
     }
   }
-
   return results;
 }
 
@@ -99,18 +105,35 @@ async function main() {
   const index = pinecone.index(indexName);
 
   const docFiles = collectDocFiles(DOCS_DIR);
+  const done = loadCheckpoint();
+
+  const remaining = docFiles.filter((d) => !done.has(d.source_file));
+  const skipped = docFiles.length - remaining.length;
+
   console.log(`Found ${docFiles.length} document files`);
+  if (skipped > 0) console.log(`Skipping ${skipped} already-uploaded files (checkpoint)\n`);
 
-  for (const doc of docFiles) {
-    const text = fs.readFileSync(doc.filePath, "utf-8");
-    const chunks = chunkText(text);
-    console.log(`\nProcessing ${doc.source_file} — ${chunks.length} chunks`);
+  let totalUploaded = 0;
 
-    const vectors = [];
+  for (const doc of remaining) {
+    const rawText = fs.readFileSync(doc.filePath, "utf-8");
+    const chunks = chunkText(rawText);
+
+    if (chunks.length === 0) {
+      console.log(`Skipping ${doc.source_file} — no content`);
+      done.add(doc.source_file);
+      saveCheckpoint(done);
+      continue;
+    }
+
+    console.log(`Processing ${doc.source_file} — ${chunks.length} chunks`);
+
+    let batch: Array<{ id: string; values: number[]; metadata: Record<string, unknown> }> = [];
+    let batchNum = 0;
+
     for (let i = 0; i < chunks.length; i++) {
-      console.log(`  Uploading chunk ${i + 1} of ${chunks.length} from ${doc.source_file}...`);
       const embedding = await generateEmbedding(chunks[i]);
-      vectors.push({
+      batch.push({
         id: `${doc.branch_id}_chunk_${i}`,
         values: embedding,
         metadata: {
@@ -121,20 +144,29 @@ async function main() {
           text: chunks[i],
         },
       });
+
+      if (batch.length >= BATCH_SIZE || i === chunks.length - 1) {
+        if (batch.length > 0) {
+          await index.upsert({ records: batch });
+          batchNum++;
+          console.log(`  Batch ${batchNum} (chunks ${i - batch.length + 2}–${i + 1} of ${chunks.length})`);
+          totalUploaded += batch.length;
+          batch = [];
+        }
+      }
     }
 
-    // Upload in batches of 100
-    const BATCH_SIZE = 100;
-    for (let b = 0; b < vectors.length; b += BATCH_SIZE) {
-      const batch = vectors.slice(b, b + BATCH_SIZE);
-      await index.upsert(batch);
-      console.log(`  Uploaded batch ${Math.floor(b / BATCH_SIZE) + 1}`);
-    }
-
-    console.log(`  Done: ${doc.source_file}`);
+    done.add(doc.source_file);
+    saveCheckpoint(done);
+    console.log(`  ✓ Done: ${doc.source_file}\n`);
   }
 
-  console.log("\nAll documents uploaded successfully!");
+  if (remaining.length === 0) {
+    console.log("All documents already uploaded! To re-upload, delete .upload_checkpoint.json");
+  } else {
+    console.log(`\nUpload complete! Total vectors upserted this run: ${totalUploaded}`);
+    console.log(`Total files done: ${done.size}/${docFiles.length}`);
+  }
 }
 
 main().catch((err) => {

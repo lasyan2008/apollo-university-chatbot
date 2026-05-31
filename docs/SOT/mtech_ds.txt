@@ -1,0 +1,2916 @@
+ 
+ 
+ 
+ 
+M. Tech. Data Science 
+Under Regulations (R-2025) 
+(w.e.f. 2025-26 admitted batch) 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Structure and Syllabi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                             
+THE APOLLO UNIVERSITY 
+MURUKAMBATTU - CHITTOOR (Dt) 517127 
+ANDHRA PRADESH 
+ 
+ 
+ 
+PROGRAM OUTCOMES (PO) 
+PO 1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering 
+fundamentals, and an engineering specialisation for the solution of complex engineering 
+problems. 
+ 
+PO 2: Problem analysis: Identify, formulate, research literature, and analyse complex 
+engineering problems reaching substantiated conclusions using first principles of mathematics, 
+natural sciences, and engineering sciences. 
+ 
+PO 3: Design/Development of Solutions: Design solutions for complex engineering problems 
+and design system components or processes that meet the specified needs with appropriate 
+consideration for public health and safety, and cultural, societal, and environmental 
+considerations. 
+ 
+PO 4: Conduct investigations of complex problems: Use research-based knowledge and 
+research methods including design of experiments, analysis and interpretation of data, and 
+synthesis of the information to provide valid conclusions. 
+ 
+PO 5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and 
+modern engineering and IT tools including prediction and modelling to complex engineering 
+activities with an understanding of the limitations. 
+ 
+PO 6: The engineer and society: Apply reasoning informed by the contextual knowledge to 
+assess societal, health, safety, legal, and cultural issues and the consequent responsibilities 
+relevant to the professional engineering practice. 
+ 
+PO 7: Environment and sustainability: Understand the impact of the professional engineering 
+solutions in societal and environmental contexts, and demonstrate the knowledge of, and the 
+need for sustainable development. 
+ 
+PO 8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities 
+and norms of the engineering practice. 
+ 
+ 
+ 
+PO 9: Individual and team work: Function effectively as an individual, and as a member or 
+leader in diverse teams, and in multidisciplinary settings. 
+ 
+PO 10: Communication: Communicate effectively on complex engineering activities with the 
+engineering community and with the society at large, such as being able to comprehend and 
+write effective reports and design documentation, make effective presentations, and give and 
+receive clear instructions. 
+ 
+PO 11: Project management and finance: Demonstrate knowledge and understanding of the 
+engineering and management principles and apply these to one’s work, as a member and leader 
+in a team, to manage projects and in multidisciplinary environments. 
+ 
+PO 12: Life-long learning: Recognise the need for, and have the preparation and ability to 
+engage in independent and life-long learning in the broadest context of technological change. 
+ 
+ 
+PROGRAM EDUCATIONAL OBJECTIVES (PEO): 
+ 
+PEO1: Technical Mastery: Graduates will develop a deep understanding of data science 
+methodologies, tools, and techniques to excel in data-driven problem-solving and innovation 
+in various industries. 
+ 
+PEO2: Research Excellence: Graduates will engage in advanced research, contributing to the 
+development of novel data science solutions, publishing their findings, and pushing the 
+boundaries of the field. 
+ 
+PEO3: Ethical Leadership: Graduates will exhibit strong ethical principles, effective 
+communication skills, and leadership capabilities, enabling them to make informed decisions 
+and lead diverse teams in professional settings. 
+ 
+ 
+ 
+ 
+ 
+PROGRAM SPECIFIC OUTCOMES (PSO): 
+After successful completion of the program the graduates will be able to: 
+PSO 1: Advanced Data Analytics: Graduates will be proficient in applying advanced 
+statistical, machine learning, and artificial intelligence techniques to analyse and interpret 
+complex datasets, deriving actionable insights. 
+ 
+PSO2: Big Data Management: Graduates will have expertise in using big data technologies 
+and frameworks (e.g., Hadoop, Spark) to efficiently manage, process, and analyse large-scale 
+data, ensuring high performance and scalability. 
+ 
+PSO3: Domain-Specific Applications: Graduates will be able to apply data science principles 
+to specific domains, such as healthcare, finance, and cybersecurity, creating impactful solutions 
+tailored to the unique challenges of each field. 
+ 
+ 
+ 
+ 
+ 
+ 
+SCOPE: 
+THE APOLLO UNIVERSITY 
+ACADEMIC REGULATIONS 
+This Academic regulation provide a framework for the regulatory guidelines of all programs 
+offered by The Apollo University. It includes procedures and practices that are to be 
+followed to ensure academic standards in the University. The regulations are approved by the 
+Academic Council. These regulations may be amended from time to time with the approval of 
+the Academic council for the benefit of students or some times to reflect the changes suggested 
+by the statutory bodies. 
+Information regarding amendments (if any) to the regulations will be communicated to the 
+students by publishing in the University website. Students must follow the amended regulations 
+as they might impact the process for the award of degree. The decision of the Vice Chancellor 
+shall be the final in case of any discrepancy. These regulations apply to all students, despite the 
+program of study. 
+ 
+1. ADMISSION INTO THE PROGRAM 
+The University admits the students in two modes. One through the convenor quota as per the 
+Andhra Pradesh Private Universities Act, for which the admissions will be carried out through 
+the convener quota by the Govt of Andhra Pradesh. The other is through University quota for 
+which the following procedure will be followed: 
+A. The applicant shall satisfy the entrance requirements specified by The Apollo University 
+and in accordance with guidelines of statutory councils for Under-graduation. 
+B. The Applicant shall be qualified in the qualifying examination for a particular program. 
+C. The Applicant secures a rank in national level entrance exam or suitable such test 
+conducted by The Apollo University / professional body. 
+D. The Applicant qualifies in the specified state or national level examinations prescribed 
+by The Apollo University. 
+ 
+The Apollo University will widely notify the counselling schedule for admissions into the 
+academic programs in the media. The provisional admission will be given to the eligible 
+students during the counseling scheduled by The Apollo University. The selected candidates 
+will be provisionally admitted into the program of his/her choice if the candidate meets 
+the program specific  requirements  in  addition  to  academic  performance  qualifying 
+ 
+ 
+ 
+exam. Admission is purely based on merit and so merely meeting the requirements will not 
+ensure admission. The University does not discriminate based on gender, race, region, religion, 
+disability or nationality. The University reserves the right to make admissions based on various 
+criteria which is specified in the admission brochure. 
+ 
+ 
+ 
+2. ELIGIBILITY CRITERIA 
+Undergraduate programs 
+The qualifying exam eligibility for each program is given Annexure 1. The student 
+should have passed the qualifying exam either in the year the student is seeking 
+admission or the previous year. 
+Convener Quota: The student seeking admission to any program under convener quota 
+shall qualify in the relevant entrance exam conducted by the Government of Andhra 
+Pradesh. 
+University Quota: For getting admission under University quota, percentage of marks 
+obtained in the qualifying exam, the rank obtained in TAU entrance exam or any 
+recognized national level examination in the year of admission will be considered. 
+ 
+Counselling 
+All the eligible students need to apply for admission and have to attend counselling 
+conducted by TAU as per the schedule for the university quota 
+ 
+3. PROGRAMS 
+The Apollo University offers variety of programs which includes certificate, undergraduate, 
+postgraduate, and Research. The list of programs on offer for the academic year 2022-23 are 
+annexed in Annexure 2 and those of 2023-24 are annexed in Annexure 3. 
+ 
+Minimum duration of the program 
+ 
+The minimum duration of each program depends on the type of program, viz., undergraduate, 
+postgraduate, integrated programs, etc., and the faculty which offers the program. The 
+maximum duration of the program is N+2 years, where N stands for the minimum duration of 
+the program as mentioned in Annexure 2 and 3. If the student has not obtained the minimum 
+number of credits within the stipulated time, the Vice-Chancellor may extend the maximum 
+ 
+ 
+ 
+duration in extenuating circumstances upon receiving a request along with reasons from the 
+student for not completing the program on time. 
+ 
+4. CHOICE BASED CREDIT SYSTEM 
+The choice-based credit system (CBCS) facilitates the education student-centric. It provides the 
+opportunity for the learner to choose the courses from a basket of core, elective, and skill 
+enhanced courses. All programs of study are designed to meet the specified number of credit 
+requirements. The courses taken by the student in each semester as part of program are allotted 
+some credit points based on the number of hours assigned. Upon successful completion of the 
+course, the student secures the number of credits allotted for that course. Once the minimum 
+number of credits of the program is achieved, the degree can be awarded, subject to fulfilment 
+of all other relevant conditions. 
+ 
+5. STRUCTURE OF THE PROGRAM 
+The Program structure Consists of 
+i) University Courses 
+A. University Core 
+B. University Electives 
+ii) Faculty Courses 
+A. Faculty Core 
+B. Faculty Electives 
+iii) Program Courses 
+A. Program Core 
+B. Program electives 
+Each course* is assigned a certain number of credits depending upon the number of contact 
+hours (lectures/tutorials/practical) per week. (*one course means one subject) 
+Core Courses = 3 Credits /4 Credits Elective =3 Credits 
+In general, credits are assigned to the courses as detailed below: 
+ A classroom lecture/ tutorial of 60 min (1 hr) duration per week, spread over the 
+entire semester, shall be considered as one credit. 
+ A laboratory session of minimum of 120 min (2 hr) per week shall be considered as 
+one credit. 
+ A project work/ Internship session of 60 minutes (1 hr) carried out per week shall be 
+considered as one credit. 
+ 
+ 
+ 
+6. MEDIUM OF INSTRUCTION 
+The medium of instruction (including examinations and project reports) shall be English. 
+ 
+ 
+7. REGISTRATION 
+Any of the following student must register for the courses opted in a particular semester during 
+the scheduled registration period. 
+i. a new student who enrolls into any program 
+ii. an existing student who is continuing on rolls from the preceding regular semester 
+iii. a former student, i.e., who has not enrolled in the preceding regular semester or who has 
+availed academic break or detained and got readmission 
+ 
+Each newly admitted student shall attend an induction/ orientation program prior to 
+commencement of the first semester. During this program academic advisors assist the 
+students in choosing the courses. Existing student may register online by using their registration 
+number  and  mail  ID  through  the  Apollo  ERP  portal.  Class  schedules  are 
+available approximately two weeks before the beginning of every semester for each program. 
+The concerned head of the department must approve class schedule. 
+ 
+8. ATTENDANCE REQUIREMENTS 
+ Students should earn a minimum of 80% attendance in the current semester to become 
+eligible to write the Semester End Examinations. 
+ The monthly statement of attendance will be displayed on the Department Notice Board/ 
+Apollo ERP by the respective departments within the first five working days of the 
+following month. 
+ Candidates who are falling short of 80% attendance will be detained on the recommendation 
+of the HoD and are not eligible to appear for the current semester examinations. The 
+students who are detained in the current semester will not be allowed to register for the next 
+semester and they have to repeat the same semester by paying the tuition fee prescribed. 
+However, they can write arrear subjects, if any. 
+9. EVALUATION 
+The assessment of the student’s performance in a Theory course shall be based on two 
+components: Continuous Evaluation (40 marks) and Semester-end examination (60 marks). A 
+student has to secure an aggregate of 40% in the course in the two components put together to 
+ 
+ 
+ 
+be declared to have passed the course, subject to the condition that the candidate must have 
+secured a minimum of 24 marks (i.e. 40%) in the theory component at the semester-end 
+examination. Practical/ Project Work/ Industrial Training/ Viva voce/ Seminar etc. are 
+completely assessed under Continuous Evaluation for a maximum of 100 marks, and a student 
+has to obtain a minimum of 50% to secure Pass Grade. For courses having both theory and 
+practical components, 60% of the weightage will be given for theory component and 40% 
+weightage for practical component. The student must secure 40% (Theory + Practical) with 24 
+marks minimum in theory to attain pass grade. 
+ 
+Details of Assessment Procedure are furnished below in Table 1. 
+Table 1: Assessment Procedure 
+ 
+S. No. Component of 
+Assessment 
+Marks 
+Allotted 
+Type of 
+Assessment 
+Scheme of Evaluation 
+1 Theory 40 Continuous 
+Evaluation 
+i) Twenty (20) marks for mid 
+examinations. Three mid examinations 
+shall be conducted for 20 marks each; 
+average of the best two performances shall 
+be taken into consideration. 
+ii) Ten (10) marks for Quizzes, 
+Assignments and Presentations. 
+iii) Ten (10) marks for periodic 
+evaluation, case studies and projects 
+   
+60 Semester-end 
+Examination 
+iv) Sixty (60) marks for Semester-end 
+examinations 
+ Total 100   
+2 Laboratory 100 Continuous 
+Evaluation 
+1) 80 marks with equal weightage to all 
+experiments subject to conduct of 
+minimum of 10 experiments 
+2) 20marks for the end exam (with one of 
+our university teachers as external other 
+than course teacher) 
+ 
+ 
+ 
+3 Internship 100 Continuous 
+Evaluation 
+i) (80) marks for periodic evaluation 
+of Internship report by the Project 
+Supervisor. 
+ii) Twenty (20) marks for final Report 
+presentation and Viva-voce, by a panel of 
+internal examiners. 
+iii) Students shall undergo TWO 
+internships during the course of time and 
+the evaluation shall be done during final 
+semester. 
+4 Project work 100 Continuous 
+Evaluation 
+iv) (80) marks for periodic evaluation 
+and technical report writing by the Project 
+Supervisor. 
+ii) Twenty (20) marks for final Report 
+presentation and Viva-voce, by a panel of 
+internal examiners 
+5 Students Seminars 100 Continuous 
+Evaluation 
+Each student has to give a seminar on any 
+topic in consultation with the faculty 
+member in charge A detailed report shall 
+be submitted to the in charge. 
+60 marks for periodic evaluation including 
+report preparation and 40 marks for viva 
+voce by a panel of examiners. 
+ 
+10. GRADING SYSTEM 
+Based on the student performance during a given semester, a final letter grade will be awarded 
+at the end of the semester in each course. The letter grades and the corresponding grade points 
+are as given inTable2. 
+Table 2: Grades & Grade Points 
+ 
+Sl. No. Grade Grade Points Absolute Marks 
+1 O(Outstanding) 10 90 and above 
+2 A+(Excellent) 9 80 to 89 
+3 A (Very Good) 8 70 to 79 
+ 
+ 
+ 
+4 B+(Good) 7 60 to 69 
+5 B (Above Average) 6 50 to 59 
+6 C(Average) 5 45 to 49 
+7 P(Pass) 4 40 to 44 
+8 F(Fail) 0 Less than 40 
+9 Ab. (Absent) 0 - 
+ 
+SEMESTER GRADEPOINTAVERAGE (SGPA) 
+A Semester Grade Point Average (SGPA) for the semester will be calculated according to the 
+formula: 
+ 
+ 
+Where 
+C=number of credits for the course, 
+ 
+ 𝑆𝑆
+𝑆 
+∑ [ 𝑆 𝑆 𝑆 
+] 
+ 
+ 
+∑ 𝑆 
+G=grade points obtained by the student in the course. 
+A student who earns a minimum of 4 grade points (P grade) in a course is declared to have 
+successfully completed the course, and is deemed to have earned the credits assigned to that 
+course. 
+ 
+CUMULATIVE GRADE POINT AVEARGE (CGPA) 
+A similar formula is used to arrive at Cumulative Grade Point Average (CGPA), considering 
+the student’s performance in all the courses taken in all the semesters up to the particular point 
+of time. 
+Table 3 shows the CGPA required for the award of class after the successful completion of the 
+program. 
+Table3: CGPA required for award of Class 
+ 
+Class CGPA Required 
+First Class with Distinction >8.0* 
+First Class >6.5 
+Second Class >5.5 
+Pass Class >5.0 
+ 
+*In addition to the required CGPA of 8.0 or more, the student must have necessarily passed all 
+ 
+ 
+ 
+the courses of every semester in first attempt. 
+11. REAPPEARANCE 
+a. A student who has secured ‘F’ grade in a Theory course shall have to reappear at 
+the subsequent Semester end examination held for that course. 
+b. A student who has secured ‘F’ grade in a Practical course shall have to attend 
+Special Instruction Classes scheduled by the Department for securing pass. 
+c. A student who has secured ‘F’ Grade in Internship /Project work / Industrial 
+Training etc shall have to reappear for Viva – voce scheduled by the department. 
+d. A student who is declared fail (F) in a course/s can apply for revaluation within 
+one week from the date of publication of results with a fee prescribed by the 
+university. The marks /grade awarded in the revaluation is final. 
+ 
+11.1 Procedure for revaluation 
+ The students who have not satisfied with the marks awarded by the examiner 
+can apply for revaluation of his/her answer script/s
+ The students have to apply through proper channel for revaluation and to pay the 
+revaluation fee per paper to the university towards revaluation fee.
+ Students have to apply for revaluation within 7 days from the date 
+publication of result.
+ The scripts will get valued by second examiner and if the difference is more than 
+15 marks, they will get valued by the third examiner. The average of the nearest 
+two marks will be declared as the final marks.
+ 
+11.2 ASSESSMENT MECHANISM 
+The Apollo University offers a student the benefits of Choice Based Credit System. 
+Every paper is allotted a certain number of credits as per the UGC norms. A student is awarded 
+the specified credits on obtaining a pass in the respective paper. 
+The Choice Based Credit System (CBCS) has been adopted for UG Course from the 
+year 2021-22 onwards as per the recommendations of the A.P. State Council for Higher 
+Education (APSCHE). The structure of undergraduate programmes provides a wide range of 
+choice for students to opt for courses based on their eligibility, aptitude and career goals. 
+11.3 Semester End Examination 
+ 
+The End semester examination will be a comprehensive examination of 3 hours duration. Two 
+ 
+ 
+ 
+End Semester examinations are conducted in a year- 
+Odd semester examinations in November/ December and 
+Even semester examination in May/June 
+Practical examination / Project viva will be held 2 weeks prior to the theory semester 
+end examinations. 
+PG-Graduation Programs 
+ 
+ 
+Course 
+ 
+Continuous Assessment 
+ 
+End semester 
+Aggregate in 
+End semester 
+Examinations 
+All PG Courses No passing minimum 50% 50% 
+ 
+11.4 Post Evaluation Programme: 
+Under the Post Evaluation Programme there are three menus: 
+ Provision for improvement
+ Re-totaling and Revaluation of answer scripts
+ Restrictions to appear for the examinations
+ 
+ 
+11.5 Provision for improvement 
+A student who passes a paper in the first attempt can reappear for the same paper in the 
+succeeding End-of-Semester examination only, for improving his/her marks. Re- 
+appearance for improvement is allowed for theory and practical subjects of all 
+semesters, except for the final semester subjects. Revised mark statement will be issued 
+after withdrawing the previous one, if the marks obtained in improvement are higher 
+than the marks awarded earlier. When there is no improvement, there shall not be any 
+change in the original marks already awarded. The improved marks shall be considered 
+for classification but not for ranking. 
+Provision for Re-totaling and Revaluation of valued answer scripts 
+ PG candidates may apply for re-totaling / revaluation of valued answer scripts, 
+to the Controller of Examinations through the Heads of Departments and 
+Principal / Dean, in the prescribed forms, remitting the prescribed fee within 7 
+days from the date of publication of results. Revaluation of answer scripts is 
+permissible only for the current semester papers and not for any arrear paper.
+ 
+ 
+ 
+ Those wish to apply for revaluation of final semester papers can do so within 
+five days from the date of publication of results. In re-valuation, the answer 
+papers will be valued by an external examiner and if there is a difference of 15 
+marks between the two evaluations then the script will be sent for third valuation 
+which is final and the mark awarded by the third examiner will be taken into 
+the account.
+ Revised mark statement will be issued after withdrawing the previous one, if the 
+marks obtained in revaluation / retotalling are higher than the marks obtained 
+earlier. In other cases, the original marks obtained earlier will be retained and 
+the matter will be intimated to the student concerned as ‘No change’.
+ A candidate who applies for revaluation should not apply for retotalling.
+ 
+ 
+Restrictions to appear for the examinations 
+Candidates who fail in any of the papers in the PG End semester examinations shall complete 
+the paper concerned within N+2 years from the date of admission to the particular course. If 
+they fail to do so, they shall re-register their names and take the examination in the texts/revised 
+regulations/syllabus of the paper prescribed for the subsequent batch of candidates, in force at 
+the time of their reappearance. In the event of removal of that paper consequent to change of 
+regulation and/or curriculum after N+2 years period, the candidate shall have to take up an 
+equivalent paper in the revised syllabus as suggested by the Chairman, Board of Studies 
+concerned. 
+ 
+12. BETTERMENT OF GRADES 
+A student who has secured only a Pass or Second class and desires to improve his/her Class can 
+appear for Betterment Examinations only in Theory courses of any Semester of his/her choice, 
+conducted in the Summer Vacation along with the Special Examinations. Betterment of Grades 
+is permitted ‘only once’ immediately after completion of the program of study. 
+ 
+13. DETENTION AND RE-ADMISSION 
+ 
+If a student fails to meet the minimum attendance requirement or minimum standards for 
+academic progression, the concerned academic head will recommend for detention and it will 
+be notified by the concerned Dean of the School. The students who are detained in the current 
+ 
+ 
+ 
+semester will not be allowed to register for the next semester and they have to repeat the same 
+semester. 
+The candidates who are detained or availed academic break or suspended in the previous 
+semester/academic year and want to continue their study shall apply for re-admission to the 
+university. The candidates shall request for re-admission to the respective Head of the 
+Department, with details viz., Full Name, Registration Number, Department, School, Fee 
+payment particulars with proofs and reasons for discontinuations. The concerned academic 
+head will forward it to the Registrar with specific comments. The Registrar will notify the 
+decision of re-admission which shall include the prescribed fee particulars, semester/ year into 
+which readmission is granted and additional courses to be completed by the student (if any). 
+The candidates should apply for re-admission in advance, that is before the commencement of 
+the semester. 
+ 
+14. GROOMING AND ATTIRE FOR STUDENTS 
+Grooming and Etiquette is of great significance in the dynamic of shaping one’s Personality. 
+The Apollo University stands by a Code of Grooming, Attire and Etiquette that promotes a 
+professional standard: Academic Day; Campus Placements and Non-Academic Hours on 
+Campus. 
+The Dress Code to be in compliance on academic premises while attending: Formal Functions 
+of the Institution / Lectures / Practicals / Dining Area / Library / Labs / Office Areas. 
+Students shall follow appropriate attire during Academic and Non-Academic hours on the 
+campus. Students shall wear clean, neat, pressed and presentable clothing, and command 
+respect by dressing in accordance with responsible personal norms. Students shall always wear 
+The Apollo University ID Card with the Lanyard. 
+Grooming and Formal Wear - Boys: 
+Formal Shirts / T-Shirts with a Collar should preferably be tucked in with a Formal pair of Pants 
+Shoes and Socks to complete the Formal Attire. Personal Hygiene should be followed and Hair 
+should be well groomed. 
+Smart Casuals for Boys: 
+Long Kurtas / Formals / Semi-Formal Shirts with Jeans. 
+Grooming and Formal Wear - Girls: Sarees / Salwar Suits / Leggings or Jeggings with Long 
+Kurtis / Long Frocks / Long Skirts / Palazzos. Complement the outfit with proper footwear. 
+Personal Hygiene should be followed and Hair should be well groomed. 
+Smart Casuals for Girls: 
+ 
+ 
+ 
+Jeans with long Kurtis / Long Skirts / Long Frocks. 
+Attire for Non-Academic Hours On Campus: 
+The students should be neatly attired during Non-Academic Hours on Campus. 
+ 
+ 
+Dress Code for Boys: 
+Jeans / Track Suits / T-Shirts / Trousers / Shirts. 
+Dress Code for Girls: 
+Jeans / T-Shirts or Blouses / Salwar Suits / Palazzos / Leggings or Jeggings with Long Tops / 
+Sarees / Long Skirts / Track Suits. 
+DO’S AND DO’NTS FOR BOYS AND GIRL STUDENTS OF THE UNIVERSITY: 
+ To wear modest clothing that reflects the essence of good personal grooming standards. 
+ To refrain from wearing Sleeveless Clothing; Shorts; Short Tops, etc., 
+ 
+ 
+PLEASE NOTE: The decision as to what constitutes Appropriate Attire vests with the 
+Authorities of The Apollo University. 
+ 
+15. ELIGIBILITY FOR AWARD OF THE DEGREE 
+The undergraduate degree will be of 4-years/ 3-years (Lateral Entry) of duration. A student 
+shall be declared as eligible for the award of the degree if the candidate has successfully secured 
+the minimum number of required credits as specified in the curriculum corresponding to the 
+branch of his/her study within the stipulated time. 
+After successful completion of the program, a provisional certificate cum memorandum of 
+grades (PCMG) will be issued to the students. The PCMG includes the secured grades and class 
+achieved in the chosen program and specialization, if any, along with grades and CGPA secured 
+by the student. The original degree will be presented in the subsequent convocation. 
+ 
+16. DISCRETION POWER 
+Not with-standing anything contained in the above sections, the Vice Chancellor may review 
+all exceptional cases, and give his decision, which will be final and binding. 
+ 
+ 
+ 
+ANNEXURE 1 
+ELIGIBILITY FOR QUALIFYING EXAM FOR POST GRADUATE PROGRAM 
+ 
+Program 
+Type 
+Program Name Eligibility 
+ 
+ 
+ 
+ 
+ 
+Masters 
+ 
+ 
+ 
+ 
+ 
+M.Tech. Data Science 
+ 
+Pass with 50% aggregate marks (45% for reserved 
+categories) in B.Tech. (Computer Science and 
+Engineering or Information Technology or Electronics 
+and Communication Engineering or Electrical and 
+Electronics Engineering) or MCA or M.Sc. (Information 
+Technology or Computer Science) or equivalent. 
+ 
+ 
+ 
+ANNEXURE 2 
+ 
+PROGRAMS OFFERED BY THE SCHOOL OF TECHNOLOGY 
+FROM ACADEMIC YEAR 2022-23 
+Sl. 
+No. 
+Program Expanded Level 
+Minimum Duration 
+in Years (N) 
+1  
+B. Tech. CSE 
+Computer Science and 
+Engineering 
+Bachelor’s 4* 
+ 
+ 
+2. 
+ 
+ 
+B. Tech. 
+CSE (AI& DS) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence   and   Data 
+Structures) 
+ 
+ 
+Bachelor’s 
+ 
+ 
+4* 
+* Engineering programs (UG) under Lateral Entry will be with a minimum duration of 3 years 
+ 
+ 
+ 
+ANNEXURE 3 
+PROGRAMS OFFERED BY THE SCHOOL OF TECHNOLOGY 
+FROM ACADEMIC YEAR 2023-24 
+ 
+Sl. 
+No. 
+Program Expanded Level 
+Minimum Duration 
+in Years (N) 
+1  
+B. Tech. CSE 
+Computer Science and 
+Engineering 
+Bachelor’s 4 
+ 
+ 
+2. 
+ 
+ 
+B. Tech. 
+CSE (AI& DS) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence   and   Data 
+Structures) 
+ 
+ 
+Bachelor’s 
+ 
+ 
+4 
+ 
+ 
+3 
+ 
+B. Tech. 
+CSE (AI& ML) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence  and  Machine 
+Learning) 
+ 
+ 
+Bachelor’s 
+ 
+ 
+4 
+4 
+B. Tech CSE 
+(Cybersecurity) 
+Computer Science and 
+Engineering (Cybersecurity) 
+Bachelor’s 4 
+ 
+ 
+ 
+5 
+B.Tech 
+Computer 
+Engineering 
+(Software 
+Engineering) 
+ 
+Computer Engineering 
+(Software Engineering) with 
+Kalium 
+ 
+ 
+ 
+Bachelor’s 
+ 
+ 
+ 
+4 
+ 
+ 
+6 
+ 
+M. Tech (VLSI 
+design & ES) 
+Master of Technology in 
+Very Large-Scale 
+Integration design and 
+Embedded Systems 
+ 
+ 
+Masters 
+ 
+ 
+2 
+* Engineering programs (UG) under Lateral Entry will be with the Minimum duration of 3 
+years 
+ 
+ 
+ 
+ANNEXURE 3 
+PROGRAMS OFFERED BY THE SCHOOL OF TECHNOLOGY 
+FROM ACADEMIC YEAR 2024-25 
+ 
+Sl. 
+No. 
+Program Expanded Level 
+Minimum Duration 
+in Years (N) 
+1  
+B. Tech. CSE 
+Computer Science and 
+Engineering 
+Bachelor’s 4 
+ 
+ 
+2. 
+ 
+ 
+B. Tech. 
+CSE (AI& DS) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence   and   Data 
+Structures) 
+ 
+ 
+Bachelor’s 
+ 
+ 
+4 
+ 
+ 
+3 
+ 
+B. Tech. 
+CSE (AI& ML) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence  and  Machine 
+Learning) 
+ 
+ 
+Bachelor’s 
+ 
+ 
+4 
+4 
+B. Tech CSE 
+(Cybersecurity) 
+Computer Science and 
+Engineering (Cybersecurity) 
+Bachelor’s 4 
+ 
+ 
+ 
+5 
+B.Tech 
+Computer 
+Engineering 
+(Software 
+Engineering) 
+ 
+Computer Engineering 
+(Software Engineering) with 
+Kalium 
+ 
+ 
+ 
+Bachelor’s 
+ 
+ 
+ 
+4 
+ 
+ 
+6 
+ 
+M. Tech (VLSI 
+design & ES) 
+Master of Technology in 
+Very Large-Scale 
+Integration design and 
+Embedded Systems 
+ 
+ 
+Masters 
+ 
+ 
+2 
+* Engineering programs (UG) under Lateral Entry will be with the Minimum duration of 3 
+years 
+ 
+ 
+I - Semester 
+ 
+3 Week Induction Program 
+ 
+ 
+Course Code 
+ 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+ 
+Hours 
+per week L T P 
+MTDT6501 Mathematical Foundations of Data Science 2 1 0 3 3 
+SOTT6301 Advanced Data Structures and Algorithms 2 1 0 3 3 
+Program Elective-I 
+MTDT6601a Programming for Data Science  
+3 
+ 
+0 
+ 
+0 
+ 
+3 
+ 
+3 MTDT6601b Data Engineering and Databases 
+MTDT6601c Machine Learning and AI 
+Program Elective-II 
+MTDT6602a AI and Decision-Making Models  
+3 
+ 
+0 
+ 
+0 
+ 
+3 
+ 
+3 MTDT6602b Data Preparation and Analysis 
+MTDT6602c Data Visualization and Communication 
+SOTT6302 Research Methodology and IPC 2 0 0 2 2 
+SOTT6303 
+Human Values & Professional Ethics 
+(Audit Course – I) 
+2 0 0 0 2 
+MTDS6501/ 
+MTDC6501 
+Technical Seminar/Case Study -1 1 0 0 1 1 
+SOTL6301 Advanced Data Structures and Algorithms Lab 0 0 4 2 4 
+MTDL6501 Programming for Data Science Lab 0 0 4 2 4 -- Mentoring 0 0 0 0 1 -- Library 0 0 0 0 2 -- Physical Activity 0 0 0 0 2 -- Extra-curricular activities 0 0 0 0 2 -- Co-curricular activity 0 0 0 0 2 -- Self-Learning 0 0 0 0 2 
+TOTAL 15 2 8 19 36 
+ 
+ 
+II - Semester 
+ 
+ 
+ 
+ 
+Course Code 
+ 
+ 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+ 
+ 
+Hours 
+per week L T P 
+SOTT6304 Advanced Machine Learning 2 1 0 3 3 
+MTDT6504 Big Data Analytics 2 1 0 3 3 
+Program Elective-III 
+MTDT6603a Ethical AI and Decision Making  
+3 
+ 
+0 
+ 
+0 
+ 
+3 
+ 
+3 MTDT6603b Time Series Analysis 
+MTDT6603c Text Analytics 
+Program Elective-IV 
+MTDT6604a Predictive and Perspective Analytics  
+3 
+ 
+0 
+ 
+0 
+ 
+3 
+ 
+3 MTDT6604b Edge AI and IoT Analytics 
+MTDT6604c Data Privacy and Security 
+SOTT6305 
+English for Research Paper Writing 
+(Audit Course-2) 
+2 0 0 0 2 
+MTDP6501 Mini project 0 0 8 4 8 
+SOTL6302 Advanced Machine Learning Lab 0 0 4 2 4 
+MTDL6502 Big Data Analytics Lab 0 0 4 2 4 -- Mentoring 0 0 0 0 1 -- Co-curricular activity 0 0 0 0 1 -- Self-Learning 0 0 0 0 1 -- Extra-curricular activities 0 0 0 0 2 -- Library 0 0 0 0 1 
+TOTAL 12 2 16 18 36 
+ 
+ 
+III - Semester 
+ 
+ 
+ 
+ 
+Course Code 
+ 
+ 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+ 
+ 
+Hours 
+per week L T P 
+MTDM7501 MOOC-1 3 0 0 3 3 
+MTDM7502 MOOC -2 3 0 0 3 3 
+MTDP7501 Dissertation I / Industrial Project 0 0 20 10 20 -- Mentoring 0 0 0 0 1 -- Co-curricular activity 0 0 0 0 2 -- Self-Learning 0 0 0 0 1 -- Physical Activity 0 0 0 0 2 -- Extra-curricular activities 0 0 0 0 2 -- Soft Skills Training 0 0 0 0 1 -- Certification Course 0 0 0 0 1 
+TOTAL 6 0 20 16 36 
+ 
+ 
+IV - Semester 
+ 
+ 
+Course Code 
+ 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+ 
+Hours 
+per week L T P 
+MTDP7502 Dissertation Phase II 0 0 32 16 32 
+TOTAL 0 0 32 16 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I SEMESTER 
+ 
+ 
+ 
+MTDT6501 Mathematical Foundations of Data Science 
+ 
+L T P C 
+2 1 0 3 
+ 
+Course Description 
+This course provides a rigorous mathematical foundation essential for advanced data science. 
+Topics include linear algebra, calculus, probability, statistics, and optimization. Emphasis is 
+placed on theoretical concepts and computational techniques that underpin algorithms in data 
+analysis, machine learning, and AI. 
+Course Objectives 
+ To develop a strong mathematical background for understanding data science 
+algorithms. 
+ To introduce linear algebra, calculus, probability, and optimization concepts with 
+practical applications. 
+ To enable students to derive and analyze mathematical models used in data science. 
+ To build proficiency in mathematical reasoning and problem solving relevant to real- 
+world data challenges. 
+ To prepare students for advanced studies in machine learning, AI, and computational 
+methods. 
+ 
+Unit 1: Linear Algebra for Data Science 9 Hrs 
+Vectors, matrices, and operations-Matrix factorizations (LU, QR, SVD)-Eigenvalues, 
+eigenvectors, and spectral analysis-Applications in dimensionality reduction (PCA, LDA) 
+ 
+Unit 2: Calculus and Multivariate Calculus 9 Hrs 
+Limits, continuity, and differentiation-Partial derivatives, gradients, and Hessians- 
+Optimization basics: gradient descent and second-order methods-Chain rule and Taylor series 
+approximations. 
+ 
+Unit 3: Probability Theory and Statistics 9 Hrs 
+Basic probability concepts, random variables, and distributions- Expectation, variance, 
+covariance, and correlation- Common distributions (Gaussian, Binomial, Poisson)-Central 
+Limit Theorem and Law of Large Numbers 
+ 
+ 
+ 
+ 
+ 
+Unit 4: Optimization Techniques 9 Hrs 
+Convex sets and convex functions- Unconstrained and constrained optimization- Lagrange 
+multipliers and duality- Linear programming and gradient-based methods 
+ 
+Unit 5: Mathematical Tools and Applications in Data Science 9 Hrs 
+Numerical methods and error analysis- Introduction to graph theory and network models- 
+Information theory basics (entropy, KL-divergence) 
+Case studies: Mathematical modeling for machine learning applications 
+ 
+ 
+Course Outcomes 
+After completing the course, students will be able to: 
+1. Apply linear algebra and calculus concepts to model and solve data problems. 
+2. Use probability theory and statistics to analyze uncertainty in data. 
+3. Formulate and solve optimization problems common in machine learning. 
+4. Interpret mathematical models and algorithms used in data science. 
+5. Develop  proofs  and  analytical  arguments  for  algorithmic  performance  and 
+convergence. 
+ 
+Textbooks & References 
+1. Strang, G. – Introduction to Linear Algebra, 5th Edition, Wellesley–Cambridge Press, 
+2016. 
+2. Boyd, S. & Vandenberghe, L. – Convex Optimization, 1st Edition, Cambridge 
+University Press, 2004. 
+3. Papoulis, A. & Pillai, S.U. – Probability, Random Variables, and Stochastic Processes, 
+4th Edition, McGraw-Hill, 2002. 
+4. Lay, D.C., Lay, S.R., & McDonald, J.J. – Linear Algebra and Its Applications, 5th 
+Edition, Pearson, 2015. 
+5. Strang, G. – Calculus, (Selected chapters), Various editions for supplemental material. 
+ 
+ 
+ 
+SOTT6301 Advanced-Data Structures 
+ 
+L T P C 
+2 1 0 3 
+ 
+Course Description: 
+This course provides an in-depth study of advanced data structures and algorithmic techniques 
+essential for efficient problem-solving in data science. It covers key topics such as balanced 
+trees, hash-based structures, graphs, dynamic programming, and approximation algorithms. 
+The course emphasizes the application of these concepts in large-scale data processing, 
+optimization, and machine learning. Students will also explore parallel and distributed 
+algorithms, along with performance analysis and complexity optimization strategies. Hands- 
+on implementation and real-world problem-solving are integral parts of this course. 
+ 
+Course Objectives: 
+1. Understand and implement advanced data structures for efficient data handling. 
+2. Apply graph algorithms to solve real-world network and optimization problems. 
+3. Develop efficient algorithmic solutions using dynamic programming, greedy, and 
+divide-and-conquer techniques. 
+4. Analyze NP-completeness and design approximation and randomized algorithms for 
+intractable problems. 
+5. Implement and optimize parallel and distributed algorithms for large-scale data 
+processing. 
+ 
+UNIT I 9 Hrs 
+Advanced Data Structures 
+Algorithms, Performance analysis- time complexity and space complexity, Asymptotic 
+Notation- Big Oh, Omega and Theta notations, Complexity Analysis Examples; Review of 
+basic data structures (arrays, linked lists, stacks, queues), Trees: AVL Trees, Red-Black Trees, 
+B-Trees, Segment Trees, Fenwick Trees, Hashing: Hash functions, collision resolution 
+techniques, perfect hashing, Disjoint Set Union (Union-Find) and applications 
+ 
+UNIT II 9 Hrs 
+Graph Algorithms 
+Graph representations (adjacency list, adjacency matrix), Traversal algorithms: BFS, DFS, 
+Topological Sorting, Shortest path algorithms: Dijkstra’s, Bellman-Ford, Floyd-Warshall, 
+Minimum spanning tree: Prim’s and Kruskal’s algorithms, Network flow algorithms: Max- 
+flow (Ford-Fulkerson, Edmonds-Karp) 
+ 
+UNIT III 9 Hrs 
+Algorithmic Techniques 
+Divide and Conquer: Applications in searching and sorting (Merge Sort, Quick Sort), Greedy 
+Algorithms: Huffman Coding, Activity Selection, Job Scheduling, Dynamic Programming: 
+ 
+ 
+ 
+Knapsack problem, Matrix Chain Multiplication, LCS, LIS, Backtracking and Branch & 
+Bound: N-Queens, Traveling Salesman Problem 
+ 
+UNIT IV 9 Hrs 
+Approximation and Randomized Algorithms 
+NP-Completeness and NP-Hard problems, Approximation algorithms: Vertex Cover, TSP, Set 
+Cover, Randomized algorithms: Monte Carlo and Las Vegas algorithms, Probabilistic data 
+structures: Bloom Filters, Skip Lists 
+ 
+UNIT V 9 Hrs 
+Parallel and Distributed Algorithms 
+Parallel sorting and searching algorithms, MapReduce and distributed graph algorithms, 
+Concurrent data structures and synchronization, GPU-based algorithms and parallel computing 
+techniques 
+ 
+Course Outcomes: 
+After completion of course, students would be able to: 
+1. Design and implement advanced data structures for complex applications. 
+2. Solve graph-related problems using efficient algorithms. 
+3. Apply advanced algorithmic techniques to real-world computational challenges. 
+4. Evaluate algorithmic performance and optimize computational complexity. 
+5. Implement scalable parallel and distributed solutions for big data applications.. 
+ 
+Text Books: 
+1. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. – Introduction to Algorithms, 
+4th Edition, MIT Press, 2022. 
+2. Sedgewick, R., & Wayne, K. – Algorithms, 4th Edition, Addison-Wesley, 2011. 
+3. Aho, A. V., Hopcroft, J. E., & Ullman, J. D. – Data Structures and Algorithms, Pearson 
+Education, 2002. 
+4. Goodrich, M. T., & Tamassia, R. – Algorithm Design and Applications, Wiley, 2014. 
+5. Dasgupta, S., Papadimitriou, C., & Vazirani, U. – Algorithms, McGraw-Hill, 2006. 
+ 
+Reference Books: 
+1. Tarjan, R. E. – Data Structures and Network Algorithms, SIAM, 1983. 
+2. Kleinberg, J., & Tardos, E. – Algorithm Design, Pearson, 2006. 
+3. Mehta, D. P., & Sahni, S. – Handbook of Data Structures and Applications, Chapman 
+& Hall/CRC, 2018. 
+4. Skiena, S. S. – The Algorithm Design Manual, 3rd Edition, Springer, 2020. 
+5. Motwani, R., & Raghavan, P. – Randomized Algorithms, Cambridge University Press, 
+1995. 
+ 
+Online Resources: 
+1. MIT Open Course Ware – Advanced Data Structures and Algorithms 
+2. Stanford Online – Algorithms Specialization by Tim Roughgarden (Coursera) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program Elective - I 
+ 
+ 
+ 
+MTDT6601a Programming for Data Science 
+ 
+ 
+L T P C 
+3 0 0 3 
+Course Description 
+This course introduces programming fundamentals and advanced techniques using languages 
+and tools widely adopted in data science, particularly Python. It covers core programming 
+constructs, data structures, libraries for data manipulation, visualization, and best practices for 
+writing efficient, readable, and maintainable code. 
+Course Objectives 
+ To provide a solid grounding in programming concepts with a focus on Python. 
+ To teach the use of programming for data manipulation, analysis, and visualization. 
+ To introduce software development best practices including modularity, testing, and 
+debugging. 
+ To equip students with the ability to write efficient code for handling large datasets. 
+ To foster problem-solving skills applicable to real-world data science challenges. 
+ 
+ 
+Unit 1: Fundamentals of Programming with Python 9 Hrs 
+Basic syntax, variables, data types, and operators-Control structures: loops, conditionals, and 
+error handling-Functions, recursion, and lambda expressions- Introduction to scripting and 
+automation. 
+ 
+Unit 2: Data Structures and Built-in Libraries 9 Hrs 
+Lists, tuples, dictionaries, and sets-String manipulation and regular expressions-File I/O 
+operations and data serialization (JSON, CSV)-Introduction to Python’s standard libraries (os, 
+sys, datetime) 
+ 
+Unit 3: Data Manipulation and Analysis 9 Hrs 
+NumPy for numerical computations-Pandas for data manipulation and analysis cleaning, 
+transformation, and aggregation techniques with time series and missing data. 
+ 
+ 
+ 
+Unit 4: Data Visualization and Exploratory Analysis 9 Hrs 
+Plotting with Matplotlib and Seaborn-Creating interactive visualizations with Plotly- 
+Exploratory data analysis techniques and best practices-Integrating visualizations into reports 
+and dashboards 
+ 
+Unit 5: Advanced Programming Concepts and Best Practices 9 Hrs 
+Object-oriented programming and design patterns-Functional programming approaches in 
+Python-Performance optimization and debugging techniques-Introduction to parallel and 
+asynchronous programming. 
+ 
+Course Outcomes 
+After completing the course, students will be able to: 
+1. Develop Python programs utilizing control structures, functions, and modules. 
+2. Manipulate and analyze data using libraries such as NumPy and Pandas. 
+3. Create data visualizations with Matplotlib, Seaborn, and Plotly. 
+4. Apply object-oriented and functional programming paradigms in data science projects. 
+5. Write clean, efficient, and well-documented code with testing and debugging practices. 
+ 
+ 
+Textbooks & References 
+1. McKinney, W. – Python for Data Analysis, 2nd Edition, O’Reilly Media, 2017. 
+2. Sweigart, A. – Automate the Boring Stuff with Python, 2nd Edition, No Starch Press, 
+2019. 
+3. Lutz, M. – Learning Python, 5th Edition, O’Reilly Media, 2013. 
+4. Ramalho, L. – Fluent Python, 1st Edition, O’Reilly Media, 2015. 
+5. Downey, A. – Think Python: How to Think Like a Computer Scientist, 2nd Edition, 
+Green Tea Press, 2015. 
+ 
+ 
+ 
+MTDT6601b Data Engineering and Databases 
+ 
+ 
+L T P C 
+3 0 0 3 
+ 
+Course Description: This course covers the principles of data engineering and database 
+management systems, focusing on data storage, management, retrieval, and processing using 
+various tools and technologies. 
+ 
+Course Objectives: 
+1. Understand the fundamentals of data engineering. 
+2. Learn to design and manage databases. 
+3. Gain proficiency in data storage and retrieval techniques. 
+4. Develop skills to process and transform large datasets. 
+5. Apply data engineering principles to real-world problems. 
+ 
+ 
+Unit 1: Introduction to Data Engineering 9 Hrs 
+Fundamentals of Data Engineering- Role of Data Engineers in modern data ecosystems- Data 
+Engineering vs Data Science- The Data Engineering Lifecycle- Overview of key tools (Apache 
+Airflow, Spark, Hadoop, Kafka). 
+Unit 2: Database Management Systems 9 Hrs 
+Introduction to DBMS- Relational Database Concepts- Entity-Relationship (ER) Modeling- 
+SQL Queries: DDL, DML, DQL- Normalization and Database Design 
+Unit 3: NoSQL Databases 9 Hrs 
+Introduction to NoSQL and its need- Types of NoSQL Databases: Key-Value Stores (e.g., 
+Redis), Document Stores (e.g., MongoDB), Column Family Stores (e.g., Cassandra), Graph 
+Databases (e.g., Neo4j)-Use-cases comparison with relational DBs 
+Unit 4: Data Storage and Retrieval 9 Hrs 
+Data Storage Techniques: Local vs Cloud- File formats (CSV, JSON, Parquet, Avro)- Indexing 
+Techniques- Query Optimization Techniques- Introduction to Data Warehousing- Concepts of 
+OLAP and OLTP 
+Unit 5: Data Pipelines and Workflows 9 Hrs 
+ETL (Extract, Transform, Load) Process-ELT and streaming pipelines- Data integration from 
+multiple sources- Workflow Automation using Apache Airflow-Monitoring and logging of 
+pipelines 
+ 
+ 
+ 
+ 
+ 
+Course Outcomes: 
+1. Ability to design and manage relational and non-relational databases. 
+2. Proficiency in data storage and retrieval using SQL and NoSQL databases. 
+3. Skills to process and transform large datasets using data engineering tools. 
+4. Capability to manage data pipelines and workflows. 
+5. Understanding of data engineering best practices. 
+ 
+ 
+Text Books and References: 
+ "Designing Data-Intensive Applications" by Martin Kleppmann 
+ "Database System Concepts" by Abraham Silberschatz, Henry F. Korth, and S. 
+Sudarshan 
+ "NoSQL Distilled" by Pramod J. Sadalage and Martin Fowler 
+ 
+ 
+ 
+MTDT6601b Machine Learning 
+ 
+ 
+L T P C 
+3 0 0 3 
+ 
+Course Description: This course introduces machine learning algorithms and artificial 
+intelligence techniques for predictive modeling and data analysis. Students will learn to 
+implement and evaluate various models. 
+ 
+Course Objectives: 
+1. Understand the fundamentals of machine learning and AI. 
+2. Learn to implement and evaluate machine learning models. 
+3. Develop skills to select appropriate algorithms for different problems. 
+4. Apply machine learning techniques to real-world data. 
+5. Gain proficiency in using machine learning tools and libraries. 
+ 
+ 
+Unit 1: Introduction to Machine Learning 9 Hrs 
+Machine Learning Fundamentals- Applications and scope - Types of learning: Supervised, 
+Unsupervised, Reinforcement Learning- Overview of ML pipeline and major algorithms- 
+Bias-variance tradeoff. 
+ 
+Unit 2: Supervised Learning 9 Hrs 
+Regression: Linear regression, regularization (Ridge, Lasso)- Classification: k-NN, Decision 
+Trees, Logistic Regression, SVM- Model Evaluation: Train/test split, cross-validation, 
+confusion matrix, precision, recall, F1-score, ROC curves. 
+ 
+Unit 3: Unsupervised Learning 9 Hrs 
+Clustering: k-Means, Hierarchical Clustering, DBSCAN- Dimensionality Reduction: PCA, t- 
+SNE- Anomaly Detection techniques 
+ 
+Unit 4: Advanced Machine Learning 9 Hrs 
+Ensemble Methods: Bagging, Boosting (Random Forests, AdaBoost, Gradient Boosting)- 
+Neural Networks: Perceptron, MLPs- Introduction to Deep Learning: CNNs, RNNs 
+ 
+ 
+ 
+Unit 5: Machine Learning Tools and Libraries 9 Hrs 
+Overview of ML toolchain- scikit-learn: Pipelines, preprocessing, feature selection- 
+TensorFlow and Keras: Model building and training- PyTorch: Tensors, neural network 
+modules, autograd. 
+ 
+ 
+Course Outcomes: 
+1. Ability to implement various machine learning algorithms. 
+2. Proficiency in evaluating and tuning machine learning models. 
+3. Skills to select appropriate models for specific problems. 
+4. Capability to apply machine learning techniques to real-world datasets. 
+5. Understanding of machine learning tools and libraries. 
+ 
+ 
+Text Books and References: 
+ "Pattern Recognition and Machine Learning" by Christopher M. Bishop 
+ "Machine Learning: A Probabilistic Perspective" by Kevin P. Murphy 
+ "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program Elective-II 
+ 
+ 
+ 
+MTDT6602a AI and Decision-Making Models 
+ 
+L T P C 
+3 0 0 3 
+ 
+Course Description 
+This course delves into advanced decision-making frameworks that integrate AI techniques 
+with classical decision theory. Topics include probabilistic reasoning, optimization, simulation, 
+and reinforcement learning. The course emphasizes the development of decision support 
+systems that operate under uncertainty and complexity in dynamic environments. 
+ 
+ 
+Course Objectives 
+ To introduce decision theory and its application in AI. 
+ To develop probabilistic models for decision-making under uncertainty. 
+ To explore optimization and simulation techniques in decision processes. 
+ To integrate AI methods (e.g., reinforcement learning) into decision support systems. 
+ To analyze real-world case studies in finance, supply chain, and operations research. 
+ 
+ 
+Unit 1: Fundamentals of Decision Theory 9 Hrs 
+Overview of decision-making frameworks and utility theory-Decision trees, risk analysis, and 
+cost-benefit analysis-multi-criteria decision-making methods. 
+Case studies in business and economics 
+Unit 2: Probabilistic Models and Bayesian Decision Making 9 Hrs 
+Basics of probability and statistical inference-Bayesian networks and probabilistic graphical 
+models-Markov decision processes (MDP) and dynamic programming-Applications in 
+healthcare, finance, and logistics 
+Unit 3: Optimization Techniques in Decision Making 9 Hrs 
+Linear, integer, and nonlinear programming fundamentals-Heuristic and metaheuristic 
+optimization methods-Simulation and Monte Carlo methods for risk assessment-Software 
+tools for optimization (e.g., MATLAB, Python libraries). 
+Unit 4: Reinforcement Learning and Adaptive Decision Systems 9 Hrs 
+Fundamentals of reinforcement learning and policy gradients-Q-learning, SARSA, and deep 
+reinforcement learning-Integration of RL with traditional decision-making applications in 
+robotics, finance, and operational research. 
+ 
+ 
+ 
+Unit 5: Case Studies and Emerging Trends 9 Hrs 
+Real-world decision support system implementations- Dynamic, real-time decision making 
+with AI- Ethical and societal considerations in AI-driven decisions- Future directions: hybrid 
+models and data-driven strategic decision-making 
+ 
+ 
+Course Outcomes 
+After completing the course, students will be able to: 
+1. Model decision-making problems using probabilistic and statistical methods. 
+2. Apply optimization techniques and simulation models to evaluate decisions. 
+3. Utilize reinforcement learning for dynamic decision-making scenarios. 
+4. Build integrated decision support systems that leverage AI. 
+5. Critically assess and compare various decision-making frameworks for complex 
+problems. 
+Textbooks & References 
+1. Goodwin, P. & Wright, G. – Decision Analysis for Management Judgment, 5th 
+Edition, Wiley, 2014. 
+2. Sutton, R.S. & Barto, A.G. – Reinforcement Learning: An Introduction, 2nd Edition, 
+MIT Press, 2018. 
+3. Hillier, F.S. & Lieberman, G.J. – Introduction to Operations Research, 10th Edition, 
+McGraw-Hill, 2015. 
+4. Barber, D. – Bayesian Reasoning and Machine Learning, 1st Edition, Cambridge 
+University Press, 2012. 
+5. Russell, S. & Norvig, P. – Artificial Intelligence: A Modern Approach, 4th Edition, 
+Pearson, 2020. 
+ 
+ 
+ 
+MTDT6602b Data Preparation and Analysis 
+ 
+L T P C 
+3 0 0 3 
+ 
+Course Description 
+This course focuses on the critical steps of data preparation, cleaning, transformation, and 
+exploratory analysis. Emphasis is placed on practical techniques to handle noisy, incomplete, 
+or unstructured data and to extract meaningful insights through statistical analysis and feature 
+engineering. 
+Course Objectives 
+ To introduce data collection, cleaning, and transformation methodologies. 
+ To develop proficiency in exploratory data analysis and statistical inference. 
+ To teach feature engineering techniques for improving model performance. 
+ To provide hands-on experience with data wrangling using modern tools. 
+ To prepare students to tackle real-world data challenges through rigorous analysis. 
+Course Outcomes 
+After completing the course, students will be able to: 
+1. Collect, clean, and preprocess diverse datasets effectively. 
+2. Apply statistical techniques to explore and analyze data. 
+3. Engineer and select features to enhance predictive modeling. 
+4. Utilize Python/R libraries for data manipulation and analysis. 
+5. Communicate data insights and prepare data for machine learning pipelines. 
+ 
+ 
+Unit 1: Data Collection and Cleaning 9 Hrs 
+Data acquisition techniques and sources-Handling missing values, outlier detection, and 
+imputation-Data quality assessment and error correction-Introduction to data cleaning tools 
+and libraries. 
+Unit 2: Data Transformation and Feature Engineering 9 Hrs 
+Data normalization, scaling, and encoding techniques-Feature extraction and creation- 
+Dimensionality reduction methods (PCA, t-SNE)-Handling categorical and time-series data 
+ 
+ 
+ 
+Unit 3: Exploratory Data Analysis (EDA) 9 Hrs 
+Descriptive statistics and data summarization visualization for EDA (histograms, scatter 
+plots, box plots)-Correlation analysis and hypothesis testing- Tools: Pandas, Matplotlib, 
+Seaborn. 
+Unit 4: Statistical Analysis and Inference 9 Hrs 
+Probability distributions and statistical tests- Confidence intervals and significance testing- 
+Regression analysis and correlation measures 
+Case studies in inferential statistics for business and science 
+ 
+ 
+Unit 5: Tools and Technologies for Data Preparation 9 Hrs 
+Data wrangling with Python (Pandas, NumPy) and R (dplyr, tidyr)-Introduction to SQL for 
+data extraction- Integrating data pipelines and automation of data cleaning tasks- 
+Mini project: End-to-End data preparation workflow. 
+ 
+ 
+Textbooks & References 
+1. McKinney, W. – Python for Data Analysis, 2nd Edition, O’Reilly Media, 2017. 
+2. Pyle, D. – Data Preparation for Data Mining, 1st Edition, Morgan Kaufmann, 1999. 
+3. Bruce, P. & Bruce, A. – Practical Statistics for Data Scientists, 1st Edition, O’Reilly 
+Media, 2017. 
+4. Kazil, J. & Jarmul, K. – Data Wrangling with Python, 1st Edition, O’Reilly Media, 
+2016. 
+5. James, G., Witten, D., Hastie, T., & Tibshirani, R. – An Introduction to Statistical 
+Learning, 2nd Edition, Springer, 2021. 
+ 
+ 
+ 
+MTDT6602c Data Visualization and Communication 
+ 
+ 
+L T P C 
+3 0 0 3 
+ 
+Course Description: This course teaches methods for visualizing data effectively and 
+communicating findings to different stakeholders. Students will learn to create compelling 
+visualizations and reports. 
+Course Objectives: 
+1. Understand the principles of data visualization. 
+2. Learn techniques for creating effective visualizations. 
+3. Gain proficiency in using visualization tools and libraries. 
+4. Develop skills to communicate data insights effectively. 
+5. Apply visualization techniques to real-world datasets. 
+ 
+ 
+Unit 1: Introduction to Data Visualization 9 Hrs 
+Data visualization- History and evolution- Key principles of design: clarity, accuracy, 
+aesthetics- Importance of context and audience- Cognitive aspects of visual perception 
+Unit 2: Visualization Techniques 9 Hrs 
+Basic chart types: bar, line, pie, scatter, histogram, box plots- Multivariate visualizations: 
+heatmaps, bubble charts- Temporal and hierarchical data visualization- Color theory, labeling, 
+and layout. 
+Unit 3: Visualization Tools and Libraries 9 Hrs 
+Python-based libraries: Matplotlib, Seaborn- R-based tools: ggplot2- Introduction to Tableau: 
+interface, data import, basic dashboards- Comparative strengths and limitations. 
+Unit 4: Storytelling with Data 9 Hrs 
+Elements of narrative in data- Structuring stories with visual elements- Designing dashboards 
+for different audiences- Writing reports with embedded visuals 
+Unit 5: Advanced Visualization Techniques 9 Hrs 
+Interactive visualizations using Plotly, Bokeh, or D3.js- Geospatial data visualization: maps, 
+choropleths (using Folium, GeoPandas)- Real-time data visualization techniques and tools. 
+ 
+ 
+Course Outcomes: 
+1. Ability to create effective visualizations. 
+ 
+ 
+ 
+2. Proficiency in using visualization tools and libraries. 
+3. Skills to communicate data insights to stakeholders. 
+4. Capability to design and present data reports. 
+5. Understanding of data visualization best practices. 
+ 
+ 
+Text Books and References: 
+ "Storytelling with Data" by Cole Nussbaumer Knaflic 
+ "The Visual Display of Quantitative Information" by Edward R. Tufte 
+ "Python Data Visualization Cookbook" by Igor Milovanovic, Dimitry Foures, and 
+Giuseppe Vettigli 
+ 
+ 
+ 
+SOTT6302 Research Methodology and IPC 
+ 
+L T P C 
+2 0 0 2 
+ 
+Course Description 
+This course provides a comprehensive overview of research methodology tailored for data 
+science. It covers the entire research process—from problem formulation and literature review 
+to data collection, analysis, and reporting. In addition, the course introduces aspects of 
+Intellectual Property and Communication (IPC), including publication ethics, academic 
+writing, and effective dissemination of research outcomes. Emphasis is placed on both 
+theoretical foundations and practical applications to prepare students for rigorous academic or 
+industrial research. 
+ 
+Course Objectives 
+ To develop the ability to formulate research problems and design appropriate 
+methodologies. 
+ To familiarize students with qualitative and quantitative research methods and data 
+analysis techniques. 
+ To guide students in the preparation of literature reviews, research proposals, and 
+research reports. 
+ To introduce the ethical, legal, and intellectual property issues related to research. 
+ To enhance communication skills for effective dissemination of research findings. 
+ 
+ 
+Unit 1: Introduction to Research Methodology 6 Hrs 
+Definition, scope, and importance of research in data science of research (exploratory, 
+descriptive, explanatory, experimental and applied)-Steps in the research process and research 
+design-Formulating research questions and hypotheses-Overview of literature review 
+techniques 
+ 
+Unit 2: Research Design and Data Collection Methods 6 Hrs 
+Qualitative vs. quantitative research methodologies- sampling techniques and research 
+instruments  (surveys,  interviews,  observations)-Experimental  design  and  case  study 
+approaches-Data collection methods and tools-Reliability, validity, and bias in research. 
+ 
+ 
+ 
+ 
+ 
+Unit 3: Data Analysis and Interpretation 6 Hrs 
+Statistical techniques and data analysis methods tools for data analysis (SPSS, R, Python)- 
+Interpreting quantitative and qualitative data (ATLAS.ti) -Reporting results and drawing 
+conclusions to data visualization for research findings 
+ 
+Unit 4: Intellectual Property, Publication Ethics, and Communication 6 Hrs 
+Overview of intellectual property rights (patents, copyrights, trademarks)-Publication ethics 
+and academic integrity- Preparing research proposals, manuscripts, and technical reports- 
+Communication skills for oral presentations and poster sessions for submitting to journals and 
+conferences. 
+ 
+Unit 5: Research Project and Practical Communication 6 Hrs 
+Designing a mini research project in data science evaluation of research literature and case 
+studies and peer-review exercises-Workshop on effective oral and poster presentations- 
+Discussion on current trends and future challenges in research 
+ 
+Course Outcomes 
+Upon completion of this course, students will be able to: 
+1. Formulate and refine research questions and hypotheses relevant to data science. 
+2. Design research studies using appropriate methodologies and tools. 
+3. Conduct comprehensive literature reviews and critically evaluate academic sources. 
+4. Analyze data using both qualitative and quantitative methods. 
+5. Prepare research proposals, technical reports, and academic papers while adhering to 
+ethical and intellectual property standards. 
+ 
+Textbooks & References 
+1. Kothari, C.R. – Research Methodology: Methods and Techniques, 2nd Edition, New 
+Age International, 2004. 
+2. Creswell, J.W. – Research Design: Qualitative, Quantitative, and Mixed Methods 
+Approaches, 4th Edition, SAGE Publications, 2014. 
+3. Cooper, D.R. & Schindler, P.S. – Business Research Methods, 12th Edition, McGraw- 
+Hill, 2014. 
+4. Silverman, D. – Interpreting Qualitative Data, 5th Edition, SAGE Publications, 2016. 
+ 
+ 
+ 
+5. Day, R.A. & Gastel, B. – How to Write and Publish a Scientific Paper, 7th Edition, 
+Cambridge University Press, 2012. 
+6. Hennink, Monique, Inge Hutter, and Ajay Bailey. Qualitative research methods. 
+Sage, 2020. 
+ 
+ 
+ 
+SOTT6303 Human Values & Professional Ethics 
+(Audit Course- I) 
+L T P C 
+2 0 0 0 
+Course Description 
+This course examines the role of human values and professional ethics in the context of data 
+science and technology. It discusses ethical theories, professional responsibilities, and the 
+societal impacts of technology. Special emphasis is placed on understanding ethical dilemmas, 
+maintaining professional integrity, and fostering social responsibility in both academic and 
+industrial environments. 
+ 
+Course Objectives 
+1. To introduce fundamental ethical theories and their relevance to professional practice. 
+2. To analyse ethical dilemmas and decision-making frameworks in modern workplaces. 
+3. To cultivate an understanding of professional responsibility and integrity. 
+4. To explore the legal and ethical standards governing technology and data use. 
+5. To prepare students to address ethical challenges in their professional careers. 
+ 
+ 
+UNIT I: Fundamentals of Human Values and Ethics 6 Hrs 
+Introduction to ethics and human values- Overview of ethical theories: utilitarianism, 
+deontology, virtue ethics-Importance of ethics in personal and professional life. 
+Case studies on ethical decision-making. 
+ 
+ 
+UNIT II: Professional Ethics and Responsibilities 6 Hrs 
+Codes of conduct and professional ethics in various industries-Role of accountability, 
+transparency, and integrity in the workplace-Ethical issues in information technology and data 
+science-Legal frameworks and standards influencing professional practice. 
+ 
+UNIT III: Ethical Dilemmas 6 Hrs 
+Data privacy, security, and bias in AI applications-Intellectual property, plagiarism, and 
+research misconduct-Conflict of interest, corporate governance, and whistleblowing-Analysis 
+of real-world ethical dilemmas through case studies. 
+ 
+ 
+ 
+UNIT IV: Social Responsibility and Impact of Technology 6 Hrs 
+Corporate Social Responsibility (CSR) and sustainable development- The societal impact of 
+data-driven decision-making- Global and multicultural perspectives on ethics- Role of ethics 
+in innovation and technological advancement. 
+ 
+UNIT V: Ethics in Research and Professional Practice 6 Hrs 
+Academic integrity and research ethics- Collaborative work, interdisciplinary ethics, and 
+professional accountability- Workshops, role plays, and discussions on ethical decision- 
+making- Developing a personal ethical framework and professional development plan. 
+ 
+Course Outcomes 
+Upon completion of this course, students will be able to: 
+1. Explain key ethical theories and apply them to real-world professional scenarios. 
+2. Identify and analyse ethical issues in data science, including privacy, bias, and 
+intellectual property. 
+3. Demonstrate professional responsibility and integrity in academic and workplace 
+settings. 
+4. Apply ethical frameworks to resolve conflicts and dilemmas in practice. 
+5. Appreciate the social and global impacts of technological innovations. 
+ 
+ 
+Textbooks & References 
+1. Velasquez, M.G. et al. – Ethical Issues in Business, 6th Edition, Pearson, 2015. 
+2. Ferrell, O.C., Fraedrich, J., & Ferrell, L. – Business Ethics: Ethical Decision Making 
+& Cases, 11th Edition, Cengage Learning, 2019. 
+3. Solomon, R.C. & Flores, F. – A Passion for Justice: Embracing Human Rights, 
+Diversity, and Ethics in the Workplace, 1st Edition, Wiley, 2012. 
+4. Beauchamp, T.L. & Childress, J.F. – Principles of Biomedical Ethics, 7th Edition, 
+Oxford University Press, 2013. 
+5. Singer, P. – Practical Ethics, 3rd Edition, Cambridge University Press, 2011. 
+ 
+ 
+ 
+MTDS6501/MTDC6501 Technical Seminar/Case Study -1 
+ 
+L T P C 
+1 0 0 1 
+ 
+ 
+ 
+SOTL6301 Advanced Data Structures and Algorithms Lab 
+ 
+ 
+L T P C 
+0 0 4 2 
+ 
+Course Description: 
+This laboratory course is designed to provide hands-on experience in implementing, testing, 
+and optimizing advanced data structures and algorithms. Through a series of practical 
+exercises and projects, students will translate theoretical concepts into efficient, real-world 
+code using programming languages such as C++, Java, or Python. 
+Course Objectives: 
+1. To reinforce the theoretical concepts of advanced data structures and algorithms 
+through practical coding exercises. 
+2. To develop the ability to analyze algorithm performance using complexity analysis 
+and benchmarking. 
+3. To enhance coding proficiency and optimization skills. 
+4. To enable students to design and implement complex data-driven solutions. 
+5. To encourage collaborative problem solving and project-based learning in a lab 
+setting. 
+List of Experiments 
+1. Implementation of the following: 
+ Revision of fundamental data structures (arrays, linked lists, stacks, queues) 
+ Analysis and Big-O notation 
+2. Implementation of basic sorting and searching algorithms 
+ Lab activity: performance measurement and benchmarking of simple algorithms 
+3. Illustration of Advanced Tree Structures and Graph Algorithms 
+ Implementation of balanced trees (AVL, Red-Black Trees) 
+4. Illustration of tree-based search and graph traversal algorithms 
+5. Performance analysis and optimization discussions 
+6. Demonstration of Dynamic Programming and Greedy Algorithms 
+A) Implementation of dynamic programming solutions for classic problems (e.g., 
+knapsack, longest common subsequence), 
+B) Exercises comparing dynamic programming and greedy approaches 
+ 
+ 
+ 
+7. Randomized Algorithms and Approximation Techniques 
+ Coding randomized algorithms (e.g., quickselect, random graph generation) 
+ Implementation of heuristic and approximation algorithms 
+8. Lab activity: performance evaluation and variability analysis 
+ Discussion on the robustness of randomized vs. deterministic approaches 
+9. Design and implementation of an end-to-end project integrating advanced data structures, 
+Code profiling, memory management, and optimization techniques 
+10. Collaborative project development and peer review 
+ Final presentation and demonstration of project outcomes 
+ 
+ 
+Course Outcomes 
+After completing the lab, students will be able to: 
+1. Implement advanced data structures (e.g., balanced trees, heaps, graphs) in a 
+programming language. 
+2. Analyze and compare the efficiency of different algorithms using Big-O notation and 
+empirical testing. 
+3. Develop solutions for complex algorithmic problems using dynamic programming, 
+greedy methods, and randomized algorithms. 
+4. Optimize code performance through profiling and iterative improvement. 
+5. Collaborate effectively on programming projects and present their solutions. 
+ 
+ 
+Textbooks & References 
+1. Cormen, T.H., Leiserson, C.E., Rivest, R.L., & Stein, C. – Introduction to Algorithms, 
+3rd Edition, MIT Press, 2009. 
+2. Sedgewick, R. & Wayne, K. – Algorithms, 4th Edition, Addison-Wesley, 2011. 
+3. Goodrich, M.T., Tamassia, R., & Goldwasser, M.H. – Data Structures and 
+Algorithms in Java, 6th Edition, Wiley, 2014. 
+4. Skiena, S.S. – The Algorithm Design Manual, 2nd Edition, Springer, 2008. 
+5. Aho, A.V., Hopcroft, J.E., & Ullman, J.D. – Data Structures and Algorithms, 1st 
+Edition, Addison-Wesley, 1983. 
+ 
+ 
+ 
+MTDL6501 Programming for Data Science Lab 
+ 
+L T P C 
+0 0 4 2 
+Course Description 
+This lab course aims to equip students with essential programming skills and practical 
+experience in data manipulation, analysis, and visualization using modern data science tools. 
+Students will explore real-world datasets, perform statistical operations, build basic models, 
+and communicate insights effectively. 
+Course Objectives 
+1. To develop proficiency in Python programming for data science applications. 
+2. To apply data wrangling, cleaning, and preprocessing techniques. 
+3. To visualize data and uncover insights using popular libraries. 
+4. To explore machine learning basics through practical exercises. 
+5. To foster a hands-on approach to solving data-centric problems. 
+ 
+ 
+Recommended Tools 
+ Programming Language: Python 3.x 
+ IDE: Jupyter Notebook / Google Colab / VS Code 
+o Libraries: Data Handling: pandas, numpy, Visualization: matplotlib, seaborn, 
+plotly, Machine Learning: scikit-learn, Others: statsmodels, scipy, openpyxl, 
+json 
+ 
+ 
+Lab Exercises 
+1. Basic syntax, control structures, functions, and file handling. 
+2. Load, explore, slice, filter, and summarize data using pandas and numpy. 
+3. Handle missing values, duplicates, data types, and outliers; normalize or scale features. 
+4. Perform statistical summaries, correlation analysis, and feature distributions. 
+5. Create bar plots, histograms, heatmaps, pair plots, box plots using matplotlib and 
+seaborn. 
+6. Use datasets from Kaggle or UCI; perform initial cleaning, EDA, and visualization. 
+7. Apply statistical tests, confidence intervals, regression analysis using scipy and 
+statsmodels. 
+8. Implement Linear Regression and K-Nearest Neighbors using scikit-learn. 
+9. Implement classification (Logistic Regression or Decision Trees) and evaluate using 
+accuracy, precision, recall, and confusion matrix. 
+10. Mini- Project: Choose a dataset, perform EDA, build a basic predictive model, visualize 
+results, and document in Jupyter Notebook or presentation. 
+ 
+ 
+ 
+Course Outcomes 
+Upon successful completion of the lab, students will be able to: 
+1. Write efficient Python code for data acquisition, cleaning, and transformation. 
+2. Analyze datasets using descriptive and inferential statistics. 
+3. Visualize data using various charts and plots. 
+4. Build and evaluate basic predictive models. 
+5. Apply Jupyter Notebooks for documenting and presenting data science workflows. 
+ 
+ 
+Textbooks and References 
+1. Joel Grus, Title: Data Science from Scratch: First Principles with Python, 2nd Edition, 
+O'Reilly Media, 2019 
+2. Jake VanderPlas, Python Data Science Handbook: Essential Tools for Working with 
+Data, 1st Edition, O'Reilly Media, 2016. 
+3. Wes McKinney, Python for Data Analysis: Data Wrangling with pandas, NumPy, and 
+IPython, 3rd Edition, O'Reilly Media, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II Semester 
+ 
+ 
+ 
+SOTT6304 Advanced Machine Learning 
+ 
+L T P C 
+2 1 0 3 
+ 
+Course Description: 
+This course covers advanced machine learning (ML) techniques beyond traditional supervised 
+and unsupervised learning. It includes deep learning, ensemble methods, reinforcement 
+learning, probabilistic models, and generative adversarial networks (GANs). The course 
+emphasizes theoretical foundations, algorithmic implementation, and real-world applications. 
+ 
+Course Objectives: 
+1. Understand the principles of advanced ML techniques, including deep learning and 
+reinforcement learning. 
+2. Learn ensemble methods, Bayesian approaches, and probabilistic graphical models. 
+3. Develop skills to implement ML models using modern frameworks such as TensorFlow 
+and PyTorch. 
+4. Explore ethical considerations and interpretability of ML models. 
+5. Apply ML techniques to real-world applications in healthcare, finance, and other 
+domain 
+ 
+Unit 1: Advanced Supervised and Unsupervised Learning 9 Hrs 
+Advanced Decision Trees and Random Forests-Support Vector Machines (SVM) - 
+Optimization and Kernels- Clustering Techniques (Spectral Clustering, DBSCAN, Gaussian 
+Mixture Models)- Anomaly Detection using ML 
+ 
+Unit 2: Deep Learning and Neural Networks 9 Hrs 
+Neural Network Architectures (MLP, CNN, RNN)- Backpropagation and Optimization 
+Techniques (Adam, RMSprop)- Autoencoders and Variational Autoencoders (VAE)- 
+Attention Mechanism and Transformers 
+ 
+Unit 3: Probabilistic and Bayesian Learning 9 Hrs 
+ 
+ 
+ 
+Bayesian Networks and Probabilistic Graphical Models- Hidden Markov Models (HMM) and 
+Gaussian Processes-Markov Chain Monte Carlo (MCMC) Methods- Variational Inference 
+Techniques 
+Unit 4: Reinforcement Learning and Generative Models 9 Hrs 
+Markov Decision Processes (MDP)-Q-Learning and Policy Gradient Methods-Deep 
+Reinforcement Learning (DQN, PPO)-Generative Adversarial Networks (GANs) and 
+Applications. 
+ 
+Unit 5: Advanced Topics and Applications 9 Hrs 
+Fairness and Bias in Machine Learning-Explainable AI (XAI) and Interpretability Techniques- 
+Scalable ML with Big Data (Spark ML, Federated Learning)-ML Applications in Healthcare, 
+Finance, and Autonomous Systems 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Develop and optimize advanced ML models. 
+2. Implement deep learning architectures such as CNNs, RNNs, and GANs. 
+3. Apply reinforcement learning techniques for decision-making problems. 
+4. Analyze large-scale datasets using scalable ML methods. 
+5. Evaluate and interpret ML models for explainability and fairness. 
+ 
+ 
+Textbooks & References 
+1. Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning, MIT Press 
+2. Kevin P. Murphy - Machine Learning: A Probabilistic Perspective, MIT Press 
+3. Sutton & Barto - Reinforcement Learning: An Introduction, MIT Press 
+4. Christopher Bishop - Pattern Recognition and Machine Learning, Springer 
+5. François Chollet - Deep Learning with Python, Manning Publications 
+ 
+ 
+ 
+MTDT6504 Big Data Analytics 
+ 
+L T P C 
+2 1 0 3 
+ 
+Course Description: 
+This course focuses on the fundamental concepts, frameworks, and tools used in big data 
+analytics. It covers the Hadoop ecosystem, distributed computing, real-time data processing, 
+and big data machine learning. The course also explores practical applications in domains like 
+healthcare, finance, and cybersecurity. 
+ 
+Course Objectives: 
+1. Understand the principles of big data storage, processing, and analytics. 
+2. Learn distributed computing frameworks such as Hadoop and Spark. 
+3. Explore real-time big data processing with Apache Kafka and Flink. 
+4. Implement big data machine learning techniques. 
+5. Work with cloud-based big data solutions such as AWS, Azure, and Google Cloud. 
+ 
+ 
+Unit 1: Introduction to Big Data and Distributed Systems 9 Hrs 
+Introduction to Big Data: Characteristics, Challenges, and Applications-Big Data Ecosystem: 
+Overview of Hadoop, Spark, and NoSQL Databases-Distributed File Systems: HDFS, Google 
+File System (GFS)-Parallel Processing: MapReduce Programming Model 
+ 
+Unit 2: Data Storage and Processing Frameworks 9 Hrs 
+Apache Hadoop: HDFS, YARN, and MapReduce- Apache Spark: RDDs, Data Frames, and 
+Spark SQL- NoSQL Databases: MongoDB, Cassandra, HBase- Distributed Data Warehousing: 
+Apache Hive and Impala. 
+ 
+Unit 3: Real-time Data Processing and Streaming Analytics 9 Hrs 
+Real-time Data Processing: Apache Kafka and Apache Flink-Stream Processing Frameworks: 
+Apache Storm, Spark Streaming-Case Studies: Real-time Analytics in Social Media, Finance, 
+and IoT. 
+ 
+ 
+ 
+Unit 4: Machine Learning on Big Data 9 Hrs 
+ML Techniques for Large Datasets: Feature Engineering and Model Training-Scalable ML 
+with Spark MLlib and TensorFlow on Big Data-Deep Learning on Big Data using Horovod 
+and TensorFlowOnSpark 
+Case Studies: Big Data ML Applications in Healthcare and Cybersecurity 
+ 
+ 
+Unit 5: Big Data on Cloud and Ethical Considerations 9 Hrs 
+Cloud-based Big Data Analytics: AWS, Azure, Google Cloud-Serverless Computing for Big 
+Data: AWS Lambda, Azure Functions-Data Privacy and Security in Big Data-Ethical AI and 
+Bias in Big Data Analytics. 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Design scalable big data architectures using Hadoop and Spark. 
+2. Implement MapReduce and Spark programs for large-scale data processing. 
+3. Analyze streaming data using real-time analytics frameworks. 
+4. Develop big data ML models for predictive analytics. 
+5. Evaluate cloud-based big data solutions for different use cases. 
+ 
+ 
+Textbooks & References 
+1. Tom White - Hadoop: The Definitive Guide, O'Reilly Media 
+2. Holden Karau, Andy Konwinski - Learning Spark: Lightning-Fast Data Analytics, 
+O'Reilly 
+3. Bill Chambers, Matei Zaharia - Spark: The Definitive Guide, O'Reilly 
+4. Benjamin Bengfort, Jenny Kim - Data Analytics with Hadoop, O'Reilly 
+5. Avrim Blum, John Hopcroft - Foundations of Data Science, Cambridge University 
+Press 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM ELECTIVE - III 
+ 
+ 
+ 
+MTDT6603a Ethical AI and Decision Making 
+ 
+L T P C 
+3 0 0 3 
+ 
+Course Description: 
+This course explores ethical considerations in artificial intelligence (AI) and data-driven 
+decision-making. It covers fairness, bias, accountability, transparency, and regulatory 
+frameworks in AI systems. The course also examines real-world case studies in AI ethics and 
+responsible AI design. 
+ 
+Course Objectives: 
+1. Understand the ethical challenges in AI and machine learning. 
+2. Analyze biases in datasets and algorithms and mitigate them. 
+3. Explore legal and regulatory frameworks for AI governance. 
+4. Learn decision-making frameworks in AI-driven systems. 
+5. Develop strategies for designing responsible and interpretable AI models. 
+ 
+ 
+Unit 1: Introduction to AI Ethics and Responsible AI 9 Hrs 
+Ethics in AI: Overview and Need for Ethical AI-Key Ethical Principles: Fairness, 
+Accountability, Transparency, and Ethics (FATE)-Case Studies: AI Failures and Ethical 
+Dilemmas. 
+ 
+Unit 2: Bias, Fairness, and Interpretability in AI 9 Hrs 
+Algorithmic Bias: Types and Causes-Techniques for Bias Mitigation in Machine Learning- 
+Explainability and Interpretability in AI Models-Tools for Explainable AI: SHAP, LIME, 
+Model Cards. 
+ 
+Unit 3: Decision-Making in AI and Human-AI Collaboration 9 Hrs 
+Decision-Making Under Uncertainty-AI-Driven Decision Support Systems-Human-in-the- 
+Loop (HITL) AI-Ethical Considerations in Autonomous Systems. 
+ 
+ 
+ 
+Unit 4: AI Regulations, Policies, and Governance 9 Hrs 
+Global AI Regulations: GDPR, AI Act, IEEE Standards-Data Privacy and Protection: 
+Compliance with AI Policies-Ethical Guidelines for AI Development and Deployment-AI 
+Ethics in Industry: Healthcare, Finance, and Autonomous Systems. 
+ 
+Unit 5: Future of Ethical AI and Emerging Trends 9 Hrs 
+AI for Social Good and Ethical AI Frameworks-AI and Sustainability: Green AI and 
+Environmental Impact-AI in Warfare and Surveillance: Ethical Implications-Case Studies on 
+Ethical AI Practices in Industry 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Identify ethical risks and biases in AI systems. 
+2. Apply fairness and accountability principles in AI models. 
+3. Understand global AI regulations and compliance frameworks. 
+4. Develop interpretable and explainable AI solutions. 
+5. Assess ethical implications in real-world AI applications. 
+ 
+ 
+Textbooks & References 
+1. Virginia Eubanks - Automating Inequality, St. Martin’s Press 
+2. Kate Crawford - Atlas of AI, Yale University Press 
+3. Cathy O’Neil - Weapons of Math Destruction, Crown Publishing 
+4. Brian Christian - The Alignment Problem, W.W. Norton & Company 
+5. Markus D. Dubber - The Oxford Handbook of Ethics of AI, Oxford University Press 
+ 
+ 
+ 
+MTDT6603b Time Series Analysis 
+ 
+L T P C 
+3 0 0 3 
+ 
+Course Description: 
+This course explores fundamental and advanced techniques for analyzing time-dependent data. 
+It covers statistical and machine learning approaches for forecasting, anomaly detection, and 
+modeling complex temporal patterns. The course includes hands-on implementation using 
+Python and R. 
+Course Objectives: 
+1. Understand the characteristics and components of time series data. 
+2. Learn classical statistical models such as ARIMA and Exponential Smoothing. 
+3. Apply deep learning techniques for time series forecasting. 
+4. Develop skills for real-world applications like stock market prediction and anomaly 
+detection. 
+5. Implement time series models using Python and R libraries such as Statsmodels, 
+Prophet, and TensorFlow. 
+ 
+Unit 1: Introduction to Time Series Data and Forecasting 9 Hrs 
+Time Series Data: Components, Trends, and Seasonality-Stationarity and Differencing 
+Techniques-Exploratory Data Analysis for Time Series-Time Series Decomposition. 
+ 
+Unit 2: Classical Time Series Models 9 Hrs 
+Autoregressive (AR), Moving Average (MA), and ARMA Models-ARIMA and Seasonal 
+ARIMA (SARIMA) Models-Exponential Smoothing and Holt-Winters Method-Model 
+Evaluation Metrics: RMSE, MAPE, AIC, BIC. 
+ 
+Unit 3: Machine Learning for Time Series 9 Hrs 
+Feature Engineering for Time Series-Regression-based Approaches (Random Forest, 
+XGBoost)-Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU)-Facebook 
+Prophet Model for Forecasting. 
+ 
+Unit 4: Anomaly Detection and Advanced Forecasting 9 Hrs 
+ 
+ 
+ 
+Time Series Anomaly Detection Techniques-Hidden Markov Models (HMM) for Time Series- 
+Variational Autoencoders (VAE) for Anomaly Detection-Transfer Learning for Time Series 
+Forecasting. 
+ 
+Unit 5: Applications and Case Studies 9 Hrs 
+Financial Time Series Analysis: Stock Market and Cryptocurrency Prediction-Healthcare Time 
+Series: Patient Monitoring and Epidemic Forecasting-IoT and Sensor Data Analytics-Real- 
+time Forecasting with Cloud Platforms (AWS, Google Cloud AI). 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Preprocess and analyze time series data. 
+2. Implement traditional and machine learning-based forecasting models. 
+3. Handle seasonality, trends, and noise in time series datasets. 
+4. Evaluate and optimize time series models for accuracy and performance. 
+5. Apply time series analytics to real-world domains like finance, healthcare, and IoT. 
+ 
+ 
+Textbooks & References 
+1. Hyndman, R.J., & Athanasopoulos, G. - Forecasting: Principles and Practice, 3rd 
+Edition, OTexts, 2021. 
+2. Box, G.E.P., Jenkins, G.M., & Reinsel, G.C. - Time Series Analysis: Forecasting and 
+Control, 5th Edition, Wiley, 2015. 
+3. Shumway, R.H., & Stoffer, D.S. - Time Series Analysis and Its Applications, 4th 
+Edition, Springer, 2017. 
+4. Montgomery, D.C., Jennings, C.L., & Kulahci, M. - Introduction to Time Series 
+Analysis and Forecasting, 2nd Edition, Wiley, 2015. 
+5. Goodfellow, I., Bengio, Y., & Courville, A. - Deep Learning, 1st Edition, MIT Press, 
+2016 (For Deep Learning in Time Series). 
+ 
+ 
+ 
+MTDT6603c Text Analytics 
+ 
+L T P C 
+3 0 0 3 
+Course Description: 
+This course covers the fundamental and advanced techniques of text analytics, focusing on 
+natural language processing (NLP), text mining, sentiment analysis, and deep learning models 
+for textual data. It provides hands-on experience with modern NLP tools and frameworks such 
+as NLTK, SpaCy, and Transformer-based models. 
+ 
+Course Objectives: 
+1. Understand the fundamental concepts of text analytics and NLP. 
+2. Learn text preprocessing techniques such as tokenization, stemming, and 
+lemmatization. 
+3. Apply statistical and machine learning models for text classification, topic modeling, 
+and sentiment analysis. 
+4. Implement deep learning-based NLP techniques, including Transformer models. 
+5. Work with real-world applications such as chatbots, recommender systems, and 
+information retrieval. 
+ 
+Unit 1: Introduction to Text Analytics and NLP 9 Hrs 
+Basics of Text Analytics and Natural Language Processing (NLP)-Text Preprocessing: 
+Tokenization, Stopwords Removal, Stemming, Lemmatization-Regular Expressions for Text 
+Processing-Word Embeddings: Word2Vec, GloVe, FastText. 
+ 
+Unit 2: Text Classification and Sentiment Analysis 9 Hrs 
+Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF)-Machine 
+Learning for Text Classification (Naïve Bayes, SVM, Random Forest)-Sentiment Analysis 
+using Lexicon-Based and ML Approaches-Multilingual Text Processing Challenges. 
+ 
+Unit 3: Topic Modeling and Information Retrieval   9 Hrs 
+Latent Semantic Analysis (LSA)-Latent Dirichlet Allocation (LDA)-Named Entity 
+Recognition (NER) and Part-of-Speech (POS) Tagging-Information Retrieval: TF-IDF, BM25, 
+and Search Algorithms 
+ 
+ 
+ 
+ 
+ 
+Unit 4: Deep Learning for Text Analytics 9 Hrs 
+Introduction to Recurrent Neural Networks (RNNs), LSTMs, and GRUs-Transformer Models: 
+BERT, GPT, and T5-Sequence-to-Sequence Models for Machine Translation and Chatbots- 
+Text Summarization and Question Answering Systems 
+ 
+Unit 5: Applications and Advanced Topics 9 Hrs 
+Text Analytics in Healthcare, Finance, and E-Commerce-Fake News Detection and 
+Cybersecurity Applications-Large-Scale Text Processing using Spark NLP-Ethics and Bias in 
+NLP Models. 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Process and analyze textual data efficiently. 
+2. Build and evaluate text classification and sentiment analysis models. 
+3. Implement deep learning models like BERT, GPT, and LSTMs for NLP tasks. 
+4. Develop real-world text analytics applications. 
+5. Integrate NLP techniques with large-scale datasets for meaningful insights. 
+ 
+ 
+Textbooks & References 
+1. Jurafsky, D., & Martin, J.H. - Speech and Language Processing, 3rd Edition (Draft), 
+Pearson, 2021. 
+2. Bird, S., Klein, E., & Loper, E. - Natural Language Processing with Python, 1st 
+Edition, O'Reilly Media, 2009. 
+3. Manning, C.D., Raghavan, P., & Schütze, H. - Introduction to Information Retrieval, 
+1st Edition, Cambridge University Press, 2008. 
+4. Vaswani, A., et al. - Attention Is All You Need (Research Paper on Transformers), 2017. 
+5. O'Reilly Team - Practical Natural Language Processing: A Comprehensive Guide to 
+Building Real-World NLP Systems, 1st Edition, O'Reilly, 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM ELECTIVE - IV 
+ 
+ 
+ 
+MTDT6604a Predictive and Prescriptive Analytics 
+ 
+L T P C 
+3 0 0 3 
+ 
+Course Description: 
+This course covers predictive modeling techniques and prescriptive analytics to support data- 
+driven decision-making. It focuses on statistical approaches, machine learning, and 
+optimization techniques to extract insights and make actionable recommendations. 
+Course Objectives: 
+1. Understand the principles of predictive analytics and prescriptive analytics. 
+2. Learn regression-based, machine learning, and deep learning techniques for predictive 
+modeling. 
+3. Explore decision optimization and simulation methods for prescriptive analytics. 
+4. Apply advanced forecasting techniques for business and industry applications. 
+5. Implement predictive and prescriptive models using Python and R. 
+ 
+ 
+Unit 1: Introduction to Predictive and Prescriptive Analytics 9 Hrs 
+Overview of Predictive and Prescriptive Analytics-Importance of Predictive Modeling in 
+Business and Industry-Machine Learning for Predictive Analytics-Decision Science and 
+Optimization in Prescriptive Analytics. 
+ 
+Unit 2: Predictive Analytics Techniques 9 Hrs 
+Regression Analysis (Linear, Logistic, Ridge, Lasso)-Decision Trees, Random Forest, and 
+Gradient Boosting (XGBoost, LightGBM)-Time Series Forecasting with ARIMA, SARIMA, 
+and Prophet-Deep Learning for Predictive Analytics (LSTMs, CNNs). 
+ 
+Unit 3: Prescriptive Analytics and Decision Optimization 9 Hrs 
+Decision Analysis: Linear Programming, Integer Programming-Heuristic and Metaheuristic 
+Optimization (Genetic Algorithms, Simulated Annealing)-Monte Carlo Simulation for Risk 
+Analysis-Reinforcement Learning for Decision Optimization 
+ 
+ 
+ 
+Unit 4: Applications of Predictive and Prescriptive Analytics 9 Hrs 
+Predictive Maintenance in Manufacturing and IoT-Customer Segmentation and Churn 
+Prediction in Marketing-Supply Chain Optimization and Demand Forecasting-Healthcare 
+Analytics: Disease Prediction and Treatment Optimization. 
+ 
+Unit 5: Tools and Ethical Considerations 9 Hrs 
+Implementation using Python (Scikit-learn, TensorFlow, PyTorch) and R-Cloud-based 
+Predictive Analytics Platforms (AWS SageMaker, Google Vertex AI, Azure ML)-Ethical 
+Considerations in Predictive and Prescriptive Analytics. 
+Case Studies on Predictive and Prescriptive Analytics in Real-World Applications 
+ 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Build and evaluate predictive models for forecasting and classification. 
+2. Optimize decision-making using prescriptive analytics techniques. 
+3. Apply Monte Carlo simulation and reinforcement learning in real-world scenarios. 
+4. Develop prescriptive models for strategic decision-making. 
+5. Use analytics tools like Python, R, and cloud-based AI services for predictive and 
+prescriptive analytics. 
+ 
+Textbooks & References 
+1. Eric Siegel - Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or 
+Die, 2nd Edition, Wiley, 2016. 
+2. James, G., Witten, D., Hastie, T., & Tibshirani, R. - An Introduction to Statistical 
+Learning, 2nd Edition, Springer, 2021. 
+3. Trevor Hastie, Robert Tibshirani, & Jerome Friedman - The Elements of Statistical 
+Learning, 2nd Edition, Springer, 2009. 
+4. Dorian Pyle - Data Preparation for Data Mining, 1st Edition, Morgan Kaufmann, 1999. 
+5. Dimitris Bertsimas & John Tsitsiklis - Introduction to Linear Optimization, 1st Edition, 
+Athena Scientific, 1997. 
+ 
+ 
+ 
+MTDT6604b Edge AI and IoT Analytics 
+ 
+L T P C 
+3 0 0 3 
+Course Description: 
+This course explores the integration of artificial intelligence (AI) and analytics with the Internet 
+of Things (IoT), focusing on Edge AI, real-time data processing, and low-latency AI models. 
+It covers distributed computing frameworks, hardware acceleration, and industry applications 
+in smart cities, healthcare, and industrial automation. 
+ 
+Course Objectives: 
+1. Understand the fundamentals of IoT data generation, collection, and processing. 
+2. Learn Edge AI frameworks and their role in low-latency analytics. 
+3. Explore lightweight deep learning models for edge devices. 
+4. Implement real-time IoT data analytics and decision-making. 
+5. Develop scalable IoT solutions using cloud-edge hybrid architectures. 
+ 
+ 
+Unit 1: Introduction to IoT and Edge AI 9 Hrs 
+Fundamentals of IoT: Architecture, Sensors, and Communication Protocols-Overview of Edge 
+Computing and Edge AI-Edge vs. Cloud AI: Trade-offs and Challenges-IoT Data Lifecycle: 
+Collection, Storage, and Processing. 
+ 
+Unit 2: AI for IoT Analytics 9 Hrs 
+Machine Learning and Deep Learning for IoT Data-TinyML and Lightweight AI Models 
+(MobileNet, SqueezeNet)-Federated Learning for Distributed IoT Devices-Case Study: 
+Predictive Maintenance in Industrial IoT. 
+ 
+Unit 3: Edge AI Hardware and Frameworks 9 Hrs 
+Edge AI Hardware: NVIDIA Jetson, Google Coral, Intel Movidius-Edge AI Frameworks: 
+TensorFlow Lite, ONNX Runtime, OpenVINO-Optimization Techniques for Edge AI Models 
+(Quantization, Pruning, Distillation). 
+Case Study: AI-powered Smart Surveillance Systems 
+ 
+ 
+ 
+Unit 4: Real-time Data Processing and Security in IoT 9 Hrs 
+Streaming Data Analytics with Apache Kafka and Apache Flink-Secure Data Transmission in 
+IoT Networks-Blockchain for IoT Security and Privacy-Case Study: Healthcare Monitoring 
+with Wearable IoT Devices 
+ 
+Unit 5: Edge-to-Cloud Integration and Industry Applications 9 Hrs 
+ 
+Hybrid Edge-Cloud AI Architectures-Serverless Computing for IoT (AWS Lambda, Azure 
+Functions)-IoT Applications in Smart Cities, Transportation, and Retail-Ethical AI and Privacy 
+Concerns in IoT Analytics. 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Design and implement AI models optimized for edge devices. 
+2. Process real-time sensor data using Edge AI frameworks. 
+3. Deploy lightweight deep learning models on IoT devices. 
+4. Integrate cloud and edge computing for scalable IoT analytics. 
+5. Apply Edge AI to real-world applications like smart homes, healthcare monitoring, and 
+predictive maintenance. 
+ 
+Textbooks & References 
+1. Amita Kapoor - Hands-On Artificial Intelligence for IoT, 1st Edition, Packt Publishing, 
+2019. 
+2. Pethuru Raj, Anupama C. Raman - The Internet of Things: Enabling Technologies, 
+Platforms, and Use Cases, 1st Edition, CRC Press, 2017. 
+3. Joseph Barry, David Williston, Junhang Shi - Edge AI: Deep Learning on Embedded 
+Systems, 1st Edition, O'Reilly Media, 2022. 
+4. Shyam Varan Nath, Ann Dunkin, Mahesh Chowdhary - Industrial Digital 
+Transformation: Accelerate Digitalization with Business Automation, AI, and Data 
+Analytics, 1st Edition, Packt Publishing, 2021. 
+5. Mingon Kang, Taehyun Kim - Machine Learning for the Internet of Things, 1st Edition, 
+Springer, 2022. 
+ 
+ 
+ 
+MTDT6604c Data Privacy and Security 
+ 
+L T P C 
+3 0 0 3 
+Course Description: 
+This course provides an in-depth understanding of data privacy, security, and compliance in 
+the digital age. It covers cryptographic techniques, privacy-preserving machine learning, 
+regulatory frameworks, and ethical considerations in data protection. Students will gain 
+practical experience in securing data systems and implementing privacy-enhancing 
+technologies. 
+ 
+Course Objectives: 
+1. Understand fundamental principles of data privacy and security. 
+2. Learn cryptographic methods for securing data. 
+3. Explore privacy-preserving techniques for machine learning and big data. 
+4. Analyze global data protection laws such as GDPR, CCPA, and HIPAA. 
+5. Implement secure data storage, transmission, and access control mechanisms. 
+ 
+ 
+Unit 1: Fundamentals of Data Privacy and Security 9 Hrs 
+Introduction to Data Security and Privacy Concepts-Data Threats: Cyber Attacks, Data 
+Breaches, and Ransomware-Security Models: Confidentiality, Integrity, and Availability 
+(CIA)-Privacy by Design and Default. 
+ 
+Unit 2: Cryptographic Techniques for Data Security 10 Hrs 
+Symmetric and Asymmetric Encryption (AES, RSA, ECC)-Hashing and Digital Signatures 
+(SHA,  MD5)-Homomorphic  Encryption  for  Secure  Computation-Secure  Multi-Party 
+Computation (SMPC). 
+ 
+Unit 3: Privacy-Preserving Data Analytics 8 Hrs 
+Differential Privacy and Noise Injection-Federated Learning for Secure AI Training-Zero- 
+Knowledge Proofs and Secure Data Sharing. 
+Case Study: Privacy in Healthcare and Financial Data 
+ 
+ 
+ 
+Unit 4: Legal, Ethical, and Compliance Aspects 9 Hrs 
+Global Data Protection Regulations (GDPR, CCPA, HIPAA)-Data Governance and Ethical AI 
+Practices-Risk Management and Compliance Audits 
+Case Study: Data Privacy Challenges in Cloud Computing 
+ 
+ 
+Unit 5: Emerging Trends in Data Privacy and Security 9 Hrs 
+Blockchain for Secure Data Transactions-AI-driven Threat Detection and Cybersecurity 
+Analytics-Quantum Cryptography and Post-Quantum Security-Future Challenges in Privacy 
+and Data Protection 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Identify vulnerabilities and risks in data systems. 
+2. Implement cryptographic techniques for data security. 
+3. Apply privacy-preserving AI techniques like differential privacy and federated 
+learning. 
+4. Comply with legal and ethical standards for data protection. 
+5. Secure data infrastructures in cloud, IoT, and enterprise environments. 
+ 
+ 
+Textbooks & References 
+1. Bruce Schneier - Applied Cryptography: Protocols, Algorithms, and Source Code in 
+C, 20th Anniversary Edition, Wiley, 2015. 
+2. Joseph Migga Kizza - Guide to Computer Network Security, 4th Edition, Springer, 
+2020. 
+3. Mike Chapple, James Michael Stewart, Darril Gibson - CISSP (ISC)² Certified 
+Information Systems Security Professional Official Study Guide, 9th Edition, Wiley, 
+2021. 
+4. Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, & Steven 
+Goldfeder - Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction, 
+1st Edition, Princeton University Press, 2016. 
+5. O’Reilly Team - Data Privacy: A Runbook for Engineers, 1st Edition, O’Reilly Media, 
+2021. 
+ 
+ 
+ 
+SOTT6305 ENGLISH FOR RESEARCH PAPER WRITING 
+(Audit Course- II) 
+ 
+L T P C 
+2 0 0 0 
+ 
+Course Description 
+This course is designed to help postgraduate students develop essential academic and 
+technical writing skills for effective communication of research. It focuses on the structure and 
+style of scientific writing, including clarity, conciseness, coherence, and correctness. Students 
+will learn how to plan, draft, revise, and finalize various components of a research paper such 
+as abstracts, introductions, literature reviews, methods, results, and conclusions. Emphasis is 
+placed on ethical writing practices, including proper citation and avoiding plagiarism, 
+ultimately guiding students to produce publication-ready manuscripts. 
+ 
+Course Objectives 
+By the end of this course, students will be able to: 
+1. Understand the principles of academic and technical writing specific to research papers. 
+2. Learn to structure sentences, paragraphs, and sections to achieve clarity and logical 
+flow. 
+3. Develop skills to write major components of research papers including abstract, 
+introduction, and conclusion. 
+4. Apply ethical writing practices such as paraphrasing, referencing, and avoiding 
+plagiarism. 
+5. Enhance their ability to revise and polish manuscripts for effective journal submission. 
+ 
+ 
+Unit -1 6 Hrs 
+Planning and Preparation, Word Order, Breaking up long sentences, Structuring Paragraphs 
+and Sentences, Being Concise and Removing, Redundancy, Avoiding Ambiguity and 
+Vagueness 
+ 
+Unit -2 5 Hrs 
+Clarifying Who Did What, Highlighting Your Findings, Hedging and Criticising, Paraphrasing 
+and Plagiarism, Sections of a Paper, Abstracts. 
+ 
+ 
+ 
+Unit -3 8 Hrs 
+Review of the Literature, Methods, Results, Discussion, Conclusions, The Final Check. key 
+skills are needed when writing a Title, key skills are needed when writing an Abstract, key 
+skills are needed when writing an Introduction, skills needed when writing a Review of the 
+Literature, 
+ 
+Unit -4 7 Hrs 
+Skills are needed when writing the Methods, skills needed when writing the Results, skills are 
+needed when writing the Discussion, skills are needed when writing the Conclusions 
+ 
+Unit -5 4 Hrs 
+Useful phrases, how to ensure paper is as good as it could possibly be the first- time submission. 
+ 
+ 
+Course Outcomes 
+After successful completion of the course, students will be able to: 
+1. Demonstrate the ability to write clearly, concisely, and precisely in academic English. 
+2. Structure research papers according to scientific conventions with logical flow and 
+coherence. 
+3. Write each section of a research paper using appropriate academic style and tone. 
+4. Avoid redundancy, ambiguity, and plagiarism using effective paraphrasing and 
+referencing techniques. 
+5. Prepare a complete, well-written technical or scientific manuscript ready for 
+submission to academic journals. 
+ 
+Text Books and References 
+1. Goldbort R (2006) Writing for Science, Yale University Press. 
+2. 2. Day R (2006) How to Write and Publish a Scientific Paper, Cambridge University 
+Press. 
+3. 3. Highman N (1998), Handbook of Writing for the Mathematical Sciences, SIAM. 
+Highman’sbook. 
+4. 4. Adrian Wallwork, English for Writing Research Papers, Springer New York 
+Dordrecht Heidelberg London, 2011 
+ 
+ 
+ 
+SOTL6302 Advanced Machine Learning Lab 
+ 
+L T P C 
+0 0 4 2 
+ 
+Course Description: 
+This lab course provides hands-on experience with advanced machine learning techniques, 
+focusing on deep learning, generative models, and scalable ML frameworks. Students will 
+implement models using TensorFlow, PyTorch, and cloud-based AI services, applying them to 
+real-world datasets in image processing, NLP, and time series forecasting. 
+ 
+Course Objectives: 
+1. Implement advanced machine learning models using Python and ML libraries. 
+2. Explore deep learning architectures such as CNNs, RNNs, and Transformers. 
+3. Work with generative models like GANs and VAEs. 
+4. Optimize ML models using hyperparameter tuning and transfer learning. 
+5. Deploy machine learning models on cloud and edge platforms. 
+ 
+ 
+Recommended Tools for Advanced Machine Learning Lab 
+Programming Languages & IDEs 
+ Python 3.x – Primary language for ML and deep learning 
+ Jupyter Notebook – Interactive development environment 
+ Google Colab – Cloud-based notebook with free GPU/TPU access 
+ PyCharm – IDE for Python development 
+Deep Learning Frameworks 
+ TensorFlow 2.x – Deep learning library for training and deploying ML models 
+ PyTorch – Flexible deep learning framework 
+ Keras – High-level API for building deep learning models 
+ ONNX (Open Neural Network Exchange) – Model format for interoperability 
+Machine Learning & Optimization 
+ Scikit-learn – Library for machine learning algorithms 
+ XGBoost / LightGBM – Gradient boosting libraries 
+ Optuna / Hyperopt – Hyperparameter optimization frameworks 
+NLP & Computer Vision 
+ 
+ 
+ 
+ NLTK / spaCy – Libraries for NLP processing 
+ Transformers (Hugging Face) – Pretrained models for NLP tasks 
+ OpenCV – Computer vision and image processing library 
+Data Processing & Visualization 
+ Pandas / NumPy – Data manipulation libraries 
+ Matplotlib / Seaborn / Plotly – Data visualization tools 
+Cloud & Edge AI Deployment 
+ AWS SageMaker / Google Vertex AI / Azure ML – Cloud ML services 
+ TensorFlow Lite / OpenVINO – Optimizing ML models for edge deployment 
+ 
+ 
+List of Experiments 
+1: Introduction to Advanced Machine Learning Libraries 
+ Working with TensorFlow and PyTorch 
+ Model building, training, and evaluation basics 
+2: Deep Learning for Image Processing 
+ Implementing Convolutional Neural Networks (CNNs) 
+ Transfer Learning with Pretrained Models (ResNet, VGG, EfficientNet) 
+3: Recurrent Neural Networks and Time Series Analysis 
+ Implementing RNNs, LSTMs, and GRUs for sequence data 
+ Forecasting with Transformer-based models (TFT, BERT for Time Series) 
+4: Natural Language Processing with Deep Learning 
+ Training custom word embeddings (Word2Vec, FastText) 
+ Implementing Transformer-based models (BERT, GPT) 
+5: Generative Models and Unsupervised Learning 
+ Implementing Variational Autoencoders (VAEs) 
+ Training Generative Adversarial Networks (GANs) 
+6: Hyperparameter Optimization and Model Fine-Tuning 
+ Grid search, Bayesian optimization, and automated ML (AutoML) 
+ Experimenting with dropout, batch normalization, and learning rate scheduling 
+7: Scalable Machine Learning with Big Data 
+ Training ML models on Apache Spark (MLlib) 
+ Using distributed computing frameworks for large-scale AI 
+8: Deploying ML Models on Cloud and Edge Devices 
+ ML model deployment using AWS SageMaker, Google Vertex AI, and Azure ML 
+ 
+ 
+ 
+ Optimizing models for edge deployment (TensorFlow Lite, OpenVINO) 
+9: Explainable AI and Model Interpretability 
+ Visualizing and interpreting ML models (SHAP, LIME) 
+ Analyzing bias and fairness in AI models 
+10: Case Study and Project Implementation 
+ Students work on a real-world project integrating various ML techniques 
+ 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Develop and train deep learning models for structured and unstructured data. 
+2. Implement generative models for synthetic data generation. 
+3. Optimize and fine-tune models for performance and efficiency. 
+4. Deploy ML models in cloud and IoT environments. 
+5. Work with scalable ML frameworks for big data processing. 
+ 
+ 
+Textbooks & References 
+1. Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning, 1st Edition, MIT 
+Press, 2016. 
+2. François Chollet - Deep Learning with Python, 2nd Edition, Manning Publications, 
+2021. 
+3. Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and 
+TensorFlow, 3rd Edition, O'Reilly Media, 2022. 
+4. Sebastian Raschka, Vahid Mirjalili - Python Machine Learning, 3rd Edition, Packt 
+Publishing, 2019. 
+5. Zahid Hossain, Scott Haines - Scalable Machine Learning with Spark, 1st Edition, 
+O’Reilly Media, 2023. 
+ 
+ 
+ 
+MTDL6502 Big Data Analytics Lab 
+ 
+L T P C 
+0 0 4 2 
+ 
+Course Description: 
+This lab course provides hands-on experience with big data processing, storage, and analytics 
+using frameworks like Hadoop, Spark, and cloud-based solutions. Students will work with 
+large datasets, explore distributed computing, and implement machine learning models at scale. 
+Course Objectives: 
+1. Understand big data frameworks and processing techniques. 
+ 
+2. Implement distributed computing using Hadoop and Spark. 
+ 
+3. Work with NoSQL databases for big data storage. 
+ 
+4. Develop scalable machine learning models using big data tools. 
+ 
+5. Deploy big data applications in cloud environments. 
+ 
+Recommended Tools: 
+Big Data Frameworks 
+ Apache Hadoop – Distributed storage and processing framework 
+ 
+ Apache Spark – Fast big data processing and analytics engine 
+ Apache Flink – Stream processing framework 
+Data Storage & NoSQL Databases 
+ HDFS (Hadoop Distributed File System) – Big data storage 
+ 
+ MongoDB / Cassandra / HBase – NoSQL databases for large-scale data 
+storage 
+Distributed Computing & Stream Processing 
+ Apache Kafka – Real-time data streaming platform 
+ Apache Storm / Flink – Real-time analytics processing 
+Cloud-Based Big Data Services 
+ AWS EMR / Google BigQuery / Azure HDInsight – Managed cloud big 
+data services 
+ 
+ 
+ Databricks – Unified analytics platform for big data and AI 
+Graph Analytics 
+ Neo4j – Graph database for network analytics 
+ Apache Giraph – Graph processing on big data 
+Security & Privacy Tools 
+ Apache Ranger – Security and access control for big data 
+ 
+ Apache Knox – Securing Hadoop clusters 
+ 
+ 
+List of Experiments 
+1: Introduction to Big Data and Hadoop Ecosystem 
+ Setting up a Hadoop cluster 
+ 
+ Working with HDFS (Hadoop Distributed File System) 
+ 
+2: Batch Processing with MapReduce 
+ Implementing MapReduce programs in Java/Python 
+ 
+ Analyzing large-scale datasets using MapReduce 
+ 
+3: Apache Spark for Distributed Data Processing 
+ Setting up Spark and running applications 
+ 
+ RDDs (Resilient Distributed Datasets) and DataFrames 
+ 
+4: Real-Time Stream Processing with Apache Kafka and Spark Streaming 
+ Streaming data ingestion with Kafka 
+ 
+ Real-time analytics with Spark Streaming 
+ 
+5: NoSQL Databases for Big Data Storage 
+ Working with MongoDB, Cassandra, and HBase 
+ 
+ Querying and analyzing big data in NoSQL databases 
+ 
+6: Scalable Machine Learning with MLlib and Spark 
+ Training ML models on large datasets using Spark MLlib 
+ 
+ Hyperparameter tuning and model optimization 
+ 
+ 
+ 
+7: Cloud-Based Big Data Analytics 
+ Using AWS EMR, Google BigQuery, and Azure HDInsight 
+ 
+ Running analytics on cloud-based data lakes 
+ 
+8: Graph Analytics with Apache Giraph and Neo4j 
+ Implementing graph-based data analytics 
+ 
+ Real-world applications in social networks and fraud detection 
+ 
+9: Big Data Security and Privacy 
+ Implementing access control and encryption in Hadoop and Spark 
+ 
+ Data anonymization and privacy-preserving analytics 
+ 
+10: Minor Project on Big Data Analytics 
+ Students work on an end-to-end big data analytics project 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Set up and configure big data frameworks like Hadoop and Spark. 
+2. Process large datasets using distributed computing. 
+3. Implement big data storage solutions using NoSQL databases. 
+4. Train and deploy machine learning models on big data platforms. 
+5. Work with cloud-based big data services. 
+ 
+ 
+Textbooks & References 
+1. Tom White - Hadoop: The Definitive Guide, 4th Edition, O'Reilly Media, 2015. 
+ 
+2. Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia - Learning 
+Spark: Lightning-Fast Data Analytics, 2nd Edition, O’Reilly Media, 2020. 
+3. Benjamin Bengfort, Jenny Kim - Data Analytics with Hadoop: An Introduction for 
+Data Scientists, 1st Edition, O’Reilly Media, 2016. 
+4. Bill Chambers, Matei Zaharia - Spark: The Definitive Guide, 1st Edition, O’Reilly 
+Media, 2018. 
+5. Pramod J. Sadalage, Martin Fowler - NoSQL Distilled: A Brief Guide to the 
+Emerging World of Polyglot Persistence, 1st Edition, Addison-Wesley, 2013. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III SEMESTER 
+ 
+ 
+ 
+ 
+ 
+MTDM7501 MOOC-1 
+ 
+L T P C 
+3 0 0 3 
+ 
+ 
+ 
+MTDM7502 MOOC-2 
+ 
+L T P C 
+3 0 0 3 
+ 
+ 
+ 
+MTDP7501 Dissertation I / Industrial Project 
+ 
+L T P C 
+3 0 0 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IV SEMESTER 
+ 
+ 
+ 
+MTDP7502 Dissertation Phase II 
+ 
+L T P C 
+0 0 32 16 
+ 

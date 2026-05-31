@@ -1,0 +1,3179 @@
+ 
+ 
+M. Tech.  Computer Science and Engineering  
+Under Regulations- (R-2025) 
+(w.e.f. 2025-26 admitted batch) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Structure and Syllabi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE APOLLO UNIVERSITY 
+MURUKAMBATTU - CHITTOOR (Dt) 517127 
+ANDHRA PRADESH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM OUTCOMES (PO) 
+PO 1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering 
+fundamentals, and an engineering specialisation for the solution of complex engineering 
+problems. 
+ 
+PO 2: Problem analysis: Identify, formulate, research literature, and analyse complex 
+engineering problems reaching substantiated conclusions using first principles of mathematics, 
+natural sciences, and engineering sciences. 
+ 
+PO 3: Design/Development of Solutions: Design solutions for complex engineering problems 
+and design system components or processes that meet the specified needs with appropriate 
+consideration for public health and safety, and cultural, societal, and environmental 
+considerations. 
+ 
+PO 4: Conduct investigations of complex problems: Use research-based knowledge and 
+research methods including design of experiments, analysis and interpretation of data, and 
+synthesis of the information to provide valid conclusions. 
+ 
+PO 5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and 
+modern engineering and IT tools including prediction and modelling to complex engineering 
+activities with an understanding of the limitations. 
+ 
+PO 6: The engineer and society: Apply reasoning informed by the contextual knowledge to 
+assess societal, health, safety, legal, and cultural issues and the consequent responsibilities 
+relevant to the professional engineering practice. 
+ 
+PO 7: Environment and sustainability: Understand the impact of the professional engineering 
+solutions in societal and environmental contexts, and demonstrate the knowledge of, and the 
+need for sustainable development. 
+ 
+PO 8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities 
+and norms of the engineering practice. 
+ 
+ 
+ 
+PO 9: Individual and team work: Function effectively as an individual, and as a member or 
+leader in diverse teams, and in multidisciplinary settings. 
+ 
+PO 10: Communication: Communicate effectively on complex engineering activities with the 
+engineering community and with the society at large, such as being able to comprehend and 
+write effective reports and design documentation, make effective presentations, and give and 
+receive clear instructions. 
+ 
+PO 11: Project management and finance: Demonstrate knowledge and understanding of the 
+engineering and management principles and apply these to one’s work, as a member and leader 
+in a team, to manage projects and in multidisciplinary environments. 
+ 
+PO 12: Life-long learning: Recognise the need for, and have the preparation and ability to 
+engage in independent and life-long learning in the broadest context of technological change. 
+ 
+ 
+ 
+  
+ 
+ 
+PROGRAM EDUCATIONAL OBJECTIVES (PEO): 
+PEO1: Advanced Knowledge Application: Graduates will demonstrate advanced knowledge 
+in computer science theories, algorithms, and practices to solve complex real-world problems 
+in various industries such as software development, research, and systems engineering. 
+ 
+PEO2: Leadership and Innovation: Graduates will exhibit leadership qualities and the ability 
+to work collaboratively in interdisciplinary teams, fostering innovation in emerging 
+technologies like AI, machine learning, data science, and cybersecurity. 
+ 
+PEO3: Ethical and Societal Responsibility: Graduates will approach computing challenges 
+with ethical considerations and contribute to the societal good by creating technologies that are 
+secure, inclusive, and environmentally sustainable. 
+ 
+PROGRAM SPECIFIC OUTCOMES (PSO): 
+After successful completion of the program the graduates will be able to: 
+PSO 1: Software Development Proficiency: Graduates will possess the ability to design, 
+develop, and deploy sophisticated software solutions, leveraging state-of-the-art development 
+tools, methodologies, and technologies. 
+ 
+PSO2: Research and Analytical Skills: Graduates will be able to conduct independent 
+research, critically evaluate existing technologies, and contribute to the advancement of the 
+field through innovative problem-solving techniques and technical publications. 
+ 
+PSO3: System Design and Optimization: Graduates will be skilled in the design, 
+optimization, and evaluation of computer systems, with an emphasis on high performance, 
+scalability, and security, ensuring that they meet both functional and non-functional 
+requirements in diverse contexts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE APOLLO UNIVERSITY 
+ACADEMIC REGULATIONS 
+SCOPE: 
+This Academic regulation provide a framework for the regulatory guidelines of all programs 
+offered by The Apollo University. It includes procedures and practices that are to be 
+followed to ensure academic standards in the University. The regulations are approved by the 
+Academic Council. These regulations may be amended from time to time with the approval of 
+the Academic council for the benefit of students or some times to reflect the changes suggested 
+by the statutory bodies.  
+Information regarding amendments (if any) to the regulations will be communicated to the 
+students by publishing in the University website. Students must follow the amended regulations 
+as they might impact the process for the award of degree. The decision of the Vice Chancellor 
+shall be the final in case of any discrepancy. These regulations apply to all students, despite 
+the program of study. 
+ 
+1. ADMISSION INTO THE PROGRAM 
+The University admits the students in two modes. One through the convenor quota as per the 
+Andhra Pradesh Private Universities Act, for which the admissions will be carried out through 
+the convener quota by the Govt of Andhra Pradesh. The other is through University quota for 
+which the following procedure will be followed: 
+A. The applicant shall satisfy the entrance requirements specified by The Apollo 
+University and in accordance with guidelines of statutory councils for Under
+graduation.  
+B. The Applicant shall be qualified in the qualifying examination for a particular program. 
+C. The Applicant secures a rank in national level entrance exam or suitable such test 
+conducted by The Apollo University / professional body.  
+D. The Applicant qualifies in the specified state or national level examinations prescribed 
+by The Apollo University. 
+ 
+The Apollo University will widely notify the counselling schedule for admissions into the 
+academic programs in the media. The provisional admission will be given to the eligible 
+students during the counseling scheduled by The Apollo University. The selected candidates 
+will be provisionally admitted into the program of his/her choice if the candidate meets 
+ 
+ 
+the program specific requirements in addition to academic performance qualifying 
+exam. Admission is purely based on merit and so merely meeting the requirements will not 
+ensure admission. The University does not discriminate based on gender, race, region, religion, 
+disability or nationality.   The University reserves the right to make admissions based on 
+various criteria which is specified in the admission brochure.   
+ 
+2. ELIGIBILITY CRITERIA 
+Undergraduate programs  
+The qualifying exam eligibility for each program is given Annexure 1. The student 
+should have passed the qualifying exam either in the year the student is seeking 
+admission or the previous year.  
+Convener Quota: The student seeking admission to any program under convener quota 
+shall qualify in the relevant entrance exam conducted by the Government of Andhra 
+Pradesh. 
+University Quota:  For getting admission under University quota, percentage of marks 
+obtained in the qualifying exam, the rank obtained in TAU entrance exam or any 
+recognized national level examination in the year of admission will be considered.  
+ 
+Counselling 
+All the eligible students need to apply for admission and have to attend counselling 
+conducted by TAU as per the schedule for the university quo 
+ 
+3. PROGRAMS 
+The Apollo University offers variety of programs which includes certificate, undergraduate, 
+postgraduate, and Research.  The list of programs on offer for the academic year 2022-23 are 
+annexed in Annexure 2 and those of 2023-24 are annexed in Annexure 3. 
+Minimum duration of the program 
+The minimum duration of each program depends on the type of program, viz., undergraduate, 
+postgraduate, integrated programs, etc., and the faculty which offers the program. The 
+maximum duration of the program is N+2 years, where N stands for the minimum duration of 
+the program as mentioned in Annexure 2 and 3. If the student has not obtained the minimum 
+number of credits within the stipulated time, the Vice-Chancellor may extend the maximum 
+duration in extenuating circumstances upon receiving a request along with reasons from the 
+student for not completing the program on time. 
+ 
+ 
+ 
+4. CHOICE BASED CREDIT SYSTEM 
+The choice-based credit system (CBCS) facilitates the education student-centric. It provides 
+the opportunity for the learner to choose the courses from a basket of core, elective, and skill 
+enhanced courses. All programs of study are designed to meet the specified number of credit 
+requirements. The courses taken by the student in each semester as part of program are allotted 
+some credit points based on the number of hours assigned. Upon successful completion of the 
+course, the student secures the number of credits allotted for that course. Once the minimum 
+number of credits of the program is achieved, the degree can be awarded, subject to fulfilment 
+of all other relevant conditions. 
+ 
+5. STRUCTURE OF THE PROGRAM 
+The Program structure Consists of 
+i) University Courses 
+ A. University Core 
+ B. University Electives 
+ii) Faculty Courses 
+ A. Faculty Core 
+ B. Faculty Electives  
+iii) Program Courses 
+ A. Program Core 
+ B. Program electives  
+Each course* is assigned a certain number of credits depending upon the number of contact 
+hours (lectures/tutorials/practical) per week.  (*one course means one subject) 
+Core Courses = 3 Credits /4 Credits   Elective =3 Credits 
+In general, credits are assigned to the courses as detailed below: 
+• A classroom lecture/ tutorial of 60 min (1 hr) duration per week, spread over the 
+entire semester, shall be considered as one credit.  
+• A laboratory session of minimum of 120 min (2 hr) per week shall be considered as 
+one credit.  
+• A project work/ Internship session of 60 minutes (1 hr) carried out per week shall 
+be considered as one credit. 
+6. MEDIUM OF INSTRUCTION 
+The medium of instruction (including examinations and project reports) shall be English. 
+ 
+ 
+ 
+7. REGISTRATION 
+Any of the following students must register for the courses opted in a particular semester during 
+the scheduled registration period.  
+i. a new student who enrolls into any program  
+ii. an existing student who is continuing on rolls from the preceding regular semester  
+iii. a former student, i.e., who has not enrolled in the preceding regular semester or who 
+has availed academic break or detained and got readmission  
+ 
+Each newly admitted student shall attend an induction/ orientation program prior to 
+commencement of the first semester. During this program academic advisors assist the 
+students in choosing the courses. Existing student may register online by using their 
+registration number and mail ID through the Apollo ERP portal. Class schedules are 
+available approximately two weeks before the beginning of every semester for each program. 
+The concerned head of the department must approve class schedule.   
+ 
+8. ATTENDANCE REQUIREMENTS 
+• Students should earn a minimum of 80% attendance in the current semester to become 
+eligible to write the Semester End Examinations. 
+• The monthly statement of attendance will be displayed on the Department Notice Board/ 
+Apollo ERP by the respective departments within the first five working days of the 
+following month. 
+• Candidates who are falling short of 80% attendance will be detained on the 
+recommendation of the HoD and are not eligible to appear for the current semester 
+examinations. The students who are detained in the current semester will not be allowed to 
+register for the next semester and they have to repeat the same semester by paying the 
+tuition fee prescribed. However, they can write arrear subjects, if any.  
+9. EVALUATION 
+The assessment of the student’s performance in a Theory course shall be based on two 
+components: Continuous Evaluation (40 marks) and Semester-end examination (60 marks). 
+A student has to secure an aggregate of 40% in the course in the two components put together 
+to be declared to have passed the course, subject to the condition that the candidate must have 
+secured a minimum of 24 marks (i.e. 40%) in the theory component at the semester-end 
+ 
+ 
+examination. Practical/ Project Work/ Industrial Training/ Viva voce/ Seminar etc. are 
+completely assessed under Continuous Evaluation for a maximum of 100 marks, and a student 
+has to obtain a minimum of 50% to secure Pass Grade. For courses having both theory and 
+practical components, 60% of the weightage will be given for theory component and 40% 
+weightage for practical component. The student must secure 40% (Theory + Practical) with 
+24 marks minimum in theory to attain pass grade.  
+ 
+Details of Assessment Procedure are furnished below in Table 1. 
+Table 1: Assessment Procedure 
+S. 
+No. 
+Component of 
+Assessment 
+Marks 
+Allott
+ed 
+Type of 
+Assessment 
+Scheme of Evaluation 
+1 Theory 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+Continuous 
+Evaluation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Semester-end 
+Examination 
+i) Twenty (20) marks for mid 
+examinations. Three mid 
+examinations shall be conducted 
+for 20 marks each; average of the 
+best two performances shall be 
+taken into consideration. 
+ii) Ten (10) marks for Quizzes, 
+Assignments and Presentations.  
+iii) Ten (10) marks for   periodic 
+evaluation, case studies and 
+projects  
+ 
+iv) Sixty (60) marks for Semester
+end examinations 
+ Total 100   
+ 
+ 
+2 Laboratory 100 Continuous 
+Evaluation 
+1)80 marks with equal 
+weightage to all experiments 
+subject to conduct of minimum 
+of 10 experiments  
+2)20marks for the end exam 
+(with one of our university 
+teachers as external other than 
+course teacher) 
+3 Internship 100 Continuous 
+Evaluation 
+i) (80) marks for periodic 
+evaluation  
+of Internship report by the Project 
+Supervisor. 
+ii) Twenty (20) marks for final 
+Report presentation and Viva
+voce, by a panel of internal 
+examiners. 
+iii) Students shall undergo TWO 
+internships during the course of 
+time and the evaluation shall be 
+done during final semester. 
+4 Project work  100 Continuous 
+Evaluation 
+iv) (80) marks for periodic 
+evaluation and technical report 
+writing by the Project Supervisor. 
+ii) Twenty (20) marks for final 
+Report presentation and Viva-voce, 
+by a panel of internal examiners 
+ 
+ 
+5 Students 
+Seminars  
+100 Continuous 
+Evaluation 
+Each student has to give a seminar 
+on any topic in consultation with 
+the faculty member in charge A 
+detailed report shall be submitted to 
+the in charge. 
+60 marks for periodic evaluation 
+including report preparation and 40 
+marks for viva voce by a panel of 
+examiners. 
+ 
+ 
+GRADING SYSTEM 
+Based on the student performance during a given semester, a final letter grade will be 
+awarded at the end of the semester in each course. The letter grades and the corresponding 
+grade points are as given inTable2. 
+ 
+Table 2: Grades & Grade Points 
+Sl. No. Grade Grade Points Absolute Marks 
+1 O(Outstanding) 10 90 and above 
+2 A+(Excellent) 9 80 to 89 
+3 A (Very Good) 8 70 to 79 
+4 B+(Good) 7 60 to 69 
+5 B (Above Average) 6 50 to 59 
+6 C(Average) 5 45 to 49 
+7 P(Pass) 4 40 to 44 
+8 F(Fail) 0 Less than 40 
+9 Ab. (Absent) 0 - 
+ 
+ 
+ 
+ 
+ 
+SEMESTER GRADEPOINTAVERAGE (SGPA) 
+A Semester Grade Point Average (SGPA) for the semester will be calculated according to the 
+formula: 
+ 
+ 𝐺𝑃𝐴∑[𝐶𝑋𝐺]
+∑𝐶 
+Where 
+C=number of credits for the course, 
+G=grade points obtained by the student in the course. 
+A student who earns a minimum of 4 grade points (P grade) in a course is declared to have 
+successfully completed the course, and is deemed to have earned the credits assigned to that 
+course. 
+ 
+CUMULATIVE GRADE POINT AVEARGE (CGPA) 
+A similar formula is used to arrive at Cumulative Grade Point Average (CGPA), considering 
+the student’s performance in all the courses taken in all the semesters up to the particular point 
+of time. 
+Table 3 shows the CGPA required for the award of class after the successful completion of the 
+program. 
+Table3: CGPA required for award of Class 
+Class CGPA 
+Required 
+First Class with Distinction >8.0* 
+First Class >6.5 
+Second Class >5.5 
+Pass Class >5.0 
+ 
+*In addition to the required CGPA of 8.0 or more, the student must have necessarily passed all 
+the courses of every semester in first attempt. 
+11. REAPPEARANCE 
+a. A student who has secured ‘F’ grade in a Theory course shall have to reappear at 
+the subsequent Semester end examination held for that course. 
+b. A student who has secured ‘F’ grade in a Practical course shall have to attend 
+ 
+ 
+Special Instruction Classes scheduled by the Department for securing pass. 
+c. A student who has secured ‘F’ Grade in Internship /Project work / Industrial 
+Training etc shall have to reappear for Viva – voce scheduled by the department. 
+d. A student who is declared fail (F) in a course/s can apply for revaluation within 
+one week from the date of publication of results with a fee prescribed by the 
+university. The marks /grade awarded in the revaluation is final. 
+ 
+11.1 Procedure for revaluation 
+• The students who have not satisfied with the marks awarded by the examiner 
+            can apply for revaluation of his/her answer script/s  
+• The students have to apply through proper channel for revaluation and to pay the 
+revaluation fee per paper to the university towards revaluation fee. 
+• Students have to apply for revaluation within 7 days from the date  
+           publication of result. 
+• The scripts will get valued by second examiner and if the difference is more than  
+15 marks, they will get valued by the third examiner. The average of the nearest 
+two marks will be declared as the final marks. 
+ 
+11.2 ASSESSMENT MECHANISM  
+ The Apollo University offers a student the benefits of Choice Based Credit System. 
+Every paper is allotted a certain number of credits as per the UGC norms. A student is 
+awarded the specified credits on obtaining a pass in the respective paper. 
+ The Choice Based Credit System (CBCS) has been adopted for UG Course from the 
+year 2021-22 onwards as per the recommendations of the A.P. State Council for Higher 
+Education (APSCHE). The structure of undergraduate programmes provides a wide range of 
+choice for students to opt for courses based on their eligibility, aptitude and career goals. 
+11.3 Semester End Examination 
+The End semester examination will be a comprehensive examination of 3 hours duration. 
+Two End Semester examinations are conducted in a year- 
+Odd semester examinations in November/ December and  
+ Even semester examination in May/June  
+Practical examination / Project viva to be held before 2 weeks prior to the theory 
+semester end examinations. 
+ 
+ 
+PG-Graduation Programs  
+Course 
+Continuous 
+Assessment 
+End semester 
+Aggregate in 
+End semester 
+Examinations 
+All PG Courses No passing minimum 50% 50% 
+ 
+11.4 Post Evaluation Programme:  
+Under the Post Evaluation Programme there are three menus: 
+• Provision for improvement 
+• Re-totaling and Revaluation of answer scripts 
+• Restrictions to appear for the examinations 
+ 
+11.5 Provision for improvement 
+A student who passes a paper in the first attempt can reappear for the same paper in the 
+succeeding End-of-Semester examination only, for improving his/her marks. Re-appearance 
+for improvement is allowed for theory and practical subjects of all semesters, except for the 
+final semester subjects. Revised mark statement will be issued after withdrawing the 
+previous one, if the marks obtained in improvement are higher than the marks awarded 
+earlier. When there is no improvement, there shall not be any change in the original marks 
+already awarded. The improved marks shall be considered for classification but not for 
+ranking. 
+Provision for Re-totaling and Revaluation of valued answer scripts 
+• PG candidates may apply for re-totaling / revaluation of valued answer scripts, 
+to the Controller of Examinations through the Heads of Departments and 
+Principal / Dean, in the prescribed forms, remitting the prescribed fee within 7 
+days from the date of publication of results. Revaluation of answer scripts is 
+permissible only for the current semester papers and not for any arrear paper. 
+• Those wish to apply for revaluation of final semester papers can do so within 
+five days from the date of publication of results. In re-valuation, the answer 
+papers will be valued by an external examiner and if there is a difference of 15 
+marks between the two evaluations then the script will be sent for third valuation 
+ 
+ 
+which is final and the mark awarded by the third examiner will be taken into the 
+account. 
+• Revised mark statement will be issued after withdrawing the previous one, if 
+the marks obtained in revaluation / retotalling are higher than the marks 
+obtained earlier. In other cases, the original marks obtained earlier will be 
+retained and the matter will be intimated to the student concerned as ‘No 
+change’. 
+• A candidate who applies for revaluation should not apply for retotalling. 
+ 
+Restrictions to appear for the examinations 
+Candidates who fail in any of the papers in the PG End semester examinations shall complete 
+the paper concerned within N+2 years from the date of admission to the particular course. If 
+they fail to do so, they shall re-register their names and take the examination in the texts/revised 
+regulations/syllabus of the paper prescribed for the subsequent batch of candidates, in force at 
+the time of their reappearance.  In the event of removal of that paper consequent to change of 
+regulation and/or curriculum after N+2 years period, the candidate shall have to take up an 
+equivalent paper in the revised syllabus as suggested by the Chairman, Board of Studies 
+concerned. 
+ 
+12. BETTERMENT OF GRADES 
+A student who has secured only a Pass or Second class and desires to improve his/her Class 
+can appear for Betterment Examinations only in Theory courses of any Semester of his/her 
+choice, conducted in Summer Vacation along with the Special Examinations. Betterment of 
+Grades is permitted ‘only once’ immediately after completion of the program of study. 
+ 
+13. DETENTION AND RE-ADMISSION 
+If a student fails to meet the minimum attendance requirement or minimum standards for 
+academic progression, the concerned academic head will recommend for detention and it will 
+be notified by the concerned Dean of the School. The students who are detained in the current 
+semester will not be allowed to register for the next semester and they have to repeat the same 
+semester.   
+The candidates who are detained or availed academic break or suspended in the previous 
+semester/academic year and want to continue their study shall apply for re-admission to the 
+university. The candidates shall request for re-admission to the respective Head of the 
+ 
+ 
+Department, with details viz., Full Name, Registration Number, Department, School, Fee 
+payment particulars with proofs and reasons for discontinuations. The concerned academic 
+head will forward it to the Registrar with specific comments. The Registrar will notify the 
+decision of re-admission which shall include the prescribed fee particulars, semester/ year into 
+which readmission is granted and additional courses to be completed by the student (if any). 
+The candidates should apply for re-admission in advance, that is before the commencement of 
+the semester.   
+ 
+14. GROOMING AND ATTIRE FOR STUDENTS  
+Grooming and Etiquette is of great significance in the dynamic of shaping one’s Personality. 
+The Apollo University stands by a Code of Grooming, Attire and Etiquette that promotes a 
+professional standard: Academic Day; Campus Placements and Non-Academic Hours on 
+Campus. 
+The Dress Code to be in compliance on academic premises while attending: Formal Functions 
+of the Institution / Lectures / Practicals / Dining Area / Library / Labs / Office Areas. 
+Students shall follow appropriate attire during Academic and Non-Academic hours on  the 
+campus. Students shall wear clean, neat, pressed and presentable clothing, and command 
+respect by dressing in accordance with responsible personal norms. Students shall always wear 
+The Apollo University ID Card with the Lanyard. 
+Grooming and Formal Wear - Boys: 
+Formal Shirts / T-Shirts with a Collar should preferably be tucked in with a Formal pair of 
+Pants Shoes and Socks to complete the Formal Attire. Personal Hygiene should be followed 
+and Hair should be well groomed. 
+ 
+Smart Casuals for Boys: 
+Long Kurtas / Formals / Semi-Formal Shirts with Jeans. 
+Grooming and Formal Wear - Girls: Sarees / Salwar Suits / Leggings or Jeggings with Long 
+Kurtis / Long Frocks / Long Skirts / Palazzos. Complement the outfit with proper footwear. 
+Personal Hygiene should be followed and Hair should be well groomed. 
+ 
+Smart Casuals for Girls: 
+Jeans with long Kurtis / Long Skirts / Long Frocks. 
+Attire for Non-Academic Hours On Campus: 
+The students should be neatly attired during Non-Academic Hours on Campus. 
+ 
+ 
+ 
+Dress Code for Boys: 
+Jeans / Track Suits / T-Shirts / Trousers / Shirts. 
+Dress Code for Girls: 
+Jeans / T-Shirts or Blouses / Salwar Suits / Palazzos / Leggings or Jeggings with Long Tops / 
+Sarees / Long Skirts / Track Suits. 
+ 
+DO’S AND DO’NTS FOR BOYS AND GIRL STUDENTS OF THE UNIVERSITY: 
+• To wear modest clothing that reflects the essence of good personal grooming standards. 
+• To refrain from wearing Sleeveless Clothing; Shorts; Short Tops, etc., 
+ 
+PLEASE NOTE: The decision as to what constitutes Appropriate Attire vests with the 
+Authorities of The Apollo University. 
+ 
+15. ELIGIBILITY FOR AWARD OF THE DEGREE 
+The Post degree will be of 2 of duration. A student shall be declared as eligible for the award 
+of the degree if the candidate has successfully secured the minimum number of required credits 
+as specified in the curriculum corresponding to the branch of his/her study within the 
+stipulated time. 
+After successful completion of the program, a provisional certificate cum memorandum of 
+grades (PCMG) will be issued to the students. The PCMG includes the secured grades and 
+class achieved in chosen program and specialization if any, along with grades and CGPA 
+secured by the student. The original degree will be presented in the subsequent convocation.  
+ 
+16. DISCRETION POWER  
+Not with-standing anything contained in the above sections, the Vice Chancellor may review 
+all exceptional cases, and give his decision, which will be final and binding. 
+ 
+  
+ 
+ 
+ANNEXURE 1 
+   ELIGIBILITY FOR QUALIFYING EXAM FOR POST GRADUATE PROGRAM 
+Program 
+Type 
+Program Name Eligibility 
+Masters M.Tech. Computer 
+Science and Engineering 
+Pass with 50% aggregate marks (45% for reserved 
+categories) in B.Tech. (Computer Science and 
+Engineering or Information Technology or Electronics 
+and Communication Engineering or Electrical and 
+Electronics Engineering) or MCA or M.Sc. (Information 
+Technology or Computer Science) or equivalent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE 2 
+PROGRAMS OFFERED BY THE SCHOOL OF TECHNOLOGY 
+FROM ACADEMIC YEAR 2022-23 
+Sl. 
+No. Program Expanded Level 
+Minimum Duration 
+in Years  (N) 
+1 
+ 
+B. Tech. CSE 
+Computer Science and 
+Engineering Bachelor’s 4* 
+2. 
+ 
+B. Tech. 
+CSE (AI& DS) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence and Data 
+Structures) 
+Bachelor’s 4* 
+* Engineering programs (UG) under Lateral Entry will be with a minimum duration of 3 years 
+ 
+ 
+ANNEXURE 3 
+PROGRAMS OFFERED BY THE SCHOOL OF TECHNOLOGY 
+FROM ACADEMIC YEAR 2023-24 
+ 
+Sl. 
+No. 
+Program Expanded Level Minimum Duration 
+in Years (N) 
+1  
+B. Tech. CSE 
+Computer Science and 
+Engineering 
+Bachelor’s 4 
+2. 
+ 
+B. Tech. 
+CSE (AI& DS) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence and Data 
+Structures) 
+Bachelor’s 4 
+3 B. Tech. 
+CSE (AI& ML) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence and Machine 
+Learning) 
+Bachelor’s 4 
+4 
+B. Tech CSE 
+(Cybersecurity) 
+Computer Science and 
+Engineering (Cybersecurity) Bachelor’s 4 
+5 
+B.Tech 
+Computer 
+Engineering 
+(Software 
+Engineering) 
+Computer Engineering 
+(Software Engineering) with 
+Kalium  
+Bachelor’s 4 
+6 M. Tech (VLSI 
+design & ES) 
+Master of Technology in 
+Very Large-Scale 
+Integration design and 
+Embedded Systems 
+Masters 2 
+* Engineering programs (UG) under Lateral Entry will be with the Minimum duration of 3 
+years 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE 3 
+PROGRAMS OFFERED BY THE SCHOOL OF TECHNOLOGY 
+FROM ACADEMIC YEAR 2024-25 
+ 
+Sl. 
+No. 
+Program Expanded Level Minimum Duration 
+in Years (N) 
+1  
+B. Tech. CSE 
+Computer Science and 
+Engineering 
+Bachelor’s 4 
+2. 
+ 
+B. Tech. 
+CSE (AI& DS) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence and Data 
+Structures) 
+Bachelor’s 4 
+3 B. Tech. 
+CSE (AI& ML) 
+Computer Science and 
+Engineering (Artificial 
+Intelligence and Machine 
+Learning) 
+Bachelor’s 4 
+4 
+B. Tech CSE 
+(Cybersecurity) 
+Computer Science and 
+Engineering (Cybersecurity) Bachelor’s 4 
+5 
+B.Tech 
+Computer 
+Engineering 
+(Software 
+Engineering) 
+Computer Engineering 
+(Software Engineering) with 
+Kalium  
+Bachelor’s 4 
+6 M. Tech (VLSI 
+design & ES) 
+Master of Technology in 
+Very Large-Scale 
+Integration design and 
+Embedded Systems 
+Masters 2 
+* Engineering programs (UG) under Lateral Entry will be with the Minimum duration of 3 
+years 
+ 
+ 
+ 
+  
+ 
+ 
+I – Semester  
+3 Week Induction Program 
+ 
+Course Code 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+Hours 
+per 
+week 
+L T P 
+MTCT6501 Mathematical Foundations of Computer 
+Science 2 1 0 3 3 
+SOTT6301 Advanced Data Structures and Algorithms 2 1 0 3 3 
+Program Elective – I 
+MTCT6601a Deep Learning 
+3 0 0 3 3 MTCT6601b Natural Language Processing 
+MTCT6601c Generative AI 
+Program Elective – II 
+MTCT6602a Enterprise Cloud Concepts 
+3 0 0 3 3 MTCT6602b Data Science 
+MTCT6602c No SQL Databases 
+SOTT6302 Research Methodology and IPC 2 0 0 2 2 
+SOTT6303 Human Values & Professional Ethics 
+(Audit Course – I) 2 0 0 0 2 
+MTCS6501/
+MTCC6501 Technical Seminar/Case study  1 0 0 1 1 
+SOTL6301 Advanced Data Structures and Algorithms 
+Lab 0 0 4 2 4 
+MTCJ6501 Cloud Architecture 1 0 2 2 3 -- Mentoring 0 0 0 0 1 -- Library 0 0 0 0 2 -- Physical Activity 0 0 0 0 2 -- Extra-Curricular Activities 0 0 0 0 2 -- Co-Curricular Activity 0 0 0 0 2 -- Self-Learning 0 0 0 0 3 
+TOTAL 16 2 6 19 36 
+ 
+ 
+II - Semester  
+ 
+Course Code 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+Hours 
+per week 
+L T P 
+SOTT6304 Advanced Machine Learning 2 1 0 3 3 
+MTCT6502 Advanced Computer Networks 2 1 0 3 3 
+Program Elective – III 
+MTCT6603a Ethical Hacking and Penetration Testing 
+3 0 0 3 3 MTCT6603b Digital Forensics 
+MTCT6603c Database Security and Privacy 
+Program Elective – IV 
+MTCT6604a Advanced Wireless Sensor Networks 
+3 0 0 3 3 MTCT6604b Advanced Wireless Adhoc Networks 
+MTCT6604c Quantum Computing 
+SOTT6305 
+English for Research Paper Writing  
+(Audit Course II) 
+2 0 0 0 2 
+MTCP6501 Mini Project with Technical Seminar  0 0 8 4 8 
+SOTL6302 Advanced Machine Learning Lab 0 0 4 2 4 
+MTCL6501 Advanced Computer Networks Lab 0 0 4 2 4 -- Mentoring 0 0 0 0 1 -- Co-Curricular Activities 0 0 0 0 1 -- Self-Learning 0 0 0 0 1 -- Extra-Curricular Activities 0 0 0 0 2 -- Library 0 0 0 0 1 
+TOTAL 12 2 16 20 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III - Semester  
+ 
+ Course Code 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+Hours 
+per week 
+L T P 
+MTCM7501 MOOC – 1 3 0 0 3 3 
+MTCM7502 MOOC - 2 3 0 0 3 3 
+MTCP7501 Dissertation I / Industrial Project 0 0 20 10 20 -- Mentoring 0 0 0 0 1 -- Co-curricular activity 0 0 0 0 2 -- Self-Learning 0 0 0 0 1 -- Physical Activity 0 0 0 0 2 -- Extra-curricular activities 0 0 0 0 2 -- Soft Skills Training 0 0 0 0 1 -- Certification Course 0 0 0 0 1 
+TOTAL 6 0 20 16 36 
+ 
+ 
+IV - Semester  
+ 
+Course 
+Code 
+ 
+Course Name 
+Periods 
+per week 
+Credits 
+Hours 
+per week 
+L T P 
+MTCP7502 Dissertation Phase II  0 0 32 16 32 
+TOTAL 0 0 32 16 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I SEMESTER 
+ 
+ 
+  
+ 
+ 
+ 
+  MTCT6501         Mathematical Foundations of Computer Science                       L   T   P   C 
+ 2   1   0   3 
+Course Description: 
+This course introduces students to fundamental concepts in probability, statistics, and 
+combinatorics, with a focus on their applications in Computer Science and Engineering. Topics 
+include probability distributions, statistical inference, sampling methods, multivariate models, 
+graph theory, and combinatorial problems. The course emphasizes real-world applications in 
+data mining, machine learning, bioinformatics, and network protocols. Students will develop 
+skills to apply mathematical techniques to complex problems in computer systems, security, 
+and software engineering. 
+ 
+Course Objectives: 
+1. To understand probability mass, density functions, and the application of the Central 
+Limit Theorem in univariate and multivariate scenarios. 
+2. To explore statistical estimations, including sampling distributions, Method of 
+Moments, and Maximum Likelihood Estimation. 
+3. To study multivariate statistical models, including regression, classification, Principal 
+Components Analysis, and model overfitting. 
+4. To learn graph theory concepts and combinatorial techniques to solve enumeration 
+problems and network-related problems. 
+5. To apply mathematical and statistical methods to various Computer Science 
+applications, including data mining, machine learning, and bioinformatics. 
+ 
+UNIT I                                  9 Hrs 
+Probability mass, density, and cumulative distribution functions, Parametric families of 
+distributions, Expected value, variance, conditional expectation, Applications of the univariate 
+and multivariate Central Limit Theorem, Probabilistic inequalities, Markov chains  
+ 
+UNIT II                                                                                9 Hrs 
+Random samples, sampling distributions of estimators, Methods of Moments and Maximum 
+Likelihood. 
+ 
+UNIT III                                                                                                 9 Hrs 
+Statistical inference, Introduction to multivariate statistical models: regression and 
+classification problems, principal components analysis, The problem of overfitting model 
+assessment.  
+ 
+UNIT IV                                                                                                                      9 Hrs 
+Graph Theory: Isomorphism, Planar graphs, graph colouring, hamilton circuits and euler 
+cycles. Permutations and Combinations with and without repetition. Specialized techniques to 
+solve combinatorial enumeration problems 
+ 
+ 
+ 
+ 
+UNIT V                                                                 9 Hrs 
+Computer Science and Engineering Applications: 
+Data mining, Network protocols, analysis of Web traffic, Computer security, Software 
+engineering, Computer architecture, operating systems, distributed systems, Bioinformatics, 
+Machine learning. 
+Recent Trends in various distribution functions in mathematical field of computer science for 
+varying fields like bioinformatic, soft computing, and computer vision.  
+ 
+Course Outcomes: 
+After completion of course, students would be able to:  
+1. Apply probability distributions, Central Limit Theorem, and Markov chains in practical 
+problems. 
+2. Use statistical estimation techniques, such as the Method of Moments and Maximum 
+Likelihood Estimation, in data analysis. 
+3. Analyze multivariate models for regression, classification, and dimensionality 
+reduction (PCA) to address overfitting. 
+4. Solve graph theory and combinatorial problems, including isomorphism, planar graphs, 
+Hamiltonian cycles, and permutations. 
+5. Implement mathematical models in computer science applications such as machine 
+learning, network protocols, and bioinformatics. 
+ 
+Text Books:  
+1. John Vince, Foundation Mathematics for Computer Science, Springer.  
+2. K. Trivedi, Probability and Statistics with Reliability, Queuing, and Computer Science 
+Applications. Wiley. 
+ 
+Reference Books: 
+1. M. Mitzenmacher and E. Upfal.Probability and Computing: Randomized Algorithms and 
+Probabilistic Analysis.  
+2. Alan Tucker, Applied Combinatorics, Wiley.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOTT6301                 Advanced Data Structures and Algorithms                         L   T   P   C 
+2   1   0   3 
+Course Description: 
+This course provides an in-depth study of advanced data structures and algorithmic techniques 
+essential for efficient problem-solving in data science. It covers key topics such as balanced 
+trees, hash-based structures, graphs, dynamic programming, and approximation algorithms. 
+The course emphasizes the application of these concepts in large-scale data processing, 
+optimization, and machine learning. Students will also explore parallel and distributed 
+algorithms, along with performance analysis and complexity optimization strategies. Hands
+on implementation and real-world problem-solving are integral parts of this course. 
+ 
+Course Objectives: 
+1. Understand and implement advanced data structures for efficient data handling. 
+2. Apply graph algorithms to solve real-world network and optimization problems. 
+3. Develop efficient algorithmic solutions using dynamic programming, greedy, and 
+divide-and-conquer techniques. 
+4. Analyze NP-completeness and design approximation and randomized algorithms for 
+intractable problems. 
+5. Implement and optimize parallel and distributed algorithms for large-scale data 
+processing. 
+ 
+UNIT I                                               9 Hrs 
+Advanced Data Structures 
+Algorithms, Performance analysis- time complexity and space complexity, Asymptotic 
+Notation- Big Oh, Omega and Theta notations, Complexity Analysis Examples; Review of 
+basic data structures (arrays, linked lists, stacks, queues), Trees: AVL Trees, Red-Black Trees, 
+B-Trees, Segment Trees, Fenwick Trees, Hashing: Hash functions, collision resolution 
+techniques, perfect hashing, Disjoint Set Union (Union-Find) and applications 
+ 
+UNIT II                                                                                9 Hrs 
+Graph Algorithms 
+Graph representations (adjacency list, adjacency matrix), Traversal algorithms: BFS, DFS, 
+Topological Sorting, Shortest path algorithms: Dijkstra’s, Bellman-Ford, Floyd-Warshall, 
+Minimum spanning tree: Prim’s and Kruskal’s algorithms, Network flow algorithms: Max
+flow (Ford-Fulkerson, Edmonds-Karp) 
+ 
+UNIT III                                                                                                 9 Hrs 
+Algorithmic Techniques 
+Divide and Conquer: Applications in searching and sorting (Merge Sort, Quick Sort), Greedy 
+Algorithms: Huffman Coding, Activity Selection, Job Scheduling, Dynamic Programming: 
+Knapsack problem, Matrix Chain Multiplication, LCS, LIS, Backtracking and Branch & 
+Bound: N-Queens, Traveling Salesman Problem 
+ 
+ 
+ 
+UNIT IV                                                                                                                      9 Hrs 
+Approximation and Randomized Algorithms 
+NP-Completeness and NP-Hard problems, Approximation algorithms: Vertex Cover, TSP, Set 
+Cover, Randomized algorithms: Monte Carlo and Las Vegas algorithms, Probabilistic data 
+structures: Bloom Filters, Skip Lists 
+ 
+UNIT V                                                                 9 Hrs 
+Parallel and Distributed Algorithms 
+Parallel sorting and searching algorithms, MapReduce and distributed graph algorithms, 
+Concurrent data structures and synchronization, GPU-based algorithms and parallel computing 
+techniques 
+ 
+Course Outcomes: 
+After completion of course, students would be able to:  
+1. Design and implement advanced data structures for complex applications. 
+2. Solve graph-related problems using efficient algorithms. 
+3. Apply advanced algorithmic techniques to real-world computational challenges. 
+4. Evaluate algorithmic performance and optimize computational complexity. 
+5. Implement scalable parallel and distributed solutions for big data applications..  
+ 
+Text Books:  
+1. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. – Introduction to 
+Algorithms, 4th Edition, MIT Press, 2022. 
+2. Sedgewick, R., & Wayne, K. – Algorithms, 4th Edition, Addison-Wesley, 2011. 
+3. Aho, A. V., Hopcroft, J. E., & Ullman, J. D. – Data Structures and Algorithms, 
+Pearson Education, 2002. 
+4. Goodrich, M. T., & Tamassia, R. – Algorithm Design and Applications, Wiley, 2014. 
+5. Dasgupta, S., Papadimitriou, C., & Vazirani, U. – Algorithms, McGraw-Hill, 2006. 
+ 
+Reference Books: 
+1. Tarjan, R. E. – Data Structures and Network Algorithms, SIAM, 1983. 
+2. Kleinberg, J., & Tardos, E. – Algorithm Design, Pearson, 2006. 
+3. Mehta, D. P., & Sahni, S. – Handbook of Data Structures and Applications, Chapman 
+& Hall/CRC, 2018. 
+4. Skiena, S. S. – The Algorithm Design Manual, 3rd Edition, Springer, 2020. 
+5. Motwani, R., & Raghavan, P. – Randomized Algorithms, Cambridge University 
+Press, 1995. 
+ 
+Online Resources: 
+1. MIT OpenCourseWare – Advanced Data Structures and Algorithms 
+2. Stanford Online – Algorithms Specialization by Tim Roughgarden (Coursera) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program Elective - I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCT6601a            Deep Learning    L   T   P   C 
+3   0   0   3 
+Course Description: 
+This course provides an in-depth exploration of deep learning techniques and their applications 
+in various domains like computer vision, natural language processing (NLP), and reasoning 
+tasks. It covers foundational concepts such as feedforward neural networks, convolutional and 
+recurrent neural networks, and advanced techniques like adversarial networks and 
+autoencoders. The course emphasizes practical applications such as image segmentation, object 
+detection, and dialogue generation, along with strategies for mitigating common issues in deep 
+learning, such as the vanishing gradient problem and local minima. 
+ 
+Course Objectives: 
+1. To understand the fundamentals of feedforward neural networks, gradient descent, 
+backpropagation, and techniques for mitigating training challenges. 
+2. To explore advanced neural network architectures including Convolutional Neural 
+Networks (CNNs), Recurrent Neural Networks (RNNs), and deep unsupervised 
+learning models. 
+3. To apply deep learning techniques to computer vision tasks such as image 
+segmentation, object detection, and image generation using GANs. 
+4. To understand and implement NLP models, including word vector representations and 
+their applications in tasks like word similarity and semantic analysis. 
+5. To explore advanced reasoning tasks in NLP, such as Named Entity Recognition, 
+sentiment analysis, and dialogue generation using RNNs and CNNs. 
+ 
+UNIT I                                  9 Hrs 
+Introduction: Feed forward Neural networks, Gradient descent and the back propagation 
+algorithm, Unit saturation, the vanishing gradient problem, and ways to mitigate it. RelU 
+Heuristics for avoiding bad local minima, Heuristics for faster training, Nestors accelerated 
+gradient descent, Regularization, Dropout; basics of neural networks-Types of CNN 
+Architectures - Standard CNNs, LeNet-5, AlexNet, VGGNet (VGG-16, VGG-19), GoogLeNet 
+(Inception Networks), ResNet (Residual Networks), DenseNet, MobileNet, EfficientNet;  
+ 
+UNIT II                                                                                9 Hrs 
+Convolutional Neural Networks: Architectures, convolution/pooling layers, Recurrent Neural 
+Networks: LSTM, GRU, Encoder Decoder architectures. Deep Unsupervised Learning: Auto 
+encoders, Variational Auto-encoders, Adversarial Generative Networks, Auto-encoder and 
+DBM Attention and memory models, Dynamic Memory Models.  
+ 
+UNIT III                                                                                                 9 Hrs 
+Applications of Deep Learning to Computer Vision: Image segmentation, object detection, 
+automatic image captioning, Image generation with Generative adversarial networks, video to 
+text with LSTM models, Attention Models for computer vision tasks.  
+ 
+ 
+ 
+ 
+UNIT IV                                                                                                                      9 Hrs 
+Applications of Deep Learning to NLP: Introduction to NLP and Vector Space Model of 
+Semantics, Word Vector Representations: Continuous Skip-Gram Model, Continuous Bag-of
+Wordsmodel (CBOW), Glove, Evaluations and Applications in word similarity.  
+ 
+UNIT V                                                                 9 Hrs 
+Analogy reasoning: Named Entity Recognition, Opinion Mining using Recurrent Neural 
+Networks: Parsing and Sentiment Analysis using Recursive Neural Networks: Sentence 
+Classification using Convolutional Neural Networks, Dialogue Generation with LSTMs. 
+ 
+Course Outcomes: 
+After completion of course, students would be:  
+1. Gain proficiency in training and optimizing neural networks and handling issues like 
+vanishing gradients and local minima. 
+2. Understand and apply advanced neural network architectures such as CNNs, LSTMs, 
+GRUs, and autoencoders. 
+3. Implement deep learning models for computer vision applications like object 
+detection and image captioning. 
+4. Apply deep learning techniques to NLP tasks such as word similarity, sentiment 
+analysis, and parsing. 
+5. Solve complex NLP tasks such as dialogue generation and opinion mining using deep 
+learning models.  
+ 
+Text Books:  
+1. Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press.  
+2. The Elements of Statistical Learning by T. Hastie, R. Tibshirani, and J. Friedman, 
+Springer.  
+3. Probabilistic Graphical Models. Koller, and N. Friedman, MIT Press.  
+ 
+Reference Books: 
+1. Bishop, C, M., Pattern Recognition and Machine Learning, Springer, 2006.  
+2. Yegnanarayana, B., Artificial Neural Networks PHI Learning Pvt. Ltd, 2009.  
+3. Golub, G.,H., and Van Loan,C.,F., Matrix Computations, JHU Press,2013.  
+4. Satish Kumar, Neural Networks: A Classroom Approach, Tata McGraw-Hill 
+Education, 2004.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCT6601b                          Natural Language Processing                                      L   T   P   C 
+3   0   0   3 
+Course Description: 
+This course provides an in-depth exploration of natural language processing (NLP) with a focus 
+on syntactic and semantic analysis, word and document structure, and discourse processing. It 
+covers various models and approaches to parsing, representing syntactic structures, and 
+addressing multilingual issues. Students will also study semantic parsing, predicate-argument 
+structures, and language modeling techniques, along with challenges in discourse processing, 
+cohesion, and reference resolution. Emphasis is placed on applying these techniques to real
+world NLP tasks. 
+ 
+Course Objectives: 
+1. To understand the structure of words and documents, and explore morphological 
+models and methods for analyzing document complexity and performance. 
+2. To study syntax analysis, parsing algorithms, and syntactic structure representation, 
+including multilingual parsing and ambiguity resolution techniques. 
+3. To explore semantic parsing and word sense systems, including their role in semantic 
+interpretation and system paradigms. 
+4. To examine predicate-argument structures, meaning representation systems, and 
+relevant software used in NLP. 
+5. To learn about discourse processing, cohesion, reference resolution, and the 
+development of language models, including N-Gram models and language adaptation. 
+ 
+UNIT I                                  9 Hrs 
+Finding the Structure of Words: Words and Their Components, Issues and Challenges, 
+Morphological Models. Finding the Structure of Documents: Introduction, Methods, 
+Complexity of the Approaches, Performances of the Approaches. 
+ 
+UNIT II                                                                                9 Hrs 
+Syntax Analysis: Parsing Natural Language, Treebanks: A Data-Driven Approach to Syntax, 
+Representation of Syntactic Structure, Parsing Algorithms, Models for Ambiguity Resolution 
+in Parsing, Multilingual Issues. 
+ 
+UNIT III                                                                                                 9 Hrs 
+Semantic Parsing: Introduction, Semantic Interpretation, System Paradigms, Word Sense 
+Systems, Software. 
+ 
+UNIT IV                                                                                                                      9 Hrs 
+Predicate-Argument Structure, Meaning Representation Systems, Software.  
+ 
+UNIT V                                                                 9 Hrs 
+Discourse Processing: Cohesion, Reference Resolution, Discourse Cohesion and Structure 
+Language Modeling: Introduction, N-Gram Models, Language Model Evaluation, Parameter 
+Estimation, Language Model Adaptation, Types of Language Models, Language-Specific 
+ 
+ 
+Modeling Problems, Multilingual and Cross Lingual Language Modeling; Case studies
+Machine Translation for Low-Resource Languages - Hate Speech Detection in Social Media 
+ 
+Course Outcomes: 
+After completion of course, students would be able to:  
+1. Show sensitivity to linguistic phenomena and an ability to model them with formal 
+grammars.  
+2. Understand and carry out proper experimental methodology for training and evaluating 
+empirical NLP systems.  
+3. Able to manipulate probabilities, construct statistical models over strings and trees, and 
+estimate parameters using supervised and unsupervised training methods.  
+4. Able to design, implement, and analyze NLP algorithms and different language 
+modeling Techniques.  
+5. Able to design different language modeling Techniques.  
+ 
+Text Book:  
+1. Multilingual natural Language Processing Applications: From Theory to Practice – 
+Daniel M. Bikel and Imed Zitouni, Pearson Publication. 
+2. Natural Language Processing and Information Retrieval: Tanvier Siddiqui, U.S. Tiwary  
+ 
+Reference Book: 
+1. Speech and Natural Language Processing - Daniel Jurafsky & James H Martin, Pearson 
+Publications.  
+ 
+ 
+MTCT6601c                                            Generative AI                                             L   T   P   C 
+            3   0   0   3 
+Course Description: 
+Generative AI is a type of artificial intelligence technology that is capable of producing various 
+types of content, including text, imagery, audio and synthetic data. The recent buzz around 
+Generative AI has been driven by the simplicity of new user interfaces for creating high-quality 
+text, graphics and videos in a matter of seconds. This course aims to provide the fundamental 
+concept Generative AI. In also offers various insights about Generative AI Technology and 
+Language models. Further it also cover the impact of Generative AI on major industries 
+ 
+Course Objectives: 
+1. To familiarize the basics of Generative AI and its role for Data preparation.  
+2. To Understand the core fundamental concepts of Generative AI. 
+3. To analyse the Generative AI technology and large language models. 
+4. To analyse the role of Generative AI in transformation of business models 
+5. To apply the Generative AI and analyse its impact on major industries  
+ 
+UNIT I Introduction                 8 Hrs 
+Introduction to Generative AI: Definition - Opportunity – Using Generative AI- The 
+ChatGPT Effect- The Drivers- Skeptics- Dangers of Hype. 
+Data: Value of Data- The Amazing Growth of Data- Big Data- Databases- Cloud Models- 
+Data Strategy- Data Collection- Common Data Sources- Data Evaluation- Data Wrangling- 
+Data Labeling- Quantity- Privacy Laws and Regulations- Generative AI for Data Wrangling- 
+Generative AI for Data Preparation-Chief Data Officer.  
+ 
+Unit II AI Fundamentals                 9 Hrs 
+Understanding the core Foundations of Generative AI: Early AI Programs- AI struggle- 
+Concept of AI- Machine Learning- Supervised Learning-Regression Analysis-Support Vector 
+Machines- Random Forest- K- Nearest Neighbor- Navie Bayes Classifiers- Unsupervised 
+Learning- Clustering- Anomaly Detection- Association- Autoencoders- Reinforcement 
+Learning- Deep Learning- The Brain and AI- Drawbacks with Deep Learning- Overfitting and 
+Underfitting- AI Tools- AI System for Beginners. 
+ 
+UNIT III Generative AI Technology and Language Models          10 Hrs 
+Core Generative AI Technology: Generative vs. Discriminative Models- Probability Theory- 
+Types of Generative AI Models- DALL- E 2- Stability AI and Midjourney- Speech- Trilemma 
+of Generative AI Models 
+Large Language Models: Language and Intelligence- Natural Language Processing- How 
+NLP works- Word2Vec Model- Transformers- Dials- BERT- GPT Systems and ChatGPT- 
+Dolly- Gopher and Gato- Cohere- AI2 I Labs- BLOOM- Megatron Turing Natural Language 
+Generation Model (MT-NLG) – GPT Sw3- Issues and New Startup Model- Prompt 
+Engineering- Character AI- Empathy.  
+ 
+UNIT IV Auto Code Generation and Transformation of Business         10 Hrs 
+Generative AI and Revolutionize Development: Developer Shortage- AI Code Generation 
+Systems- Copilot- AlphaCode – Tabnine – Magic – PolyCoder- Blaze- Debugging Code- Data 
+Labeling – Prompt Engineering for Coding – Atera- Large Scale Projects- Drawbacks and 
+Risks. 
+ 
+ 
+The Transformation of Business: Leveraging Generative AI for Company’s Operation 
+Legal- Customer Experience- Sales and Marketing- Anyword- Wope- INK- Regie.ai- 
+Lavender and SellScale- Grammarly- Writer- Cresta- Forethought- Intercom- Product 
+Development- Spoke AI- Presentations – Buy vs. Build- Implementing Generative AI- Data 
+Preparation and AI Modeling- The Generative AI Process 
+ 
+UNIT V Impact of Generative AI on Major Industries             8 Hrs 
+Impact of Generative AI on Major Industries: Music- WaveAI- Education- GPTZero- 
+Duolingo-Journalism- Gaming- Roblox- Healthcare- Creating X-Rays- Finance.  
+The Future of Generative AI – Trends and Emerging Use Cases:  
+The era of multimodal interactions - GPT-4 - Video generation models- Industry-specific 
+generative AI apps - The rise of small language models (SLMs) - Integrating generative AI 
+with intelligent edge devices - Quantum Computing and AI  
+          
+Course Outcomes: 
+At the end of this course, student will be able to: 
+1. Understand the fundamental concepts of Generative AI. 
+2. Describe Generative AI and distinguish it from discriminative AI. 
+3. Identify the Core Generative AI technology and large language models. 
+4. Analyse the generative AI and its use cases in the real world. 
+5. Explore the impact of Generative AI on Major industry. 
+ 
+Text Books:  
+1. Taulli, Tom. Generative AI: How ChatGPT and other AI tools will revolutionize 
+business. Berkeley, CA: Apress, 2023. 
+2. Foster, David. Generative deep learning. " O'Reilly Media, Inc.", 2022. 
+ 
+References: 
+1. Chang, Chew-Hung, and Gillian Kidman. "The rise of generative artificial intelligence 
+(AI) language models-challenges and opportunities for geographical and environmental 
+education." International Research in Geographical and Environmental Education 32.2 
+(2023). 
+2. Brynjolfsson, Erik, Danielle Li, and Lindsey R. Raymond. Generative AI at work. No. 
+w31161. National Bureau of Economic Research, 2023. 
+3. Explainable Artificial Intelligence: An Introduction to Interpretable Machine Learning, 
+Uday Kamath: John Liu, Springer, ISBN 9783030833558 
+4. Hacker, Philipp, Andreas Engel, and Marco Mauer. "Regulating ChatGPT and other 
+large generative AI models." Proceedings of the 2023 ACM Conference on Fairness, 
+Accountability, and Transparency. 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+   
+ 
+ 
+ 
+                                                Program Elective - II 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCT6602a               Enterprise Cloud Concepts                                         L   T   P   C 
+3   0   0   3 
+Course Description:     
+This course introduces cloud computing, focusing on its foundational concepts, technologies, 
+and business applications. Students will explore cloud delivery models, enabling technologies, 
+and cloud management mechanisms. The course also delves into fundamental cloud 
+architectures, cloud-enabled smart enterprises, and strategies for transitioning to cloud-centric 
+enterprises. By examining case studies and examples, students will gain practical insights into 
+implementing cloud solutions for enterprise transformation and business continuity.                                                
+ 
+Course Objectives:  
+1. To understand the origins, basic concepts, terminology, and benefits of cloud 
+computing, along with its different delivery and deployment models. 
+2. To explore the enabling technologies of cloud computing, including broadband 
+networks, virtualization, and cloud infrastructure mechanisms. 
+3. To study cloud management systems, including resource management, SLA 
+management, billing, and cloud architecture models. 
+4. To investigate the transformation of enterprises into cloud-enabled smart enterprises 
+and develop strategies for cloud-incorporated business strategies. 
+5. To examine the methodologies for transitioning to cloud-centric enterprises, including 
+contract management, cloud infrastructures, and the emergence of private and 
+enterprise clouds. 
+ 
+UNIT I                                                                                                                                9 Hrs 
+Understanding Cloud Computing: Origins and influences, Basic Concepts and Terminology, 
+Goals and Benefits, Risks and Challenges. Fundamental Concepts and Models: Roles and 
+Boundaries, Cloud Characteristics, Cloud Delivery Models, Cloud Deployment Models.  
+ 
+UNIT II                                                                                                                                9 Hrs 
+Cloud-Enabling Technology: Broadband Networks and Internet Architecture, Data Center 
+Technology, Virtualization Technology. Cloud Computing Mechanisms: Cloud Infrastructure 
+Mechanisms: Logical Network Perimeter, Virtual Server, Cloud Storage Device, Cloud Usage 
+Monitor, Resource Replication.  
+ 
+UNIT III                                                                                                                             9 Hrs 
+Cloud Management Mechanisms: Remote Administration System, Resource Management 
+System, SLA Management System, Billing Management System, Case Study Example Cloud 
+Computing Architecture Fundamental Cloud Architectures: Workload Distribution 
+Architecture, Resource Pooling Architecture, Dynamic Scalability Architecture, Elastic 
+Resource Capacity Architecture, Service Load Balancing Architecture, Cloud Bursting 
+Architecture, Elastic Disk Provisioning Architecture, Redundant Storage Architecture, Case 
+Study Example. 
+ 
+ 
+ 
+ 
+UNIT IV                   9 Hrs 
+Cloud-Enabled Smart Enterprises: Introduction, Revisiting the Enterprise Journey, Service
+Oriented Enterprises, Cloud Enterprises, Smart Enterprises, The Enabling Mechanisms of 
+Smart Enterprises Cloud-Inspired Enterprise Transformations: Introduction, The Cloud 
+Scheme for Enterprise Success, Elucidating the Evolving Cloud Idea, Implications of the Cloud 
+on Enterprise Strategy, Establishing a Cloud-Incorporated Business Strategy.  
+ 
+UNIT V                   9 Hrs 
+Transitioning to Cloud-Centric Enterprises: The Tuning Methodology, Contract 
+Management in the Cloud Cloud-Instigated IT Transformations Introduction, Explaining 
+Cloud Infrastructures, A Briefing on Next-Generation Services, Service Infrastructures, Cloud 
+Infrastructures, Cloud Infrastructure Solutions, Clouds for Business Continuity, The Relevance 
+of Private Clouds, The Emergence of Enterprise Clouds.  
+ 
+Course Outcomes:  
+1. Understand the core concepts, goals, and challenges of cloud computing, including its 
+delivery and deployment models. 
+2. Demonstrate knowledge of the technologies that enable cloud computing, including 
+data center technology and virtualization. 
+3. Apply cloud management mechanisms to real-world scenarios, focusing on resource 
+and SLA management. 
+4. Design strategies for transforming traditional enterprises into cloud-enabled smart 
+enterprises, integrating cloud into business operations. 
+5. Evaluate and implement cloud-centric business strategies and infrastructure solutions, 
+focusing on enterprise clouds and business continuity. 
+ 
+Text Books:  
+1. Erl Thomas, Puttini Ricardo, Mahmood Zaigham, Cloud Computing: Concepts, 
+Technology & Architecture 1st Edition. 
+2. Pethuru Raj, Cloud Enterprise Architecture, CRC Press.  
+ 
+Reference Book:  
+1. James Bond,The Enterprise Cloud, O'Reilly Media, Inc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCT6602b    Data Science                                                      L   T   P   C 
+3   0   0   3 
+Course Description: 
+This course provides an introduction to data science, covering the core concepts, technologies, 
+and processes involved in extracting insights from data. Topics include data collection, 
+management, and analysis, with a focus on statistics, machine learning algorithms, and data 
+visualization. Students will learn how to manage and manipulate data, apply basic machine 
+learning techniques, and create effective visualizations to communicate data-driven insights. 
+The course also addresses current trends in data collection, analysis, and visualization tools. 
+ 
+Course Objectives: 
+1. To introduce students to the fundamental concepts and technologies in data science, 
+including the data science process, types of data, and real-world applications. 
+2. To explore data collection techniques, sources of data, APIs, and methods for managing 
+and storing data across multiple sources. 
+3. To introduce key data analysis concepts, including statistics, machine learning 
+algorithms like linear regression, SVM, and Naive Bayes. 
+4. To teach various data visualization techniques, focusing on visual encoding and 
+effective ways to represent different types of data. 
+5. To explore applications of data science, with hands-on experience in visualization 
+technologies like Bokeh and current trends in data analysis and visualization. 
+ 
+UNIT I                                  9 Hrs 
+Introduction to core concepts and technologies: Introduction, Terminology, data science 
+process, data science toolkit, Types of data, Example applications. Data Science Tools and 
+Techniques-Overview and Demonstration of Open source tools such as R, Octave, Scilab. 
+Python libraries: SciPy and sci-kitLearn, PyBrain, Pylearn2; Weka 
+ 
+UNIT II                                                                                9 Hrs 
+Data collection and management: Introduction, Sources of data, Data collection and APIs, 
+Exploring and fixing data, Data storage and management, Using multiple data sources. 
+ 
+UNIT III                                                                                                 9 Hrs 
+Data analysis: Introduction, Terminology and concepts, Introduction to statistics, Central 
+tendencies and distributions, Variance,Distribution properties and arithmetic, Samples/CLT, 
+Basic machine learning algorithms, Linear regression, SVM, Naive Bayes.  
+ 
+UNIT IV                                                                                                                      9 Hrs 
+Data visualisation: Introduction, Types of data visualisation, Data for visualisation: Data types, 
+Data encodings, Retinal variables, Mapping variables to encodings, Visual encodings. 
+ 
+UNIT V                                                                 9 Hrs 
+Applications of Data Science, Technologies for visualisation, Bokeh (Python)  
+Recent trends in various data collection and analysis techniques, various visualization 
+techniques, application development methods of used in data science. 
+ 
+ 
+Course Outcomes: 
+1. Understand the fundamental concepts, terminologies, and processes of data science 
+and their real-world applications. 
+2. Gain proficiency in data collection, management, and integration from multiple 
+sources using APIs and other tools. 
+3. Apply basic statistical concepts and machine learning algorithms to analyze and 
+interpret data. 
+4. Create effective data visualizations using appropriate encoding techniques and 
+visualization tools. 
+5. Develop and apply data science applications using modern technologies and stay 
+updated with trends in data collection, analysis, and visualization. 
+ 
+Text Book:  
+1. Cathy O’Neil and Rachel Schutt. Doing Data Science, Straight Talk From The 
+Frontline. O’Reilly. 
+ 
+Reference Book: 
+1. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman. Mining of Massive Datasets. 
+v2.1, Cambridge University Press.  
+ 
+ 
+ 
+                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCT6602c                              No SQL Databases                                          L   T   P   C 
+3   0   0   3 
+Course Description: 
+This course introduces the evolving world of NoSQL databases, focusing on non-relational 
+models designed to handle large-scale, distributed, and schema-less data. Students will learn 
+the principles, architecture, and use cases of various NoSQL database types including key
+value stores, document stores, column-family databases, and graph databases. The course 
+emphasizes practical application through industry case studies, explores integration with Big 
+Data platforms like Hadoop and Spark, and covers modern tools such as MongoDB, Cassandra, 
+Redis, and Neo4j. Security, performance, and best practices in NoSQL environments are also 
+addressed to prepare students for real-world deployment. 
+ 
+Course Objectives: 
+1. To understand the need and evolution of NoSQL databases in contrast to traditional 
+RDBMS. 
+2. To explore various NoSQL database models including key-value, document, 
+column-family, and graph. 
+3. To analyze industry-level applications and architectural considerations of NoSQL 
+systems. 
+4. To study real-time integration of NoSQL databases with Big Data and Cloud 
+platforms. 
+5. To gain practical skills in implementing NoSQL solutions using MongoDB, 
+Cassandra, Redis, and Neo4j. 
+ 
+UNIT I INTRODUCTION TO NoSQL DATABASES             9 Hrs 
+Introduction – Characteristics of NoSQL – ACID vs BASE – CAP Theorem – Types of NoSQL 
+databases – Advantages and Limitations – Differences between RDBMS and NoSQL – Use 
+cases and industry drivers for NoSQL adoption. Case Study: Migrating an E-Commerce 
+Catalog System from RDBMS to MongoDB 
+ 
+UNIT II KEY-VALUE AND DOCUMENT-ORIENTED DATABASES         9 Hrs 
+Key-Value Stores: Redis, Amazon DynamoDB – Features and Use Cases – Architecture 
+Operations and Data Modeling. Document Stores: MongoDB – BSON Format – CRUD 
+Operations – Indexing – Aggregation – Sharding – Replication. Case Study: Building a 
+Content Management System (CMS) using MongoDB 
+ 
+UNIT III COLUMN-FAMILY AND GRAPH DATABASES            9 Hrs 
+Column-Family Stores: Apache Cassandra – Data Modeling – CQL – Consistency and 
+Availability – Use in Time-Series Applications. Graph Databases: Neo4j – Graph Data 
+Modeling – Cypher Query Language – Use Cases: Fraud Detection, Social Networks. 
+Case Study: Analyzing a Social Network using Neo4j 
+ 
+UNIT IV BIGDATA INTEGRATION & PERFORMANCE CONSIDERATIONS 9 Hrs 
+Integration with Hadoop and Spark – Using MongoDB with Apache Spark – Performance 
+Tuning – Indexing Strategies – Horizontal Scaling – Query Optimization – Benchmarking 
+NoSQL Systems – Cloud-based NoSQL (Firebase, AWS DynamoDB). 
+Case Study: Real-Time Recommendation Engine using Spark and MongoDB 
+ 
+ 
+ 
+ 
+ 
+UNIT V APPLICATIONS, SECURITY, AND BEST PRACTICES          9 Hrs 
+Security in NoSQL Databases – Authentication and Authorization – Backup and Disaster 
+Recovery – Auditing and Monitoring – Data Governance – Industry Best Practices – 
+Comparative Evaluation of NoSQL Models. Case Study: Securing a NoSQL-based IoT Data 
+Pipeline (MongoDB + Redis) 
+ 
+Course Outcomes: 
+Upon successful completion of this course, a student will be able to: 
+1. Understand and differentiate NoSQL systems from traditional relational 
+databases. 
+2. Model and manage data using appropriate NoSQL techniques and tools. 
+3. Apply NoSQL databases to real-world problems including social networks, IoT, 
+and recommendation systems. 
+4. Integrate NoSQL databases with Big Data tools and platforms. 
+5. Ensure security, availability, and scalability in enterprise-grade NoSQL 
+deployments. 
+ 
+Text Books: 
+1. Pramod J. Sadalage & Martin Fowler, NoSQL Distilled: A Brief Guide to the Emerging 
+World of Polyglot Persistence, Addison-Wesley, 2013. 
+2. Shashank Tiwari, Professional NoSQL, Wiley, 2011. 
+ 
+Reference Books: 
+1. Dan McCreary, Ann Kelly, Making Sense of NoSQL, Manning Publications, 2013. 
+2. Guy Harrison, Next Generation Databases, Apress, 2015. 
+3. Kristina Chodorow, MongoDB: The Definitive Guide, O'Reilly, 3rd Edition, 2019. 
+4. Eben Hewitt, Cassandra: The Definitive Guide, O'Reilly, 3rd Edition. 
+5. Rik Van Bruggen, Learning Neo4j, Packt Publishing, 3rd Edition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOTT6302                                 Research Methodology and IPC   L   T   P   C 
+2   0   0   2 
+Course Description 
+This course provides a comprehensive overview of research methodology tailored for data 
+science. It covers the entire research process—from problem formulation and literature review 
+to data collection, analysis, and reporting. In addition, the course introduces aspects of 
+Intellectual Property and Communication (IPC), including publication ethics, academic 
+writing, and effective dissemination of research outcomes. Emphasis is placed on both 
+theoretical foundations and practical applications to prepare students for rigorous academic or 
+industrial research. 
+ 
+Course Objectives 
+1. To develop the ability to formulate research problems and design appropriate 
+methodologies. 
+2. To familiarize students with qualitative and quantitative research methods and data 
+analysis techniques. 
+3. To guide students in the preparation of literature reviews, research proposals, and 
+research reports. 
+4. To introduce the ethical, legal, and intellectual property issues related to research. 
+5. To enhance communication skills for effective dissemination of research findings. 
+ 
+UNIT I Introduction to Research Methodology                                                             6 Hrs 
+Definition, scope, and importance of research in data science of research (exploratory, 
+descriptive, explanatory, experimental and applied)-Steps in the research process and research 
+design-Formulating research questions and hypotheses-Overview of literature review 
+techniques 
+ 
+UNIT II Research Design and Data Collection Methods                                              6 Hrs 
+Qualitative vs. quantitative research methodologies- sampling techniques and research 
+instruments (surveys, interviews, observations)-Experimental design and case study 
+approaches-Data collection methods and tools-Reliability, validity, and bias in research. 
+ 
+UNIT III Data Analysis and Interpretation                                                                   6 Hrs 
+Statistical techniques and data analysis methods tools for data analysis (SPSS, R, Python)
+Interpreting quantitative and qualitative data (ATLAS.ti) -Reporting results and drawing 
+conclusions to data visualization for research findings 
+ 
+UNIT IV Intellectual Property, Publication Ethics, and Communication                 6 Hrs 
+Overview of intellectual property rights (patents, copyrights, trademarks)-Publication ethics 
+and academic integrity- Preparing research proposals, manuscripts, and technical reports- 
+Communication skills for oral presentations and poster sessions for submitting to journals and 
+conferences. 
+ 
+ 
+ 
+UNIT V Research Project and Practical Communication                                            6 Hrs 
+Designing a mini research project in data science evaluation of research literature and case 
+studies and peer-review exercises-Workshop on effective oral and poster presentations
+Discussion on current trends and future challenges in research 
+ 
+Course Outcomes 
+Upon completion of this course, students will be able to: 
+1. Formulate and refine research questions and hypotheses relevant to data science. 
+2. Design research studies using appropriate methodologies and tools. 
+3. Conduct comprehensive literature reviews and critically evaluate academic sources. 
+4. Analyze data using both qualitative and quantitative methods. 
+5. Prepare research proposals, technical reports, and academic papers while adhering to 
+ethical and intellectual property standards. 
+ 
+Textbooks & References 
+1. Kothari, C.R. – Research Methodology: Methods and Techniques, 2nd Edition, New 
+Age International, 2004. 
+2. Creswell, J.W. – Research Design: Qualitative, Quantitative, and Mixed Methods 
+Approaches, 4th Edition, SAGE Publications, 2014. 
+3. Cooper, D.R. & Schindler, P.S. – Business Research Methods, 12th Edition, McGraw
+Hill, 2014. 
+4. Silverman, D. – Interpreting Qualitative Data, 5th Edition, SAGE Publications, 2016. 
+5. Day, R.A. & Gastel, B. – How to Write and Publish a Scientific Paper, 7th Edition, 
+Cambridge University Press, 2012. 
+6. Hennink, Monique, Inge Hutter, and Ajay Bailey. Qualitative research methods. 
+Sage, 2020. 
+7. Tewari, Rupinder, and Mamta Bhardwaj. Intellectual Property: A Primer for 
+Academia. Publication Bureau, Panjab University, 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOTT6303   Human Values & Professional Ethics                    L   T   P   C 
+                                                                         (Audit Course – I)                                        2   0   0   0 
+Course Description 
+This course examines the role of human values and professional ethics in the context of data 
+science and technology. It discusses ethical theories, professional responsibilities, and the 
+societal impacts of technology. Special emphasis is placed on understanding ethical dilemmas, 
+maintaining professional integrity, and fostering social responsibility in both academic and 
+industrial environments. 
+ 
+Course Objectives 
+1. To introduce fundamental ethical theories and their relevance to professional practice. 
+2. To analyse ethical dilemmas and decision-making frameworks in modern workplaces. 
+3. To cultivate an understanding of professional responsibility and integrity. 
+4. To explore the legal and ethical standards governing technology and data use. 
+5. To prepare students to address ethical challenges in their professional careers. 
+ 
+UNIT I Fundamentals of Human Values and Ethics                                                    6 Hrs 
+Introduction to ethics and human values- Overview of ethical theories: utilitarianism, 
+deontology, virtue ethics-Importance of ethics in personal and professional life. 
+Case studies on ethical decision-making. 
+ 
+UNIT II Professional Ethics and Responsibilities                                                         6 Hrs 
+Codes of conduct and professional ethics in various industries-Role of accountability, 
+transparency, and integrity in the workplace-Ethical issues in information technology and data 
+science-Legal frameworks and standards influencing professional practice. 
+ 
+UNIT III Ethical Dilemmas                                                                                             6 Hrs 
+Data privacy, security, and bias in AI applications-Intellectual property, plagiarism, and 
+research misconduct-Conflict of interest, corporate governance, and whistleblowing-Analysis 
+of real-world ethical dilemmas through case studies. 
+ 
+UNIT IV Social Responsibility and Impact of Technology                                          6 Hrs 
+Corporate Social Responsibility (CSR) and sustainable development- The societal impact of 
+data-driven decision-making- Global and multicultural perspectives on ethics- Role of ethics 
+in innovation and technological advancement. 
+ 
+UNIT V Ethics in Research and Professional Practice                                                 6 Hrs 
+Academic integrity and research ethics- Collaborative work, interdisciplinary ethics, and 
+professional accountability- Workshops, role plays, and discussions on ethical decision
+making- Developing a personal ethical framework and professional development plan. 
+ 
+Course Outcomes 
+Upon completion of this course, students will be able to: 
+1. Explain key ethical theories and apply them to real-world professional scenarios. 
+ 
+ 
+2. Identify and analyse ethical issues in data science, including privacy, bias, and 
+intellectual property. 
+3. Demonstrate professional responsibility and integrity in academic and workplace 
+settings. 
+4. Apply ethical frameworks to resolve conflicts and dilemmas in practice. 
+5. Appreciate the social and global impacts of technological innovations. 
+ 
+Textbooks & References 
+1. Velasquez, M.G. et al. – Ethical Issues in Business, 6th Edition, Pearson, 2015. 
+2. Ferrell, O.C., Fraedrich, J., & Ferrell, L. – Business Ethics: Ethical Decision Making & 
+Cases, 11th Edition, Cengage Learning, 2019. 
+3. Solomon, R.C. & Flores, F. – A Passion for Justice: Embracing Human Rights, 
+Diversity, and Ethics in the Workplace, 1st Edition, Wiley, 2012. 
+4. Beauchamp, T.L. & Childress, J.F. – Principles of Biomedical Ethics, 7th Edition, 
+Oxford University Press, 2013. 
+5. Singer, P. – Practical Ethics, 3rd Edition, Cambridge University Press, 2011. 
+  
+ 
+ 
+SOTL6301  Advanced Data Structures and Algorithms Lab              L   T   P   C 
+  0   0   4   2 
+Course Description: 
+This laboratory course is designed to provide hands-on experience in implementing, testing, 
+and optimizing advanced data structures and algorithms. Through a series of practical  
+exercises and projects, students will translate theoretical concepts into efficient, real-world 
+code using programming languages such as C++, Java, or Python. 
+Course Objectives: 
+1. To reinforce the theoretical concepts of advanced data structures and algorithms 
+through practical coding exercises. 
+2. To develop the ability to analyze algorithm performance using complexity analysis 
+and benchmarking. 
+3. To enhance coding proficiency and optimization skills. 
+4. To enable students to design and implement complex data-driven solutions. 
+5. To encourage collaborative problem solving and project-based learning in a lab 
+setting. 
+ 
+1. Implementation of the following: 
+• Revision of fundamental data structures (arrays, linked lists, stacks, queues) 
+• Analysis and Big-O notation 
+2. Implementation of basic sorting and searching algorithms 
+• Lab activity: performance measurement and benchmarking of simple algorithms 
+3. Illustration of Advanced Tree Structures and Graph Algorithms 
+• Implementation of balanced trees (AVL, Red-Black Trees) 
+4. Illustration of tree-based search and graph traversal algorithms 
+5. Performance analysis and optimization discussions 
+6. Demonstration of Dynamic Programming and Greedy Algorithms 
+A) Implementation of dynamic programming solutions for classic problems (e.g., 
+knapsack, longest common subsequence),  
+B) Exercises comparing dynamic programming and greedy approaches 
+7. Randomized Algorithms and Approximation Techniques 
+• Coding randomized algorithms (e.g., quickselect, random graph generation) 
+• Implementation of heuristic and approximation algorithms 
+8. Lab activity: performance evaluation and variability analysis 
+• Discussion on the robustness of randomized vs. deterministic approaches 
+9. Design and implementation of an end-to-end project integrating advanced data structures, 
+Code profiling, memory management, and optimization techniques 
+10.Collaborative project development and peer review 
+• Final presentation and demonstration of project outcomes 
+ 
+Course Outcomes 
+After completing the lab, students will be able to: 
+1. Implement advanced data structures (e.g., balanced trees, heaps, graphs) in a 
+programming language. 
+ 
+ 
+2. Analyze and compare the efficiency of different algorithms using Big-O notation and 
+empirical testing. 
+3. Develop solutions for complex algorithmic problems using dynamic programming, 
+greedy methods, and randomized algorithms. 
+4. Optimize code performance through profiling and iterative improvement. 
+5. Collaborate effectively on programming projects and present their solutions. 
+ 
+Textbooks & References 
+1. Cormen, T.H., Leiserson, C.E., Rivest, R.L., & Stein, C. – Introduction to 
+Algorithms, 3rd Edition, MIT Press, 2009. 
+2. Sedgewick, R. & Wayne, K. – Algorithms, 4th Edition, Addison-Wesley, 2011. 
+3. Goodrich, M.T., Tamassia, R., & Goldwasser, M.H. – Data Structures and 
+Algorithms in Java, 6th Edition, Wiley, 2014. 
+4. Skiena, S.S. – The Algorithm Design Manual, 2nd Edition, Springer, 2008. 
+5. Aho, A.V., Hopcroft, J.E., & Ullman, J.D. – Data Structures and Algorithms, 1st 
+Edition, Addison-Wesley, 1983. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCJ6501                              Cloud Architecture                                  L   T   P   C 
+  1   0   2   2 
+Course Description: 
+This course offers a comprehensive introduction to cloud computing, covering core concepts, 
+service and deployment models, and virtualization. Students will gain hands-on experience 
+with cloud infrastructure, serverless technologies, containers, and DevOps practices. The 
+curriculum emphasizes real-world application through labs and projects involving leading 
+platforms like AWS, Azure, and GCP. By the end, students will be equipped to design, deploy, 
+and manage scalable cloud solutions. 
+ 
+Course Objectives: 
+1. Introduce cloud computing concepts, including its evolution, service models, and 
+deployment models, along with foundational knowledge of virtualization. 
+2. To provide an understanding of cloud infrastructure including storage, networking, and 
+security components like IAM and firewall rules. 
+3. To introduce architectural best practices and technologies such as serverless computing 
+and containers used in designing scalable cloud applications. 
+4. Familiarize students with DevOps practices in the cloud, including automation, 
+monitoring, and cost management strategies. 
+5. Enable to apply the cloud knowledge in real-world scenarios, including migration 
+strategies and full-stack deployment projects. 
+ 
+Week Theory Topics  
+1 Introduction to Cloud Computing, Service Models (IaaS, PaaS, SaaS). 
+2 Cloud Deployment Models & Virtualization Concepts. 
+3 Cloud Storage & Networking Basics (VPC, Subnets, Load Balancing). 
+4 Identity & Access Management, Security in the Cloud. 
+5 Serverless Computing & Containers. 
+6 Cloud Architecture Design Principles. 
+7 Introduction to DevOps in the Cloud (CI/CD, Infrastructure as Code). 
+8 Monitoring, Logging, and Cost Management. 
+9 Cloud Migration Strategies and Case Studies (AWS, Azure, GCP). 
+10 Recap, Viva Preparation, and Project Discussions. 
+ 
+ 
+Week Lab Activities 
+1 Setup Free Tier Cloud Account (AWS/GCP/Azure), Create public & private VPC,       
+Subnets, Security groups, Elastic IP, Launch Virtual Machine. 
+2 Launch Ec2 [ Linux (SSH) | Windows (RDC)] & Config Lamp/Xamp Server to 
+host web applications. 
+3 Create Scaling activity using Load balancer (Zones & Regions), with Aws 
+Autoscaling to test high availability applications.  
+4 Create and Configure Object Storage (e.g., AWS S3 or Azure Blob) to test    
+various ACL permissions. 
+5 Create a Server & Serverless Database (e.g., RDS & MySQL(Ec2) | DynamoDB 
+etc) & List essential connective strings. 
+6 a. Deploy a Web App using PaaS (e.g., AWS Elastic Beanstalk / App Engine). 
+b. IAM: Create Roles, Policies, and Access Management. 
+ 
+ 
+7 Deploy a Serverless Function (AWS Lambda / Azure Function) for specific needs 
+ a. Automate Ec2 to Start & Stop for time specific  
+ b. Automate S3 deployment with SNS Email Notification to an authorised Email. 
+ c. Monitor Resources and Set Alerts (e.g., CloudWatch / Azure Monitor). 
+8 Cloud Migration Mini Project: Move a Local App to the Cloud. 
+9  Dockerize and Deploy an App (e.g., ECS / Azure Container Instances). 
+10 Final Project Presentation. 
+ 
+ 
+Course Outcomes 
+1. Explain fundamental cloud concepts and distinguish between various service and 
+deployment models, as well as basic virtualization principles. 
+2. Configure and manage cloud storage, virtual private networks, and implement basic 
+access control and security mechanisms. 
+3. Design and deploy scalable, modular cloud applications using serverless technologies 
+and container-based architectures. 
+4. Implement automated deployment pipelines, set up monitoring tools, and evaluate cost 
+optimization techniques on a cloud platform. 
+5. Demonstrate the ability to migrate applications to the cloud and present a working 
+project using appropriate cloud services. 
+ 
+Textbooks / References: 
+1. Rajkumar Buyya et al., Mastering Cloud Computing, McGraw Hill. 
+2. Official Docs: AWS, Azure, Google Cloud. 
+3. Thomas Erl, Cloud Computing: Concepts, Technology & Architecture. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOTT6304             Advanced Machine Learning                                 L   T   P   C 
+           2    1   0    3 
+ 
+Course Description: 
+This course covers advanced machine learning (ML) techniques beyond traditional supervised 
+and unsupervised learning. It includes deep learning, ensemble methods, reinforcement 
+learning, probabilistic models, and generative adversarial networks (GANs). The course 
+emphasizes theoretical foundations, algorithmic implementation, and real-world applications. 
+ 
+Course Objectives: 
+1. Understand the principles of advanced ML techniques, including deep learning and 
+reinforcement learning. 
+2. Learn ensemble methods, Bayesian approaches, and probabilistic graphical models. 
+3. Develop skills to implement ML models using modern frameworks such as TensorFlow 
+and PyTorch. 
+4. Explore ethical considerations and interpretability of ML models. 
+5. Apply ML techniques to real-world applications in healthcare, finance, and other 
+domain 
+ 
+UNIT I Advanced Supervised and Unsupervised Learning                   9 Hrs 
+Advanced Decision Trees and Random Forests-Support Vector Machines (SVM) - 
+Optimization and Kernels- Clustering Techniques (Spectral Clustering, DBSCAN, Gaussian 
+Mixture Models)- Anomaly Detection using ML 
+ 
+UNIT II Deep Learning and Neural Networks              9 Hrs 
+Neural Network Architectures (MLP, CNN, RNN)- Backpropagation and Optimization 
+Techniques (Adam, RMSprop)- Autoencoders and Variational Autoencoders (VAE)- 
+Attention Mechanism and Transformers 
+ 
+UNIT III Probabilistic and Bayesian Learning              9 Hrs 
+Bayesian Networks and Probabilistic Graphical Models- Hidden Markov Models (HMM) and 
+Gaussian Processes-Markov Chain Monte Carlo (MCMC) Methods- Variational Inference 
+Techniques 
+ 
+UNIT IV Reinforcement Learning and Generative Models            9 Hrs 
+Markov Decision Processes (MDP)-Q-Learning and Policy Gradient Methods-Deep 
+Reinforcement Learning (DQN, PPO)-Generative Adversarial Networks (GANs) and 
+Applications. 
+ 
+UNIT V Advanced Topics and Applications              9 Hrs 
+Fairness and Bias in Machine Learning-Explainable AI (XAI) and Interpretability Techniques
+Scalable ML with Big Data (Spark ML, Federated Learning)-ML Applications in Healthcare, 
+Finance, and Autonomous Systems 
+ 
+ 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Develop and optimize advanced ML models. 
+2. Implement deep learning architectures such as CNNs, RNNs, and GANs. 
+3. Apply reinforcement learning techniques for decision-making problems. 
+4. Analyze large-scale datasets using scalable ML methods. 
+5. Evaluate and interpret ML models for explainability and fairness. 
+ 
+Text Books & References 
+1. Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning, MIT Press 
+2. Kevin P. Murphy - Machine Learning: A Probabilistic Perspective, MIT Press 
+3. Sutton & Barto - Reinforcement Learning: An Introduction, MIT Press 
+4. Christopher Bishop - Pattern Recognition and Machine Learning, Springer 
+5. François Chollet - Deep Learning with Python, Manning Publications 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+MTCT6502       Advanced Computer Networks            L   T   P   C 
+                                                                                                                                  2    1    0   3 
+Course Description: 
+This course explores the fundamental concepts of computer networks, focusing on network 
+architecture, performance, and the protocols that ensure reliable communication. Topics 
+include switching mechanisms, congestion control, IP addressing (IPv4/IPv6), routing 
+protocols, and network security. Students will also delve into advanced concepts such as 
+multimedia transmission, VoIP, DNS, and the design of data centers and interconnection 
+networks. The course provides hands-on experience with the technologies that support high
+speed, reliable, and scalable networks. 
+ 
+Course Objectives: 
+1. To understand computer network architectures, protocols, and interfaces.  
+2. The OSI reference model and the Internet architecture network applications.  
+3. The course will expose students to the concepts of traditional as well as modern day  
+4. computer networks - wireless and mobile, multimedia-based. 
+5. Students completing this course will understand the key concepts and practices 
+employed in modern computer networking  
+ 
+UNIT I                                                                                                                                  9 Hrs 
+Network Architecture, Performance: Bandwidth and Latency, High Speed Networks, 
+Network-Centric View, Error Detection, Reliable Transmission, Ethernet and Multiple Access 
+Networks, Overlay Networks: Routing Overlays, Peer-to-Peer Networks and Content 
+Distribution Networks, Client-Server Networks, Delay Tolerant Networks,  
+ 
+UNIT II                                                                                                                                 9 Hrs 
+Switching: Circuit-Switched Networks, Datagram Networks, Virtual-Circuit Networks, 
+Message-Switched Networks, Asynchronous Transfer Mode: Evolution, Benefits, Concepts, 
+Exploring Broadband Integrated Services Digital Network, Layer and Adaptation Layer, IPv4: 
+Address Space, Notations, Classful, Classless, Network Address Translation, Datagram  
+ 
+UNIT III                                                                                                                              9 Hrs 
+Fragmentation and Checksum IPv6 Addresses: Structure, Address Space, Packet Format 
+and Extension Headers, ICMP, IGMP, ARP, RARP, Congestion Control and Resource 
+Allocation: Problem, Issues, Queuing, TCP Congestion Control, Congestion-Avoidance 
+Mechanisms and Quality of Service. 
+ 
+UNIT IV                                                                                                                            9 Hrs 
+Internetworking: Intra-Domain and Inter-Domain Routings, Unicast Routing Protocols: RIP, 
+OSPF and BGP, Multicast Routing Protocols: DVMRP, PIM-DM, PIM-SM, CBT, MSDP and 
+MOSPF, Spanning Tree Algorithm, Optical Networking: SONET/SDH Standards, Traffic 
+Engineering: Requirement, Traffic Sizing, Characteristics, Protocols, Time and Delay 
+Considerations, Connectivity, Availability, Reliability and Maintainability and Throughput.  
+ 
+UNIT V                                                                                                                               9 Hrs 
+Multimedia Over Internet: Transmission, IP Multicasting and VoIP, Domain Name 
+System: Name Space, Domain Name Space, Distribution, Domains, Resolutions and Dynamic 
+ 
+ 
+Domain Name System, SNMP, Security: IPSec, SSL/TLS, PGP and Firewalls, Datacenter 
+Design and Interconnection Networks.  
+ 
+Course Outcomes:  
+After completion of course, students would be:  
+1. Analyse computer network architectures and estimate quality of service.  
+2. Design application-level protocols for emerging networks.  
+3. Analyse TCP and UDP traffic in data networks.  
+4. Design and analyse medium access methods, routing algorithms and IPv6 protocol for 
+data networks. 
+5. Analyze Data Center Networks and Optical Networks  
+ 
+Text Books:  
+1. Larry L. Peterson and Bruce S. Davie, Computer Networks: A System Approach, Fifth 
+Edition, Morgan Kaufmann, Elsevier, 2012.  
+2. Behrouz A. Forouzan, Data Communications and Networking, McGraw Hill, Fifth 
+Edition, 2017.   
+3. Chwan-Hwa (John) Wu, J. David Irwin, Introduction to Computer Networks and Cyber 
+Security, CRC press, Taylor & Francis Group,2014. 
+4. Andrew S. Tanenbaum, David J. Wetherall, Computer Networks, Pearson, 5th Edition, 
+2014.  
+ 
+Reference Book:  
+1. Satish Jain Advanced Computer Networking: Concepts and Applications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program Elective - III 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+MTCT6603a         Ethical Hacking and Penetration Testing                      L   T   P   C 
+3   0   0   3 
+Course Description:  
+Ethical Hacking is one of the most popular courses with the increase in people's 
+interest in internet security and ways for keeping one's personal security safe and 
+secure from different peoples. This course cover tools and techniques that are used 
+by hackers and penetration testers and topics in general namely Ethical Hacking, 
+Website, System Hacking & Security and Mobile & Wireless Security. 
+ 
+Course Objectives:  
+The objective of this course is to make students to, 
+1.   To learn about the importance of information security. 
+2.   To learn different scanning and enumeration methodologies and tools. 
+3.   To understand various hacking techniques and attacks. 
+4.   To be exposed to programming languages for security professionals. 
+5.   To get familiarized with the different phases in penetration testing. 
+ 
+ 
+UNIT I                                                                                                                       9 Hrs 
+Introduction to Hacking: Introduction to Hacking – Importance of Security – Elements of 
+Security – Phases of an Attack – Types of Hacker Attacks – Hacktivism – Vulnerability 
+Research – Introduction to Footprinting – Information Gathering Methodology – Footprinting 
+Tools – WHOIS Tools – DNS Information Tools – Locating the Network Range – Meta Search 
+Engines. 
+ 
+ 
+UNIT II                                                                                                                     9 Hrs 
+Scanning and Enumeration: Introduction to Scanning – Objectives – Scanning Methodology – Tools – Introduction to Enumeration – Enumeration Techniques – Enumeration Procedure – Tools. 
+ 
+ 
+UNIT III                                                                                                                            9 Hrs 
+System Hacking: Introduction – Cracking Passwords – Password Cracking Websites – 
+Password Guessing – Password Cracking Tools – Password Cracking Counter measures – 
+Escalating Privileges –Executing Applications –Keyloggers and Spyware. 
+ 
+ 
+UNIT IV                                                                                                                             9 Hrs 
+Programming for Security Professionals: Programming Fundamentals – C language – 
+HTML – Perl – Windows OS Vulnerabilities – Tools for Identifying Vulnerabilities – 
+Countermeasures – Linux OS Vulnerabilities – Tools for Identifying Vulnerabilities – 
+Countermeasures. 
+ 
+UNIT V                                                                                                                             
+Penetration Testing: Introduction – Security Assessments – Types of Penetration Testing- 
+Phases of Penetration Testing – Tools – Choosing Different Types of Pen-Test Tools – 
+Penetration Testing Tools. 
+ 
+ 
+ 
+ 
+Course Outcomes: 
+Upon completion of this course, the student should be able to, 
+1.   Understand how to secure the information. 
+2.   Defend hacking attacks and protect data assets. 
+3.   Defend a computer against a variety of security attacks using various tools. 
+4.   Practice and use safe techniques on the World Wide Web. 
+5.   Get familiarized with the different phases in penetration testing. 
+ 
+ 
+Text Books: 
+1.   Ec-Council, “Ethical Hacking and Countermeasures: Attack Phases”, Delmar Cengage 
+Learning,2009. 
+2.   Michael T. Simpson, Kent Backman, James E. Corley, “Hands-On Ethical Hacking and 
+Network Defense”, Cengage Learning, 2012. 
+ 
+ 
+Reference Books: 
+1. Patrick  Engebretson,  “The  Basics  of  Hacking  and  Penetration  Testing  –  Ethical 
+Hacking and Penetration Testing Made Easy”, Syngress Media, Second Revised Edition, 
+2013. 
+2. Jon Erickson, “Hacking: The Art of Exploitation”, No Starch Press, Second Edition, 
+2008. 
+3. Daniel G. Graham, Ethical Hacking: A Hands-on Introduction to Breaking In, William 
+Pollock, 2021. 
+  
+ 
+ 
+MTCT6603b                                             Digital Forensics    L   T   P   C 
+3   0   0   3 
+Course Description: 
+This course explores the field of digital forensics, focusing on the process of investigating 
+computer crimes, collecting, managing, and presenting evidence. Topics include cyber crime 
+scene analysis, forensic methodologies for computers, network and mobile forensics, and the 
+legal aspects of digital investigations. The course covers practical techniques for data retrieval, 
+evidence management, and the use of various forensic tools in the context of criminal 
+investigations and legal requirements. 
+ 
+Course Objectives: 
+1. To introduce the fundamentals of digital forensics and its relationship to computer 
+crime and criminalistics. 
+2. To explore methods for cyber crime scene analysis, including search and seizure of 
+electronic evidence and understanding court requirements. 
+3. To understand evidence management practices, including the forensic mindset, 
+evidence collection, and case preparation. 
+4. To study computer and network forensics techniques, tools, and processes for 
+investigating and completing a case. 
+5. To examine mobile forensics, the legal aspects of digital forensics, and the IT Act 
+2000 and its amendments. 
+ 
+UNIT I                                            9 Hrs 
+Digital Forensics Science: Forensics science, computer forensics, and digital forensics. 
+Computer Crime: Criminalistics as it relates to the investigative process, analysis of cyber
+criminalistics area, holistic approach to cyber-forensics 
+ 
+UNIT II                                                                                9 Hrs 
+Cyber Crime Scene Analysis: Discuss the various court orders etc., methods to search and 
+seizure electronic evidence, retrieved and un-retrieved communications, Discuss the 
+importance of understanding what court documents would be required for a criminal 
+investigation. 
+ 
+UNIT III                                                                                                 9 Hrs 
+Evidence Management & Presentation: Create and manage shared folders using operating 
+system, importance of the forensic mindset, define the workload of law enforcement, Explain 
+what the normal case would look like, Define who should be notified of a crime, parts of 
+gathering evidence, Define and apply probable cause. 
+ 
+UNIT IV                                                                                                                      9 Hrs 
+Computer Forensics: Prepare a case, Begin an investigation, Understand computer forensics 
+workstations and software, Conduct an investigation, Complete a case, Critique a case. 
+Network Forensics: open-source security tools for network forensic analysis, requirements 
+for preservation of network data. 
+ 
+ 
+ 
+ 
+UNIT V                                                                 9 Hrs 
+Mobile Forensics: mobile forensics techniques, mobile forensics tools. 
+Legal Aspects of Digital Forensics: IT Act 2000, amendment of IT Act 2008. 
+Recent trends in mobile forensic technique and methods to search and seizure electronic 
+evidence 
+ 
+Course Outcomes: 
+After completion of course, students would be able to: 
+1. Understand the principles of digital forensics and its role in cyber-criminalistics. 
+2. Apply techniques for cyber crime scene analysis and recognize legal requirements for 
+evidence collection. 
+3. Effectively manage and present evidence in criminal investigations using forensic 
+methodologies. 
+4. Utilize computer and network forensics tools to conduct investigations and critique 
+forensic cases. 
+5. Gain expertise in mobile forensics and the legal implications of digital forensics 
+within the context of the IT Act. 
+ 
+Text Books:  
+1. John Sammons, The Basics of Digital Forensics, Elsevier. 
+2. John Vacca, Computer Forensics: Computer Crime Scene Investigation, Laxmi 
+Publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCT6603c                    Database Security and Privacy                             L   T   P   C 
+3   0   0   3 
+Course Description 
+This course explores the principles and practices of securing modern database systems. 
+Students will understand key threats, vulnerabilities, and attack vectors targeting databases. 
+The course emphasizes access control models, encryption, and privacy-preserving mechanisms 
+essential for secure database design and management. Industry-relevant case studies, including 
+cloud-based and compliance-driven applications, enable students to build secure and privacy
+compliant database solutions. 
+ 
+Course Objectives 
+1. To understand the need for security in database systems and explore common threats 
+and vulnerabilities. 
+2. To apply access control models, authentication, and authorization mechanisms. 
+3. To analyze techniques for ensuring data confidentiality, integrity, and availability. 
+4. To study encryption, auditing, inference control, and privacy-preserving data 
+publishing. 
+5. To implement best practices for securing modern database platforms including cloud 
+and distributed databases. 
+ 
+UNIT I INTRODUCTION TO DATABASE SECURITY           9 Hrs 
+Security issues in databases – Database vs OS Security – Types of database threats Models of 
+database security – CIA Triad – Vulnerabilities in SQL – Injection attacks –Threat modelling – Database Security Lifecycle. 
+Case Study: SQL Injection Attack on a Banking Application 
+ 
+UNIT II ACCESS CONTROL AND AUTHORIZATION MODELS          9 Hrs 
+User identification and authentication – Access control mechanisms – DAC, MAC, RBAC, 
+and ABAC – View-based access control – Authorization in SQL – Fine-grained access 
+control in Oracle/MySQL. 
+Case Study: Role-Based Access Control (RBAC) in a University Database 
+ 
+UNIT III DATA ENCRYPTION AND INTEGRITY TECHNIQUES          9 Hrs 
+Encryption algorithms (AES, RSA) – Transparent Data Encryption (TDE) – Column-level 
+encryption – Hashing and checksums – Digital signatures – Key management – Data masking 
+and tokenization. 
+Case Study: Implementing TDE in Microsoft SQL Server for Healthcare Records 
+ 
+UNIT IV PRIVACY PRESERVATION AND INFERENCE CONTROL         9 Hrs 
+Privacy-preserving data publishing – k-Anonymity, l-Diversity, t-Closeness – Statistical 
+database security – Inference detection and prevention – Differential privacy – GDPR and 
+HIPAA compliance in database systems. 
+Case Study: De-identifying Patient Data for Research (Healthcare Compliance) 
+ 
+UNIT V AUDITING, MONITORING, AND CLOUD DATABASE SECURIT        9 Hrs 
+Database activity monitoring – Security auditing tools – Log analysis – Triggers and policies – Security in NoSQL databases – Cloud database security – Access control in distributed 
+databases – Security-as-a-Service. 
+Case Study: Auditing and Monitoring Access Logs in AWS RDS 
+ 
+ 
+ 
+Course Outcomes 
+After completing this course, the student will be able to: 
+1. Analyze database vulnerabilities and threats and apply mitigation techniques. 
+2. Implement access control and authorization mechanisms in relational and non-relational 
+databases. 
+3. Apply encryption and data integrity mechanisms for secure storage and transmission. 
+4. Apply privacy-preserving techniques and comply with data protection regulations. 
+5. Monitor, audit, and secure database systems in enterprise and cloud environments. 
+ 
+Text Books: 
+1. Silberschatz, Korth & Sudarshan, Database System Concepts, 7th Edition, McGraw
+Hill, 2020 (Chapters on Security). 
+2. Hassan A. Afyouni, Database Security and Auditing, Cengage Learning, 2009. 
+ 
+Reference Books: 
+1. Ron Ben Natan, Implementing Database Security and Auditing, Elsevier, 2005. 
+2. Chun Zhang, Database Security and Privacy in Computing, Springer, 2022. 
+3. Bertino & Sandhu, Database Security – Concepts, Approaches, and Challenges, IEEE 
+Transactions. 
+4. Gertz & Jajodia, Handbook of Database Security, Springer. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program Elective IV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCT6604a                            Advanced Wireless Sensor Networks                         L   T   P   C 
+3   0   0   3 
+Course Description: 
+This course provides an in-depth understanding of Advanced Wireless Sensor Networks 
+(AWSNs), covering their architecture, protocols, and applications. Students will gain insights 
+into sensor node design, wireless transmission, MAC and routing protocols, and transport 
+mechanisms specific to WSN environments. The course also addresses middleware solutions, 
+network deployment strategies, and performance optimization. Advanced topics such as 
+LPWAN integration, machine learning-based routing, middleware for fog/edge 
+computing, and security using blockchain and lightweight cryptography are introduced to 
+align with current trends in smart systems and IoT ecosystems. Through case studies and 
+research insights, students will develop the ability to design, analyze, and prototype sensor 
+network solutions for complex applications. 
+ 
+Course Objectives: 
+The primary objective of this course is to introduce the basic principles, techniques, and 
+applications of Artificial Intelligence. 
+The course should enable the students to: 
+1. To introduce the fundamental concepts, architecture, and applications of Wireless 
+Sensor Networks across various domains. 
+2. To examine the design challenges and trade-offs involved in sensor node technology, 
+wireless communication, and energy efficiency. 
+3. To analyze and compare various MAC, routing, and transport protocols tailored for 
+WSN environments. 
+4. To explore middleware architectures and integration of emerging technologies like 
+edge computing, LPWAN, and IoT frameworks in WSNs. 
+5. To evaluate performance, security, and deployment strategies using modern tools and 
+techniques for real-time and secure sensor network systems. 
+ 
+UNIT I Fundamentals and Emerging Applications of WSNs                                       9Hrs 
+Introduction to Wireless Sensor Networks-Overview of WSN Technology and Architectures
+Applications: Category 1 and 2 Applications-Emerging Applications: Smart Cities, Precision 
+Agriculture, Disaster Monitoring-Recent Trends in WSN Design and Deployment-Next-Gen 
+WSNs with Edge AI, Energy Harvesting. 
+ 
+UNIT II Sensor Node Architecture and Wireless Technologies                         9Hrs 
+Sensor Node Technology and Components-Sensor Taxonomy and System Design-WSN 
+Operating Environments-Wireless Transmission Basics: Modulation, Propagation-Energy
+Efficient Communication and Duty Cycling- Integration of LPWAN (LoRa, SigFox, NB-IoT) 
+in WSNs 
+UNIT III Medium Access and Routing Protocols in WSNs                             9 Hrs 
+MAC Protocol Fundamentals for WSNs-Contention-based and Schedule-based MACs-Case 
+Studies: Sensor-MAC, IEEE 802.15.4-Routing Challenges in WSNs-Data-Centric and 
+ 
+ 
+Geographic Routing- Opportunistic and Reinforcement Learning-Based Routing-6LoWPAN 
+and IPv6 in WSN. 
+ 
+UNIT IV Transport Protocols and Middleware Solutions                             9 Hrs                        
+Overview of Traditional Transport Protocols-Transport Protocol Design Constraints in WSNs
+Protocols: PSFQ, CODA, RMST, GARUDA-WSN Middleware Design Principles
+Middleware Architectures and Services- Fog and Edge Computing Integration with 
+Middleware-Middleware for Real-Time and Mission-Critical WSNs 
+ 
+UNIT V WSN Deployment, Security, and Performance Optimization              9 Hrs 
+Network Deployment: Static vs Mobile Nodes, Coverage Strategies-Performance Metrics and 
+Optimization Techniques-Security Challenges: Attacks on WSN and Mitigation-Lightweight 
+Cryptography for WSN-Trust Management in Distributed Sensor Environments- Blockchain 
+for Secure WSN Communication-AI/ML for Intrusion Detection in WSNs 
+ 
+Course Outcomes: 
+After completion of the course, students will be able to  
+1. Understand and explain the architecture, characteristics, and application domains of 
+Wireless Sensor Networks. (Understanding) 
+2.  Analyze the design space and performance trade-offs in sensor node technologies and 
+wireless communication systems. (Analyzing) 
+3. Design suitable MAC, routing, and transport protocols for energy-efficient and 
+scalable WSN communication. (Designing) 
+4.  Evaluate middleware solutions and integrate advanced technologies like edge 
+computing and LPWAN into WSN frameworks. (Evaluating) 
+5. Assess the deployment strategies, security challenges, and performance metrics of 
+WSNs using modern tools and techniques. (Evaluating & Applying 
+ 
+Text Books: 
+1. Bagwari, A., Tomar, G. S., Kanti, V., Barbosa, V., & Sastry, K. S., Advanced 
+Wireless Communication and Sensor Networks: Applications and Simulations, 
+Routledge, 1st Edition, 2023. 
+2. Chatzimisios, P., Verikoukis, C., & Antonopoulos, A., Concepts, Applications, 
+Experimentation and Analysis of Wireless Sensor Networks, Springer, 3rd Edition, 
+2023. 
+ 
+References Books: 
+1. Kazem Sohraby, Daniel Minoli, and Taieb Znati, Wireless Sensor Networks: 
+Technology, Protocols, and Applications, Wiley India, 2nd Edition, 2014. 
+2. Feng Zhao and Leonidas J. Guibas, Wireless Sensor Networks: An Information 
+Processing Approach, Elsevier (Morgan Kaufmann Publishers), 1st Edition, 2007. 
+3. I. F. Akyildiz, W. Su, Y. Sankarasubramaniam, and E. Cayirci, "A survey on sensor 
+networks," IEEE Communications Magazine, vol. 40, no. 8, pp. 102–114, Aug. 2002. 
+doi: 10.1109/MCOM.2002.1024422. 
+ 
+ 
+4. S. Hadim and N. Mohamed, "Middleware for wireless sensor networks: A survey," 
+Journal of Computer Science and Technology, vol. 23, no. 3, pp. 307–320, May 2008. 
+doi: 10.1007/s11390-008-9135-x. 
+5. K. Christidis and M. Devetsikiotis, "Blockchains and smart contracts for the Internet 
+of Things," IEEE Access, vol. 4, pp. 2292–2303, 2016. doi: 
+10.1109/ACCESS.2016.2566339. 
+6. M. Satyanarayanan et al., "A survey on edge computing for the Internet of Things," 
+IEEE Access, vol. 4, pp. 1–1, 2016. doi: 10.1109/ACCESS.2016.2572298. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+MTCT6604b                      Advanced Wireless Adhoc Networks                            L   T   P   C 
+3   0   0   3 
+Course Description: 
+This course introduces students to the fundamentals and advancements in wireless network 
+technologies, emphasizing the design and functioning of ad hoc and sensor networks. It 
+explores key topics such as MAC and routing protocols, transport and security mechanisms, 
+energy conservation, and Quality of Service (QoS). In addition, the course covers emerging 
+areas like heterogeneous wireless systems including 5G, Cognitive Radio Networks, and IoT
+based applications. Students will develop analytical skills and technical knowledge to design, 
+implement, and evaluate advanced wireless systems suitable for real-world deployments. 
+ 
+Course Objectives: 
+The primary objective of this course is to introduce the basic principles, techniques, and 
+applications of Artificial Intelligence. 
+The course should enable the students to: 
+1. Understand the characteristics and challenges of wireless ad hoc networks. 
+2. Analyze and evaluate MAC and routing protocols suited for infrastructure-less 
+networks. 
+3. Study multicast and transport mechanisms and explore network security strategies. 
+4. Examine QoS frameworks and energy-saving techniques in wireless settings. 
+5. Investigate the role of heterogeneous wireless systems in real-time applications. 
+ 
+UNIT I Introduction to Ad Hoc Wireless Networks and MAC Protocols            9 Hrs 
+Characteristics and applications of ad hoc wireless networks-Issues and challenges in ad hoc 
+wireless networks-Ad hoc Wireless Internet-MAC Protocols: Design challenges and goals
+Classification of MAC Protocols-Contention-Based MAC Protocols-Reservation and 
+Scheduling Mechanisms- MAC Protocols using Directional Antennas 
+ 
+UNIT II Routing in Ad Hoc Wireless Networks                            9 Hrs 
+Routing protocol design challenges-Classification of Routing Protocol-Table-Driven 
+Routing: Destination-Sequenced Distance-Vector (DSDV)-Cluster-Head Gateway Switch 
+Routing (CGSR) On-Demand Routing: Dynamic Source Routing (DSR)-Ad hoc On-demand 
+Distance Vector (AODV)-Location-Aided Routing (LAR)-Associativity-Based Routing
+Hybrid & Hierarchical Routing: Zone Routing Protocol (ZRP)-Hierarchical State Routing- 
+Power-Aware Routing Protocols 
+ 
+UNIT III Multicast Routing, Transport & Security Protocols                        9 Hrs 
+Multicast Routing Protocols: Design issues and reference models-Tree-based Protocols: 
+Bandwidth-Efficient Multicast Routing-Preferred Link-Based Multicast Protocol-SLE: Mesh
+Based Protocols (ODMRP, CAMP)-Transport Layer in Ad hoc Networks: Design goals, TCP 
+variants (TCP-F, Split TCP, TCP-Bus)-Security in Ad hoc Networks: Challenges in security 
+provisioning-Network security attacks – Transport/Application Layer-Key management – 
+Symmetric and Asymmetric- Security-Aware AODV Protocol 
+ 
+ 
+ 
+UNIT IV Quality of Service and Energy Management in Wireless Networks          9 Hrs 
+QoS in Ad hoc Networks: Issues, Classification-MAC Layer QoS Solutions: IEEE 802.11e, 
+DBASE-Network Layer QoS Solutions: Ticket-Based QoS Routing-Bandwidth Routing 
+Protocol-On-Demand QoS Routing Protocol-Energy Management Techniques: Battery and 
+Transmission Management-Power-aware Routing- Case Study on QoS and Energy Efficiency 
+ 
+UNIT V Advanced Topics in Heterogeneous Wireless Networks                            9 Hrs 
+Introduction to Heterogeneous Wireless Networks-Integration of LTE, Wi-Fi, 5G, ZigBee, and 
+Bluetooth-Seamless Handoff, Load Balancing & Interoperability-Cognitive Radio Networks – 
+Architecture and Applications-Software Defined Wireless Networking (SDWN)-Applications: 
+Wireless Sensor Networks in Healthcare, Smart Cities-VANETs and Mobile Social Networks
+IoT-based Wireless Applications-Emerging Trends: AI in Wireless, Edge Computing, 
+Federated Learning 
+ 
+Course Outcomes: 
+After completion of the course, students will be able to  
+1. Apply fundamental concepts of wireless ad hoc networks to design and analyse network 
+scenarios. 
+2.  Evaluate and compare various MAC and routing protocols for performance and 
+scalability in mobile environments. 
+3. Design secure and reliable transport mechanisms for wireless networks with 
+constrained infrastructure. 
+4. Implement QoS provisioning techniques and energy-efficient mechanisms suitable for 
+wireless ad hoc systems. 
+5. Explore and assess advanced wireless technologies including heterogeneous networks, 
+cognitive radio, and IoT-based applications. 
+ 
+Text Books: 
+1. C. Siva Ram Murthy and B. S. Manoj, Ad Hoc Wireless Networks: Architectures 
+and Protocols, Pearson Education, 2nd Edition, 2011. 
+2. Kaveh Pahlavan and Prashant Krishnamurthy, Principles of Wireless Networks: A 
+Unified Approach, Pearson Education, 1st Edition, 2013. 
+ 
+Reference Books: 
+1. David Tse and Pramod Viswanath, Fundamentals of Wireless Communication, 
+Cambridge University Press, 1st Edition, 2005. 
+2. William Stallings, Wireless Communications & Networks, Pearson Education, 2nd 
+Edition, 2004. 
+3. Fouad A. Tobagi, Wireless Communication Systems: Design and Analysis, Wiley, 1st 
+Edition, 2002. 
+4. Jiangzhou Wang, Wireless Communication Systems: Advanced Topics, Springer, 1st 
+Edition, 2008. 
+5. Rappaport, Theodore S., Wireless Communications: Principles and Practice, Pearson 
+Education, 2nd Edition, 2002. 
+ 
+ 
+MTCT6604c                                        Quantum Computing                             L   T   P   C 
+3   0   0   3 
+Course Description: 
+This course introduces students to the fundamental concepts of quantum computing, covering 
+essential linear algebra, quantum physics, quantum hardware, and algorithms. The course also 
+delves into quantum architecture, quantum gates, quantum circuits, and quantum entanglement. 
+Students will learn about key quantum algorithms, including Shor’s and Grover’s algorithms, 
+and explore the impact of quantum computing on current cryptographic methods, including 
+asymmetric encryption algorithms. 
+ 
+Course Objectives:  
+1. Understand the basics of linear algebra, complex numbers, and set theory, with an 
+emphasis on their applications to quantum computing and mathematical foundations. 
+2. Gain a solid understanding of the fundamental concepts in quantum physics, including 
+quantum states, entanglement, and key principles of quantum mechanics. 
+3. Learn about quantum architecture and quantum gates, and understand the hardware 
+requirements, including qubits and decoherence management. 
+4. Explore quantum algorithms, including Deutsch’s, Shor’s, and Grover’s algorithms, 
+and understand their applications and theoretical importance. 
+5. Study current asymmetric cryptographic algorithms like RSA and Diffie-Hellman, and 
+analyze the impact of quantum computing on modern cryptography. 
+ 
+UNIT I                                                                                                                                  9 Hrs 
+Introduction to Essential Linear Algebra: Some Basic Algebra, Matrix Math, Vectors and 
+Vector Spaces, Set Theory. Complex Numbers: Definition of Complex Numbers, Algebra of 
+Complex Numbers, Complex Numbers Graphically, Vector Representations of Complex 
+Numbers, Pauli Matrice, Transcendental Numbers.  
+ 
+UNIT II                  9 Hrs 
+Basic Physics for Quantum Computing: The Journey to Quantum, Quantum Physics 
+Essentials, Basic Atomic Structure, Hilbert Spaces, Uncertainty, Quantum States, 
+Entanglement Basic Quantum Theory: Further with Quantum Mechanics, Quantum 
+Decoherence, Quantum Electrodynamics, Quantum Chromodynamics, Feynman Diagram 
+Quantum Entanglement and QKD, Quantum Entanglement, Interpretation, QKE.  
+ 
+UNIT III                                                                                                                             9 Hrs 
+Quantum Architecture: Further with Qubits, Quantum Gates, More with Gates, Quantum 
+Circuits, The D-Wave Quantum Architecture.  
+Quantum Hardware: Qubits, How Many Qubits Are Needed? Addressing Decoherence, 
+Topological Quantum Computing, Quantum Essentials.  
+ 
+UNIT IV                                                                                                                             9 Hrs 
+Quantum Algorithms: What Is an Algorithm? Deutsch’s Algorithm, Deutsch-Jozsa 
+Algorithm, Bernstein-Vazirani Algorithm, Simon’s Algorithm, Shor’s Algorithm, Grover’s 
+Algorithm.  
+ 
+ 
+ 
+UNIT V                                                                                                                                9 Hrs 
+Current Asymmetric Algorithms: RSA, Diffie-Hellman, Elliptic Curve The Impact of 
+Quantum Computing on Cryptography: Asymmetric Cryptography, Specific Algorithms, 
+Specific Applications.  
+ 
+Course Outcomes:  
+At the end of this course the student will be able to, 
+1. Demonstrate proficiency in the mathematical foundations of quantum computing, 
+including linear algebra and complex numbers. 
+2. Understand quantum physics principles and the essential components of quantum 
+theory, including entanglement and quantum decoherence. 
+3. Acquire knowledge of quantum architecture, quantum gates, quantum circuits, and the 
+hardware requirements of quantum computing systems. 
+4. Develop an understanding of various quantum algorithms and their practical 
+applications in quantum computing. 
+5. Analyze the impact of quantum computing on asymmetric cryptography and evaluate 
+how quantum algorithms can affect modern cryptographic protocols. 
+ 
+Text Books:  
+1. Nielsen M. A., Quantum Computation and Quantum Information, Cambridge 
+University Press. 
+2. Dr. Chuck Easttom, Quantum Computing Fundamentals, Pearson. 
+ 
+Reference Books:  
+1. Quantum Computing for Computer Scientists by Noson S. Yanofsky and Mirco A. 
+Mannucci. 
+2. Benenti G., Casati G. and Strini G., Principles of Quantum Computation and 
+Information, Vol. Basic Concepts, Vol. 
+3. Basic Tools and Special Topics, World Scientific. Pittenger A. O., An Introduction to 
+Quantum Computing Algorithms. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOTT6305                         English for Research Paper Writing                            L   T   P   C 
+2   0   0   0 
+Course Description: 
+This course is designed to help postgraduate students develop essential academic and technical 
+writing skills for effective communication of research. It focuses on the structure and style of 
+scientific writing, including clarity, conciseness, coherence, and correctness. Students will 
+learn how to plan, draft, revise, and finalize various components of a research paper such as 
+abstracts, introductions, literature reviews, methods, results, and conclusions. Emphasis is 
+placed on ethical writing practices, including proper citation and avoiding plagiarism, 
+ultimately guiding students to produce publication-ready manuscripts. 
+ 
+Course Objectives: 
+By the end of this course, students will be able to: 
+1. Understand the principles of academic and technical writing specific to research papers. 
+2. Learn to structure sentences, paragraphs, and sections to achieve clarity and logical 
+flow. 
+3. Develop skills to write major components of research papers including abstract, 
+introduction, and conclusion. 
+4. Apply ethical writing practices such as paraphrasing, referencing, and avoiding 
+plagiarism. 
+5. Enhance their ability to revise and polish manuscripts for effective journal submission. 
+ 
+UNIT I                   6 Hrs 
+Planning and Preparation, Word Order, Breaking up long sentences, Structuring Paragraphs 
+and Sentences, Being Concise and Removing, Redundancy, Avoiding Ambiguity and 
+Vagueness  
+ 
+UNIT II                  5 Hrs 
+Clarifying Who Did What, Highlighting Your Findings, Hedging and Criticising, Paraphrasing 
+and Plagiarism, Sections of a Paper, Abstracts.  
+ 
+UNIT III                  8 Hrs 
+Review of the Literature, Methods, Results, Discussion, Conclusions, The  Final Check.  key 
+skills are needed when writing a Title, key skills are needed when writing an Abstract, key 
+skills are needed when writing an Introduction, skills needed when writing a Review of the 
+Literature,  
+ 
+UNIT IV                   7 Hrs 
+Skills are needed when writing the Methods, skills needed when writing the Results, skills are 
+needed when writing the Discussion, skills are needed when writing the Conclusions  
+ 
+UNIT V                  4 Hrs 
+Useful phrases, how to ensure paper is as good as it could possibly be the first- time submission. 
+ 
+ 
+ 
+Course Outcomes: 
+After successful completion of the course, students will be able to: 
+1. Demonstrate the ability to write clearly, concisely, and precisely in academic English. 
+2. Structure research papers according to scientific conventions with logical flow and 
+coherence. 
+3. Write each section of a research paper using appropriate academic style and tone. 
+4. Avoid redundancy, ambiguity, and plagiarism using effective paraphrasing and 
+referencing techniques. 
+5. Prepare a complete, well-written technical or scientific manuscript ready for 
+submission to academic journals. 
+ 
+Text Books and References: 
+1. Goldbort R (2006) Writing for Science, Yale University Press. 
+2. 2. Day R (2006) How to Write and Publish a Scientific Paper, Cambridge University 
+Press. 
+3. 3. Highman N (1998), Handbook of Writing for the Mathematical Sciences, SIAM. 
+Highman’sbook.  
+4. 4. Adrian Wallwork, English for Writing Research Papers, Springer New York 
+Dordrecht Heidelberg London, 2011.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+SOTL6302   Advanced Machine Learning Lab    L   T   P   C 
+0   0   4   2 
+Course Description: 
+This lab course provides hands-on experience with advanced machine learning techniques, 
+focusing on deep learning, generative models, and scalable ML frameworks. Students will 
+implement models using TensorFlow, PyTorch, and cloud-based AI services, applying them to 
+real-world datasets in image processing, NLP, and time series forecasting. 
+ 
+Course Objectives: 
+1. Implement advanced machine learning models using Python and ML libraries. 
+2. Explore deep learning architectures such as CNNs, RNNs, and Transformers. 
+3. Work with generative models like GANs and VAEs. 
+4. Optimize ML models using hyperparameter tuning and transfer learning. 
+5. Deploy machine learning models on cloud and edge platforms. 
+ 
+Recommended Tools for Advanced Machine Learning Lab 
+Programming Languages & IDEs 
+• Python 3.x – Primary language for ML and deep learning 
+• Jupyter Notebook – Interactive development environment 
+• Google Colab – Cloud-based notebook with free GPU/TPU access 
+• PyCharm – IDE for Python development 
+Deep Learning Frameworks 
+• TensorFlow 2.x – Deep learning library for training and deploying ML models 
+• PyTorch – Flexible deep learning framework 
+• Keras – High-level API for building deep learning models 
+• ONNX (Open Neural Network Exchange) – Model format for interoperability 
+Machine Learning & Optimization 
+• Scikit-learn – Library for machine learning algorithms 
+• XGBoost / LightGBM – Gradient boosting libraries 
+• Optuna / Hyperopt – Hyperparameter optimization frameworks 
+NLP & Computer Vision 
+• NLTK / spaCy – Libraries for NLP processing 
+• Transformers (Hugging Face) – Pretrained models for NLP tasks 
+• OpenCV – Computer vision and image processing library 
+Data Processing & Visualization 
+• Pandas / NumPy – Data manipulation libraries 
+• Matplotlib / Seaborn / Plotly – Data visualization tools 
+Cloud & Edge AI Deployment 
+• AWS SageMaker / Google Vertex AI / Azure ML – Cloud ML services 
+• TensorFlow Lite / OpenVINO – Optimizing ML models for edge deployment 
+List of Experiments 
+1: Introduction to Advanced Machine Learning Libraries 
+• Working with TensorFlow and PyTorch 
+• Model building, training, and evaluation basics 
+ 
+ 
+2: Deep Learning for Image Processing 
+• Implementing Convolutional Neural Networks (CNNs) 
+• Transfer Learning with Pretrained Models (ResNet, VGG, EfficientNet) 
+3: Recurrent Neural Networks and Time Series Analysis 
+• Implementing RNNs, LSTMs, and GRUs for sequence data 
+• Forecasting with Transformer-based models (TFT, BERT for Time Series) 
+4: Natural Language Processing with Deep Learning 
+• Training custom word embeddings (Word2Vec, FastText) 
+• Implementing Transformer-based models (BERT, GPT) 
+5: Generative Models and Unsupervised Learning 
+• Implementing Variational Autoencoders (VAEs) 
+• Training Generative Adversarial Networks (GANs) 
+6: Hyperparameter Optimization and Model Fine-Tuning 
+• Grid search, Bayesian optimization, and automated ML (AutoML) 
+• Experimenting with dropout, batch normalization, and learning rate scheduling 
+7: Scalable Machine Learning with Big Data 
+• Training ML models on Apache Spark (MLlib) 
+• Using distributed computing frameworks for large-scale AI 
+8: Deploying ML Models on Cloud and Edge Devices 
+• ML model deployment using AWS SageMaker, Google Vertex AI, and Azure ML 
+• Optimizing models for edge deployment (TensorFlow Lite, OpenVINO) 
+9: Explainable AI and Model Interpretability 
+• Visualizing and interpreting ML models (SHAP, LIME) 
+• Analyzing bias and fairness in AI models 
+10: Case Study and Project Implementation 
+• Students work on a real-world project integrating various ML techniques 
+ 
+Course Outcomes: 
+After completing this course, students will be able to: 
+1. Develop and train deep learning models for structured and unstructured data. 
+2. Implement generative models for synthetic data generation. 
+3. Optimize and fine-tune models for performance and efficiency. 
+4. Deploy ML models in cloud and IoT environments. 
+5. Work with scalable ML frameworks for big data processing. 
+ 
+Textbooks & References 
+1. Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning, 1st Edition, MIT 
+Press, 2016. 
+2. François Chollet - Deep Learning with Python, 2nd Edition, Manning Publications, 
+2021. 
+3. Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and 
+TensorFlow, 3rd Edition, O'Reilly Media, 2022. 
+4. Sebastian Raschka, Vahid Mirjalili - Python Machine Learning, 3rd Edition, Packt 
+Publishing, 2019. 
+ 
+ 
+5. Zahid Hossain, Scott Haines - Scalable Machine Learning with Spark, 1st Edition, 
+O’Reilly Media, 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MTCL6501   Advanced Computer Networks Lab  L   T   P   C 
+0   0   4   2 
+Course Description: 
+This course offers practical knowledge in network programming and protocols through the 
+implementation of client-server applications, network analysis, and various network layers. 
+Students will work with tools like Wireshark for protocol analysis and simulate network 
+topologies for different network scenarios. Topics include queuing management, MAC-layer 
+protocols, routing protocols, and transport-layer protocols. Additionally, students will gain 
+hands-on experience with network security mechanisms, applying these principles to real
+world network configurations. 
+ 
+Course Objectives:  
+1. Understand and implement client-server programs for various network applications. 
+2. Study and analyze network traffic using Wireshark protocol analyzer. 
+3. Design and implement network topologies for simulation purposes. 
+4. Implement queuing management and MAC-layer protocols for network optimization. 
+5. Apply routing protocols, transport-layer protocols, and network security mechanisms 
+to real-world network configurations. 
+ 
+List of Experiments:  
+1. Implementation of client server programs for different network applications.  
+2. Study and analysis of the network using Wireshark network protocol analyser.  
+3. Implementation of topology generation for network simulation.  
+4. Implementation of queuing management.  
+5. Implementation of MAC-layer protocols.  
+6. Implementation of routing protocols.  
+7. Implementation of transport-layer protocols.  
+8. Implementation of network security mechanisms. 
+ 
+Course Outcomes:  
+1. Ability to develop client-server programs for network communication. 
+2. Proficiency in using Wireshark to analyze and troubleshoot network protocols. 
+3. Skills in simulating and managing network topologies and configurations. 
+4. Understanding of queuing management and MAC-layer protocols for effective network 
+traffic handling. 
+5. Knowledge of implementing routing protocols, transport-layer protocols, and network 
+security mechanisms to ensure efficient and secure communication. 
