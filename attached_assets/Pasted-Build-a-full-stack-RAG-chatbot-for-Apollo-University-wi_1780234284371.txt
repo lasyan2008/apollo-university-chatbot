@@ -1,0 +1,269 @@
+Build a full-stack RAG chatbot for Apollo University with the following 
+exact specifications:
+
+## PROJECT NAME
+Apollo University Smart Chatbot
+
+## TECH STACK
+- Frontend: React (Vite)
+- Backend: Node.js + Express
+- Vector DB: Pinecone (index name: "apollo-university", dimensions: 384, metric: cosine)
+- LLM: Groq API (model: llama3-8b-8192)
+- Embeddings: HuggingFace all-MiniLM-L6-v2 (via @xenova/transformers)
+- Styling: Tailwind CSS
+
+## ENVIRONMENT VARIABLES (use Replit Secrets)
+GROQ_API_KEY=your_groq_api_key
+PINECONE_API_KEY=your_pinecone_api_key
+PINECONE_INDEX=apollo-university
+
+## FOLDER STRUCTURE
+/
+├── client/                  (React frontend)
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── GreetingScreen.jsx
+│   │   │   ├── SchoolSelector.jsx
+│   │   │   ├── BranchSelector.jsx
+│   │   │   ├── ChatWindow.jsx
+│   │   │   ├── SuggestedQuestions.jsx
+│   │   │   └── SourceCitation.jsx
+│   │   ├── App.jsx
+│   │   └── main.jsx
+├── server/
+│   ├── index.js             (Express server)
+│   ├── routes/
+│   │   └── chat.js          (chat API route)
+│   ├── services/
+│   │   ├── embeddings.js    (HuggingFace embeddings)
+│   │   ├── pinecone.js      (Pinecone client)
+│   │   └── groq.js          (Groq LLM client)
+├── scripts/
+│   └── uploadDocs.js        (script to chunk and upload txt files to Pinecone)
+├── docs/                    (all txt files go here, organized by school/branch)
+│   ├── SOT/
+│   ├── SOM/
+│   ├── SOHS/
+│   ├── AIPS/
+│   ├── SOSS/
+│   └── academic_calendar.txt
+├── .env
+└── package.json
+
+## SCHOOLS AND BRANCHES DATA
+Hardcode this exact data in a file called schoolsData.js:
+
+const schoolsData = [
+  {
+    id: "SOT",
+    name: "School of Technology",
+    shortName: "SOT",
+    branches: [
+      { id: "btech_cse", name: "B.Tech. Computer Science and Engineering" },
+      { id: "btech_aids", name: "B.Tech. CSE – Artificial Intelligence and Data Science" },
+      { id: "btech_aiml", name: "B.Tech. CSE – Artificial Intelligence and Machine Learning" },
+      { id: "btech_cyber", name: "B.Tech. CSE (Cyber Security)" },
+      { id: "btech_cloud", name: "B.Tech. CSE (Cloud Computing)" },
+      { id: "btech_aihealth", name: "B.Tech. CSE (AI & Healthcare Technology)" },
+      { id: "mtech_vlsi", name: "M.Tech. VLSI Design and Embedded Systems" },
+      { id: "mtech_ds", name: "M.Tech. Data Science" },
+      { id: "mtech_cse", name: "M.Tech. Computer Science and Engineering" },
+      { id: "mtech_ees", name: "M.Tech. Electronic Embedded Systems" }
+    ]
+  },
+  {
+    id: "SOM",
+    name: "School of Management",
+    shortName: "SOM",
+    branches: [
+      { id: "bba", name: "Bachelor of Business Administration (BBA)" },
+      { id: "mba_healthcare", name: "MBA – Hospital and Healthcare Management" }
+    ]
+  },
+  {
+    id: "SOHS",
+    name: "School of Health Sciences",
+    shortName: "SOHS",
+    branches: [
+      { id: "bsc_clinpsych", name: "B.Sc. Clinical Psychology" },
+      { id: "bsc_anaesthesia", name: "B.Sc. Anaesthesiology & Operation Theatre Technology" },
+      { id: "bsc_renal", name: "B.Sc. Renal Dialysis Technology" },
+      { id: "bsc_mlt", name: "B.Sc. Medical Laboratory Technology" },
+      { id: "boptom", name: "Bachelor of Optometry (B.Optom)" },
+      { id: "bsc_imaging", name: "B.Sc. Imaging Technology" },
+      { id: "bsc_emergency", name: "B.Sc. Emergency Medical Technology" },
+      { id: "bsc_physician", name: "B.Sc. Physician Assistant" },
+      { id: "bsc_respiratory", name: "B.Sc. Respiratory Therapy Technology" },
+      { id: "boc_occtherapy", name: "Bachelor in Occupational Therapy" },
+      { id: "bsc_genetics", name: "B.Sc. Genetics and Molecular Biology" },
+      { id: "bpt", name: "Bachelor of Physiotherapy (BPT)" },
+      { id: "bsc_biotech", name: "B.Sc. Bio-Technology" },
+      { id: "bsc_critical", name: "B.Sc. Critical Care Technology" },
+      { id: "msc_clinpsych", name: "M.Sc. Clinical Psychology" },
+      { id: "msc_healthinfo", name: "M.Sc. Health Informatics and Analytics" },
+      { id: "msc_medimaging", name: "M.Sc. Medical Imaging Technology" },
+      { id: "msc_medbiotech", name: "M.Sc. Medical Bio-Technology" },
+      { id: "mph", name: "Master of Public Health (MPH)" },
+      { id: "mpt", name: "Master of Physiotherapy (MPT)" },
+      { id: "mdt", name: "Masters of Dialysis Therapy (MDT)" },
+      { id: "mmls", name: "Master of Medical Laboratory Science (MMLS)" },
+      { id: "pgd_sportpsych", name: "P.G. Diploma in Sport Psychology" },
+      { id: "pgd_guidance", name: "P.G. Diploma in Advanced Guidance and Counselling" },
+      { id: "pgd_biostat", name: "P.G. Diploma in Biostatistics (PGDBS)" }
+    ]
+  },
+  {
+    id: "AIPS",
+    name: "Apollo Institute of Pharmaceutical Sciences",
+    shortName: "AIPS",
+    branches: [
+      { id: "bpharmacy", name: "B.Pharmacy" },
+      { id: "pharmd", name: "Pharm D (Doctor of Pharmacy)" }
+    ]
+  },
+  {
+    id: "SOSS",
+    name: "School of Social Sciences",
+    shortName: "SOSS",
+    branches: [
+      { id: "cert_systematic", name: "Certificate Course on Systematic Review Methods" }
+    ]
+  }
+];
+
+## USER FLOW (implement exactly)
+
+### Step 1 - Greeting Screen
+- Show Apollo University logo/name at top
+- Display: "👋 Hi! Welcome to Apollo University Smart Assistant"
+- Subtitle: "I can help you with syllabus, academic calendar, exam rules and more!"
+- Button: "Get Started →"
+
+### Step 2 - School Selection
+- Title: "Which school are you interested in?"
+- Show all 5 schools as clickable cards with:
+  - School short name (SOT, SOM, etc.)
+  - Full school name
+  - Number of programmes available
+  - Hover effect
+
+### Step 3 - Branch Selection
+- Show selected school name at top
+- Title: "Select your programme"
+- Show all branches of selected school as clickable cards
+- Back button to go back to school selection
+
+### Step 4 - Chat Window
+- Header: selected school + branch name
+- Back button to go back to branch selection
+- Chat messages area (user + bot bubbles)
+- Suggested questions chips shown at start (5-6 relevant questions per branch)
+- Input box at bottom with send button
+- Each bot answer shows source citation at bottom (which document it came from)
+- If no syllabus found: show "Syllabus for this programme is not available yet. 
+  Please contact the university directly."
+- Loading spinner while fetching answer
+
+## SUGGESTED QUESTIONS (show these as chips when chat starts)
+For SOT branches show:
+- "What are the subjects in Semester 1?"
+- "What is the minimum attendance required?"
+- "How is CGPA calculated?"
+- "What are the elective courses available?"
+- "When is Mid Exam 1?"
+- "What are the Programme Outcomes?"
+
+For SOHS branches show:
+- "What is the course duration?"
+- "What subjects are in first year?"
+- "What is the minimum attendance required?"
+- "What are the career opportunities?"
+- "When are semester exams held?"
+
+For SOM branches show:
+- "What is the course structure?"
+- "What are the core subjects?"
+- "What is the minimum attendance required?"
+- "What specializations are available?"
+
+For AIPS branches show:
+- "What is the course duration?"
+- "What are the core pharmacy subjects?"
+- "What is the minimum attendance required?"
+- "What are clinical training requirements?"
+
+## RAG PIPELINE
+
+### Embeddings Service (server/services/embeddings.js)
+- Use @xenova/transformers pipeline
+- Model: Xenova/all-MiniLM-L6-v2
+- Function: generateEmbedding(text) → returns 384-dim vector
+
+### Pinecone Service (server/services/pinecone.js)
+- Connect using PINECONE_API_KEY
+- Index: apollo-university
+- Function: queryPinecone(vector, topK=5, filter={branch_id}) → returns matches
+- Each document chunk stored with metadata: { branch_id, school_id, source_file, chunk_index }
+
+### Groq Service (server/services/groq.js)
+- Use groq-sdk package
+- Model: llama3-8b-8192
+- System prompt:
+  "You are Apollo University's official academic assistant. 
+  Answer questions based ONLY on the provided context from the university's 
+  official documents. If the answer is not in the context, say 
+  'I don't have information about this in the current documents. 
+  Please contact the university directly.' 
+  Be helpful, accurate, and concise. Format answers clearly."
+- Function: generateAnswer(question, context) → returns answer string
+
+### Chat Route (server/routes/chat.js)
+POST /api/chat
+Body: { question, branch_id, school_id }
+Steps:
+1. Generate embedding for question
+2. Query Pinecone with embedding + filter by branch_id
+3. Also query with filter by "academic_calendar" for general questions
+4. Build context from top 5 matches
+5. Send to Groq with system prompt + context + question
+6. Return { answer, sources: [source_file names] }
+
+## DOCUMENT UPLOAD SCRIPT (scripts/uploadDocs.js)
+- Read all .txt files from /docs folder recursively
+- For each file:
+  - Extract branch_id from folder path (e.g. docs/SOT/btech_aiml.txt → branch_id: btech_aiml)
+  - Extract school_id from folder name (e.g. SOT)
+  - Chunk text into 500 character chunks with 50 character overlap
+  - Generate embedding for each chunk
+  - Upload to Pinecone with metadata: { branch_id, school_id, source_file, chunk_index, text }
+- Show progress: "Uploading chunk X of Y from filename..."
+- Run with: node scripts/uploadDocs.js
+
+## UI DESIGN REQUIREMENTS
+- Apollo University colors: Dark Blue (#1a237e) and Gold (#ffd700)
+- Clean, modern, professional look
+- Fully mobile responsive
+- Chat bubbles: user = blue right aligned, bot = white left aligned
+- Suggested questions as horizontal scrollable chips
+- Source citation shown as small grey text below each bot answer
+- Smooth transitions between screens
+- Apollo University branding in header
+
+## API ENDPOINTS
+- POST /api/chat → main chat endpoint
+- GET /api/health → health check
+- GET /api/schools → return schoolsData
+
+## PACKAGE.JSON SCRIPTS
+- "dev": run both client and server concurrently
+- "build": build React client
+- "upload": node scripts/uploadDocs.js
+- "start": node server/index.js
+
+## IMPORTANT NOTES
+- Never hallucinate answers — only use context from Pinecone
+- Always show source file name in citation
+- Handle errors gracefully with user-friendly messages
+- Add CORS to Express server
+- Use dotenv for environment variables
+- Make sure upload script can be run separately before starting the app

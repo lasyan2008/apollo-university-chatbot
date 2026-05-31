@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Apollo University Smart Chatbot"
+version = "1.0.0"
+id = "artifacts/apollo-chatbot"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18495
+
+[services.development]
+run = "pnpm --filter @workspace/apollo-chatbot run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/apollo-chatbot", "run", "build" ]
+publicDir = "artifacts/apollo-chatbot/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18495"
+BASE_PATH = "/"
