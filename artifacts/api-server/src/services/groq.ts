@@ -47,13 +47,13 @@ Please answer based only on the context provided above.`;
   logger.info({ question: question.substring(0, 100) }, "Sending question to Groq");
 
   const completion = await client.chat.completions.create({
-    model: "llama-3.3-70b-versatile",
+    model: "llama-3.1-8b-instant",
     messages: [
       { role: "system", content: SYSTEM_PROMPT },
       { role: "user", content: userMessage },
     ],
     temperature: 0.1,
-    max_tokens: 1024,
+    max_tokens: 800,
   });
 
   const answer = completion.choices[0]?.message?.content ?? "I could not generate an answer. Please try again.";

@@ -21,8 +21,8 @@ router.post("/chat", async (req, res): Promise<void> => {
     const embedding = await generateEmbedding(question);
 
     const [branchMatches, calendarMatches] = await Promise.all([
-      queryPinecone(embedding, 12, { branch_id }),
-      queryPinecone(embedding, 8, { branch_id: "academic_calendar" }),
+      queryPinecone(embedding, 8, { branch_id }),
+      queryPinecone(embedding, 6, { branch_id: "academic_calendar" }),
     ]);
 
     const allMatches = [...branchMatches, ...calendarMatches];

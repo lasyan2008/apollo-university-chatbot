@@ -82,11 +82,15 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
         };
         setMessages((prev) => [...prev, botMessage]);
       },
-      onError: () => {
+      onError: (err: unknown) => {
+        const status = (err as { response?: { status?: number } })?.response?.status;
+        const content = status === 429
+          ? "The AI service has reached its daily limit. Please try again in a little while — it resets every 24 hours."
+          : "Sorry, I encountered an error while trying to fetch the answer. Please try again.";
         const errorMessage: Message = {
           id: (Date.now() + 1).toString(),
           role: "bot",
-          content: "Sorry, I encountered an error while trying to fetch the answer. Please try again."
+          content,
         };
         setMessages((prev) => [...prev, errorMessage]);
       }
