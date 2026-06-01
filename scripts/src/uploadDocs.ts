@@ -45,6 +45,39 @@ function chunkText(text: string): string[] {
   return chunks;
 }
 
+/**
+ * Split academic calendar by === section headers ===
+ * Each chunk = one complete batch/semester block with its header prepended.
+ * This prevents cross-batch contamination caused by fixed-size chunking.
+ */
+function chunkBySection(text: string): string[] {
+  const sectionHeaderRe = /^={3,}.+={3,}$/m;
+  const lines = text.split("\n");
+  const chunks: string[] = [];
+  let currentHeader = "";
+  let currentLines: string[] = [];
+
+  const flush = () => {
+    const body = currentLines.join("\n").trim();
+    if (body.length > 0 && currentHeader) {
+      chunks.push(`${currentHeader}\n\n${body}`);
+    }
+  };
+
+  for (const line of lines) {
+    if (sectionHeaderRe.test(line.trim())) {
+      flush();
+      currentHeader = line.trim();
+      currentLines = [];
+    } else {
+      currentLines.push(line);
+    }
+  }
+  flush();
+
+  return chunks;
+}
+
 interface DocFile {
   filePath: string;
   branch_id: string;
@@ -117,7 +150,9 @@ async function main() {
 
   for (const doc of remaining) {
     const rawText = fs.readFileSync(doc.filePath, "utf-8");
-    const chunks = chunkText(rawText);
+    const chunks = doc.branch_id === "academic_calendar"
+      ? chunkBySection(rawText)
+      : chunkText(rawText);
 
     if (chunks.length === 0) {
       console.log(`Skipping ${doc.source_file} — no content`);

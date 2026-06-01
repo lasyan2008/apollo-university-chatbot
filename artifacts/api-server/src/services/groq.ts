@@ -25,7 +25,14 @@ Rules:
 4. Format your answers with bullet points or numbered lists when listing subjects, rules, or steps.
 5. Only say "I don't have information about this" if the context genuinely contains NO relevant details whatsoever.
 6. Never make up information — only use what is explicitly stated in the context.
-7. If the question is partially answerable, answer what you can and note what is missing.`;
+7. If the question is partially answerable, answer what you can and note what is missing.
+
+CRITICAL — Batch Year Matching:
+- The academic calendar context contains sections for DIFFERENT admitted batches (e.g. "2021-22 ADMITTED BATCH", "2022-23 ADMITTED BATCH", "2023-24 ADMITTED BATCH", "2024-25 ADMITTED BATCH", "2025-26 ADMITTED BATCH").
+- Each section header looks like: === 2024-25 ADMITTED BATCH - III SEMESTER ===
+- If the student's question mentions a specific batch year (e.g. "2024-25 batch"), you MUST ONLY use dates from the section whose header exactly matches that batch year.
+- NEVER mix dates from different batch years. If you see "2023-24" and "2024-25" sections in the context, pick only the one that matches the question.
+- If no batch year is mentioned in the question, use the most recent batch section available.`;
 
 export async function generateAnswer(question: string, context: string): Promise<string> {
   const client = getGroqClient();
