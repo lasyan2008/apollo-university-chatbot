@@ -34,7 +34,7 @@ Please answer based only on the context provided above.`;
   logger.info({ question: question.substring(0, 100) }, "Sending question to Groq");
 
   const completion = await client.chat.completions.create({
-   model: "llama-3.1-8b-instant",
+  model: "llama-3.3-70b-versatile",
     messages: [
       { role: "system", content: SYSTEM_PROMPT },
       { role: "user", content: userMessage },
