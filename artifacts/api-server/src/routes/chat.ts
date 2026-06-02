@@ -35,10 +35,10 @@ router.post("/chat", async (req, res): Promise<void> => {
     }
 
    const context = allMatches
-      .filter((m) => m.metadata.text)
+       .filter(m => m.score > 0.3)
       .map(
         (m) =>
-          `[Source: ${m.metadata.source_file ?? "unknown"}]\n${(m.metadata.text as string).slice(0, 800)}`
+          `[Source: ${m.metadata.source_file ?? "unknown"}]\n${(m.metadata.text as string).slice(0, 1500)}`
       )
       .join("\n\n---\n\n");
 
