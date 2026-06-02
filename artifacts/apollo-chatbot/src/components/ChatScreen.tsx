@@ -57,13 +57,10 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
 
   const suggestions = SUGGESTIONS[school.shortName] || SUGGESTIONS.SOT;
 
- useEffect(() => {
-    const timer = setTimeout(() => {
-      if (scrollRef.current) {
-        scrollRef.current.scrollTop = scrollRef.current.scrollHeight + 1000;
-      }
-    }, 200);
-    return () => clearTimeout(timer);
+useEffect(() => {
+    if (scrollRef.current) {
+      scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
+    }
   }, [messages, isPending]);
   
   const handleSend = (text: string) => {
@@ -119,7 +116,7 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
         </div>
       </header>
 
-     <div className="flex-1 overflow-y-auto p-4 space-y-6 min-h-0" ref={scrollRef}>
+     <div className="flex-1 overflow-y-auto p-4 space-y-6" ref={scrollRef}>
         {messages.length === 0 && (
           <div className="mb-8">
             <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mb-4">
