@@ -100,7 +100,7 @@ useEffect(() => {
 
   return (
     <motion.div 
-      className="flex-1 flex flex-col bg-card"
+     className="flex-1 flex flex-col bg-card min-h-0 overflow-hidden"
       initial={{ opacity: 0, x: 20 }}
       animate={{ opacity: 1, x: 0 }}
       exit={{ opacity: 0, x: -20 }}
