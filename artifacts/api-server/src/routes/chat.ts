@@ -21,7 +21,7 @@ router.post("/chat", async (req, res): Promise<void> => {
     const embedding = await generateEmbedding(question);
 
     const [branchMatches, calendarMatches] = await Promise.all([
-      queryPinecone(embedding, 5, { branch_id }),
+      queryPinecone(embedding, 8, { branch_id }),
       queryPinecone(embedding, 5, { branch_id: "academic_calendar" }),
     ]);
 
@@ -34,11 +34,11 @@ router.post("/chat", async (req, res): Promise<void> => {
       return;
     }
 
-    const context = allMatches
+   const context = allMatches
       .filter((m) => m.metadata.text)
       .map(
         (m) =>
-          `[Source: ${m.metadata.source_file ?? "unknown"}]\n${m.metadata.text}`
+          `[Source: ${m.metadata.source_file ?? "unknown"}]\n${(m.metadata.text as string).slice(0, 800)}`
       )
       .join("\n\n---\n\n");
 
