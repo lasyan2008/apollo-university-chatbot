@@ -25,8 +25,7 @@ router.post("/chat", async (req, res): Promise<void> => {
 queryPinecone(embedding, 3, { school_id: school_id }),
 queryPinecone(embedding, 3, { branch_id: "academic_calendar" }),
 ]);
-const allMatches = [...branchMatches, ...broadMatches, ...calendarMatches];
-    const allMatches = [...branchMatches, ...calendarMatches];
+const allMatches = [...branchMatches, ...broadMatches, ...calendarMatches]
 
     if (allMatches.length === 0) {
       const noSyllabusMsg =
