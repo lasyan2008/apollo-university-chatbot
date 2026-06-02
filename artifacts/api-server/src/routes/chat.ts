@@ -21,9 +21,9 @@ router.post("/chat", async (req, res): Promise<void> => {
     const embedding = await generateEmbedding(question);
 
    const [branchMatches, broadMatches, calendarMatches] = await Promise.all([
-  queryPinecone(embedding, 5, { branch_id }),
-  queryPinecone(embedding, 5, { school_id: school_id }),
-  queryPinecone(embedding, 5, { branch_id: "academic_calendar" }),
+  queryPinecone(embedding, 4, { branch_id }),
+queryPinecone(embedding, 3, { school_id: school_id }),
+queryPinecone(embedding, 3, { branch_id: "academic_calendar" }),
 ]);
 const allMatches = [...branchMatches, ...broadMatches, ...calendarMatches];
     const allMatches = [...branchMatches, ...calendarMatches];
@@ -35,13 +35,13 @@ const allMatches = [...branchMatches, ...broadMatches, ...calendarMatches];
       return;
     }
 
-   const context = allMatches
-        .filter((m) => m.metadata.text)
-      .map(
-        (m) =>
-          `[Source: ${m.metadata.source_file ?? "unknown"}]\n${(m.metadata.text as string).slice(0, 800)}`
-      )
-      .join("\n\n---\n\n");
+  const context = allMatches
+  .filter((m) => m.metadata.text)
+  .map(
+    (m) =>
+      `[Source: ${m.metadata.source_file ?? "unknown"}]\n${(m.metadata.text as string).slice(0, 500)}`
+  )
+  .join("\n\n---\n\n");
 
     if (!context.trim()) {
       const noSyllabusMsg =
