@@ -59,8 +59,10 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
   const suggestions = SUGGESTIONS[school.shortName] || SUGGESTIONS.SOT;
 
   useEffect(() => {
-    bottomRef.current?.scrollIntoView({ behavior: "smooth" });
-  }, [messages, isPending]);;
+    setTimeout(() => {
+      bottomRef.current?.scrollIntoView({ behavior: "smooth" });
+    }, 100);
+  }, [messages, isPending]);
   
   const handleSend = (text: string) => {
     if (!text.trim() || isPending) return;
