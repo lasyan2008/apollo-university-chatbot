@@ -53,18 +53,14 @@ const SUGGESTIONS: Record<string, string[]> = {
 export function ChatScreen({ school, branch, messages, setMessages, onBack }: ChatScreenProps) {
   const [input, setInput] = useState("");
   const scrollRef = useRef<HTMLDivElement>(null);
+  const bottomRef = useRef<HTMLDivElement>(null);
   const { mutate: sendMessage, isPending } = useSendChatMessage();
 
   const suggestions = SUGGESTIONS[school.shortName] || SUGGESTIONS.SOT;
 
   useEffect(() => {
-    if (scrollRef.current) {
-      scrollRef.current.scrollTo({
-        top: scrollRef.current.scrollHeight,
-        behavior: "smooth"
-      });
-    }
-  }, [messages, isPending]);
+    bottomRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages, isPending]);;
   
   const handleSend = (text: string) => {
     if (!text.trim() || isPending) return;
@@ -176,7 +172,7 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
           </motion.div>
         ))}
 
-        {isPending && (
+       {isPending && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex items-start">
             <div className="bg-muted rounded-2xl rounded-tl-sm px-5 py-4 flex gap-1.5 items-center">
               <div className="w-2 h-2 rounded-full bg-primary/40 animate-bounce" />
@@ -185,8 +181,8 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
             </div>
           </motion.div>
         )}
+        <div ref={bottomRef} />
       </div>
-
       <div className="p-4 border-t border-border bg-card shrink-0">
         <form 
           onSubmit={(e) => { e.preventDefault(); handleSend(input); }}
