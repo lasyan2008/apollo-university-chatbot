@@ -53,18 +53,17 @@ const SUGGESTIONS: Record<string, string[]> = {
 export function ChatScreen({ school, branch, messages, setMessages, onBack }: ChatScreenProps) {
   const [input, setInput] = useState("");
   const scrollRef = useRef<HTMLDivElement>(null);
-  const bottomRef = useRef<HTMLDivElement>(null);
   const { mutate: sendMessage, isPending } = useSendChatMessage();
 
   const suggestions = SUGGESTIONS[school.shortName] || SUGGESTIONS.SOT;
 
-  useEffect(() => {
-    if (scrollRef.current) {
-      scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
-    }
-    setTimeout(() => {
-      bottomRef.current?.scrollIntoView({ behavior: "smooth" });
-    }, 150);
+ useEffect(() => {
+    const timer = setTimeout(() => {
+      if (scrollRef.current) {
+        scrollRef.current.scrollTop = scrollRef.current.scrollHeight + 1000;
+      }
+    }, 200);
+    return () => clearTimeout(timer);
   }, [messages, isPending]);
   
   const handleSend = (text: string) => {
@@ -186,7 +185,6 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
             </div>
           </motion.div>
         )}
-        <div ref={bottomRef} />
       </div>
       <div className="p-4 border-t border-border bg-card shrink-0">
         <form 
