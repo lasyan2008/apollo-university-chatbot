@@ -59,10 +59,13 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
 
   useEffect(() => {
     if (scrollRef.current) {
-      scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
+      scrollRef.current.scrollTo({
+        top: scrollRef.current.scrollHeight,
+        behavior: "smooth"
+      });
     }
   }, [messages, isPending]);
-
+  
   const handleSend = (text: string) => {
     if (!text.trim() || isPending) return;
 
