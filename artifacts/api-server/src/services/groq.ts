@@ -42,7 +42,22 @@ Answer directly and concisely based only on the context above.`;
   });
 
   const data = await response.json();
-  const answer = data.choices?.[0]?.message?.content?.trim() || "I could not generate an answer. Please try again.";
+  let rawContent = data.choices?.[0]?.message?.content?.trim() || "";
+
+// Remove reasoning text that appears before the actual answer
+// Reasoning models often end with the actual answer after long thinking text
+const lines = rawContent.split('\n');
+const answerLines: string[] = [];
+let foundAnswer = false;
+
+// Find the last substantive block (after all the "Let me..." reasoning)
+for (let i = lines.length - 1; i >= 0; i--) {
+  const line = lines[i].trim();
+  if (line === '' && answerLines.length > 0) break;
+  if (line !== '') answerLines.unshift(line);
+}
+
+const answer = answerLines.join('\n').trim() || rawContent || "I could not generate an answer. Please try again.";
 
   logger.info("OpenRouter response received");
   return answer;
