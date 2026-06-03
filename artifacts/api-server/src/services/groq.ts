@@ -30,7 +30,7 @@ Please answer based only on the context provided above.`;
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "nvidia/nemotron-3-super-120b-a12b:free",
+      model: "meta-llama/llama-3.3-70b-instruct:free",
       messages: [
         { role: "user", content: prompt }
       ],
