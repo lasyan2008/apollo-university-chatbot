@@ -141,7 +141,7 @@ async function main() {
           school_id: doc.school_id,
           source_file: doc.source_file,
           chunk_index: i,
-          text: chunks[i],
+          text: `[Branch: ${doc.branch_id} | School: ${doc.school_id}]\n${chunks[i]}`,
         },
       });
 
