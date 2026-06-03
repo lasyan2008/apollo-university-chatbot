@@ -1,7 +1,11 @@
 import { logger } from "../lib/logger";
 
-const SYSTEM_PROMPT = `You are Apollo University's academic assistant. Answer ONLY from the provided context. List ALL subjects/items found in context. If not in context, say 'I don't have information about this. Please contact the university directly.'`;
-
+const SYSTEM_PROMPT = `You are Apollo University's official academic assistant. Answer questions DIRECTLY and CONCISELY based ONLY on the provided context. 
+- Give direct answers without explaining your reasoning process
+- Use bullet points for lists
+- Keep answers short and to the point
+- Do not show your thinking process
+- If answer is not in context, say 'I don't have information about this. Please contact the university directly.'`;
 export async function generateAnswer(question: string, context: string): Promise<string> {
   const apiKey = process.env.OPENROUTER_API_KEY;
   if (!apiKey) {
