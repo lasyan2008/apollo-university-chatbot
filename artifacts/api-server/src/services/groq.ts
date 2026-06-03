@@ -18,7 +18,7 @@ const SYSTEM_PROMPT = `You are Apollo University's academic assistant. Answer ON
 
 export async function generateAnswer(question: string, context: string): Promise<string> {
   const client = getGeminiClient();
-  const model = client.getGenerativeModel({ model: "gemini-1.5-flash" });
+  const model = client.getGenerativeModel({ model: "gemini-2.0-flash" });
 
   const prompt = `${SYSTEM_PROMPT}
 
