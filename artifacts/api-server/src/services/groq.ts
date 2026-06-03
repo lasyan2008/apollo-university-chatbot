@@ -32,7 +32,7 @@ Answer directly and concisely based only on the context above.`;
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "nvidia/nemotron-3-super-120b-a12b:free",
+      model: "liquid/lfm-2.5-1.2b-thinking:free",
       messages: [
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: prompt }
@@ -42,8 +42,7 @@ Answer directly and concisely based only on the context above.`;
   });
 
   const data = await response.json();
-  const content = data.choices?.[0]?.message?.content ?? "";
-  const reasoning = data.choices?.[0]?.message?.reasoning ?? "";
+  const content = data.choices?.[0]?.message?.content ?? ""
   
   const answer = content.trim() || reasoning.trim() || "I could not generate an answer. Please try again.";
 
