@@ -29,14 +29,15 @@ Answer directly and concisely based only on the context above.`;
       "Authorization": `Bearer ${apiKey}`,
       "Content-Type": "application/json",
     },
-    body: JSON.stringify({
+     body: JSON.stringify({
       model: "nvidia/nemotron-3-super-120b-a12b:free",
       messages: [
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: prompt }
       ],
       max_tokens: 800,
-      include_reasoning: false,
+      transforms: ["middle-out"],
+      route: "fallback",
     }),
   });
 
