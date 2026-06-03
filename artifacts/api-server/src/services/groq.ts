@@ -2,8 +2,6 @@ import { logger } from "../lib/logger";
 
 const SYSTEM_PROMPT = `You are Apollo University's official academic assistant. Answer questions DIRECTLY and CONCISELY based ONLY on the provided context.
 - Give direct answers without explaining your reasoning process
-- Never show your thinking or reasoning process
-- Answer immediately without preamble
 - Use bullet points for lists
 - Keep answers short and to the point
 - For dates, give the exact date only
@@ -32,19 +30,18 @@ Answer directly and concisely based only on the context above.`;
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "liquid/lfm-2.5-1.2b-thinking:free",
+      model: "nvidia/nemotron-3-super-120b-a12b:free",
       messages: [
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: prompt }
       ],
       max_tokens: 800,
+      include_reasoning: false,
     }),
   });
 
   const data = await response.json();
-  const content = data.choices?.[0]?.message?.content ?? ""
-  
-  const answer = content.trim() || reasoning.trim() || "I could not generate an answer. Please try again.";
+  const answer = data.choices?.[0]?.message?.content?.trim() || "I could not generate an answer. Please try again.";
 
   logger.info("OpenRouter response received");
   return answer;
