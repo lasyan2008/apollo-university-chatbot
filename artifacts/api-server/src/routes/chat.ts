@@ -13,39 +13,30 @@ router.post("/chat", async (req, res): Promise<void> => {
     return;
   }
 
-  const { question, branch_id, school_id } = parsed.data;
+  const { question, branch_id } = parsed.data;
 
   try {
-    req.log.info({ branch_id, school_id }, "Processing chat request");
-
     const embedding = await generateEmbedding(question);
 
-   const [branchMatches, broadMatches, calendarMatches] = await Promise.all([
-  queryPinecone(embedding, 4, { branch_id }),
-queryPinecone(embedding, 3, { school_id: school_id }),
-queryPinecone(embedding, 3, { branch_id: "academic_calendar" }),
-]);
-const allMatches = [...branchMatches, ...broadMatches, ...calendarMatches]
+    const [branchMatches, calendarMatches] = await Promise.all([
+      queryPinecone(embedding, 8, { branch_id }),
+      queryPinecone(embedding, 5, { branch_id: "academic_calendar" }),
+    ]);
+
+    const allMatches = [...branchMatches, ...calendarMatches];
 
     if (allMatches.length === 0) {
-      const noSyllabusMsg =
-        "Syllabus for this programme is not available yet. Please contact the university directly.";
-      res.json({ answer: noSyllabusMsg, sources: [] });
+      res.json({ answer: "Syllabus for this programme is not available yet. Please contact the university directly.", sources: [] });
       return;
     }
 
-  const context = allMatches
-  .filter((m) => m.metadata.text)
-  .map(
-    (m) =>
-      `[Source: ${m.metadata.source_file ?? "unknown"}]\n${(m.metadata.text as string).slice(0, 500)}`
-  )
-  .join("\n\n---\n\n");
+    const context = allMatches
+      .filter((m) => m.metadata.text)
+      .map((m) => `[Source: ${m.metadata.source_file ?? "unknown"}]\n${(m.metadata.text as string).slice(0, 800)}`)
+      .join("\n\n---\n\n");
 
     if (!context.trim()) {
-      const noSyllabusMsg =
-        "Syllabus for this programme is not available yet. Please contact the university directly.";
-      res.json({ answer: noSyllabusMsg, sources: [] });
+      res.json({ answer: "Syllabus for this programme is not available yet. Please contact the university directly.", sources: [] });
       return;
     }
 
@@ -63,8 +54,7 @@ const allMatches = [...branchMatches, ...broadMatches, ...calendarMatches]
   } catch (err) {
     req.log.error({ err }, "Chat request failed");
     res.status(500).json({
-      error:
-        "I encountered an error while processing your question. Please try again.",
+      error: "I encountered an error while processing your question. Please try again.",
     });
   }
 });
