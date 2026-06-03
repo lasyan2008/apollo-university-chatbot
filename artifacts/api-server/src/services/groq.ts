@@ -1,43 +1,39 @@
-import Groq from "groq-sdk";
+import { GoogleGenerativeAI } from "@google/generative-ai";
 import { logger } from "../lib/logger";
 
-let groqClient: Groq | null = null;
+let genAI: GoogleGenerativeAI | null = null;
 
-function getGroqClient(): Groq {
-  if (!groqClient) {
-    const apiKey = process.env.GROQ_API_KEY;
+function getGeminiClient(): GoogleGenerativeAI {
+  if (!genAI) {
+    const apiKey = process.env.GEMINI_API_KEY;
     if (!apiKey) {
-      throw new Error("GROQ_API_KEY environment variable is not set");
+      throw new Error("GEMINI_API_KEY environment variable is not set");
     }
-    groqClient = new Groq({ apiKey });
+    genAI = new GoogleGenerativeAI(apiKey);
   }
-  return groqClient;
+  return genAI;
 }
 
 const SYSTEM_PROMPT = `You are Apollo University's academic assistant. Answer ONLY from the provided context. List ALL subjects/items found in context. If not in context, say 'I don't have information about this. Please contact the university directly.'`;
-export async function generateAnswer(question: string, context: string): Promise<string> {
-  const client = getGroqClient();
 
-  const userMessage = `Context from official university documents:
+export async function generateAnswer(question: string, context: string): Promise<string> {
+  const client = getGeminiClient();
+  const model = client.getGenerativeModel({ model: "gemini-1.5-flash" });
+
+  const prompt = `${SYSTEM_PROMPT}
+
+Context from official university documents:
 ${context}
 
 Question: ${question}
 
 Please answer based only on the context provided above.`;
 
-  logger.info({ question: question.substring(0, 100) }, "Sending question to Groq");
+  logger.info({ question: question.substring(0, 100) }, "Sending question to Gemini");
 
-  const completion = await client.chat.completions.create({
-  model: "llama-3.3-70b-versatile",
-    messages: [
-      { role: "system", content: SYSTEM_PROMPT },
-      { role: "user", content: userMessage },
-    ],
-    temperature: 0.1,
-    max_tokens: 800,
-  });
+  const result = await model.generateContent(prompt);
+  const answer = result.response.text();
 
-  const answer = completion.choices[0]?.message?.content ?? "I could not generate an answer. Please try again.";
-  logger.info("Groq response received");
+  logger.info("Gemini response received");
   return answer;
 }
