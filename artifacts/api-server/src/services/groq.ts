@@ -30,7 +30,7 @@ Please answer based only on the context provided above.`;
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "meta-llama/llama-3.3-70b-instruct:free",
+      model: "qwen/qwen3-coder:free",
       messages: [
         { role: "user", content: prompt }
       ],
