@@ -14,13 +14,7 @@ function getGroqClient(): Groq {
   return groqClient;
 }
 
-const SYSTEM_PROMPT = `You are Apollo University's official academic assistant. 
-Answer questions based ONLY on the provided context from the university's 
-official documents. If the answer is not in the context, say 
-'I don't have information about this in the current documents. 
-Please contact the university directly.' 
-Be helpful, accurate, and concise. Format answers clearly.`;
-
+const SYSTEM_PROMPT = `You are Apollo University's academic assistant. Answer ONLY from the provided context. List ALL subjects/items found in context. If not in context, say 'I don't have information about this. Please contact the university directly.'`;
 export async function generateAnswer(question: string, context: string): Promise<string> {
   const client = getGroqClient();
 
@@ -40,7 +34,7 @@ Please answer based only on the context provided above.`;
       { role: "user", content: userMessage },
     ],
     temperature: 0.1,
-    max_tokens: 1024,
+    max_tokens: 800,
   });
 
   const answer = completion.choices[0]?.message?.content ?? "I could not generate an answer. Please try again.";
