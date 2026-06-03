@@ -35,3 +35,6 @@ externalPort = 8081
 [[ports]]
 localPort = 18495
 externalPort = 3000
+
+[nix]
+packages = ["zip"]

@@ -26,9 +26,9 @@ function ChatbotApp() {
   const [messages, setMessages] = useState<Message[]>([]);
 
   return (
-    <div className="min-h-[100dvh] w-full flex items-center justify-center bg-background p-4 sm:p-8">
-      <div className="w-full max-w-2xl bg-card rounded-2xl shadow-xl overflow-hidden flex flex-col h-[85vh] sm:h-[800px] border border-border">
-        <AnimatePresence mode="wait">
+  <div className="h-[100dvh] w-full flex items-center justify-center bg-background p-4 sm:p-8">
+ <div className="w-full max-w-2xl bg-card rounded-2xl shadow-xl overflow-hidden flex flex-col h-full sm:h-[800px] min-h-0">
+       <AnimatePresence mode="wait" initial={false}>
           {currentScreen === "greeting" && (
             <GreetingScreen 
               key="greeting" 

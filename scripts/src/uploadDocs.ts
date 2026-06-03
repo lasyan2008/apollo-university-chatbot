@@ -10,8 +10,8 @@ config();
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DOCS_DIR = path.resolve(__dirname, "../../docs");
 const CHECKPOINT_FILE = path.resolve(__dirname, "../../.upload_checkpoint.json");
-const CHUNK_SIZE = 1200;
-const CHUNK_OVERLAP = 150;
+const CHUNK_SIZE = 3000;
+const CHUNK_OVERLAP = 300;
 const BATCH_SIZE = 100;
 
 let embeddingPipeline: FeatureExtractionPipeline | null = null;
@@ -42,39 +42,6 @@ function chunkText(text: string): string[] {
     }
     start += CHUNK_SIZE - CHUNK_OVERLAP;
   }
-  return chunks;
-}
-
-/**
- * Split academic calendar by === section headers ===
- * Each chunk = one complete batch/semester block with its header prepended.
- * This prevents cross-batch contamination caused by fixed-size chunking.
- */
-function chunkBySection(text: string): string[] {
-  const sectionHeaderRe = /^={3,}.+={3,}$/m;
-  const lines = text.split("\n");
-  const chunks: string[] = [];
-  let currentHeader = "";
-  let currentLines: string[] = [];
-
-  const flush = () => {
-    const body = currentLines.join("\n").trim();
-    if (body.length > 0 && currentHeader) {
-      chunks.push(`${currentHeader}\n\n${body}`);
-    }
-  };
-
-  for (const line of lines) {
-    if (sectionHeaderRe.test(line.trim())) {
-      flush();
-      currentHeader = line.trim();
-      currentLines = [];
-    } else {
-      currentLines.push(line);
-    }
-  }
-  flush();
-
   return chunks;
 }
 
@@ -150,9 +117,7 @@ async function main() {
 
   for (const doc of remaining) {
     const rawText = fs.readFileSync(doc.filePath, "utf-8");
-    const chunks = doc.branch_id === "academic_calendar"
-      ? chunkBySection(rawText)
-      : chunkText(rawText);
+    const chunks = chunkText(rawText);
 
     if (chunks.length === 0) {
       console.log(`Skipping ${doc.source_file} — no content`);
@@ -176,7 +141,7 @@ async function main() {
           school_id: doc.school_id,
           source_file: doc.source_file,
           chunk_index: i,
-          text: chunks[i],
+          text: `[Branch: ${doc.branch_id} | School: ${doc.school_id}]\n${chunks[i]}`,
         },
       });
 

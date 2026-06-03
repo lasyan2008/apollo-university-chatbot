@@ -57,12 +57,12 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
 
   const suggestions = SUGGESTIONS[school.shortName] || SUGGESTIONS.SOT;
 
-  useEffect(() => {
+useEffect(() => {
     if (scrollRef.current) {
       scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
     }
   }, [messages, isPending]);
-
+  
   const handleSend = (text: string) => {
     if (!text.trim() || isPending) return;
 
@@ -104,7 +104,7 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
 
   return (
     <motion.div 
-      className="flex-1 flex flex-col bg-card"
+     className="flex-1 flex flex-col bg-card min-h-0 overflow-hidden"
       initial={{ opacity: 0, x: 20 }}
       animate={{ opacity: 1, x: 0 }}
       exit={{ opacity: 0, x: -20 }}
@@ -120,7 +120,7 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
         </div>
       </header>
 
-      <div className="flex-1 overflow-y-auto p-4 space-y-6" ref={scrollRef}>
+     <div className="flex-1 overflow-y-auto p-4 space-y-6" ref={scrollRef}>
         {messages.length === 0 && (
           <div className="mb-8">
             <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mb-4">
@@ -177,7 +177,7 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
           </motion.div>
         ))}
 
-        {isPending && (
+       {isPending && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex items-start">
             <div className="bg-muted rounded-2xl rounded-tl-sm px-5 py-4 flex gap-1.5 items-center">
               <div className="w-2 h-2 rounded-full bg-primary/40 animate-bounce" />
@@ -187,7 +187,6 @@ export function ChatScreen({ school, branch, messages, setMessages, onBack }: Ch
           </motion.div>
         )}
       </div>
-
       <div className="p-4 border-t border-border bg-card shrink-0">
         <form 
           onSubmit={(e) => { e.preventDefault(); handleSend(input); }}
