@@ -30,7 +30,7 @@ Please answer based only on the context provided above.`;
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "qwen/qwen3-coder:free",
+      model: "liquid/lfm-2.5-1.2b-instruct:free",
       messages: [
         { role: "user", content: prompt }
       ],
