@@ -26,7 +26,7 @@ Please answer based only on the context provided above.`;
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "openrouter/auto",
+      model: "nvidia/nemotron-3-super-120b-a12b:free",
       messages: [
         { role: "user", content: prompt }
       ],
