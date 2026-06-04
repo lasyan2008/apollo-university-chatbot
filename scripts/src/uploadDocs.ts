@@ -10,8 +10,8 @@ config();
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DOCS_DIR = path.resolve(__dirname, "../../docs");
 const CHECKPOINT_FILE = path.resolve(__dirname, "../../.upload_checkpoint.json");
-const CHUNK_SIZE = 3000;
-const CHUNK_OVERLAP = 300;
+const CHUNK_SIZE = 6000;
+const CHUNK_OVERLAP = 500;
 const BATCH_SIZE = 100;
 
 let embeddingPipeline: FeatureExtractionPipeline | null = null;
