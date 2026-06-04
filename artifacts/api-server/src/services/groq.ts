@@ -14,12 +14,16 @@ export async function generateAnswer(question: string, context: string): Promise
     throw new Error("OPENROUTER_API_KEY environment variable is not set");
   }
 
-  const prompt = `Context from official university documents:
+const prompt = `Context from official university documents:
 ${context}
 
 Question: ${question}
 
-Instructions: Answer directly based only on the context. Start your final answer with "ANSWER:" and nothing else after that marker.`;
+Instructions: 
+- Search the context carefully for the EXACT semester mentioned in the question
+- Do not confuse different semesters
+- List ALL subjects found for that specific semester
+- Start your final answer with "ANSWER:" and nothing else after that marker.`;
 
   logger.info({ question: question.substring(0, 100) }, "Sending question to OpenRouter");
 
