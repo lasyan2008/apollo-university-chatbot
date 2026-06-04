@@ -19,13 +19,12 @@ ${context}
 
 Question: ${question}
 
-Instructions: 
-- Search the context carefully for the EXACT semester mentioned in the question
-- Do not confuse different semesters
-- List ALL subjects found for that specific semester
-- Start your final answer with "ANSWER:" and nothing else after that marker.`;
-
-  logger.info({ question: question.substring(0, 100) }, "Sending question to OpenRouter");
+CRITICAL INSTRUCTIONS:
+1. Find ONLY the section labeled "IV - Semester" or "Semester 4" or "4th Semester" in the context
+2. List ONLY the subjects from that specific section
+3. Do NOT include subjects from any other semester
+4. Start your response with "ANSWER:" followed by a bullet list
+5. Keep it brief - just subject names`;
 
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
