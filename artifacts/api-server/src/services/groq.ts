@@ -14,15 +14,12 @@ export async function generateAnswer(question: string, context: string): Promise
     throw new Error("OPENROUTER_API_KEY environment variable is not set");
   }
 
- const prompt = `Context from official university documents:
+  const prompt = `Context from official university documents:
 ${context}
 
 Question: ${question}
 
 Instructions: Answer directly based only on the context. Start your final answer with "ANSWER:" and nothing else after that marker.`;
-Question: ${question}
-
-Answer directly and concisely based only on the context above.`;
 
   logger.info({ question: question.substring(0, 100) }, "Sending question to OpenRouter");
 
@@ -43,11 +40,13 @@ Answer directly and concisely based only on the context above.`;
   });
 
   const data = await response.json();
-const rawContent = data.choices?.[0]?.message?.content?.trim() || "";
+  const rawContent = data.choices?.[0]?.message?.content?.trim() || "";
 
-// Extract only the part after "ANSWER:" marker
-const answerMatch = rawContent.match(/ANSWER:\s*([\s\S]+)$/i);
-const answer = answerMatch ? answerMatch[1].trim() : rawContent.split('\n').slice(-3).join('\n').trim() || "I could not generate an answer. Please try again.";
+  const answerMatch = rawContent.match(/ANSWER:\s*([\s\S]+)$/i);
+  const answer = answerMatch 
+    ? answerMatch[1].trim() 
+    : rawContent.split('\n').slice(-3).join('\n').trim() || "I could not generate an answer. Please try again.";
+
   logger.info("OpenRouter response received");
   return answer;
 }
