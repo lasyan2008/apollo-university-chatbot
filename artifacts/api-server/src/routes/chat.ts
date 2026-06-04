@@ -13,7 +13,7 @@ router.post("/chat", async (req, res): Promise<void> => {
     return;
   }
 
-  const { question, branch_id } = parsed.data;
+  const { question, branch_id, school_id } = parsed.data;
 
   try {
    const embedding = await generateEmbedding(question + " " + branch_id);
