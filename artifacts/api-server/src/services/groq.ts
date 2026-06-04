@@ -35,7 +35,7 @@ Answer directly and concisely based only on the context above.`;
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: prompt }
       ],
-      max_tokens: 800,
+      max_tokens: 2000,
       transforms: ["middle-out"],
       route: "fallback",
     }),
