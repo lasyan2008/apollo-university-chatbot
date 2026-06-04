@@ -14,9 +14,12 @@ export async function generateAnswer(question: string, context: string): Promise
     throw new Error("OPENROUTER_API_KEY environment variable is not set");
   }
 
-  const prompt = `Context from official university documents:
+ const prompt = `Context from official university documents:
 ${context}
 
+Question: ${question}
+
+Instructions: Answer directly based only on the context. Start your final answer with "ANSWER:" and nothing else after that marker.`;
 Question: ${question}
 
 Answer directly and concisely based only on the context above.`;
@@ -40,24 +43,11 @@ Answer directly and concisely based only on the context above.`;
   });
 
   const data = await response.json();
- const rawContent = data.choices?.[0]?.message?.content?.trim() || "";
+const rawContent = data.choices?.[0]?.message?.content?.trim() || "";
 
-// Split into paragraphs and find the last meaningful answer block
-const paragraphs = rawContent.split(/\n{2,}/).filter((p: string) => p.trim().length > 0);
-
-// Find last paragraph that looks like an actual answer (not reasoning)
-let answer = "";
-for (let i = paragraphs.length - 1; i >= 0; i--) {
-  const para = paragraphs[i].trim();
-  // Skip paragraphs that are pure reasoning
-  if (para.match(/^(Let me|I need|Looking|I see|I find|However|But|So|Given|Actually|Now|First|Okay|We need|The question|Based on)/i)) {
-    continue;
-  }
-  answer = para;
-  break;
-}
-
-answer = answer || rawContent || "I could not generate an answer. Please try again.";
+// Extract only the part after "ANSWER:" marker
+const answerMatch = rawContent.match(/ANSWER:\s*([\s\S]+)$/i);
+const answer = answerMatch ? answerMatch[1].trim() : rawContent.split('\n').slice(-3).join('\n').trim() || "I could not generate an answer. Please try again.";
   logger.info("OpenRouter response received");
   return answer;
 }
