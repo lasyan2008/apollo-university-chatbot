@@ -49,23 +49,18 @@ const thinkingPatterns = [
   /^(Let me|I need to|Looking at|I see|I find|I notice|First|Looking through|Now|Actually|However|But|So|Given|Based on|From the|In the|The question|Okay|We need|We have|We must)/i
 ];
 
-const lines = rawContent.split('\n');
-let finalAnswerStart = 0;
+const rawContent = data.choices?.[0]?.message?.content?.trim() || "";
 
-// Find where the actual answer starts (after reasoning)
-for (let i = lines.length - 1; i >= 0; i--) {
-  const line = lines[i].trim();
-  if (line.startsWith('-') || line.startsWith('•') || line.match(/^\d+\./)) {
-    finalAnswerStart = i;
-    break;
-  }
-  if (line.length > 10 && !thinkingPatterns.some(p => p.test(line))) {
-    finalAnswerStart = i;
-    break;
-  }
-}
+// Find the final answer by looking for bullet points or short direct answers
+// The model puts reasoning first then gives the answer at the end
+const bulletMatch = rawContent.match(/((?:^[-•*]\s+.+\n?)+)/gm);
+const lastBulletBlock = bulletMatch ? bulletMatch[bulletMatch.length - 1].trim() : null;
 
-const answer = lines.slice(finalAnswerStart).join('\n').trim() || rawContent || "I could not generate an answer. Please try again.";;
+// Check if the last line is a short direct answer (date, percentage, etc.)
+const lastLines = rawContent.split('\n').filter((l: string) => l.trim()).slice(-5);
+const shortAnswer = lastLines.join('\n').trim();
+
+const answer = lastBulletBlock || shortAnswer || rawContent || "I could not generate an answer. Please try again.";
   logger.info("OpenRouter response received");
   return answer;
 }
