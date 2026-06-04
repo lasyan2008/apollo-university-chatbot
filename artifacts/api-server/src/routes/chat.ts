@@ -17,12 +17,18 @@ router.post("/chat", async (req, res): Promise<void> => {
 
   try {
    const embedding = await generateEmbedding(question + " " + branch_id);
-    const [branchMatches, calendarMatches] = await Promise.all([
-      queryPinecone(embedding, 20, { branch_id }),
-      queryPinecone(embedding, 3, { branch_id: "academic_calendar" }),
-    ]);
+   const [branchMatches, calendarMatches, generalMatches] = await Promise.all([
+  queryPinecone(embedding, 10, { branch_id }),
+  queryPinecone(embedding, 3, { branch_id: "academic_calendar" }),
+  queryPinecone(embedding, 5, { school_id }),
+]);
 
-    const allMatches = [...branchMatches, ...calendarMatches];
+const seen = new Set<string>();
+const allMatches = [...branchMatches, ...generalMatches, ...calendarMatches].filter(m => {
+  if (seen.has(m.id)) return false;
+  seen.add(m.id);
+  return true;
+});
 
     if (allMatches.length === 0) {
       res.json({ answer: "Syllabus for this programme is not available yet. Please contact the university directly.", sources: [] });
