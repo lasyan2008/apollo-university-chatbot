@@ -47,10 +47,9 @@ Instructions:
   const rawContent = data.choices?.[0]?.message?.content?.trim() || "";
 
   const answerMatch = rawContent.match(/ANSWER:\s*([\s\S]+)$/i);
-  const answer = answerMatch 
-    ? answerMatch[1].trim() 
-    : rawContent.split('\n').slice(-3).join('\n').trim() || "I could not generate an answer. Please try again.";
-
+const answer = answerMatch 
+  ? answerMatch[1].trim() 
+  : rawContent.split('\n').slice(-15).join('\n').trim() || "I could not generate an answer. Please try again.";
   logger.info("OpenRouter response received");
   return answer;
 }
