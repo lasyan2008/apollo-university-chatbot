@@ -19,13 +19,7 @@ ${context}
 
 Question: ${question}
 
-CRITICAL INSTRUCTIONS:
-1. Find ONLY the section labeled "IV - Semester" or "Semester 4" or "4th Semester" in the context
-2. List ONLY the subjects from that specific section
-3. Do NOT include subjects from any other semester
-4. Start your response with "ANSWER:" followed by a bullet list
-5. Keep it brief - just subject names`;
-
+Answer directly and concisely based only on the context above. Start your answer with "ANSWER:" followed by the response.`;
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
     headers: {
